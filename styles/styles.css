@@ -117,3 +117,33 @@ nav ul li a:hover {
 #section-dropdown:hover {
   background: #f0f0f0;
 }
+
+/* styles.css */
+/* Navigation Buttons */
+.nav-buttons {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.nav-buttons a {
+  display: inline-block;
+  margin: 0 10px;
+  padding: 10px 20px;
+  background: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.nav-buttons a:hover {
+  background: #0056b3;
+}
+
+.previous-button {
+  background: #6c757d;
+}
+
+.previous-button:hover {
+  background: #5a6268;
+}

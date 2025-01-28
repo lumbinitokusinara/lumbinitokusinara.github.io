@@ -44,3 +44,43 @@ cards.forEach(card => {
     window.location.href = page;
   });
 });
+
+// script.js
+// Dynamic Next and Previous Links
+const currentPage = window.location.pathname.split('/').pop(); // Get current page filename
+const pages = [
+  'page1.html',
+  'page2.html',
+  'Section7.html',
+  'Section8.html',
+  'Section11.xhtml',
+  // Add more pages as needed
+];
+
+const currentIndex = pages.indexOf(currentPage);
+
+console.log(currentPage);
+console.log(currentIndex);
+
+if (currentIndex !== -1) {
+  const navButtons = document.createElement('div');
+  navButtons.className = 'nav-buttons';
+
+  if (currentIndex > 0) {
+    const previousButton = document.createElement('a');
+    previousButton.href = pages[currentIndex - 1];
+    previousButton.className = 'previous-button';
+    previousButton.textContent = '← Previous';
+    navButtons.appendChild(previousButton);
+  }
+
+  if (currentIndex < pages.length - 1) {
+    const nextButton = document.createElement('a');
+    nextButton.href = pages[currentIndex + 1];
+    nextButton.className = 'next-button';
+    nextButton.textContent = 'Next →';
+    navButtons.appendChild(nextButton);
+  }
+
+  document.body.appendChild(navButtons);
+}
