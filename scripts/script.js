@@ -11,9 +11,14 @@ dropdown.addEventListener('change', function () {
 
 // Background Image Rotation (for homepage)
 const images = [
-  '/images/bodhgaya1.jpg',
-  '/images/bodhgaya2.jpg',
   '/images/Lumbini.jpg',
+  '/images/MahabodhiTemple.jpg',
+  '/images/Bodhi_Tree_Distant_View_-_panoramio.jpg',
+  '/images/Vajirashila.jpg',
+  '/images/Great_Buddha_Statue,_Bodh_Gaya_1024px.jpg',
+  '/images/MahabodhiTemple2.jpg',
+  '/images/1024px-Kusinara.jpg',
+  '/images/Kusinara2.jpg',
   // Add more image paths as needed
 ];
 
