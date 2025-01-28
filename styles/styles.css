@@ -1,0 +1,119 @@
+
+/* styles.css */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Hero Section */
+#hero-section {
+  position: fixed; /* Fix the hero section in place */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh; /* Full viewport height */
+  background-image: url('/images/Lumbini.jpg'); /* Default background image */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  font-size: larger;
+  z-index: 1; /* Ensure it stays above the grid */
+}
+
+#hero-content {
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Card Grid */
+#card-grid {
+  position: relative; /* Ensure it's positioned below the hero section */
+  top: 100vh; /* Start below the hero section */
+  padding: 20px;
+  background: white;
+  z-index: 2; /* Ensure it scrolls over the hero section */
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  background: maroon;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: rgb(240, 231, 184);
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  background: gold;
+}
+
+.card h2 {
+  margin: 0 0 10px;
+}
+
+.card p {
+  margin: 0;
+  color: #555;
+}
+
+
+/* styles.css */
+/* Navigation Menu */
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 10px 20px;
+  z-index: 1000; /* Ensure it stays on top */
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Dropdown */
+#section-dropdown {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  background: white;
+  border: none;
+  cursor: pointer;
+}
+
+#section-dropdown:hover {
+  background: #f0f0f0;
+}
