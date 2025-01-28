@@ -1,13 +1,38 @@
 
 // script.js
+
+
+
+////////////////////////////////
+// script.js
+// Function to load content from JSON
+async function loadContent() {
+  const currentPage = window.location.pathname.split('/').pop().split('.')[0]; // e.g., "page1"
+  const response = await fetch('/pages/content.json');
+  const contentData = await response.json();
+
+  const mainElement = document.getElementById('content');
+  if (contentData[currentPage]) {
+    mainElement.innerHTML = contentData[currentPage]; // Render HTML content
+  } else {
+    mainElement.innerHTML = '<p>Content not found.</p>';
+  }
+}
+
+// Load content when the page loads
+window.onload = loadContent;
+
 // Dropdown Navigation
 const dropdown = document.getElementById('section-dropdown');
-dropdown.addEventListener('change', function () {
-  const selectedPage = this.value;
-  if (selectedPage) {
-    window.location.href = selectedPage;
-  }
-});
+if (dropdown) {
+  dropdown.addEventListener('change', function () {
+    const selectedPage = this.value;
+    if (selectedPage) {
+      window.location.href = selectedPage;
+    }
+  });
+}
+
 
 // Background Image Rotation (for homepage)
 const images = [
@@ -21,7 +46,6 @@ const images = [
   '/images/Kusinara2.jpg',
   // Add more image paths as needed
 ];
-
 let currentImageIndex = 0;
 const heroSection = document.getElementById('hero-section');
 
@@ -45,13 +69,14 @@ cards.forEach(card => {
   });
 });
 
-// script.js
+
 // Dynamic Next and Previous Links
 const currentPage = window.location.pathname.split('/').pop(); // Get current page filename
 const pages = [
   'page1.html',
   'page2.html',
-  'Section7.html',
+  'page3.html',
+  'page7.html',
   'Section8.html',
   'Section11.xhtml',
   // Add more pages as needed
