@@ -41,13 +41,36 @@
       <li><a href="/pages/Introduction.html">Introduction</a></li>
       <li><a href="/pages/about.html">About</a></li>
       <li><a href="/pages/download.html">Download</a></li>
+      <li> Section 14.1</li>
     </ul>
   </nav>
 
   <br>
+  <header>
+   
+  </header>
+
+  
+  <br>
+  <div class="slider-container" style="text-align: center; margin-top: 20px;">
+    <label for="fontSizeSlider">A: </label>
+    <input type="range" id="fontSizeSlider" min="12" max="48" value="16">
+  </div>
+
   <!-- Content will be loaded here -->
   <main id="content" style="padding: 20px;"></main>
 
   <script src="/scripts/script.js"></script>
+
+  <script>
+    const fontSizeSlider = document.getElementById('fontSizeSlider');
+    const textContent = document.getElementById('content');
+  
+    // Update font size based on slider value
+    fontSizeSlider.addEventListener('input', function () {
+      const newFontSize = `${fontSizeSlider.value}px`;
+      textContent.style.fontSize = newFontSize;
+    });
+  </script>
 </body>
 </html>

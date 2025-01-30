@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>2. Childhood and Family Life</title>
+  <title>3. Ascetic Life</title>
   <link rel="stylesheet" href="/styles/styles.css">
 </head>
 <body>
@@ -29,7 +29,7 @@
           <option value="/pages/page11_1.html">11.1 Advice and Guidance to the Sangha</option>
           <option value="/pages/page11_2.html">11.2 Advice and Guidance to Lay Followers</option>
           <option value="/pages/page12.html">12. Similes- Metaphors of the Buddha</option>
-          <option value="/pages/page13.html">13. Introduction of 45 years of Buddha's life</option>
+          <option value="/pages/page13.html">13. Introduction of 45 years of Buddha’s life</option>
           <option value="/pages/page13_1.html">13.1 First Dhamma Tour to 1st Rain season</option>
           <option value="/pages/page13_2.html">13.2 2nd Dhamma tour to the 3rd tour</option>
           <option value="/pages/page14_1.html">14.1 Events occurred at Rajagha</option>
@@ -41,36 +41,19 @@
       <li><a href="/pages/Introduction.html">Introduction</a></li>
       <li><a href="/pages/about.html">About</a></li>
       <li><a href="/pages/download.html">Download</a></li>
-      <li> Section 2.</li>
     </ul>
   </nav>
-
-  <br>
-  <header>
-   
-  </header>
-
-  
-  <br>
-  <div class="slider-container" style="text-align: center; margin-top: 20px;">
-    <label for="fontSizeSlider">A: </label>
-    <input type="range" id="fontSizeSlider" min="12" max="48" value="16">
-  </div>
-
+<br>
   <!-- Content will be loaded here -->
   <main id="content" style="padding: 20px;"></main>
 
+  <!-- Next and Previous Buttons 
+  <footer>
+    <div class="nav-buttons">
+      <a href="page2.html" class="previous-button">← Previous</a>
+    </div>
+  </footer>
+-->
   <script src="/scripts/script.js"></script>
-
-  <script>
-    const fontSizeSlider = document.getElementById('fontSizeSlider');
-    const textContent = document.getElementById('content');
-  
-    // Update font size based on slider value
-    fontSizeSlider.addEventListener('input', function () {
-      const newFontSize = `${fontSizeSlider.value}px`;
-      textContent.style.fontSize = newFontSize;
-    });
-  </script>
 </body>
 </html>
