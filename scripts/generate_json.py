@@ -11,8 +11,9 @@ content_data = {}
 
 # Loop through all .txt files in the content folder
 for filename in os.listdir(content_folder):
-    print(filename)
+    
     if filename.endswith(".txt"):
+        print(filename)
         # Extract the page name (e.g., "page1" from "page1.txt")
         page_name = filename.split(".")[0]
         

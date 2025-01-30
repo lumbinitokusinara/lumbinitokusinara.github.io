@@ -20,8 +20,8 @@ pages_info = [
     ("page13_1.html","13.1 First Dhamma Tour to 1st Rain season", "13.1"),
     ("page13_2.html","13.2 2nd Dhamma tour to the 3rd tour", "13.2"),
     ("page14_1.html","14.1 Events occurred at Rajagha", "14.1"),
-    ("page14_2.html","14.2 4th Dhamma Tour to Kapilvattu", "14.2"),
-    ("page15.html","15. 5th Vassa to 45th Vassa", "15")
+    ("page14_2.html","14.2 Fourth Dhamma Tour to Kapilvattu", "14.2"),
+    ("page15.html","15. Fifth Vassa to 45th Vassa", "15")
 ]
 
 # Read the template file with UTF-8 encoding
