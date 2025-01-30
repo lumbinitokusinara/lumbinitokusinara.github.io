@@ -1,0 +1,9 @@
+
+Files that need manual rebuilding:
+=================================
+index.html
+introduction.html
+download.html
+about.html
+preface.html (later)
+404.html
