@@ -174,14 +174,18 @@
 <p>Going through all those noble qualities we could see that Samma Sam Buddha carry all those traits within him.  In the following sutta we can get a glimpse of what is a Fully Enlightened One!</p>
 <p></p>
 <p>The Buddha said:</p>
-<p>I am the one whose presence in the world</p>
-<p>Is very rarely come upon,</p>
-<p>I am the Fully Enlightened One, I,</p>
-<p>O brahmin, am the supreme physician.</p>
-<p>‘‘Yesaṃ ve dullabho loke,</p>
-<p>pātubhāvo abhiṇhaso;</p>
-<p>Sohaṃ brāhmaṇa sambuddho,</p>
-<p>sallakatto anuttaro.</p>
+<pre>
+    I am the one whose presence in the world
+    Is very rarely come upon,
+    I am the Fully Enlightened One, I,
+    O brahmin, am the supreme physician.
+</pre>
+<pre>
+    ‘‘Yesaṃ ve dullabho loke,
+    pātubhāvo abhiṇhaso;
+    Sohaṃ brāhmaṇa sambuddho,
+    sallakatto anuttaro.
+</pre>
 <p></p>
 <p>I am supreme king of the Dhamma;</p>
 <p>By means of the Dhamma I turn the wheel,</p>
