@@ -6,7 +6,9 @@ Earlier (section 3) we have seen how Ascetic Siddhartha gave up his extreme aust
 
 ♦ Five Great Dreams
 In the following sutta the Buddha described the five dreams appeared to him before his enlightenment thus:
+<em>
 “Bhikkhus, before his enlightenment, while he was just a bodhisatta, not fully enlightened, five great dreams appeared to the Tathāgata, the Arahant, the Perfectly Enlightened One. What five?”
+</em>
 1) he dreamt that this mighty earth was his bedstead; the Himālaya, king of mountains, was his pillow; his left hand rested on the eastern sea, his right hand on the western sea, and his two feet on the southern sea—the dream, represented his awakening to the unsurpassed, perfect enlightenment.
 2) he dreamt that a grass called tiriyā rose up from his navel and stood touching the sky —the dream showing that he would awaken to the noble eightfold path and would proclaim it well among devas and humans.
 3) he dreamt that white worms with black heads crawled from his feet up to his knees and covered them—the dream showing that many lay followers would follow his teachings.
@@ -18,13 +20,16 @@ Note: These dreams are like foretoken (pubbanimitta) indication that the bodhisa
 ♦ Encounters with Māra  
 On the occasion when the bodhisattva was sitting in meditation under the assattha bo-tree  , in the bank of Neranjana river, Māra wanted to discourage bodhisattva from attending liberation, wanted to hold him in his grip. Below we can see a passage from Suttanipata, how the Māra, was trying to persuade the Bodisatta away from Buddhahood. 
 The Buddha elaborates this event thus:
+<div id="gatha">
 “As I strove to subdue myself
 beside the broad Nerañjarā,
 absorbed unflinchingly to gain
 the surcease of bondage here,
 Namucī came and spoke to me
 with words all garbed in pity thus:
+</div>
 Māra
+<div id="gatha">
 ‘…you are thin and you are pale,
 and you are in death’s presence too:
 a thousand parts are pledged to death
@@ -37,8 +42,9 @@ and thus a world of merit gain.
 What can you do by struggling now?
 The path of struggling too is rough,
 and difficult and hard to bear…’
-
+</div>
 The Bodhisatta replied: 
+<div id="gatha">
 O Evil One, O Cousin of the Negligent, 
 you have come here for your own ends. 
 Now, merit I need not at all. 
@@ -61,20 +67,23 @@ For living thus, I come to know
 the limits to which feeling goes.
 My mind looks not to sense-desires:
 Now see a being’s purity…”  
-
+</div>
 Having understood the unshakeable determination of the bodhisattva, and that he has no power to defeat him, with a heavy heart Māra went away. 
-Note: * The Dhamma message presented here is that unwavering effort is essential to tread on the spiritual path. The Right Effort (samma vayama), as outlined in the Eightfold Noble Truths, is vital for spiritual growth: right effort to eliminate existing evils, to prevent existing evils from arising, to enhance the existing merits, and to continue to acquire new merits. This is one of the essential factors-helping hand to achieve the goal. 
-* Tradition says that in the morning of the day of enlightenment the bodhisatta partook milk rice offered by a maiden named Sujata, daughter of householder of nearby Senani village. Though the scriptures have no record of this event we can see a reference to her in the AN1: 258, the Blessed One declaring: “…the foremost of my female lay followers in being the first to go for refuge is Sujātā, daughter of Senānī”. (She offered the bodhisatta his last meal before his enlightenment see: AN: Notes: 139).  . In  Mahaparinibbana sutta (DN:16)there is a statement about alms offering to the Buddha:
-“…that these two alms-givings’ are of very great fruit, of very great result, more fruitful and advantageous than any other. Which two? The one is the alms-giving after eating which the Tathāgata attains supreme enlightenment, the other that after which he attains the Nibbana-element without remainder at his final passing”. As we know from the sutta that Cunda offered the last meal. It is not mentioned here that who had offered the first meal? If we go by legend, we can assume that Sujata offered the meal to the Buddha to be before his supreme enlightenment! 
+<b>Note</b>: * The Dhamma message presented here is that unwavering effort is essential to tread on the spiritual path. The Right Effort (samma vayama), as outlined in the Eightfold Noble Truths, is vital for spiritual growth: right effort to eliminate existing evils, to prevent existing evils from arising, to enhance the existing merits, and to continue to acquire new merits. This is one of the essential factors-helping hand to achieve the goal. 
+* Tradition says that in the morning of the day of enlightenment the bodhisatta partook milk rice offered by a maiden named Sujata, daughter of householder of nearby Senani village. Though the scriptures have no record of this event we can see a reference to her in the AN1: 258, the Blessed One declaring: <strong>“…the foremost of my female lay followers in being the first to go for refuge is Sujātā, daughter of Senānī”</strong>. (She offered the bodhisatta his last meal before his enlightenment see: AN: Notes: 139).  . In  Mahaparinibbana sutta (DN:16)there is a statement about alms offering to the Buddha:
+<em>
+“…that these two alms-givings’ are of very great fruit, of very great result, more fruitful and advantageous than any other. Which two? The one is the alms-giving after eating which the Tathāgata attains supreme enlightenment, the other that after which he attains the Nibbana-element without remainder at his final passing”. 
+</em>
+As we know from the sutta that Cunda offered the last meal. It is not mentioned here that who had offered the first meal? If we go by legend, we can assume that Sujata offered the meal to the Buddha to be before his supreme enlightenment! 
 If we ponder little further about the Buddha ‘s statement regarding Sujata being the foremost lay woman to go for refuge to him, we may see her as the fist woman who paid homage to the Buddha after his enlightenment? AN1 (XIV Foremost Chapter) all the others described there were persons who have gone to the refuge of the Buddha after his enlightenment. In the case of Thapassu and Ballika two brothers mentioned in AN1:248. thus: “Bhikkhus, the foremost of my male lay followers in being the first to go for refuge are the merchants Tapussa and Bhallika”. According to Vinaya Pitaka :“…When Tapussa and Bhallika knew that the Buddha had finished his meal, they bowed down with their head at his feet, and said, “Sir, we go for refuge to the Buddha and the Teaching. Please accept us as lay followers who have gone for refuge for life.” By means of the double refuge, they became the first lay followers in the world”.    Hence, whether Sujata was paying respect to the bodhisatta and offered him his last meal or she was bowing down to the newly enlightened Buddha and offered him the first meal is uncertain. 
 
 ▲ Supreme Enlightenment -Samma Sam Bodhi
 The Bodhisattvas, with a strong determination to attain liberation, increased his velour; through his effort and unwavering heedfulness, he strove and won the battle with Māra and his tenfold army, and attained the supreme enlightenment.  
 
 ♦ The Blessed One describes his effort and determination as thus:
- 
+<em>
 “…bhikkhus, …I strove indefatigably… ‘willingly, let only my skin, sinews, and bones remain, and let the flesh and blood dry up in my body, but I will not relax my energy so long as I have not attained what can be attained by manly strength, energy, and exertion.’ It was by heedfulness that I achieved enlightenment, bhikkhus; it was by heedfulness that I achieved the unsurpassed security from bondage…”.  
-
+</em>
 
 
 
@@ -91,17 +100,20 @@ The Bodhisattvas, with a strong determination to attain liberation, increased hi
  
 ♦ Full Enlightenment
 In the following suttas the Blessed One stated about his enlightenment:
-
+<em>
 * “...I am now the Arahant and fully enlightened Buddha, am of the Gotama clan…I became fully enlightened at the foot of an assattha-tree…”  
 
 
 
 * “Then, bhikkhus, being myself subject to birth…ageing…sickness…death having understood the danger in what is subject to birth, ageing…sickness…death…seeking the unborn… unageing… unailing …deathless supreme security from bondage… I attained the… supreme security from bondage… Nibbāna… I attained the sorrowless… undefiled… supreme security from bondage, Nibbāna. The knowledge and vision arose in me: ‘My deliverance is unshakeable; this is my last birth; now there is no renewal of being.’” 
+</em>
 ♦ The Path to Enlightenment
 After he had become fully enlightened, the Buddha reflected on the path that led to his awakening. As he was dwelling at Uruvelā on the bank of the river Nerañjarā at the foot of the Goatherd’s Banyan Tree he thought: 
-
+<em>
 “I am indeed freed from that gruelling asceticism! It is good indeed that I am freed from that useless gruelling asceticism! It is good that, steady and mindful, I have attained enlightenment!”  
-
+[add reference]
+</em>
+<div id="gatha">
 Having known as useless any austerity
 Aimed at the immortal state,
 That all such penances are futile
@@ -110,19 +122,21 @@ By developing the path to enlightenment—
 Virtue, concentration, and wisdom—
 I have attained supreme purity:
 You are defeated, End-maker.
+</div>
 Quote from SN:4: 1 (Austere Practice sutta) 
 Note: Māra is called the End-maker (antaka) because he binds beings to death. (see: SN: Note: 265).
 
 ▲ What is Full Enlightenment? – Definition of Samma Sambuddha
 Samma Sam Buddha is one of the nine noble qualities attributed to Tathāgata. The nine qualities are: 
-
+<em>
 “…the Blessed One is an arahant, perfectly enlightened, accomplished in true knowledge and conduct, fortunate, knower of the world, unsurpassed trainer of persons to be tamed, teacher of devas and humans, the Enlightened One, the Blessed One.’ 
- 
+</em>
+
 When we see all the nine noble qualities attributed to the Blessed One, we could include all of them in to one term—The Fully Enlightened One (Samma Sam Buddha). We can justify that claim by looking into noble nine qualities mentioned above:   
 
 1)  Arahant—accomplished: Arahant: he has been freed from all the defilements of the worldly life; broken the cycle of samsara; abolished rebirth; and worthy of worship and respect from gods and humans 
-2) Samma Sam Buddha— The Fully Enlightened One: he has discovered (buddha) all things rightly ( sammā) and by himself (sāmam), he fully understood the Four Noble Truths; he awakened from the great sleep of delusion; he attained the knowledge of omniscience.
-3)  Vijjācaraņa sampanno -Endowed with clear vision and virtuous conduct: 
+2) <b>Samma Sam Buddha</b>— The Fully Enlightened One: he has discovered (buddha) all things rightly ( sammā) and by himself (sāmam), he fully understood the Four Noble Truths; he awakened from the great sleep of delusion; he attained the knowledge of omniscience.
+3)  <b>Vijjācaraņa sampanno</b> -Endowed with clear vision and virtuous conduct: 
 
 The scriptures mentioned three kinds of clear vision (knowledges) (te-Vijja—Three knowledges) and also eight kinds of knowledges: Three Knowledges: 1. knowledge of the recollection of past lives (pubbe-nivāsāussati ñāņa) 2. knowledge of the passing away and reappearance of beings (dibba-cakkhu) 3.  knowledge of destruction of all taints ( āsavakkhaya ñāņa)  
  Eight kinds of knowledges—1-3 as mentioned above, 4. Insight knowledge (vipassana) 5. Magical powers (iddhi-vidhā) 6. Penetration of the mind of the others (ceto-pariya-ñāņa) 7. Divine ear (dibba-cakkhu) 8. Mind-made-body (manōmaya kaya) Ability to create from this body another body  
@@ -132,11 +146,12 @@ Fifteen virtuous conducts— caraņa: 1. perfected in morality 2. guardian of th
 Note: The Buddha after describing the knowledge and conduct of noble ones said: “…and beyond this there is no further development of knowledge and conduct that is higher or more perfect…”: DN:4.
 4)  Sugata- Sublime: Because he has reached Nibbana through the path of the Arahant, and has been practicing the principles of the Ariya path since his Bodhisattva days, because he has a beautiful form, because he has a beautiful journey, because he has entered the beautiful place of Nibbana, and because he preaches the Dhamma in the voice of Brahma, he is called sublime one-Sugatha  
 5)Lokavidu- Knower of the world: he knows the three worlds fully, has seen the world fully, knows the extent of the world, knows how to end the world.
-6) Anuttaro purisadammasarathi -Incomparable leader of men to be tamed: he surpasses the whole world with his noble qualities hence there is no one to compare him (only equal to a another Samma Sam Buddha), he tames men to be tamed with great compassion and highest wisdom.
-7) Sattha deva manussa- Teacher of gods and men: Like the caravan teacher he guides beings across the wildness of samsara safely.
+6) <b>>nuttaro purisadammasarathi</b> -Incomparable leader of men to be tamed: he surpasses the whole world with his noble qualities hence there is no one to compare him (only equal to a another Samma Sam Buddha), he tames men to be tamed with great compassion and highest wisdom.
+7) <b>Sattha deva manussa</b>- Teacher of gods and men: Like the caravan teacher he guides beings across the wildness of samsara safely.
 8) Buddha-Enlightened: he knows the fruit of liberation, awakened from the delusion of the world. 
 Note: In the following sutta Buddha elaborate this title:
-
+<em>
+<div id="gatha">
 What must be known is directly known, 
 What must be developed has been developed, 
 What must be abandoned has been abandoned, 
@@ -145,7 +160,8 @@ Therefore, brahmin, I am a Buddha.
 bhāvetabbañca bhāvitaṃ; 
 Pahātabbaṃ pahīnaṃ me, 
 tasmā buddhosmi brāhmaṇa MN:92.
-
+</div>
+</em>
 * In the following sutta also we can see why a Fully Enlightened Being is called the Buddha:
 “As a lovely white lotus
 is not soiled by the water,
@@ -153,7 +169,7 @@ I am not soiled by the world:
 therefore, O brahmin, I am a Buddha.”
 AN:4:36 (Dona sutta)
 
-9) Bhagava- Blessed: it is the best of the words, finest word, term for veneration and respect, fortunate one, liberated one, developed one.
+9) <b>Bhagava</b> - Blessed: it is the best of the words, finest word, term for veneration and respect, fortunate one, liberated one, developed one.
 
 Going through all those noble qualities we could see that Samma Sam Buddha carry all those traits within him.  In the following sutta we can get a glimpse of what is a Fully Enlightened One! 
 
