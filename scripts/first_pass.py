@@ -5,9 +5,10 @@ output_folder = 'content/firstpass'
 
 html_tags = ["<html", "<head", "<body", "<div", "<span", "<script", "<style", "<p", "<a", "<ul", "<ol", "<li",
             "<table", "<tr", "<td", "<th", "<form", "<input", "<button", "<select", "<option", "<meta", "<link",
+            "<pre", "<em",
             "</html", "</head", "</body", "</div", "</span", "</script", "</style", "</p", "</a", "</ul", "</ol",
             "</li", "</table", "</tr", "</td", "</th", "</form", "</input", "</button", "</select", "</option", 
-            "</h1", "</h2", "</h3", "</h4", "</h5", "</h6"] 
+            "</h1", "</h2", "</h3", "</h4", "</h5", "</h6", "</em", "</pre"] 
     
 # Ensure the output folder exists
 os.makedirs(output_folder, exist_ok=True)

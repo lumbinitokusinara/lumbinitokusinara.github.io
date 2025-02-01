@@ -6,9 +6,9 @@
 <p></p>
 <h3>Five Great Dreams</h3>
 <p>In the following sutta the Buddha described the five dreams appeared to him before his enlightenment thus:</p>
-<p><em></p>
+<em>
 <p>“Bhikkhus, before his enlightenment, while he was just a bodhisatta, not fully enlightened, five great dreams appeared to the Tathāgata, the Arahant, the Perfectly Enlightened One. What five?”</p>
-<p></em></p>
+</em>
 <p>1) he dreamt that this mighty earth was his bedstead; the Himālaya, king of mountains, was his pillow; his left hand rested on the eastern sea, his right hand on the western sea, and his two feet on the southern sea—the dream, represented his awakening to the unsurpassed, perfect enlightenment.</p>
 <p>2) he dreamt that a grass called tiriyā rose up from his navel and stood touching the sky —the dream showing that he would awaken to the noble eightfold path and would proclaim it well among devas and humans.</p>
 <p>3) he dreamt that white worms with black heads crawled from his feet up to his knees and covered them—the dream showing that many lay followers would follow his teachings.</p>
@@ -71,9 +71,9 @@
 <p>Having understood the unshakeable determination of the bodhisattva, and that he has no power to defeat him, with a heavy heart Māra went away.</p>
 <p><b>Note</b>: * The Dhamma message presented here is that unwavering effort is essential to tread on the spiritual path. The Right Effort (samma vayama), as outlined in the Eightfold Noble Truths, is vital for spiritual growth: right effort to eliminate existing evils, to prevent existing evils from arising, to enhance the existing merits, and to continue to acquire new merits. This is one of the essential factors-helping hand to achieve the goal.</p>
 <p>* Tradition says that in the morning of the day of enlightenment the bodhisatta partook milk rice offered by a maiden named Sujata, daughter of householder of nearby Senani village. Though the scriptures have no record of this event we can see a reference to her in the AN1: 258, the Blessed One declaring: <strong>“…the foremost of my female lay followers in being the first to go for refuge is Sujātā, daughter of Senānī”</strong>. (She offered the bodhisatta his last meal before his enlightenment see: AN: Notes: 139).  . In  Mahaparinibbana sutta (DN:16)there is a statement about alms offering to the Buddha:</p>
-<p><em></p>
+<em>
 <p>“…that these two alms-givings’ are of very great fruit, of very great result, more fruitful and advantageous than any other. Which two? The one is the alms-giving after eating which the Tathāgata attains supreme enlightenment, the other that after which he attains the Nibbana-element without remainder at his final passing”.</p>
-<p></em></p>
+</em>
 <p>As we know from the sutta that Cunda offered the last meal. It is not mentioned here that who had offered the first meal? If we go by legend, we can assume that Sujata offered the meal to the Buddha to be before his supreme enlightenment!</p>
 <p>If we ponder little further about the Buddha ‘s statement regarding Sujata being the foremost lay woman to go for refuge to him, we may see her as the fist woman who paid homage to the Buddha after his enlightenment? AN1 (XIV Foremost Chapter) all the others described there were persons who have gone to the refuge of the Buddha after his enlightenment. In the case of Thapassu and Ballika two brothers mentioned in AN1:248. thus: “Bhikkhus, the foremost of my male lay followers in being the first to go for refuge are the merchants Tapussa and Bhallika”. According to Vinaya Pitaka :“…When Tapussa and Bhallika knew that the Buddha had finished his meal, they bowed down with their head at his feet, and said, “Sir, we go for refuge to the Buddha and the Teaching. Please accept us as lay followers who have gone for refuge for life.” By means of the double refuge, they became the first lay followers in the world”.    Hence, whether Sujata was paying respect to the bodhisatta and offered him his last meal or she was bowing down to the newly enlightened Buddha and offered him the first meal is uncertain.</p>
 <p></p>
@@ -81,9 +81,9 @@
 <p>The Bodhisattvas, with a strong determination to attain liberation, increased his velour; through his effort and unwavering heedfulness, he strove and won the battle with Māra and his tenfold army, and attained the supreme enlightenment.</p>
 <p></p>
 <h3>The Blessed One describes his effort and determination as thus:</h3>
-<p><em></p>
+<em>
 <p>“…bhikkhus, …I strove indefatigably… ‘willingly, let only my skin, sinews, and bones remain, and let the flesh and blood dry up in my body, but I will not relax my energy so long as I have not attained what can be attained by manly strength, energy, and exertion.’ It was by heedfulness that I achieved enlightenment, bhikkhus; it was by heedfulness that I achieved the unsurpassed security from bondage…”.</p>
-<p></em></p>
+</em>
 <p></p>
 <p></p>
 <p></p>
@@ -100,19 +100,19 @@
 <p></p>
 <h3>Full Enlightenment</h3>
 <p>In the following suttas the Blessed One stated about his enlightenment:</p>
-<p><em></p>
+<em>
 <p>* “...I am now the Arahant and fully enlightened Buddha, am of the Gotama clan…I became fully enlightened at the foot of an assattha-tree…”</p>
 <p></p>
 <p></p>
 <p></p>
 <p>* “Then, bhikkhus, being myself subject to birth…ageing…sickness…death having understood the danger in what is subject to birth, ageing…sickness…death…seeking the unborn… unageing… unailing …deathless supreme security from bondage… I attained the… supreme security from bondage… Nibbāna… I attained the sorrowless… undefiled… supreme security from bondage, Nibbāna. The knowledge and vision arose in me: ‘My deliverance is unshakeable; this is my last birth; now there is no renewal of being.’”</p>
-<p></em></p>
+</em>
 <h3>The Path to Enlightenment</h3>
 <p>After he had become fully enlightened, the Buddha reflected on the path that led to his awakening. As he was dwelling at Uruvelā on the bank of the river Nerañjarā at the foot of the Goatherd’s Banyan Tree he thought:</p>
-<p><em></p>
+<em>
 <p>“I am indeed freed from that gruelling asceticism! It is good indeed that I am freed from that useless gruelling asceticism! It is good that, steady and mindful, I have attained enlightenment!”</p>
 <p>[add reference]</p>
-<p></em></p>
+</em>
 <div id="gatha">
 <p>Having known as useless any austerity</p>
 <p>Aimed at the immortal state,</p>
@@ -128,9 +128,9 @@
 <p></p>
 <h2>What is Full Enlightenment? – Definition of Samma Sambuddha</h2>
 <p>Samma Sam Buddha is one of the nine noble qualities attributed to Tathāgata. The nine qualities are:</p>
-<p><em></p>
+<em>
 <p>“…the Blessed One is an arahant, perfectly enlightened, accomplished in true knowledge and conduct, fortunate, knower of the world, unsurpassed trainer of persons to be tamed, teacher of devas and humans, the Enlightened One, the Blessed One.’</p>
-<p></em></p>
+</em>
 <p></p>
 <p>When we see all the nine noble qualities attributed to the Blessed One, we could include all of them in to one term—The Fully Enlightened One (Samma Sam Buddha). We can justify that claim by looking into noble nine qualities mentioned above:</p>
 <p></p>
@@ -144,13 +144,13 @@
 <p>3. accomplished in mindfulness and clear awareness 4. Contentment 5. Moderation in eating</p>
 <p>6. Wakefulness 7. Faith 8. shame (hiri) & fear of wrongdoing (ottappa) 9. Learned much 10. Energetic 11. Wisdom 12-15. The four jhānas</p>
 <p>Note: The Buddha after describing the knowledge and conduct of noble ones said: “…and beyond this there is no further development of knowledge and conduct that is higher or more perfect…”: DN:4.</p>
-<p>4)  Sugata- Sublime: Because he has reached Nibbana through the path of the Arahant, and has been practicing the principles of the Ariya path since his Bodhisattva days, because he has a beautiful form, because he has a beautiful journey, because he has entered the beautiful place of Nibbana, and because he preaches the Dhamma in the voice of Brahma, he is called sublime one-Sugatha</p>
+<p>4) <b>Sugata</b>- Sublime: Because he has reached Nibbana through the path of the Arahant, and has been practicing the principles of the Ariya path since his Bodhisattva days, because he has a beautiful form, because he has a beautiful journey, because he has entered the beautiful place of Nibbana, and because he preaches the Dhamma in the voice of Brahma, he is called sublime one-Sugatha</p>
 <p>5)Lokavidu- Knower of the world: he knows the three worlds fully, has seen the world fully, knows the extent of the world, knows how to end the world.</p>
-<p>6) <b>>nuttaro purisadammasarathi</b> -Incomparable leader of men to be tamed: he surpasses the whole world with his noble qualities hence there is no one to compare him (only equal to a another Samma Sam Buddha), he tames men to be tamed with great compassion and highest wisdom.</p>
+<p>6) <b>Anuttaro purisadammasarathi</b> -Incomparable leader of men to be tamed: he surpasses the whole world with his noble qualities hence there is no one to compare him (only equal to a another Samma Sam Buddha), he tames men to be tamed with great compassion and highest wisdom.</p>
 <p>7) <b>Sattha deva manussa</b>- Teacher of gods and men: Like the caravan teacher he guides beings across the wildness of samsara safely.</p>
 <p>8) Buddha-Enlightened: he knows the fruit of liberation, awakened from the delusion of the world.</p>
 <p>Note: In the following sutta Buddha elaborate this title:</p>
-<p><em></p>
+<em>
 <div id="gatha">
 <p>What must be known is directly known,</p>
 <p>What must be developed has been developed,</p>
@@ -161,12 +161,14 @@
 <p>Pahātabbaṃ pahīnaṃ me,</p>
 <p>tasmā buddhosmi brāhmaṇa MN:92.</p>
 </div>
-<p></em></p>
+</em>
 <p>* In the following sutta also we can see why a Fully Enlightened Being is called the Buddha:</p>
+<pre>
 <p>“As a lovely white lotus</p>
 <p>is not soiled by the water,</p>
 <p>I am not soiled by the world:</p>
 <p>therefore, O brahmin, I am a Buddha.”</p>
+</pre>
 <p>AN:4:36 (Dona sutta)</p>
 <p></p>
 <p>9) <b>Bhagava</b> - Blessed: it is the best of the words, finest word, term for veneration and respect, fortunate one, liberated one, developed one.</p>
@@ -174,23 +176,30 @@
 <p>Going through all those noble qualities we could see that Samma Sam Buddha carry all those traits within him.  In the following sutta we can get a glimpse of what is a Fully Enlightened One!</p>
 <p></p>
 <p>The Buddha said:</p>
+<pre>
 <p>I am the one whose presence in the world</p>
 <p>Is very rarely come upon,</p>
 <p>I am the Fully Enlightened One, I,</p>
 <p>O brahmin, am the supreme physician.</p>
+</pre>
+<pre>
+<em>
 <p>‘‘Yesaṃ ve dullabho loke,</p>
 <p>pātubhāvo abhiṇhaso;</p>
 <p>Sohaṃ brāhmaṇa sambuddho,</p>
 <p>sallakatto anuttaro.</p>
+</em>
+</pre>
 <p></p>
 <p>I am supreme king of the Dhamma;</p>
 <p>By means of the Dhamma I turn the wheel,</p>
 <p>The wheel that none can stop.</p>
-<p></p>
+<pre>
 <p>‘‘Rājāhamasmi selāti,</p>
 <p>dhammarājā anuttaro;</p>
 <p>Dhammena cakkaṃ vattemi,</p>
 <p>cakkaṃ appaṭivattiyaṃ’’.</p>
+</pre>
 <p>MN: 95.</p>
 <p></p>
 <p>The Buddha is the noble one who himself discovered the path to enlightenment. He has no teacher, he declares that path for the happiness of all the beings. From the following statement by Venerable Ānanda confirmed this:</p>
@@ -212,12 +221,14 @@
 <h3>Encounters with Māra and Mara’s daughter’s</h3>
 <p>After the bodhisattva became fully enlightened Buddha, the Māra again visited the Blessed One when he was dwelling immersed in the bliss of samādhi, at Uruvelā on the bank of the river Nerañjarā at the foot of the Goatherd’s Banyan Tree. Māra was not sure about the bodhisattva’s supreme liberation, so he approached the Buddha and said:</p>
 <p></p>
+<pre>
 <p>“Having deviated from the austere practice</p>
 <p>By which men purify themselves,</p>
 <p>Being impure, you think you’re pure:</p>
 <p>You have missed the path to purity”</p>
-<p></p>
+</pre>
 <p>The Blessed One replied:</p>
+<pre>
 <p>“Having known as useless any austerity</p>
 <p>Aimed at the immortal state,</p>
 <p>That all such penances are futile</p>
@@ -226,13 +237,16 @@
 <p>Virtue, Smādhi, and wisdom—</p>
 <p>I have attained supreme purity:</p>
 <p>You’re defeated, End-maker!”</p>
+</pre>
 <p></p>
 <p>At the end, Māra realising that he is not able to catch the Buddha in his snare, defeated and disappointed went away like a crow, who attacked a piece of stone thinking it was tasty food.</p>
 <p>Daughter’s of Māra tried to snare the Blessed One</p>
 <p>According to scriptures, Māra having disappointed and saddened by his defeat went away and sat not far from where the Buddha sat. At this point, his daughters, Taṇhā, Aratī, and Ragā came to him and inquired regarding the reason for his dismay and sadness. Māra said this:</p>
 <p>“The Arahant, the Fortunate One in the world, … has gone beyond Māra’s realm: therefore, I sorrow so bitterly.”</p>
 <p>Then the three daughters assured their father that with their beauty and charm they could catch him:</p>
+<em>
 <p>“ …we will catch him with the snare of lust, as they catch the forest elephant, we will bind him tightly and bring him back, and he will be under your control…”.</p>
+</em>
 <p>So, the three daughters of Māra went near the Blessed One and addressed him with sweet and charming voices:</p>
 <p>“We serve at your feet, ascetic…”</p>
 <p>The Blessed One who has gone beyond lust, hate and delusion, did not pay any attention to them. They were so amazed that they could not captured the attention of the Buddha by their beauty, their lustful singing and dancing. They, talked among themselves of their failed actions:</p>
@@ -297,6 +311,7 @@
 <p>“Thus, with the remainder less fading away and cessation of ignorance comes cessation of volitional formations; with the cessation of volitional formations, cessation of consciousness…. Such is the cessation of this whole mass of suffering. “‘Cessation, cessation’—thus, bhikkhus, in regard to things unheard before there arose in me vision, knowledge, wisdom, true knowledge, and light.”</p>
 <p></p>
 <p>The Conditioned phenomena in DP above is described in the following sutta thus:</p>
+<pre>
 <p>When this exists that come to be</p>
 <p>With arising of this, that arise.</p>
 <p>When this does not exist, that does not come to be;</p>
@@ -305,6 +320,7 @@
 <p>imassuppaadaa ida.m uppajjati;</p>
 <p>imasmi.m asati ida.m na hoti;</p>
 <p>imassa nirodhaa ida.m nirujjhati)</p>
+</pre>
 <p>SN12: 49:</p>
 <p></p>
 <p></p>
@@ -356,7 +372,7 @@
 <p></p>
 <h2>Important of Practicing Harmlessness & Kindness towards all Beings</h2>
 <p>This is also an important message conveyed by the Blessed One during the first few weeks of his life after the Buddhahood. Scriptures mentioned an encounter taken place at that time: a Naga King called Muchalinda, who had seen the Buddha in deep meditation during a heavy storm gave him protection by wrapping his body with his serpent-coils and putting his hood over the head. When the Buddha came out from the meditation and realising what the Naga King did uttered the following Udana showing the important of harmless practice towards all living beings.  This remind us of the Metta Sutta where the Buddha said that ‘spreading loving kindness to all beings’ is a quality important to tread on the Noble Path.</p>
-<p></p>
+<pre>
 <p>“Seclusion is bliss for the contented</p>
 <p>Who sees the Teaching that they have learned.</p>
 <p>Kindness to the world is happiness,</p>
@@ -366,7 +382,7 @@
 <p>For one who overcomes sensuality.</p>
 <p>But removing the conceit ‘I am’,</p>
 <p>This, indeed, is the highest bliss.”</p>
-<p></p>
+</pre>
 <p>Note: Apart from being harmless, in here we can see some other essential qualities supporting the spirituality such as seclusion, loving kindness (metta) to all, dispassion towards worldly things and abandon of conceit.</p>
 <p></p>
 <p></p>
@@ -388,12 +404,13 @@
 <p>myself, whom I could honour and respect, and on whom I could dwell in dependence…“Let me then honour, respect, and dwell in dependence on this very Dhamma to which I have fully awakened.”</p>
 <p>Note: * Spk assigns this sutta to the fifth week after the enlightenment. The sutta is also at AN II 20-21 with an additional paragraph, see: SN:Notes: 373, p. 550.</p>
 <p>* This shows the great wisdom and humility of the Buddha recognising the greatness of the Dhamma and sharing his experience with his disciples urging them to honour the Dhamma. This is a very important message to Buddhists- to understands the significant of the Dhamma- the teaching, he stressed this point on his last days of life conveying the important message – saying when the Buddha is no more – Dhamma will guide everyone. Hence, we Buddhist rely on Dhamma and live and practice according to Dhamma would never fall out from our spiritual path!, see: DN: 16 (Mahaparinibbana sutta)</p>
-<p></p>
+<pre>
 <p>Dhamma should be revere</p>
 <p>Therefore, one desiring his own good,</p>
 <p>Aspiring for spiritual greatness,</p>
 <p>Should deeply revere the true Dhamma,</p>
 <p>Recollecting the Buddhas’ Teaching</p>
+</pre>
 <p>Quote from: SN6:2</p>
 <p></p>
 <h2>Profundity of the Dhamma</h2>
@@ -403,6 +420,7 @@
 <p></p>
 <p>Note: Following his reflection of the depth of the Dhamma, the Buddha felt that ordinary beings who are immersed in sensual pleasures would not be able to understand the realty and was hesitate to teach. This is what he thought:</p>
 <p></p>
+<pre>
 <p>‘Enough with teaching the Dhamma</p>
 <p>That even I found hard to reach;</p>
 <p>For it will never be perceived</p>
@@ -411,6 +429,7 @@
 <p>Will never discern this abstruse Dhamma</p>
 <p>Which goes against the worldly stream,</p>
 <p>Subtle, deep, and difficult to see”</p>
+</pre>
 <p>MN: 26</p>
 <p></p>
 <p>The Buddha describes the event:</p>
@@ -462,16 +481,16 @@
 <p></p>
 <p>End Notes: Section 4</p>
 <p></p>
-<p>The exact date of Buddha's enlightenment is not precisely known, as it predates written records.  It is believed to have occurred in the 6th century BCE. The most widely accepted date is around 563 BCE to 483 BCE, although different Buddhist traditions may have slightly different calculations: https://www.quora.com/</p>
-<p>In this sutta the Buddha said: “I considered: ‘It is not easy to attain that pleasure with a body so excessively emaciated. Suppose I ate some solid food—some boiled rice and porridge.’ And I ate some solid food—some boiled rice and porridge. Now at that time five bhikkhus were waiting upon me, thinking: ‘If our recluse Gotama achieves some higher state, he will inform us.’ But when I ate the boiled rice and porridge, the five bhikkhus were disgusted and left me, thinking: ‘The recluse Gotama now lives luxuriously; he has given up his striving and reverted to luxury. See: MN: 36 ( Mahāsaccaka Sutta)</p>
-<p>The Group of five left the bodhisatta about the new moon day of Cita (April) and moved to Migadaya, the Deer Park. See: The Group of Five: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.</p>
-<p>This refers to the noble state of an arahant: see: AN1:41-50 & AN:6: 77.</p>
-<p>AN5:196 (Dream sutta): see also notes regarding this: AN: Notes: 1200 & 1201.</p>
-<p>Māra is the Evil One of Buddhism, the Tempter and Lord of Sensuality bent on distracting aspirants from the path to liberation and keeping them trapped in the cycle of repeated birth and death. Sometimes the texts use the word “Māra” in a metaphorical sense, as representing the inward psychological causes of bondage such as craving and lust and the external things to which we become bound, particularly the five aggregates themselves. But it is evident that the thought world of the suttas does not conceive Māra only as a personification of humankind’s moral frailty, but sees him as a real evil deity out to frustrate the efforts of those intent on winning the ultimate goal. The proof of this lies in his pursuit of the Buddha and the arahants after their enlightenment, which would not be credible if he were conceived of merely as a psychological projection. See: SN: Introduction to Sgathavagga, 4. Māra samyutta p.49.</p>
-<p>Bodhi tree Ficus Religiosa (Pipal tree), The Blessed One sat under this tree and attained Enlightenment, hence it is called ‘Bodhi Tree’, meaning ‘the Tree of Enlightenment’.</p>
-<p>Snp:3.2 (Padhāna sutta Translated from Pali by Bhikkhu Ñāṇamoli).</p>
-<p>The story is given here: see: Offering of Milk rice by Sujata: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.</p>
-<p>VP:Mahākhandaka: 4: A translation of the Pali Vinaya Piṭaka into English by Bhikkhu Brahmali.</p>
+<p>[i] The exact date of Buddha's enlightenment is not precisely known, as it predates written records.  It is believed to have occurred in the 6th century BCE. The most widely accepted date is around 563 BCE to 483 BCE, although different Buddhist traditions may have slightly different calculations: https://www.quora.com/</p>
+<p>[ii] In this sutta the Buddha said: “I considered: ‘It is not easy to attain that pleasure with a body so excessively emaciated. Suppose I ate some solid food—some boiled rice and porridge.’ And I ate some solid food—some boiled rice and porridge. Now at that time five bhikkhus were waiting upon me, thinking: ‘If our recluse Gotama achieves some higher state, he will inform us.’ But when I ate the boiled rice and porridge, the five bhikkhus were disgusted and left me, thinking: ‘The recluse Gotama now lives luxuriously; he has given up his striving and reverted to luxury. See: MN: 36 ( Mahāsaccaka Sutta)</p>
+<p>[iii] The Group of five left the bodhisatta about the new moon day of Cita (April) and moved to Migadaya, the Deer Park. See: The Group of Five: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.</p>
+<p>[iv] This refers to the noble state of an arahant: see: AN1:41-50 & AN:6: 77.</p>
+<p>[v] AN5:196 (Dream sutta): see also notes regarding this: AN: Notes: 1200 & 1201.</p>
+<p>[vi] Māra is the Evil One of Buddhism, the Tempter and Lord of Sensuality bent on distracting aspirants from the path to liberation and keeping them trapped in the cycle of repeated birth and death. Sometimes the texts use the word “Māra” in a metaphorical sense, as representing the inward psychological causes of bondage such as craving and lust and the external things to which we become bound, particularly the five aggregates themselves. But it is evident that the thought world of the suttas does not conceive Māra only as a personification of humankind’s moral frailty, but sees him as a real evil deity out to frustrate the efforts of those intent on winning the ultimate goal. The proof of this lies in his pursuit of the Buddha and the arahants after their enlightenment, which would not be credible if he were conceived of merely as a psychological projection. See: SN: Introduction to Sgathavagga, 4. Māra samyutta p.49.</p>
+<p>[vii] Bodhi tree Ficus Religiosa (Pipal tree), The Blessed One sat under this tree and attained Enlightenment, hence it is called ‘Bodhi Tree’, meaning ‘the Tree of Enlightenment’.</p>
+<p>[viii] Snp:3.2 (Padhāna sutta Translated from Pali by Bhikkhu Ñāṇamoli).</p>
+<p>[ix] The story is given here: see: Offering of Milk rice by Sujata: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.</p>
+<p>[x] VP:Mahākhandaka: 4: A translation of the Pali Vinaya Piṭaka into English by Bhikkhu Brahmali.</p>
 <p>Māra’s army is described as 10-fold: 1 sense-desire 2 discontent (of practice) 3 hunger & thirst 4 craving 5 dullness and drowsiness 6 cowardice 7 doubt 8 contempt & obstinacy 9 profit praise honour & fame 10 extolling of one self and scoring others. see: Snp: 3.2 (Padhana sutta, Translated by Bhikkhu Sujatho: Sutacentral Website) * In SN:4: Mārasamyutta also give detail account of Māra’s ways of obstructing the Buddha.</p>
 <p>See: AN:2:5 * Note: And being dissatisfied in striving, I strove on, standing firm without retreating-Indefatigability (appaṭivānitā) means not turning back, not retreating. By I strove indefatigably, what is meant is this: When I was a bodhisatta, I strove on, not retreating, aspiring for omniscience”see AN:Note:221 * This determination is found elsewhere in the Nikāyas: in AN at 8:13 §8, IV 190,8–12; MN 70.27, I 481,1–5; and SN12:22, II 28,24–28, see AN:Note:222.</p>
 <p>See: DN: 14 ( Mahâpadāna Sutta).</p>
