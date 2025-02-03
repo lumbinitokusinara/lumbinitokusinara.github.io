@@ -71,7 +71,8 @@ firstLine = True
 
 
 output_path = os.path.join(output_folder,'file4v1.txt')
-image_folder = os.path.join(output_path, 'page4')
+#image_folder = os.path.join(output_path, 'page4')
+image_folder =  'page4'
 with open(output_path, "w", encoding="utf-8") as html_file:
     for line in lines:
         #match = re.match(r"(endnote(\d+))\)", line.text)
@@ -80,7 +81,9 @@ with open(output_path, "w", encoding="utf-8") as html_file:
         stripped_line = re.sub(r'----endnote(\d+)----', r'<span id="Endnote\1">[<a href="#endnote\1">\1</a>]</span>', stripped_line)
         stripped_line = re.sub(r'endnote(\d+)\)', r'<span id="endnote\1">[<a href="#Endnote\1">\1</a>]</span>', stripped_line)
         #stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', rf'<img src="{image_folder}/image\1.jpeg" />', stripped_line)
-        stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', r'<img src="page4/image\1.jpeg" />', stripped_line)
+        stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', lambda m: f'<img src="{image_folder}/image{m.group(1)}.jpeg" />', stripped_line)
+
+        #stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', r'<img src="page4/image\1.jpeg" />', stripped_line)
         
         
         if firstLine and stripped_line:
@@ -97,7 +100,7 @@ with open(output_path, "w", encoding="utf-8") as html_file:
 #with open(output_path, "w", encoding="utf-8") as html_file:
     #html_file.write((modified_lines))
 
-allFiles = False;
+allFiles = True;
 if allFiles == True:
     for ofile, docfile, section_num in pages_info:
         image_folder_ex = ofile.split('.')[0]
@@ -129,7 +132,9 @@ if allFiles == True:
                 
                 stripped_line = re.sub(r'----endnote(\d+)----', r'<span id="Endnote\1">[<a href="#endnote\1">\1</a>]</span>', stripped_line)
                 stripped_line = re.sub(r'endnote(\d+)\)', r'<span id="endnote\1">[<a href="#Endnote\1">\1</a>]</span>', stripped_line)
-                
+                stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', lambda m: f'<img src="{image_folder_ex}/image{m.group(1)}.jpeg" />', stripped_line)
+                stripped_line = re.sub(r'----media/image(\d+)\.png----', lambda m: f'<img src="{image_folder_ex}/image{m.group(1)}.png" />', stripped_line)
+                 
                 if firstLine and stripped_line:
                     html_file.write(f'<h1>{stripped_line}</h1>\n')
                     firstLine = False

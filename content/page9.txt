@@ -44,7 +44,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----media/image1.jpeg----</p>
+<p><img src="page9/image1.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>

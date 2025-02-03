@@ -121,7 +121,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----media/image1.jpeg--------media/image2.jpeg--------media/image3.jpeg--------media/image3.jpeg--------media/image3.jpeg--------media/image3.jpeg----</p>
+<p><img src="page4/image1.jpeg" /><img src="page4/image2.jpeg" /><img src="page4/image3.jpeg" /><img src="page4/image3.jpeg" /><img src="page4/image3.jpeg" /><img src="page4/image3.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -389,7 +389,7 @@
 <p></p>
 <p>You’re defeated, End-maker! <span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
 <p></p>
-<p>----media/image7.jpeg----</p>
+<p><img src="page4/image7.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -486,7 +486,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;r/BuddhistMonastics - Source: khunreinhard.com&lt;----media/image8.jpeg----</p>
+<p>----Image alt text----&gt;r/BuddhistMonastics - Source: khunreinhard.com&lt;<img src="page4/image8.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -570,7 +570,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----media/image9.jpeg----<b>Note</b>: Apart from being harmless, in here we can see some other essential qualities supporting the spirituality such as seclusion, loving kindness (metta) to all, dispassion towards worldly things and abandon of conceit.</p>
+<p><img src="page4/image9.jpeg" /><b>Note</b>: Apart from being harmless, in here we can see some other essential qualities supporting the spirituality such as seclusion, loving kindness (metta) to all, dispassion towards worldly things and abandon of conceit.</p>
 <p></p>
 <p></p>
 <p></p>
@@ -658,13 +658,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----media/image10.png---- Invitation of Brahma Shampati, picture courtesy: <a href="https://littledust.org/">https://littledust.org/</a></p>
+<p><img src="page4/image10.png" /> Invitation of Brahma Shampati, picture courtesy: <a href="https://littledust.org/">https://littledust.org/</a></p>
 <p><b>▲ Significant events happened during that time</b></p>
 <p><b>♦ First Step towards the establishment of Fourfold Assembly</b></p>
 <p>The Fourfold Assembly (catuparisā in Pali) denotes to the four groups who follow the Buddha’s teaching:  monks, nuns and lay men and women. In the history of dispensation, of the Buddha, we can see that the first stone of the foundation of the Fourfold Sangha was laid during this time.  This is what happened. At that time, two brothers Tapussa and Bhallika, who were travelling from Ukkalā to Uruvela, near the place of enlightenment, on an advice of a deva, made some food offering to the Buddha. After offering the meal, they paid homage to the Buddha and asked him to accept them as lay followers <span id="Endnote43">[<a href="#endnote43">43</a>]</span>.</p>
 <p><b>Note</b>: In the establishment of the dispensation, the Blessed One knowing the important of disciples of monks and nuns, also encouraged lay followers to be his disciples, for their own enhancement in spirituality and also to support monastic with four requisites which is essential for their survival. We can see that During the time of the Blessed One and after his passing away- up to the present time, due to the unwavering support of lay devotees, the dispensation of the Buddha still continues to grow and shine in the world!</p>
 <p></p>
-<p>----media/image11.jpeg----<b>Tapussa and Bhallika</b>, <b>offering food to the Blessed One</b>-Peshawar Museum: Picture courtesy: Wikipedia.</p>
+<p><img src="page4/image11.jpeg" /><b>Tapussa and Bhallika</b>, <b>offering food to the Blessed One</b>-Peshawar Museum: Picture courtesy: Wikipedia.</p>
 <p></p>
 <p></p>
 <p></p>

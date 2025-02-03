@@ -1,7 +1,7 @@
 <p><b>Section 6: Titles and </b><b>Epithets for the Buddha</b></p>
 <p>This section we will focus on how the Buddha was titled—the many epithets for the Buddha. In the scriptures we can find many titles bestowed upon the Blessed One, a few selected ones are discussed here.</p>
 <p></p>
-<p>----media/image1.jpeg----</p>
+<p><img src="page6/image1.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -128,7 +128,7 @@
 <p><i>it’s hard to hear the true teaching;</i></p>
 <p><i>the arising of Buddhas is hard” </i> <span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
 <p></p>
-<p>----media/image2.jpeg----</p>
+<p><img src="page6/image2.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -157,7 +157,7 @@
 <h3>♦ <b>Buddha is a Noble One who is not Fouled by the Word</b></h3>
 <p>According to scriptures, when Brahmin Dona met the Blessed One first time, he was not sure whether he was in the presence of a deva or a human, when he asked the Buddha replied:</p>
 <p></p>
-<p>----Image alt text----&gt;Lotus flower rising from the mud, Symbolic meaning. Beauty, resilience and  strength concept. Vertical Generative AI Stock Illustration | Adobe Stock&lt;----media/image3.jpeg----</p>
+<p>----Image alt text----&gt;Lotus flower rising from the mud, Symbolic meaning. Beauty, resilience and  strength concept. Vertical Generative AI Stock Illustration | Adobe Stock&lt;<img src="page6/image3.jpeg" /></p>
 <p></p>
 <p>“<i>As a lovely white lotus</i></p>
 <p><i>is not soiled by the water,</i></p>
@@ -211,7 +211,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Linh Phong buddhist temple. Shakyamuni Buddha sitting in the meditation pose under the Bodhi tree. Dalat. Vietnam.&lt;----media/image4.jpeg----</p>
+<p>----Image alt text----&gt;Linh Phong buddhist temple. Shakyamuni Buddha sitting in the meditation pose under the Bodhi tree. Dalat. Vietnam.&lt;<img src="page6/image4.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -478,7 +478,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----media/image5.jpeg----</p>
+<p><img src="page6/image5.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -680,7 +680,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----media/image6.png----</p>
+<p><img src="page6/image6.png" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -736,7 +736,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Hyperrealisitc holy sacred golden Buddha statue in the jungle shining in  the sun for pray hands | Premium AI-generated PSD&lt;----media/image7.jpeg----</p>
+<p>----Image alt text----&gt;Hyperrealisitc holy sacred golden Buddha statue in the jungle shining in  the sun for pray hands | Premium AI-generated PSD&lt;<img src="page6/image7.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>

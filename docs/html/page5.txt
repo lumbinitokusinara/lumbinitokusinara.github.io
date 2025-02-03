@@ -7,7 +7,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----media/image1.jpeg----</p>
+<p><img src="page5/image1.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -166,7 +166,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----media/image2.jpeg----</p>
+<p><img src="page5/image2.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -263,7 +263,7 @@
 <p></p>
 <p>The many psychic powers of the Buddha were called wonderful and marvellous qualities. These abilities varied: being many, he could become one; he appears and disappears; he passes through fences, walls and mountains unhindered as if through air; he sinks into the ground and emerges from it as if it were water; he walks on the water without breaking the surface as if on land; he flies cross-legged through the sky like a bird with wings; he even touches and strokes with his hand the sun and moon, mighty and powerful as they are; and he travels in the body as far as the Brahmā world.<span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
 <p></p>
-<p>----media/image3.jpeg----</p>
+<p><img src="page5/image3.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -300,7 +300,7 @@
 <p></p>
 <p><i>“When, Ānanda, the Tathāgata immerses the body in the mind and the mind in the body, and when he dwells having entered upon a blissful perception and a buoyant perception in regard to the body, on that occasion the body of the Tathāgata rises up without difficulty from the earth into the air. He wields the various kinds of spiritual power: having been one, he becomes many; having been many, he becomes one; … he exercises mastery with the body as far as the Brahmā world”</i><span id="Endnote42">[<a href="#endnote42">42</a>]</span></p>
 <p></p>
-<p>----media/image4.jpeg----</p>
+<p><img src="page5/image4.jpeg" /></p>
 <p></p>
 <p><b>Encounter with a Naga serpen</b>t:  Source: the Illustration from “The Life of the Buddha in Pictures.” Courtesy: Dhammatalks.net</p>
 <p></p>
@@ -474,14 +474,14 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;BuddhaNet.Net: Sacred Island - A Buddhist Pilgrim's Guide to Sri Lanka:  Avukana&lt;----media/image5.jpeg----</p>
+<p>----Image alt text----&gt;BuddhaNet.Net: Sacred Island - A Buddhist Pilgrim's Guide to Sri Lanka:  Avukana&lt;<img src="page5/image5.jpeg" /></p>
 <p></p>
 <p></p>
 <p><b>A Standing Buddha- </b>Avukana, Sri Lanka: Picture courtesy: Buddha Net</p>
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;buddhapada&lt;----media/image6.jpeg----</p>
+<p>----Image alt text----&gt;buddhapada&lt;<img src="page5/image6.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -509,7 +509,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Story pin image&lt;----media/image7.jpeg----</p>
+<p>----Image alt text----&gt;Story pin image&lt;<img src="page5/image7.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -541,7 +541,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;A stone sculpture of a head with its hair in a bun.&lt;----media/image8.jpeg----</p>
+<p>----Image alt text----&gt;A stone sculpture of a head with its hair in a bun.&lt;<img src="page5/image8.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>

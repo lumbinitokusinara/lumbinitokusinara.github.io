@@ -6,7 +6,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;bhikkhuni history&lt;----media/image1.jpeg----</p>
+<p>----Image alt text----&gt;bhikkhuni history&lt;<img src="page8/image1.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -146,7 +146,7 @@
 <p></p>
 <p>See: DN: 19 Mahāgovinda Sutta.</p>
 <p></p>
-<p>----Image alt text----&gt;The Six Main Types of Celestial Beings (Gods/ Devas) according to their  Abodes – thebuddhadhamma&lt;----media/image2.jpeg----</p>
+<p>----Image alt text----&gt;The Six Main Types of Celestial Beings (Gods/ Devas) according to their  Abodes – thebuddhadhamma&lt;<img src="page8/image2.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
