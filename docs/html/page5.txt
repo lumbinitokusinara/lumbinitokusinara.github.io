@@ -474,14 +474,14 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;BuddhaNet.Net: Sacred Island - A Buddhist Pilgrim's Guide to Sri Lanka:  Avukana&lt;<img src="page5/image5.jpeg" /></p>
+<p><img src="page5/image5.jpeg" /></p>
 <p></p>
 <p></p>
 <p><b>A Standing Buddha- </b>Avukana, Sri Lanka: Picture courtesy: Buddha Net</p>
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;buddhapada&lt;<img src="page5/image6.jpeg" /></p>
+<p><img src="page5/image6.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -509,7 +509,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Story pin image&lt;<img src="page5/image7.jpeg" /></p>
+<p><img src="page5/image7.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -541,7 +541,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;A stone sculpture of a head with its hair in a bun.&lt;<img src="page5/image8.jpeg" /></p>
+<p><img src="page5/image8.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>

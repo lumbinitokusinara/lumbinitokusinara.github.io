@@ -8,7 +8,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;953 Buddha Teaching Stock Photos, High-Res Pictures, and ...&lt;<img src="page11_1/image1.jpeg" /></p>
+<p><img src="page11_1/image1.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -59,7 +59,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Dhammacakkappavattana Sutta | PPT&lt;<img src="page11_1/image2.jpeg" /></p>
+<p><img src="page11_1/image2.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -432,7 +432,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Dwelling as a Lamp unto Oneself - Attadipa sutta - Way of Bodhi&lt;<img src="page11_1/image5.jpeg" /></p>
+<p><img src="page11_1/image5.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>

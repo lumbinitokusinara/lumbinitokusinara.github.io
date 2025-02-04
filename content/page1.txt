@@ -32,7 +32,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Hand-drawn map of Jambudipa&lt;<img src="page1/image2.jpeg" /></p>
+<p><img src="page1/image2.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -79,7 +79,7 @@
 <p><b>▲The Bodhisatta descends from the Tuṣita Deva Realm</b></p>
 <p>According to Buddhist scriptures, the Buddha was born in a human realm as a Bodhisatta <span id="Endnote6">[<a href="#endnote6">6</a>]</span>,  having spent a period of time in the “deva” realm of Tuṣita’ <span id="Endnote7">[<a href="#endnote7">7</a>]</span>.</p>
 <p></p>
-<p>----Image alt text----&gt;undefined&lt;<img src="page1/image3.jpeg" /></p>
+<p><img src="page1/image3.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -102,7 +102,7 @@
 <p></p>
 <p><b>Quote from</b>: <a href="https://www.buddhanet.net">https://www.buddhanet.net</a></p>
 <p></p>
-<p>----Image alt text----&gt;The Conception of the Buddha-to-be in Queen Maya's dream&lt;<img src="page1/image4.jpeg" /></p>
+<p><img src="page1/image4.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -124,7 +124,7 @@
 <p></p>
 <p>According to legend, King Suddhodana’s wife, Queen Maya left the city of Kapilavattu for her parents’ home in Devadaha to give birth to her child, the future Buddha. On the way, the Queen saw a beautiful park (Lumbini) with fragrant Sal flowers in bloom.  She entered the park with her entourage, bathed in a pond and walked towards a Sal tree and touched a branch full of flowers, at that moment the Bodhisatta was born <span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
 <p></p>
-<p>----Image alt text----&gt;5-1&lt;<img src="page1/image5.jpeg" /></p>
+<p><img src="page1/image5.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -195,7 +195,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;සිදුහත් කුමරු උපන් කපිලවස්තු ...&lt;<img src="page1/image6.jpeg" /></p>
+<p><img src="page1/image6.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -330,7 +330,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Lumbini | Buddhist Pilgrimage, Sacred Garden, Ashoka Pillar | Britannica&lt;----media/image8.gif----</p>
+<p>----media/image8.gif----</p>
 <p></p>
 <p></p>
 <p></p>
@@ -375,7 +375,7 @@
 <p></p>
 <p>The discovery of the Asoka Pillar in Lumbini <span id="Endnote25">[<a href="#endnote25">25</a>]</span> in 1896 was an important finding. In the Mahā Parinibbāna Sutta (DN:16), the place where the Buddha was born is mentioned as one of the four places suitable for devoted Buddhist to visit and remember the greatest qualities of the Blessed One. <span id="Endnote26">[<a href="#endnote26">26</a>]</span></p>
 <p></p>
-<p>----Image alt text----&gt;Rubbing of the inscription.&lt;<img src="page1/image10.png" /></p>
+<p><img src="page1/image10.png" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -411,7 +411,7 @@
 <p></p>
 <p><b>Below</b> Left<b>:</b> Excavation of Asoka’s Piller in Lumbini. <b>Right:</b> Modern day Lumbini Piller: picture courtesy: Wikipedia.</p>
 <p></p>
-<p><img src="page1/image11.jpeg" />----Image alt text----&gt;Lumbini pillar inscription - Wikipedia&lt;<img src="page1/image12.jpeg" /></p>
+<p><img src="page1/image11.jpeg" /><img src="page1/image12.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -463,7 +463,7 @@
 <p></p>
 <p>2 Dreamstime.com.</p>
 <p></p>
-<p><b>▲</b>----Image alt text----&gt;Lumbini, Mayadevi Temple and Birth Place of Lord Buddha Stock Photo - Image  of buddhism, garden: 263484808&lt;<img src="page1/image14.jpeg" />----Image alt text----&gt;Maya Devi Temple &amp; the Holy Pond (by Wes Olson, CC BY-NC-SA)&lt;<img src="page1/image15.jpeg" /><b>The Buddha was from Sakyan Clan </b></p>
+<p><b>▲</b><img src="page1/image14.jpeg" /><img src="page1/image15.jpeg" /><b>The Buddha was from Sakyan Clan </b></p>
 <p></p>
 <p>Numerous places in the scriptures point out that the Buddha belonged to the Sakyan clan, hence he was called ‘Sakya Muni’ (sage of Sakyan) and his disciples were called ‘Sakya Putta’ (son of Sakyans). The Sakyan’s Republic was on the edge of the Himalayas and Kapilavattu was their royal capital. The Sakyan Republic was subject to the King of Kosala. Tradition as well as scriptures say that King Okkaka was the forefather of the Sakyan clan. In Ambaṭṭha Sutta (DN:3), we can see a passage related to this:</p>
 <p></p>
@@ -567,7 +567,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;The east gate at the Tilaurakot archaeological site.&lt;<img src="page1/image18.jpeg" /></p>
+<p><img src="page1/image18.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>

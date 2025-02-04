@@ -82,7 +82,7 @@ with open(output_path, "w", encoding="utf-8") as html_file:
         stripped_line = re.sub(r'endnote(\d+)\)', r'<span id="endnote\1">[<a href="#Endnote\1">\1</a>]</span>', stripped_line)
         #stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', rf'<img src="{image_folder}/image\1.jpeg" />', stripped_line)
         stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', lambda m: f'<img src="{image_folder}/image{m.group(1)}.jpeg" />', stripped_line)
-
+        stripped_line = re.sub(r'----Image alt text----&gt;.*?&lt;', '', stripped_line)
         #stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', r'<img src="page4/image\1.jpeg" />', stripped_line)
         
         
@@ -134,6 +134,7 @@ if allFiles == True:
                 stripped_line = re.sub(r'endnote(\d+)\)', r'<span id="endnote\1">[<a href="#Endnote\1">\1</a>]</span>', stripped_line)
                 stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', lambda m: f'<img src="{image_folder_ex}/image{m.group(1)}.jpeg" />', stripped_line)
                 stripped_line = re.sub(r'----media/image(\d+)\.png----', lambda m: f'<img src="{image_folder_ex}/image{m.group(1)}.png" />', stripped_line)
+                stripped_line = re.sub(r'----Image alt text----&gt;.*?&lt;', '', stripped_line)
                  
                 if firstLine and stripped_line:
                     html_file.write(f'<h1>{stripped_line}</h1>\n')

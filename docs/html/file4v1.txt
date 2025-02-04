@@ -486,7 +486,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;r/BuddhistMonastics - Source: khunreinhard.com&lt;<img src="page4/image8.jpeg" /></p>
+<p><img src="page4/image8.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>

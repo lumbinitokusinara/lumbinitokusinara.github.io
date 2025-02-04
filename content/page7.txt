@@ -200,7 +200,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Wisdom Quarterly: American Buddhist Journal: Sakka, "St. Michael," Lord of  the 33 (video)&lt;<img src="page7/image2.jpeg" /></p>
+<p><img src="page7/image2.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -251,7 +251,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;ආලවක සුත්තං (ආලවක සුත්‍රය) සහ සිංහල ඉංග්‍රිසි පරිවරිථන Alavaka Sutta with English Sinhala Translation&lt;<img src="page7/image3.jpeg" /></p>
+<p><img src="page7/image3.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -368,7 +368,7 @@
 <h2>▲ <b>Main Purpose of Buddha’s Teaching was to Help Beings to Free from Suffering</b></h2>
 <p>According to scriptures we can see that the main purpose of the Buddha’s teaching was to guide beings away from suffering.  He understood human nature and sometimes used unorthodox ways to help them understand the Dhamma for themselves. The following are a few events highlighting the skill and compassion of the Buddha, showing his ability to understand the suffering of other beings and help them find peace.</p>
 <p></p>
-<p>----Image alt text----&gt;kisa gautami&lt;<img src="page7/image5.jpeg" /></p>
+<p><img src="page7/image5.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -467,7 +467,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;No photo description available.&lt;<img src="page7/image6.png" /></p>
+<p><img src="page7/image6.png" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -594,7 +594,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;Bahiya_Darucheeriya_Theranuwo&lt;<img src="page7/image7.jpeg" /></p>
+<p><img src="page7/image7.jpeg" /></p>
 <p></p>
 <p></p>
 <p></p>
