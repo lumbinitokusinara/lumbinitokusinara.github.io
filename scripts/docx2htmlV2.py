@@ -6,10 +6,12 @@ import docx2txt
 from bs4 import BeautifulSoup
 
 input_folder = 'docs'
-output_folder = 'docs/html'
+#output_folder = 'docs/html'
+output_folder = 'content'
 
 pages_info = [
-    ("page1.txt", "Section 1D F- Birth.docx", "1."),
+    #("page1.txt", "Section 1D F- Birth.docx", "1."),
+    ("page1.txt", "1 - Birth of the Buddha Gotama.docx", "1."),
     ("page2.txt", "Section 2 DF-Childhood Family.docx", "2."),
     ("page3.txt", "Section 3D F-Asetic life.docx", "3."),
     ("page4.txt", "Section 4 DF-Enlightenment.docx", "4."),

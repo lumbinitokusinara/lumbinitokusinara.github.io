@@ -1,30 +1,18 @@
-<p><b>Section 1: Birth of the Buddha Gotama </b></p>
-<p></p>
-<p><img src="page1/image1.jpeg" />In this section we will focus on the significance of the birth of Buddha as a bodhisatta and important incidents connected to his appearance in this world. Although the Tipitaka does not mention the details of the time of the Buddha's birth, according to South East Asian tradition it is accepted that the Buddha Gotama was born in 623 B.C. on the full moon day of the month of May (Vesākha -Vesak) <span id="Endnote1">[<a href="#endnote1">1</a>]</span>. Most of his life he lived in the northern part of India, then known as ‘Middle Country” (<i>majjhimadesa)</i>.<span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
+<p><h1>Section 1: Birth of the Buddha Gotama </h1></p>
 <p></p>
 <p></p>
 <p></p>
+<p><img src="page1/image1.jpeg" /></p>
 <p></p>
+<p>Figure 1 Buddha in Sarnath Museum (Dhammajak Mutra)</p>
 <p></p>
-<p></p>
-<p></p>
-<p><b>Buddha in Sarnath Museum (Dhammajak Mutra): </b>Source: Tevaprapas Makklay : Picture Courtesy:</p>
+<p>Source: Tevaprapas Makklay: Picture Courtesy:</p>
 <p></p>
 <p><a href="https://commons.wikimedia.org/wiki/File">https://commons.wikimedia.org/wiki/File</a>:</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>In this section we will focus on the significance of the birth of Buddha as a bodhisatta and important incidents connected to his appearance in this world. Although the Tipitaka does not mention the details of the time of the Buddha's birth, according to South East Asian tradition it is accepted that the Buddha Gotama was born in 623 B.C. on the full moon day of the month of May (Vesākha -Vesak) <span id="Endnote1">[<a href="#endnote1">1</a>]</span>. Most of his life he lived in the northern part of India, then known as ‘Middle Country” (<i>majjhimadesa)</i>.<span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -34,15 +22,7 @@
 <p></p>
 <p><img src="page1/image2.jpeg" /></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Map showing the Jambudȋpa during the time of Gotama Buddha</b></p>
+<p>Figure 2 Map showing the Jambudȋpa during the time of Gotama Buddha</p>
 <p></p>
 <p>source: Suttacentral : <a href="https://suttacentral.net/">https://suttacentral.net/</a></p>
 <p><b>▲Why the Birth of the Buddha is Significant?</b></p>
@@ -81,17 +61,9 @@
 <p></p>
 <p><img src="page1/image3.jpeg" /></p>
 <p></p>
+<p>Figure 3 Bodhisatta in Tuṣita Heaven</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Righ: Bodhisatta in Tuṣita Heaven </b>-Stone carving during the <a href="https://en.wikipedia.org/wiki/Kushan_Dynasty"><u>Kushan Dynasty</u></a>. Picture courtesy: Wikipedia</p>
+<p>Stone carving during the <a href="https://en.wikipedia.org/wiki/Kushan_Dynasty"><u>Kushan Dynasty</u></a>. Picture courtesy: Wikipedia</p>
 <p>Venerable Ānanda <span id="Endnote8">[<a href="#endnote8">8</a>]</span> is quoted in the suttas, describing the birth of the Buddha:</p>
 <p><i>“…I heard and learned this, Venerable Sir, from the Blessed One’s own lips: ‘Mindful and fully aware…the Bodhisatta appeared in the Tusita heaven …the Bodhisatta remained in the Tusita heaven …the Bodhisatta passed away from the Tusita heaven” and descended into his mother’s womb”</i> <span id="Endnote9">[<a href="#endnote9">9</a>]</span> .</p>
 <p><b>▲ The Bodhisatta was Born to a Royal Family</b></p>
@@ -102,13 +74,25 @@
 <p></p>
 <p><b>Quote from</b>: <a href="https://www.buddhanet.net">https://www.buddhanet.net</a></p>
 <p></p>
+<p></p>
+<p></p>
 <p><img src="page1/image4.jpeg" /></p>
+<p></p>
+<p>Figure 4 Queen Maya’s dream</p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p><b>Queen Maya’s dream</b>- 2<sup>nd</sup> century Gandharan Sculpture. Picture Courtesy: Wikipedia- https://en.wikipedia.org/wik</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
