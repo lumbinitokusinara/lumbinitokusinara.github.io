@@ -8,10 +8,13 @@ input_folder = 'docs'
 output_folder = 'docs/html'
 
 pages_info = [
-    ("page1.txt", "Section 1D F- Birth.docx", "1."),
-    ("page2.txt", "Section 2 DF-Childhood Family.docx", "2."),
-    ("page3.txt", "Section 3D F-Asetic life.docx", "3."),
-    ("page4.txt", "Section 4 DF-Enlightenment.docx", "4."),
+    ("Introduction.txt", "Introduction-.docx", ""),
+    ("page1.txt", "Section 1-Birth.docx", "1."),
+    #("page1.txt", "1 - Birth of the Buddha Gotama.docx", "1."),
+    ("page2.txt", "Section 2- Childhood and Family of the Buddha.docx", "2."),
+    ("page3.txt", "Section 3-Asetic life.docx", "3."),
+    ("page4.txt", "Section 4 -Enlightenment.docx", "4."),
+    ("page4_1.txt", "Section 4-1 Four Assembly.docx", "4-1."),
     ("page5.txt", "Section 5 DF- Greatness of The Buddha.docx", "5."),
     ("page6.txt", "Section 6 DF - Titles.docx", "6."),
     ("page7.txt", "Section 7 DF- As a  Teacher.docx", "7."),
@@ -25,7 +28,7 @@ pages_info = [
 # Ensure the output folder exists
 os.makedirs(output_folder, exist_ok=True)
 
-filename = os.path.join(input_folder, "Section 4 DF-Enlightenment.docx")
+filename = os.path.join(input_folder, "Section 4 -Enlightenment.docx")
 
 # doc = docx.Document(filename)
 html_content = docx2python(filename, html = True)
