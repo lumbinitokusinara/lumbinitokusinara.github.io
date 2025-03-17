@@ -93,6 +93,16 @@ const pages = [
   'page14_1.html',
   'page14_2.html',
   'page15.html',
+  'page15_1.html',
+  'page15_2.html',
+  'page15_3.html',
+  'page15_4.html',
+  'page16_1.html',
+  'page16_2.html',
+  'page16_3.html',
+  'page17.html',
+  'page18.html',
+  'page19.html',
   // Add more pages as needed
 ];
 
