@@ -6,7 +6,7 @@ pages_info = [
     ("page2.html", "2. Childhood and Family Life", "2."),
     ("page3.html", "3. Ascetic Life", "3."),
     ("page4.html", "4. Enlightenment", "4."),
-    ("page4_1.html", "4.1. Establishment of the Community", "4.1"),
+    ("page4_1.html", "4.1. The Founding of the Fourfold Assembly", "4.1"),
     ("page5.html", "5. The Greatness of the Buddha", "5."),
     ("page6.html", "6. Titles and Epithets for the Buddha", "6."),
     ("page7.html", "7. Buddha as the Teacher", "7."),
@@ -15,13 +15,17 @@ pages_info = [
     ("page10.html","10. Significant Dhamma Teachings", "10."),
     ("page11_1.html","11.1 Advice and Guidance to the Sangha", "11.1"),
     ("page11_2.html","11.2 Advice and Guidance to Lay Followers", "11.2"),
-    ("page12.html","12. Similes- Metaphors of the Buddha", "12"),
+    ("page12.html","12. The Similes and Metaphors of the Buddha", "12"),
     ("page13.html","13. Introduction of 45 years of Buddha's life", "13"),
-    ("page13_1.html","13.1 First Dhamma Tour to 1st Rain season", "13.1"),
-    ("page13_2.html","13.2 2nd Dhamma tour to the 3rd tour", "13.2"),
-    ("page14_1.html","14.1 Events occurred at Rajagha", "14.1"),
-    ("page14_2.html","14.2 Fourth Dhamma Tour to Kapilvattu", "14.2"),
-    ("page15.html","15. Fifth Vassa to 45th Vassa", "15")
+    ("page13_1.html","13.1 First Teaching Tour and the First Rainy Season", "13.1"),
+    ("page13_2.html","13.2 Second and the Third Walking/ Teaching Tours", "13.2"),
+    ("page14_1.html","14.1 The Buddha Meeting King Seniya Bimbisāra of Magadha", "14.1"),
+    ("page14_2.html","14.2 Rājagaha to Kapilavattu the Fourth Walking Tour and Kapilavattu to Rājagaha: the Fifth Walking Tour", "14.2"),
+    ("page14_3.html","14.3 Second to Fourth Vassa Spent in Rājagaha (Age 36-39)", "14.3"),
+    ("page15_1.html","15.1 Fifth Vassa Spent in Vesālȋ (Age 39)", "15.1"),
+    ("page15_2.html","15.2 Sixth to Eighth Vassa- Age 40 - 42 Years", "15.2"),
+    ("page15_3.html","15.3 Ninth to Tenth Vassa (Age 43–44)", "15.3"),
+    ("page19.html","19. Fifth Vassa to 45th Vassa", "19.")
 ]
 
 # Read the template file with UTF-8 encoding
