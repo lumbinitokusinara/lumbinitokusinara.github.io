@@ -30,10 +30,6 @@ os.makedirs(output_folder, exist_ok=True)
 filename = os.path.join(input_folder, "Section 4 -Enlightenment.docx")
 
 
-
-
-#text = docx2txt.process(filename, output_image_folder)
-
 page4_info = pages_info[3]
 image_folder_ex = pages_info[3][0].split('.')[0]
 

@@ -92,7 +92,6 @@ const pages = [
   'page13_2.html',
   'page14_1.html',
   'page14_2.html',
-  'page15.html',
   'page15_1.html',
   'page15_2.html',
   'page15_3.html',

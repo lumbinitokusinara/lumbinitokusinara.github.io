@@ -12,7 +12,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image1.jpeg" /></p>
+<p></p>
+<p></p>
+<p>----Image alt text----&gt;A statue of a person sitting in a lotus position</p>
+<p></p>
+<p>AI-generated content may be incorrect.&lt;<img src="page1/image1.jpeg" /></p>
 <p></p>
 <p><b>Buddha in Sarnath Museum (Dhammajak Mutra): </b>Source: Tevaprapas Makklay : Picture Courtesy:</p>
 <p></p>
@@ -22,31 +26,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><img src="page1/image2.jpeg" /></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p><b>Map showing the Jambudȋpa during the time of Gotama Buddha</b></p>
 <p></p>
@@ -105,17 +85,7 @@
 <p></p>
 <p><img src="page1/image3.jpeg" /></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Right: Bodhisatta in Tuṣita Heaven </b>-Stone carving during the <a href="https://en.wikipedia.org/wiki/Kushan_Dynasty"><u>Kushan Dynasty</u></a>. Picture courtesy: Wikipedia</p>
+<p><b>Bodhisatta in Tuṣita Heaven </b>- Stone carving during the <a href="https://en.wikipedia.org/wiki/Kushan_Dynasty"><u>Kushan Dynasty</u></a>. Picture courtesy: Wikipedia</p>
 <p>Venerable Ānanda <span id="Endnote7">[<a href="#endnote7">7</a>]</span> is quoted in the suttas, describing the birth of the Buddha:</p>
 <p><i>“…I heard and learned this, Venerable Sir, from the Blessed One’s own lips: ‘Mindful and fully aware…the Bodhisatta appeared in the Tusita heaven …the Bodhisatta remained in the Tusita heaven …the Bodhisatta passed away from the Tusita heaven” and descended into his mother’s womb”</i> <span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
 <p><b>The Bodhisatta’s Birth into a Royal Family</b></p>
@@ -139,16 +109,6 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><b>The Birth of the Bodhisatta at Lumbini Park</b></p>
 <p>According to ancient tradition, Queen Mahāmāyā, the wife of King Suddhodana, set out from the royal city of Kapilavattu to travel to her parental home in Devadaha, as was the custom for expectant mothers of noble lineage. Along the journey, she came upon the enchanting Lumbini Park, a serene grove where Sāl trees stood in full bloom, their delicate flowers filling the air with a sweet fragrance.</p>
 <p>Captivated by the beauty of the place, the queen entered the park with her attendants. After bathing in a clear pond, she strolled through the grove, admiring its peaceful splendour. As she reached for a branch laden with blossoms, holding it gently in her hand, a wondrous moment unfolded—the Bodhisatta was born.<span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
@@ -159,23 +119,12 @@
 <p></p>
 <p></p>
 <p></p>
+<p><b>Queen Maya Devi giving birth to the baby prince at Lumbini Grove: </b>Picture courtesy: Daham Sabawa https://dahamsabava.wordpress.com/</p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Queen Maya Devi giving birth to the baby prince at Lumbini Grove: </b>Picture courtesy: Daham Sabawa</p>
-<p></p>
-<p>https://dahamsabava.wordpress.com/</p>
-<p></p>
-<p></p>
-<p></p>
-<p><h1></h1></p>
 <p><b>The Miraculous </b><b>Signs at the Birth of the Bodhisatta</b></p>
 <p>The birth of a Bodhisatta is unlike any other—it is a moment of extraordinary significance, marked by divine signs that proclaim the arrival of a being destined to bring unparalleled wisdom and compassion to the world. The scriptures record that the birth of the future Buddha was accompanied by wondrous events, as vividly described by Venerable Ānanda: <span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
 <p></p>
@@ -318,10 +267,6 @@
 <p></p>
 <p><img src="page1/image7.jpeg" /></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><b>Sakka the king of devas and his retinue rejoicing the birth of the Bodhisatta</b>, Picture Courtesy: <a href="https://budusarana.lk/">https://budusarana.lk/</a></p>
 <p><b>Lumbini Park: The Sacred Birthplace of the Gotama Buddha</b></p>
 <p>The name Lumbini carries a meaning as beautiful as its significance— “lovely” in the Nepalese language. Both tradition and the sacred scriptures affirm that Lumbini, the hallowed site of the Buddha’s birth, was located within the Sakyan Kingdom of northern India, an area known in ancient times as the Middle Country (Majjhimadesa).</p>
@@ -375,16 +320,10 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image9.jpeg" /><b>Map showing the main provinces of North India during the time of the Buddha</b></p>
+<p><img src="page1/image9.jpeg" /></p>
+<p></p>
+<p><b>Map showing the main provinces of North India during the time of the Buddha</b></p>
 <p><b>Source: </b>Buddhist India by<b> </b>T. W. Rhys Davids.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -428,43 +367,27 @@
 <p><i>Devānaṃpiyena Piyadasina lājina vīsati-vasābhisitena- atana āgāca mahīyite hida Budhe jāte Sakyamuni ti- silā vigaḍabhī cā kālāpita silā-thabhe ca usapāpite- </i><b><i>hida Bhagavaṃ jāte ti Luṃmini-gāme</i></b><i> ubalike kaṭe  aṭha-bhāgiye ca.</i></p>
 <p><b>Source: </b>wikipedia</p>
 <p></p>
+<p></p>
+<p></p>
 <p><b>The translation: </b></p>
 <p></p>
 <p>“When King Devanampriya Priyadarsin had been anointed twenty years, he came himself and worshipped (this spot) because the <a href="https://en.wikipedia.org/wiki/Buddha_Shakyamuni"><u>Buddha Shakyamuni</u></a> was born here. (He) both caused to be made a stone bearing a horse and caused a stone pillar to be set up, (in order to show) that the Blessed One was born here. (He) made the village of <u>Lummini</u> free of taxes, and paying (only) an eighth share (of the produce)” Source: Wikipedia.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>Below</b> Left<b>:</b> Excavation of Asoka’s Piller in Lumbini. <b>Right:</b> Modern day Lumbini Piller: picture courtesy: Wikipedia.</p>
-<p></p>
-<p><img src="page1/image11.jpeg" /><img src="page1/image12.jpeg" /></p>
 <p></p>
 <p></p>
+<p><img src="page1/image11.jpeg" /></p>
 <p></p>
-<p></p>
+<p>Excavation of Asoka’s Piller in Lumbini.</p>
 <p></p>
 <p></p>
 <p></p>
+<p>----Image alt text----&gt;A tall tower with flags</p>
 <p></p>
+<p>AI-generated content may be incorrect.&lt;<img src="page1/image12.jpeg" /></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>Modern day Lumbini Piller: picture courtesy: Wikipedia.</p>
 <p></p>
 <p></p>
 <p></p>
@@ -476,8 +399,6 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Below: Ancient site of Lumbini</b>, before the new constructions: Picture courtesy: UNESCO World Heritage Convention</p>
-<p></p>
 <p><img src="page1/image13.jpeg" /></p>
 <p></p>
 <p></p>
@@ -485,12 +406,15 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Below: Modern day Lumbini Park</b>: picture courtesy: 1. World History Encyclopedia</p>
+<p><b>Ancient site of Lumbini</b>, before the new constructions: Picture courtesy: UNESCO World Heritage Convention</p>
 <p></p>
-<p>2 Dreamstime.com.</p>
 <p></p>
-<p><img src="page1/image14.jpeg" /><img src="page1/image15.jpeg" /></p>
 <p></p>
+<p><img src="page1/image14.jpeg" /></p>
+<p></p>
+<p><img src="page1/image15.jpeg" /></p>
+<p></p>
+<p><b>Modern day Lumbini Park</b></p>
 <p><b>The Buddha: A Noble Sage of the Sakyan Clan</b></p>
 <p>Throughout the scriptures, the Buddha is revered as a member of the noble Sakyan clan, which is why he came to be known as ‘Sakya Muni’, the sage of the Sakyans, and his disciples as ‘Sakya Putta’, the sons of the Sakyans. The Sakyan Republic was located on the edge of the majestic Himalayas, with Kapilavattu serving as their royal capital. Though the Sakyan Republic was under the rule of the King of Kosala, it was a republican state, where power was shared among its leaders.</p>
 <p>According to both tradition and the scriptures, King Okkāka was regarded as the legendary ancestor of the Sakyans. The Ambaṭṭha Sutta (DN:3) recounts a passage that highlights the origins of the Sakyan clan in these words:</p>
@@ -536,26 +460,6 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>During the Buddha's lifetime, Kapilavattu was a prominent and well-known city located in the northern region of Jambudvīpa, the ancient name for the Indian subcontinent. As the capital of the Sakyan clan, it was a bustling, prosperous city with a rich cultural and political significance. Mahānāma, a prominent member of the Sakyan clan, described the city’s vibrant nature in this way:</p>
 <p></p>
 <p><i>“This Kapilavattu is rich and prosperous, populous and crowded, with its thoroughfares congested. In the evening, when I return to Kapilavattu after visiting the Blessed One or the esteemed bhikkhus, I often encounter stray elephants, horses, chariots, carts, and even people wandering about in excitement…”</i><span id="Endnote28">[<a href="#endnote28">28</a>]</span><i> </i></p>
@@ -582,47 +486,15 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Stupa at Piprahwa village in Uttar Pradesh, India</b>: picture courtesy: Wikipedia</p>
-<p></p>
 <p><img src="page1/image17.png" /></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p><b>Stupa at Piprahwa village in Uttar Pradesh, India</b>: picture courtesy: Wikipedia</p>
 <p></p>
 <p></p>
 <p></p>
 <p><img src="page1/image18.jpeg" /></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -644,10 +516,12 @@
 <p></p>
 <p></p>
 <p></p>
-<p>This is<b> </b>the end of this section, in the  Next section (2) we will focus on Prince Siddhartha and his family.</p>
+<p>This is<b> </b>the end of this section. In the next section (2), we will focus on Prince Siddhartha and his family.</p>
 <p></p>
 <p></p>
 <p></p>
+<p><b></p>
+<p></b></p>
 <p><b>End Notes: Section 1</b></p>
 <p></p>
 <p></p>
