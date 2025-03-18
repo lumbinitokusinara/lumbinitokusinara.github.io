@@ -14,9 +14,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;A statue of a person sitting in a lotus position</p>
-<p></p>
-<p>AI-generated content may be incorrect.&lt;<img src="page1/image1.jpeg" /></p>
+<p><img src="page1/image1.jpeg" /></p>
 <p></p>
 <p><b>Buddha in Sarnath Museum (Dhammajak Mutra): </b>Source: Tevaprapas Makklay : Picture Courtesy:</p>
 <p></p>
@@ -371,7 +369,7 @@
 <p></p>
 <p><b>The translation: </b></p>
 <p></p>
-<p>“When King Devanampriya Priyadarsin had been anointed twenty years, he came himself and worshipped (this spot) because the <a href="https://en.wikipedia.org/wiki/Buddha_Shakyamuni"><u>Buddha Shakyamuni</u></a> was born here. (He) both caused to be made a stone bearing a horse and caused a stone pillar to be set up, (in order to show) that the Blessed One was born here. (He) made the village of <u>Lummini</u> free of taxes, and paying (only) an eighth share (of the produce)” Source: Wikipedia.</p>
+<p>“When King Devanampriya Priyadarsin had been anointed twenty years, he came himself and worshipped (this spot) because the <a href="https://en.wikipedia.org/wiki/Buddha_Shakyamuni"><u>Buddha Shakyamuni</u></a> was born here. (He) both caused to be made a stone bearing a horse and caused a stone pillar to be set up, (in order to show) that the Blessed One was born here. (He) made the village of <a href="https://en.wikipedia.org/wiki/Lumbini"><u>Lumbini</u></a> free of taxes, and paying (only) an eighth share (of the produce)” Source: Wikipedia.</p>
 <p></p>
 <p></p>
 <p></p>
@@ -383,9 +381,15 @@
 <p></p>
 <p></p>
 <p></p>
-<p>----Image alt text----&gt;A tall tower with flags</p>
 <p></p>
-<p>AI-generated content may be incorrect.&lt;<img src="page1/image12.jpeg" /></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><img src="page1/image12.jpeg" /></p>
 <p></p>
 <p>Modern day Lumbini Piller: picture courtesy: Wikipedia.</p>
 <p></p>
@@ -498,7 +502,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>T<b>he east gate at the Tilaurakot archaeological site in Nepal:</b> picture courtesy: Wikipedia</p>
+<p><b>The east gate at the Tilaurakot archaeological site in Nepal: picture courtesy: Wikipedia</b></p>
 <p></p>
 <p></p>
 <p></p>
