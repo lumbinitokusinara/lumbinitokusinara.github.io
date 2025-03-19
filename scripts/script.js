@@ -11,6 +11,9 @@ async function loadContent() {
   const response = await fetch('/pages/content.json');
   const contentData = await response.json();
 
+  // console.log(currentPage);
+  // console.log(contentData);
+
   const mainElement = document.getElementById('content');
   if (contentData[currentPage]) {
     mainElement.innerHTML = contentData[currentPage]; // Render HTML content
@@ -33,6 +36,19 @@ if (dropdown) {
   });
 }
 
+
+const dropdown2 = document.getElementById('section-dropdown2');
+if (dropdown2) {
+    console.log("dropdown2 -----");
+    console.log(dropdown2);
+    dropdown2.addEventListener('change', function () {
+    const selectedPage2 = this.value;
+    console.log(selectedPage2);
+    if (selectedPage2) {
+      window.location.href = selectedPage2;
+    }
+  });
+}
 
 // Background Image Rotation (for homepage)
 const images = [

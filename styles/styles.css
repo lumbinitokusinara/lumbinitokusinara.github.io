@@ -119,6 +119,23 @@ nav ul li a:hover {
   background: #f0f0f0;
 }
 
+
+/* Dropdown */
+#section-dropdown2 {
+  padding: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  background: white;
+  border: none;
+  cursor: pointer;
+}
+
+#section-dropdown2:hover {
+  background: #f0f0e2;
+}
+
+
+
 /* styles.css */
 /* Navigation Buttons */
 .nav-buttons {
