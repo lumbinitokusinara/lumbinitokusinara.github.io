@@ -10,7 +10,7 @@ input_folder = 'docs'
 output_folder = 'content'
 
 pages_info = [
-    ("Introduction.txt", "Introduction.docx", ""),
+    ("Introduction.txt", "Introduction.docx", "II."),
     ("page1.txt", "Section 1 - Birth.docx", "1."),
     ("page2.txt", "Section 2 - Childhood and Family of the Buddha.docx", "2."),
     ("page3.txt", "Section 3 - Asetic life.docx", "3."),
@@ -21,9 +21,11 @@ pages_info = [
     ("page7.txt", "Section 7 - As a Teacher.docx", "7."),
     ("page8.txt", "Section 8 - Praise and blame.docx", "8."),
     ("page9.txt", "Section 9 - Past lives.docx", "9."),
-   
     ("page11_1.txt","Section 11 -1 DF- Advice to the Sangha.docx", "11.1"),
-    ("page11_2.txt","Section 11-2 Advice to Lay Followers.docx", "11.2")
+    ("page11_2.txt","Section 11-2 Advice to Lay Followers.docx", "11.2"),
+    ("TOC.txt","Table of Contents 1.docx", "I."),
+    ("Gratitude.txt","Gratitude to the Blessed One.docx", "III."),
+    ("Abbreviations.txt","Abbreviations.docx", "V.")
     
 ]
 
@@ -50,6 +52,7 @@ if allFiles == True:
         output_image_folder = os.path.join(output_folder, image_folder_ex)
         os.makedirs(output_image_folder, exist_ok=True)
         print(output_image_folder)
+        # extract images
         docx2txt.process(docfile, output_image_folder)
        
         print(docfile)

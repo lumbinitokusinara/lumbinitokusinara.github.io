@@ -1,0 +1,16 @@
+<p><b>ABBREVIATIONS</b></p>
+<p>AN: <a href="https://www.accesstoinsight.org/tipitaka/an/index.html"><u>Anguttara Nikaya</u></a> (AN1:1 Nipāta 1, sutta 1 in Bhikkhu Bodhi’s translation)</p>
+<p>DN: <a href="https://www.accesstoinsight.org/tipitaka/dn/index.html"><u>Digha Nikaya</u></a> (DN:1-sutta 1 in Maurice Walshe’s translation)</p>
+<p>MN: <a href="https://www.accesstoinsight.org/tipitaka/mn/index.html"><u>Majjhima Nikaya</u></a> (MN:1- sutta 1 in Bhikkhu Ñāņamoli &amp; Bhikkhu Bodhi’s translation)</p>
+<p>SN: <a href="https://www.accesstoinsight.org/tipitaka/sn/index.html"><u>Samyutta Nikaya</u></a> (SN1:1-Samyutta1, sutta 1 in Bhikkhu Bodhi’s translation)</p>
+<p>KN: <a href="https://www.accesstoinsight.org/tipitaka/kn/index.html"><u>Khuddaka Nikaya</u></a></p>
+<p>Kn:Kp: <a href="https://www.accesstoinsight.org/tipitaka/kn/khp/index.html"><u>Khuddakapatha</u></a></p>
+<p>Iti: Itivuttaka: (Iti<b> </b>+ verse number)</p>
+<p>Dhp: Dhammapada (Dhp + verse number)</p>
+<p>Snp: Sutta Nipāta (Snp + vagga + sutta number)</p>
+<p>Thig: Therigatha (Thig + verse number)</p>
+<p>Thag: Theragatha (Thag + verse number)</p>
+<p>ThiAp: Theri apadana (ThiAp + verse number)</p>
+<p>ThaAp: Thera apadana (ThaAp  vesr number)</p>
+<p>Ud: Udana (Ud + chapter + sutta nimber)</p>
+<p>VP: Vinaya Pitaka</p>
