@@ -10,21 +10,21 @@ input_folder = 'docs'
 output_folder = 'content'
 
 pages_info = [
-    ("Introduction.txt", "Introduction.docx", "II."),
-    ("page1.txt", "Section 1 - Birth.docx", "1."),
-    ("page2.txt", "Section 2 - Childhood and Family of the Buddha.docx", "2."),
-    ("page3.txt", "Section 3 - Asetic life.docx", "3."),
-    ("page4.txt", "Section 4 - Enlightenment.docx", "4."),
-    ("page4_1.txt", "Section 4-1 Four Assembly.docx", "4-1."),
-    ("page5.txt", "Section 5 - Greatness of The Buddha.docx", "5."),
+   # ("Introduction.txt", "Introduction.docx", "II."),
+   # ("page1.txt", "Section 1 - Birth.docx", "1."),
+   # ("page2.txt", "Section 2 - Childhood and Family of the Buddha.docx", "2."),
+   # ("page3.txt", "Section 3 - Asetic life.docx", "3."),
+   # ("page4.txt", "Section 4 - Enlightenment.docx", "4."),
+   # ("page4_1.txt", "Section 4-1 Four Assembly.docx", "4-1."),
+   # ("page5.txt", "Section 5 - Greatness of The Buddha.docx", "5."),
     ("page6.txt", "Section 6 - Titles.docx", "6."),
     ("page7.txt", "Section 7 - As a Teacher.docx", "7."),
     ("page8.txt", "Section 8 - Praise and blame.docx", "8."),
     ("page9.txt", "Section 9 - Past lives.docx", "9."),
-    ("page11_1.txt","Section 11 -1 DF- Advice to the Sangha.docx", "11.1"),
-    ("page11_2.txt","Section 11-2 Advice to Lay Followers.docx", "11.2"),
-    ("TOC.txt","Table of Contents 1.docx", "I."),
-    ("Gratitude.txt","Gratitude to the Blessed One.docx", "III."),
+  #  ("page11_1.txt","Section 11 -1 DF- Advice to the Sangha.docx", "11.1"),
+  #  ("page11_2.txt","Section 11-2 Advice to Lay Followers.docx", "11.2"),
+  #  ("TOC.txt","Table of Contents 1.docx", "I."),
+  #  ("Gratitude.txt","Gratitude to the Blessed One.docx", "III."),
     ("Abbreviations.txt","Abbreviations.docx", "V.")
     
 ]
@@ -76,6 +76,7 @@ if allFiles == True:
                 stripped_line = re.sub(r'----endnote(\d+)----', r'<span id="Endnote\1">[<a href="#endnote\1">\1</a>]</span>', stripped_line)
                 stripped_line = re.sub(r'endnote(\d+)\)', r'<span id="endnote\1">[<a href="#Endnote\1">\1</a>]</span>', stripped_line)
                 stripped_line = re.sub(r'----media/image(\d+)\.jpeg----', lambda m: f'<img src="{image_folder_ex}/image{m.group(1)}.jpeg" />', stripped_line)
+                stripped_line = re.sub(r'----media/image(\d+)\.gif----', lambda m: f'<img src="{image_folder_ex}/image{m.group(1)}.gif" />', stripped_line)
                 stripped_line = re.sub(r'----media/image(\d+)\.png----', lambda m: f'<img src="{image_folder_ex}/image{m.group(1)}.png" />', stripped_line)
                 stripped_line = re.sub(r'----Image alt text----&gt;.*?&lt;', '', stripped_line)
                 

@@ -1,7 +1,7 @@
-<p><b>Section 7: The Buddha—The Supreme Teacher of the World</b></p>
+<p><h1>Section 7: The Buddha—The Supreme Teacher of the World</h1></p>
 <p>The Buddha was not just a teacher—he was the greatest teacher the world has ever known. His wisdom, boundless compassion, and supreme skill in guiding beings toward liberation make him unparalleled in history. He possessed an extraordinary ability to meet each person at their own level of understanding, gently leading them from ignorance to truth, from suffering to the highest bliss of Nibbāna.</p>
 <p></p>
-<p>----media/image1.gif----</p>
+<p><img src="page7/image1.gif" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -31,20 +31,22 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddha, Universal Compassionate One</b>. Picture courtesy: https://newbuddhist.com/</p>
+<p></p>
+<p></p>
+<p><b>The Buddha, Universal Compassionate One</b> <span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p>After his enlightenment, the Blessed One devoted his life entirely to alleviating human suffering, realizing that the most urgent and noble task was to teach. He illuminated the path with the light of Dhamma, dispelling the darkness of delusion for countless beings. Through his profound wisdom and skillful means, he transformed the minds of those trapped in wrong views, revealing to them the ultimate reality.</p>
 <p>The scriptures illustrate how the Blessed One, the greatest of all teachers, guided multitudes—kings and paupers, ascetics and householders, scholars and sceptics, humans and devas—toward the supreme truth. His words were not mere philosophy but a living path to liberation, accessible to those willing to listen, reflect, and practice.</p>
-<p><b>As the 14th Dalai Lama eloquently advises:</b></p>
-<p><i>“If you study the Buddha’s teachings, you may find that some of them are in harmony with your views on societal values, science, and consumerism—and some of them are not. That is fine. Continue to investigate and reflect on what you discover. In this way, whatever conclusion you reach will be based on reason, not simply on tradition, peer pressure, or blind faith…”</i><span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
+<p><h3>As the 14th Dalai Lama eloquently advises:</h3></p>
+<p><i>“If you study the Buddha’s teachings, you may find that some of them are in harmony with your views on societal values, science, and consumerism—and some of them are not. That is fine. Continue to investigate and reflect on what you discover. In this way, whatever conclusion you reach will be based on reason, not simply on tradition, peer pressure, or blind faith…”</i><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
 <p>Bhikkhu Bodhi, a renowned Buddhist scholar, further emphasizes the Buddha’s universal role as a teacher:</p>
-<p><i>“…In the Majjhima Nikāya, we do not meet the Buddha only as the head of the Order. Repeatedly, we see him engaged in living dialogue with people from all walks of life—with kings and princes, with brahmins and ascetics, with simple villagers and erudite philosophers, with earnest seekers and vain disputants. It is perhaps in this scripture above all others that the Buddha emerges in the role ascribed to him in the canonical verse of homage as ‘</i><b><i>the incomparable leader of persons to be tamed</i></b><i>, the teacher of gods and humans.”</i> <span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
+<p><i>“…In the Majjhima Nikāya, we do not meet the Buddha only as the head of the Order. Repeatedly, we see him engaged in living dialogue with people from all walks of life—with kings and princes, with brahmins and ascetics, with simple villagers and erudite philosophers, with earnest seekers and vain disputants. It is perhaps in this scripture above all others that the Buddha emerges in the role ascribed to him in the canonical verse of homage as ‘</i><b><i>the incomparable leader of persons to be tamed</i></b><i>, the teacher of gods and humans.”</i> <span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
 <p>What made the Buddha’s teachings so extraordinary was not only their profound depth but also the way he delivered them—with immense compassion, perfect humility, and astonishing clarity. He did not seek followers; rather, he guided beings to discover the truth for themselves. Even those who belonged to other religious sects—though they may not have followed his path—respected him and paid him tribute, recognizing the greatness of his wisdom.</p>
-<p><b>His teachings were not bound by tradition but pointed directly to liberation:</b></p>
+<p><h3>His teachings were not bound by tradition but pointed directly to liberation:</h3></p>
 <p><i>“The Blessed One taught the spiritual life,</i></p>
 <p><i>not based on tradition, culminating in Nibbāna,</i></p>
 <p><i>lived for the sake of</i></p>
@@ -54,21 +56,21 @@
 <p><i>Those who practice it</i></p>
 <p><i>as taught by the Buddha,</i></p>
 <p><i>acting upon the Teacher’s guidance,</i></p>
-<p><i>will make an end of suffering”</i><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
+<p><i>will make an end of suffering”</i><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
 <p></p>
 <p>To truly grasp the greatness of the Buddha as a teacher, we turn to a few remarkable episodes from his teaching career, which reveal his skill, patience, and compassion in guiding beings to the highest truth.</p>
-<p><b>The Buddha—The Supreme Teacher of Wisdom and Compassion</b></p>
+<p><h1>The Buddha—The Supreme Teacher of Wisdom and Compassion</h1></p>
 <p>The Blessed One once declared:</p>
-<p><i>“Bhikkhus, this spiritual life is not lived for the sake of deceiving people and cajoling them, nor for the benefit of gain, honour, and praise, nor for winning debates, nor with the thought: ‘Let the people know me thus.’ But rather, this spiritual life is lived for the sake of restraint, abandoning, dispassion, and cessation.”</i><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
+<p><i>“Bhikkhus, this spiritual life is not lived for the sake of deceiving people and cajoling them, nor for the benefit of gain, honour, and praise, nor for winning debates, nor with the thought: ‘Let the people know me thus.’ But rather, this spiritual life is lived for the sake of restraint, abandoning, dispassion, and cessation.”</i><span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p>The Buddha’s role as a teacher was unparalleled—his wisdom penetrated the depths of reality, his compassion embraced all beings, and his ability to transform minds was truly extraordinary. Through perfect skill and profound reasoning, he led people away from ignorance and towards the ultimate liberation of Nibbāna. The following accounts illustrate his supreme mastery in guiding beings from delusion to truth, from suffering to freedom.</p>
-<p><b>The Buddha and the Brahmin Sundarika Bhāradvāja</b></p>
+<p><h2>The Buddha and the Brahmin Sundarika Bhāradvāja</h2></p>
 <p>On one occasion, the Blessed One explained to a great assembly of monks and laypeople</p>
 <p>how the mind could be pure or impure, using the simile of a cloth. He taught that a mind</p>
 <p>purified by wisdom leads to true liberation. Sitting in that assembly was the Brahmin Sundarika Bhāradvāja, who believed in ritual purification through sacred river bathing. When he heard the Buddha speak of ‘inner bathing,’ he became intrigued and asked:</p>
-<p><i>“Master Gotama, do you go to the Bāhukā River to bathe?”</i> <span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
+<p><i>“Master Gotama, do you go to the Bāhukā River to bathe?”</i> <span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
 <p></p>
 <p>The Buddha inquired why he considered bathing in the river necessary, and Sundarika Bhāradvāja replied:</p>
 <p><i>“Master Gotama, many believe that the Bāhukā River grants liberation, bestows merit, and washes away evil deeds.”</i></p>
@@ -88,7 +90,7 @@
 <p>Hearing these sublime words, Sundarika Bhāradvāja was overcome with reverence. He realized that true purification comes not from external rituals, but from purifying the heart through wisdom and virtue. With great joy, he exclaimed:</p>
 <p><i>“Magnificent, Master Gotama! You have made the Dhamma clear, as one who turns upright what was overturned, reveals what was hidden, shows the way to the lost, or holds a lamp in the dark for those with sight to see. I go to Master Gotama for refuge!”</i></p>
 <p>Through his understanding of the Dhamma, Sundarika Bhāradvāja later attained Arahantship, achieving final liberation.</p>
-<p><b>The Buddha and the Wanderer Māgandiya</b></p>
+<p><h2>The Buddha and the Wanderer Māgandiya</h2></p>
 <p>In the <i>Māgandiya Sutta</i> (MN:75), we encounter the wanderer Māgandiya, a hedonist philosopher who opposed the Buddha’s teachings. He was so disgusted by the Buddha’s renunciation of sensual pleasures that he mocked him, saying to his friend:</p>
 <p><i>“The recluse Gotama is a destroyer of growth. That is what we have learned from our discourse.”</i></p>
 <p>However, the Blessed One, in his infinite wisdom, allowed Māgandiya to express his views fully before responding with profound reasoning and a powerful simile. He said:</p>
@@ -103,14 +105,13 @@
 <p>Hearing this discourse, Māgandiya’s mind opened to the truth. With great sincerity, he declared:</p>
 <p>“I have confidence in Master Gotama. Master Gotama is capable of teaching me the Dhamma in such a way that I may come to know true health and see Nibbāna.”</p>
 <p>Under the Buddha’s guidance, Māgandiya eventually became an enlightened disciple.</p>
-<p><b>The Buddha and Prince Abhaya </b><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
-<p></p>
-<p>One day, Prince Abhaya—one of King Bimbisāra’s sons—was sent by his teacher, Nigaṇṭha Nātaputta, <span id="Endnote7">[<a href="#endnote7">7</a>]</span> to refute the Buddha’s doctrine. He was instructed to ask whether the Buddha ever spoke words that were disagreeable to others. If the Buddha said yes, he could be accused of harsh speech. If he said no, he could be accused of contradicting himself.</p>
+<p><h2>The Buddha and Prince Abhaya <span id="Endnote7">[<a href="#endnote7">7</a>]</span></h2></p>
+<p>One day, Prince Abhaya—one of King Bimbisāra’s sons—was sent by his teacher, Nigaṇṭha Nātaputta, <span id="Endnote8">[<a href="#endnote8">8</a>]</span> to refute the Buddha’s doctrine. He was instructed to ask whether the Buddha ever spoke words that were disagreeable to others. If the Buddha said yes, he could be accused of harsh speech. If he said no, he could be accused of contradicting himself.</p>
 <p>Prince Abhaya invited the Blessed One for a meal and then posed the question:</p>
 <p><i>“Venerable sir, does a Tathāgata ever speak words that are unwelcome and disagreeable to others?”</i></p>
 <p>The Buddha, knowing his intent, replied:</p>
 <p><i>“Prince, there is no one-sided answer to that question.”</i></p>
-<p>Prince Abhaya was surprised and recounted his teacher’s claim that the Buddha would be unable to answer such a question. <span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
+<p>Prince Abhaya was surprised and recounted his teacher’s claim that the Buddha would be unable to answer such a question. <span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
 <p></p>
 <p>The Blessed One then gave a profound simile:</p>
 <p>“<i>Prince, suppose your young child were to put a pebble in his mouth. What would you do?”</i></p>
@@ -128,8 +129,8 @@
 <p><i>“So too, prince, when people ask the Tathāgata questions, the answer occurs to him on the spot, for he has fully penetrated the nature of all things.”</i></p>
 <p>On that day, Prince Abhaya became an ardent disciple of the Blessed One and later attained Arahantship.</p>
 <p>The Buddha’s skill in teaching was unmatched. With wisdom, compassion, and masterful similes, he transformed the hearts and minds of those who sought the truth. Truly, he was the supreme teacher of gods and humans.</p>
-<p><b>The Buddha and the Wanderer Vacchagotta</b></p>
-<p>During the time of the Buddha, views on the origin of the world, the existence of a soul, and what happened after death were hotly debated. The scriptures mention ten of these speculative views. <span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
+<p><h2>The Buddha and the Wanderer Vacchagotta</h2></p>
+<p>During the time of the Buddha, views on the origin of the world, the existence of a soul, and what happened after death were hotly debated. The scriptures mention ten of these speculative views. <span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -160,23 +161,24 @@
 <p>Vaccha: “That does not apply, Master Gotama. The fire burned in dependence on fuel of grass and sticks. When that fuel was used up, if it did not get any more fuel, being without fuel, it is reckoned as extinguished.”</p>
 <p>Through the simile of the extinguished fire, the Blessed One demonstrated the pointlessness of speculative views regarding the destiny of an enlightened being. Vaccha became a follower of the Buddha and, later, when he attained arahant-hood, he praised the Buddha, saying:</p>
 <p>“The Blessed One has been worshipped by me, the Sublime One has been worshipped by me.”</p>
-<p><b>The Buddha and His Disciples:</b></p>
+<p><h2>The Buddha and His Disciples:</h2></p>
 <p>The following incident shows how his disciples regarded the Buddha as their teacher. It demonstrates the Buddha’s humility and also that his disciples did not worship him as a god or super-human, rather simply a teacher, who discovered the spiritual path and showed it them.</p>
-<p><b>With Venerable Sāriputta</b></p>
-<p>On one occasion, during the Pavāraṇā <span id="Endnote10">[<a href="#endnote10">10</a>]</span> ceremony, the Blessed One invited his disciples to point out any faults in his conduct. Venerable Sāriputta, after paying homage to the Buddha, responded:</p>
-<p><i>"Venerable sir, there is no bodily or verbal misconduct in the Blessed One that we could possibly censure. The Blessed One is the originator of the path that had not arisen before, the revealer of the path that had not been declared before. He is the knower of the path, the discoverer of the path, the one skilled in the path. Now, his disciples follow that path and will continue to possess it in the future." </i><span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
+<p><h3>With Venerable Sāriputta</h3></p>
+<p>On one occasion, during the Pavāraṇā <span id="Endnote11">[<a href="#endnote11">11</a>]</span> ceremony, the Blessed One invited his disciples to point out any faults in his conduct. Venerable Sāriputta, after paying homage to the Buddha, responded:</p>
+<p><i>"Venerable sir, there is no bodily or verbal misconduct in the Blessed One that we could possibly censure. The Blessed One is the originator of the path that had not arisen before, the revealer of the path that had not been declared before. He is the knower of the path, the discoverer of the path, the one skilled in the path. Now, his disciples follow that path and will continue to possess it in the future." </i><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddha with Devas and Other Beings</b></p>
+<p><h2>The Buddha with Devas and Other Beings</h2></p>
 <p>The Buddha is known as the "teacher of devas and humans" (satthā devamanussānaṃ). Though firmly established in the human world, he surpasses even the most exalted deities through his supreme wisdom and perfect purity.</p>
 <p>In the deep stillness of the night, while the rest of the world sleeps, devas often visit the Buddha—sometimes to recite verses in his praise, sometimes to ask profound questions. When they approach, they almost always bow in homage, recognizing the Buddha as their spiritual and moral superior.</p>
-<p><b>As Bhikkhu Bodhi writes: </b><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
+<p></p>
+<p>As Bhikkhu Bodhi writes:<b> </b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
 <p></p>
 <p>"The Buddha towers above the most exalted deities by reason of his supreme wisdom and perfect purity."</p>
-<p>Devas, <span id="Endnote13">[<a href="#endnote13">13</a>]</span> Brahmas  <span id="Endnote14">[<a href="#endnote14">14</a>]</span>, and Yakkas s’ <span id="Endnote15">[<a href="#endnote15">15</a>]</span> alike accepted the Buddha as a great and wise teacher, inspired by his purity and universal knowledge. The following are some of the encounters the Blessed One had with them:</p>
-<p><b>The Buddha and Sakka, Ruler of the Gods</b></p>
-<p>On one occasion, Sakka, the ruler of the gods, approached the Blessed One and asked:<i> </i><span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
+<p>Devas, <span id="Endnote14">[<a href="#endnote14">14</a>]</span> Brahmas  <span id="Endnote15">[<a href="#endnote15">15</a>]</span>, and Yakkas s’ <span id="Endnote16">[<a href="#endnote16">16</a>]</span> alike accepted the Buddha as a great and wise teacher, inspired by his purity and universal knowledge. The following are some of the encounters the Blessed One had with them:</p>
+<p><h2>The Buddha and Sakka, Ruler of the Gods</h2></p>
+<p>On one occasion, Sakka, the ruler of the gods, approached the Blessed One and asked:<i> </i><span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
 <p></p>
 <p><i>"Why do beings long for peace and harmony, yet live in conflict, harming one another?"</i></p>
 <p>The Buddha replied:</p>
@@ -191,7 +193,7 @@
 <p>To the Buddha, the peerless Lord, the mighty hero, the kinsman of the Sun!</p>
 <p>Just as Brahmā is worshipped by the gods, so too today we worship you,</p>
 <p>Enlightened One, the unsurpassed Teacher—none can equal you,</p>
-<p>In the human world or among the gods!" <span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
+<p>In the human world or among the gods!" <span id="Endnote18">[<a href="#endnote18">18</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -233,30 +235,28 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Sakka ,the ruler of the devas’ listening to a discourse by the Buddha</b>. Picture courtesy: https://wisdomquarterly.blogspot.com/</p>
+<p><b>Sakka the ruler of the devas’ listening to a discourse by the Buddha</b>. <span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddha Taming Āḷavaka the Yakkha</b></p>
-<p>The scriptures recount how the Buddha, with his unique patience and skillful teaching methods, subdued a fierce yakkha. The background story unfolds as follows:</p>
+<p><h2>The Buddha Taming Āḷavaka the Yakkha</h2></p>
+<p>The scriptures recount how the Buddha, with his unique patience and skilful teaching methods, subdued a fierce yakkha. The background story unfolds as follows:</p>
 <p>One day, while hunting in the forest, King Āḷavaka of Āḷavī was captured by the ferocious Yakkha Āḷavaka, who threatened to devour him. The king pleaded for his life and was granted release on one condition—he had to provide the yakkha with a human sacrifice each day.</p>
-<p>At first, the king sent criminals from the royal prison. But when there were no more prisoners left, he decreed that each family in the kingdom must offer a child. Over time, families with children fled the land, leaving the king with no choice but to sacrifice his own son, the young prince of Āḷavī. <span id="Endnote18">[<a href="#endnote18">18</a>]</span></p>
+<p>At first, the king sent criminals from the royal prison. But when there were no more prisoners left, he decreed that each family in the kingdom must offer a child. Over time, families with children fled the land, leaving the king with no choice but to sacrifice his own son, the young prince of Āḷavī. <span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
 <p></p>
 <p>Aware of this impending tragedy, the Buddha, moved by compassion, intervened. On the night before the sacrifice was to take place, he journeyed to the yakkha’s dwelling, determined to turn the fearsome being away from his cruel ways.</p>
 <p>At that time, Āḷavaka was away, attending a gathering of yakkhas in the Himalayas. The Buddha entered his cave, took a seat upon the yakkha’s throne, and began preaching the Dhamma to the demon’s consorts.</p>
-<p>When Āḷavaka heard of this, he was overcome with rage. In a fury, he rushed back to Āḷavī and demanded that the Blessed One leave at once…<span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
-<p></p>
-<p></p>
+<p>When Āḷavaka heard of this, he was overcome with rage. In a fury, he rushed back to Āḷavī and demanded that the Blessed One leave at once…<span id="Endnote21">[<a href="#endnote21">21</a>]</span></p>
 <p></p>
 <p>Āḷavaka the Yakkha arrived at his dwelling and saw the Buddha seated there. He commanded, “Get out, ascetic!”</p>
 <p>The Buddha calmly replied, “All right, friend,” and stepped outside. Then the yakkha ordered, “Come in, ascetic!” and the Blessed One re-entered.</p>
-<p>This exchange happened three times. The Buddha complied each time, knowing that yielding would be the most effective way to soften the yakkha’s mind. However, when Āḷavaka intended to keep sending him in and out all night, the Master firmly refused, saying, “I will not go out, friend. Do whatever you must.” <span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
+<p>This exchange happened three times. The Buddha complied each time, knowing that yielding would be the most effective way to soften the yakkha’s mind. However, when Āḷavaka intended to keep sending him in and out all night, the Master firmly refused, saying, “I will not go out, friend. Do whatever you must.” <span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
 <p>Enraged, the yakkha threatened him:</p>
 <p>“ I will question you, ascetic. If you fail to answer, I will drive you insane, split your heart, or seize you by the feet and hurl you across the Ganges!”</p>
 <p>Yet the Blessed One remained unshaken and replied:</p>
 <p>“Friend, in this world—with its devas, Māra, and Brahmā; among this generation of ascetics and brahmins, devas and humans—I see no one who could drive me insane, split my heart, or seize me by the feet and hurl me across the Ganges. Ask whatever you wish.”</p>
 <p>Āḷavaka then questioned the Buddha about truthfulness, wisdom, self-control, generosity, duty, patience, and more. As he listened to the Master’s profound answers, he became satisfied and deeply moved.</p>
-<p>Finally, he declared: “Why should I now seek answers from other ascetics and brahmins? Today, I have realized what truly benefits the future life. Indeed, it was for my sake that the Buddha came to reside at Āḷavī. Now I understand where a gift bears great fruit… From this day forward, I shall go from village to village, town to town, paying homage to the Enlightened One and the excellence of the Dhamma.”  <span id="Endnote21">[<a href="#endnote21">21</a>]</span></p>
+<p>Finally, he declared: “Why should I now seek answers from other ascetics and brahmins? Today, I have realized what truly benefits the future life. Indeed, it was for my sake that the Buddha came to reside at Āḷavī. Now I understand where a gift bears great fruit… From this day forward, I shall go from village to village, town to town, paying homage to the Enlightened One and the excellence of the Dhamma.”  <span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
 <p></p>
 <p><img src="page7/image3.jpeg" /></p>
 <p></p>
@@ -282,7 +282,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Taming of Āḷavaka Yakkha by the Blessed One</b>: Picture courtesy: https://namo.lk/category/tripitaka/sutta/samyuttanikaya/</p>
+<p><b>Taming of Āḷavaka Yakkha by the Blessed One</b><span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
 <p></p>
 <p><img src="page7/image4.jpeg" /></p>
 <p></p>
@@ -318,39 +318,40 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Dhamma Chakka Mudrā</b></p>
+<p><h3>The Dhamma Chakka Mudrā<span id="Endnote25">[<a href="#endnote25">25</a>]</span></h3></p>
 <p></p>
 <p>Tradition holds that when the Blessed One teaches, he keeps his hands in a specific gesture known as the Dhamma Chakka Mudrā—the gesture of turning the Wheel of Dhamma. He first used it while delivering his inaugural sermon at Deer Park in Isipatana.</p>
-<p>Picture courtesy:<b><i> </i></b><a href="https://namo.lk/dhammachakkappavattana-sutta/"><b>https://namo.lk/dhammachakkappavattana-sutta/</b></a></p>
-<p><b>The Buddha and Brahma Baka </b><span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
 <p></p>
-<p>According to the scriptures, Brahma Baka, after dwelling for countless eons in the Brahma world, developed the mistaken view that his existence there was supreme and eternal. Seeing this with his divine insight, the Blessed One, out of compassion, vanished from Jeta’s Grove and reappeared in Brahma Baka’s realm. <span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
+<p></p>
+<p>The Buddha and Brahma Baka<b> </b><span id="Endnote26">[<a href="#endnote26">26</a>]</span></p>
+<p></p>
+<p>According to the scriptures, Brahma Baka, after dwelling for countless eons in the Brahma world, developed the mistaken view that his existence there was supreme and eternal. Seeing this with his divine insight, the Blessed One, out of compassion, vanished from Jeta’s Grove and reappeared in Brahma Baka’s realm. <span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
 <p></p>
 <p>Engaging in dialogue with Brahma Baka, the Buddha revealed that, despite the immense lifespan of beings in the Brahma world, it too was impermanent. He recounted Brahmā Baka’s past lives and the many meritorious deeds he had performed. By the end of the discourse, Brahma Baka realized the truth and abandoned his mistaken view of permanence. Bowing before the Blessed One, he declared:</p>
 <p><i>"Surely, you know the span of my life,</p>
 <p>And the lives of others too; thus, you are the Buddha.</p>
 <p>Such is your radiant majesty,</p>
-<p>That even the Brahma world is illumined by your light." </i><span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
+<p>That even the Brahma world is illumined by your light." </i><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddha as a Wise Teacher</b></p>
+<p><h2>The Buddha as a Wise Teacher</h2></p>
 <p>As a wise and compassionate teacher, the Buddha always listened carefully to others. If their words were reasonable and true, he praised them and accepted their insights. This quality is evident in several instances from the scriptures:</p>
-<p><b>The Buddha Acknowledges Deva Tāyana</b></p>
+<p><h3>The Buddha Acknowledges Deva Tāyana</h3></p>
 <p>On one occasion, a young deva named Tāyana approached the Buddha, paid homage to him, and recited verses about the holy life. The following day, the Buddha shared this encounter with the Saṅgha and instructed the bhikkhus:</p>
-<p><i>“…learn Tāyana’s verses, bhikkhus…Remember Tāyana’s verses…Tāyana’s verses are beneficial, bhikkhus, they pertain to the fundamentals of the holy life.” </i><span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
+<p><i>“…learn Tāyana’s verses, bhikkhus…Remember Tāyana’s verses…Tāyana’s verses are beneficial, bhikkhus, they pertain to the fundamentals of the holy life.” </i><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddha Praises Bhikkhunī Dhammadinnā </b><span id="Endnote26">[<a href="#endnote26">26</a>]</span><b> </b></p>
-<p>Once, Visākha, <span id="Endnote27">[<a href="#endnote27">27</a>]</span> a devoted lay follower and non-returner, approached Venerable Bhikkhunī Dhammadinnā, paid homage to her, and asked profound questions regarding identity view and liberation. The bhikkhunī gave clear and insightful answers, deeply impressing Visākha.</p>
+<p>The Buddha Praises Bhikkhunī Dhammadinnā<b> </b><span id="Endnote30">[<a href="#endnote30">30</a>]</span><b> </b></p>
+<p>Once, Visākha, <span id="Endnote31">[<a href="#endnote31">31</a>]</span> a devoted lay follower and non-returner, approached Venerable Bhikkhunī Dhammadinnā, paid homage to her, and asked profound questions regarding identity view and liberation. The bhikkhunī gave clear and insightful answers, deeply impressing Visākha.</p>
 <p>He later visited the Buddha and recounted his conversation with Bhikkhunī Dhammadinnā. The Blessed One praised her wisdom, affirming her discourse as the true teaching of the Buddha, saying:</p>
 <p><i>“Bhikkhunī Dhammadinnā is wise, Visākha.</p>
 <p>She has great wisdom. If you had asked me these questions,</p>
 <p>I would have answered them exactly as she did.</p>
-<p>This is the correct meaning, and so you should remember it.”</i> <span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
+<p>This is the correct meaning, and so you should remember it.”</i> <span id="Endnote32">[<a href="#endnote32">32</a>]</span></p>
 <p></p>
-<p><b>The Buddha’s Teaching: A Path to Liberation from Suffering</b></p>
+<p><h1>The Buddha’s Teaching: A Path to Liberation from Suffering</h1></p>
 <p>Throughout the scriptures, it is evident that the Buddha’s primary purpose was to guide beings away from suffering. Understanding human nature deeply, he sometimes employed unconventional methods to help them realize the Dhamma for themselves.</p>
 <p>The following accounts illustrate the Buddha’s skill and boundless compassion—his ability to perceive the suffering of beings and lead them toward peace.</p>
 <p></p>
@@ -360,11 +361,11 @@
 <p></p>
 <p><img src="page7/image5.jpeg" /></p>
 <p></p>
-<p><b>Kisā Gotamī besieging the Buddha to bring her dead son back to life.</b>  Picture courtesy: https://www.vridhamma.org/</p>
+<p><b>Kisā Gotamī besieging the Buddha to bring her dead son back to life.</b><span id="Endnote33">[<a href="#endnote33">33</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Story of Bhikkhunī Kisā Gotamī </b><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
+<p>The Story of Bhikkhunī Kisā Gotamī <span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
 <p></p>
 <p>During the time when the Blessed One resided in Sāvatthi, a woman named Kisā Gotamī lived in a nearby village. She came from a poor family and, after marriage, moved into the home of her wealthy husband. However, because she had not brought a large dowry, her new relatives treated her with little respect.</p>
 <p>Everything changed when she gave birth to a son. Now, as the mother of the family’s heir, her status improved, and life became easier. She loved her child deeply—he was her whole world.</p>
@@ -395,13 +396,13 @@
 <p>I do not sorrow, I do not weep,</p>
 <p>Nor do I fear you, friend!"</p>
 <p></p>
-<p>Realizing that Bhikkhunī Kisā Gotamī had seen through his deception, Māra, disappointed and defeated, vanished on the spot. Thus, through wisdom and insight, Kisā Gotamī transcended grief and attained the highest peace—Nibbāna.<span id="Endnote30">[<a href="#endnote30">30</a>]</span></p>
+<p>Realizing that Bhikkhunī Kisā Gotamī had seen through his deception, Māra, disappointed and defeated, vanished on the spot. Thus, through wisdom and insight, Kisā Gotamī transcended grief and attained the highest peace—Nibbāna.<span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>Taming Angulimāla -The Serial Killer Who Became an Arahant </b><span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
+<p>Taming Angulimāla -The Serial Killer Who Became an Arahant <span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
 <p></p>
 <p>During his time in Jeta’s Grove, Sāvatthī, the Blessed One became aware of a notorious bandit named Angulimāla, who terrorized the forests of the Kosala region. Angulimāla had been deceived by a corrupt teacher into believing that he needed to collect a thousand human fingers as an offering. Merciless in his pursuit, he had already claimed 999 victims—only one more was needed to complete his gruesome garland.</p>
 <p>With his divine eye, the Buddha saw that Angulimāla’s own mother was unknowingly walking toward the forest, about to become his final victim. But the Blessed One also perceived something even more profound—Angulimāla had the potential to attain arahantship. Moved by boundless compassion, the Buddha set out to intercept him, determined to prevent a matricide, one of the five most heinous crimes that lead to immediate rebirth in hell.</p>
@@ -424,7 +425,7 @@
 <p>Recognizing that this monk was none other than the Buddha himself, he threw down his sword and fell to his knees. With a heart filled with remorse and reverence, he bowed at the feet of the Blessed One and begged for ordination.</p>
 <p>The Buddha, the great teacher of boundless compassion, the refuge of the world with its gods and men, simply said:</p>
 <p>"Come, bhikkhu."</p>
-<p>With these words, Angulimāla was instantly ordained into the monastic order. <span id="Endnote32">[<a href="#endnote32">32</a>]</span></p>
+<p>With these words, Angulimāla was instantly ordained into the monastic order. <span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
 <p></p>
 <p>From that moment on, the man who had once been a ruthless killer devoted himself fully to the path of the Dhamma. Through dedicated practice, he transformed his mind, and before long, he attained arahantship—perfect liberation.</p>
 <p>Thus, the most feared bandit of the land became one of the most revered disciples in the Buddha’s dispensation, proving that no one is beyond redemption when met with wisdom and compassion.</p>
@@ -467,23 +468,24 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Angulimala running after the Buddha. </b>Picture Courtesy: https://www.facebook.com/InnerDhamma/photos</p>
+<p><b>Angulimala running after the Buddha </b><span id="Endnote38">[<a href="#endnote38">38</a>]</span></p>
+<p></p>
+<p><h1></h1></p>
+<p><h1>The Blessed One’s Mastery of Teaching</h1></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Blessed One’s Mastery of Teaching</b></p>
-<p><b>Bhikkhu Bodhi eloquently describes the Buddha’s extraordinary teaching abilities</b>: <span id="Endnote33">[<a href="#endnote33">33</a>]</span></p>
+<p>Bhikkhu Bodhi eloquently describes the Buddha’s extraordinary teaching abilities: <span id="Endnote39">[<a href="#endnote39">39</a>]</span></p>
 <p></p>
 <p>“As a skilled and versatile teacher, the Buddha adopted different styles of presentation to communicate the Dhamma to his disciples. Often, he would explain a teaching in detail (vitthārena). Having introduced his topic with a short statement or synopsis (uddesa), he would then elaborate (niddesa), analyzing it, drawing out its implications, and sometimes using similes (upamā) to reinforce his point. Finally, he would restate his declaration as a conclusion (niggamana), now supported by the full weight of his analysis.”</p>
 <p><b>“</b>At other times, however, the Buddha would teach briefly (saṁkhittena), offering only a concise, sometimes cryptic statement, rich with profound meaning. This was not to conceal an esoteric message but because brevity, in certain cases, was more effective in shaking and transforming the minds of his listeners. The purpose of his teachings was not merely to convey information but to inspire insight, wisdom, and liberation. By requiring his disciples to reflect deeply, engage in inquiry, and discuss the teachings, the Buddha ensured that his words would lead them toward true understanding”</p>
-<p><b>The Blessed One Taught in Both Brief and Detailed Ways</b></p>
+<p><h2>The Blessed One Taught in Both Brief and Detailed Ways</h2></p>
 <p>The Buddha himself affirmed:</p>
-<p><i>“Sāriputta, I can teach the Dhamma briefly; I can teach the Dhamma in detail; I can teach the Dhamma both briefly and in detail. But those who can truly understand are rare.” </i><span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
+<p><i>“Sāriputta, I can teach the Dhamma briefly; I can teach the Dhamma in detail; I can teach the Dhamma both briefly and in detail. But those who can truly understand are rare.” </i><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
 <p></p>
-<p>Before teaching, the Buddha carefully considered his audience, assessing their capacity to comprehend the Dhamma. With his extraordinary ability to perceive the spiritual maturity of beings (<i>indriya-paropariyatte ñāna</i>), <span id="Endnote35">[<a href="#endnote35">35</a>]</span>  he tailored his teachings accordingly. For those who needed extensive explanations, he expounded in detail with stories and similes. For those with keen wisdom, a brief but profound statement sufficed. Always, his teachings stemmed from great compassion—his sole purpose was to guide beings out of the endless cycle of <i>samsāra</i> and toward liberation.</p>
-<p><b>Two Styles of the Buddha’s Teachings</b></p>
-<p><b>Detailed Teachings: A Discourse with Subha the Brahmin Student </b><span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
-<p></p>
+<p>Before teaching, the Buddha carefully considered his audience, assessing their capacity to comprehend the Dhamma. With his extraordinary ability to perceive the spiritual maturity of beings (<i>indriya-paropariyatte ñāna</i>), <span id="Endnote41">[<a href="#endnote41">41</a>]</span>  he tailored his teachings accordingly. For those who needed extensive explanations, he expounded in detail with stories and similes. For those with keen wisdom, a brief but profound statement sufficed. Always, his teachings stemmed from great compassion—his sole purpose was to guide beings out of the endless cycle of <i>samsāra</i> and toward liberation.</p>
+<p><h2>Two Styles of the Buddha’s Teachings</h2></p>
+<p><h3>Detailed Teachings: A Discourse with Subha the Brahmin Student <span id="Endnote42">[<a href="#endnote42">42</a>]</span></h3></p>
 <p>One time, a young Brahmin student named Subha approached the Blessed One and inquired why some people are born into fortunate circumstances while others suffer misfortune. He asked:</p>
 <p><i>“Why is it, Master Gotama, that some people are short-lived while others live long? Some are sickly while others are healthy, some ugly while others are beautiful, some poor while others are wealthy, some born into low status while others are highly regarded, and some foolish while others are wise?”</i></p>
 <p>The Buddha responded:</p>
@@ -503,10 +505,11 @@
 <p>--	<b>Birth Status</b>: Those who are arrogant and fail to honour the honourable are reborn into low status, whereas those who pay respect to the worthy are reborn into esteemed families.</p>
 <p></p>
 <p>--	<b>Wisdom</b>: Those who neglect to seek wisdom, who refuse to learn from the wise, are reborn foolish. But those who approach the learned, eager to understand wholesome and unwholesome actions, are reborn wise.</p>
-<p>Upon hearing this detailed explanation, Subha gained deep understanding of the workings of <i>kamma</i> and expressed his gratitude to the Buddha, becoming his devoted follower.<span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
+<p>Upon hearing this detailed explanation, Subha gained deep understanding of the workings of <i>kamma</i> and expressed his gratitude to the Buddha, becoming his devoted follower.<span id="Endnote43">[<a href="#endnote43">43</a>]</span></p>
 <p></p>
 <p>The Blessed One, with boundless wisdom and compassion, taught the Dhamma in ways suited to the needs of each being—whether in depth or in brief—always guiding them toward the path of liberation.</p>
-<p><b>With the Kālāmas of Kesaputta </b><span id="Endnote38">[<a href="#endnote38">38</a>]</span></p>
+<p></p>
+<p>With the Kālāmas of Kesaputta<b> </b><span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
 <p></p>
 <p>The Kālāmas of Kesaputta were a clan known for their intellect. One of the Buddha’s most frequently quoted teachings was delivered to them during his stay in Kesaputta.</p>
 <p>The Kālāmas approached the Blessed One and said:</p>
@@ -528,13 +531,12 @@
 <p>“Thus, Kālāmas, when I said: ‘<b>Do not go by oral tradition … but when you know for yourselves that something is unwholesome, blameworthy, and censured by the wise—when you see that it leads to harm and suffering—you should abandon it,’ I spoke for this reason</b>.”</p>
 <p>The Buddha then inquired whether the absence of greed, hatred, and delusion would be beneficial. The Kālāmas agreed that the cultivation of wholesome qualities brings happiness, both to oneself and to others. The Blessed One then expounded on the benefits of wholesome actions and how the abandonment of unwholesome states leads to true liberation. In this way, he guided the Kālāmas toward the Dhamma—not by demanding blind faith, but by encouraging their own reflection.</p>
 <p>At the conclusion of the discourse, the Kālāmas, deeply moved, venerated the Blessed One and said:</p>
-<p><i>“Excellent, Bhante! … We go for refuge to the Blessed One, to the Dhamma, and to the Saṅgha of bhikkhus. Let the Blessed One consider us lay followers who, from this day forward, have gone for refuge for life.” </i><span id="Endnote39">[<a href="#endnote39">39</a>]</span><i> </i></p>
+<p><i>“Excellent, Bhante! … We go for refuge to the Blessed One, to the Dhamma, and to the Saṅgha of bhikkhus. Let the Blessed One consider us lay followers who, from this day forward, have gone for refuge for life.” </i><span id="Endnote45">[<a href="#endnote45">45</a>]</span><i> </i></p>
 <p></p>
-<p><b>Brief but Profound Teachings of the Buddha</b></p>
+<p><h2>Brief but Profound Teachings of the Buddha</h2></p>
 <p>The following encounters illustrate how the Buddha could convey the Dhamma in simple, concise words—brief yet deeply profound. To highlight these succinct yet powerful teachings, we have selected the following extracts from the scriptures:</p>
-<p><b>With the Ascetic Bahiya Darichariya </b><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
-<p></p>
-<p>The <i>Udāna</i> records the story of Bāhiya as follows: <span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
+<p><h3> With the Ascetic Bahiya Darichariya <span id="Endnote46">[<a href="#endnote46">46</a>]</span></h3></p>
+<p>The <i>Udāna</i> records the story of Bāhiya as follows: <span id="Endnote47">[<a href="#endnote47">47</a>]</span></p>
 <p></p>
 <p>At one time, the Blessed One was dwelling near Sāvatthī, in Jeta’s Grove at Anāthapiṇḍika’s monastery. At that same time, Bāhiya of the Bark Robe was living near Suppāraka, on the ocean’s shore, venerated by many.</p>
 <p>One day, while in seclusion, Bāhiya reflected:</p>
@@ -549,14 +551,7 @@
 <p><i>“Bāhiya, you should train yourself thus: In what is seen, let there be only what is seen; in what is heard, only what is heard; in what is sensed, only what is sensed; in what is cognized, only what is cognized. This is how you should train yourself…”</i></p>
 <p><i>“When, Bāhiya, in what is seen there is only what is seen, in what is heard only what is heard, in what is sensed only what is sensed, in what is cognized only what is cognized—then, you will not be ‘with that.’ Since you will not be ‘with that,’ you will not be ‘in that.’ Since you will not be ‘in that,’ you will not be here, nor hereafter, nor in between the two. Just this is the end of suffering.”</i></p>
 <p>Upon hearing these words, Bāhiya’s mind was instantly liberated from all attachment. Shortly afterward, he was killed by a cow.</p>
-<p></p>
-<p><img src="page7/image7.jpeg" />When the monks informed the Buddha of Bāhiya’s passing, he instructed them to cremate his remains and erect a stupa in his honour. The Blessed One then declared Bāhiya Dārucīriya the disciple who attained direct knowledge in the shortest time. <span id="Endnote42">[<a href="#endnote42">42</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Bhaiya meeting the Buddha</b>. Picture courtesy: https://www.mahamevnawa.org.au/</p>
+<p>When the monks informed the Buddha of Bāhiya’s passing, he instructed them to cremate his remains and erect a stupa in his honour. The Blessed One then declared Bāhiya Dārucīriya the disciple who attained direct knowledge in the shortest time. <span id="Endnote48">[<a href="#endnote48">48</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -568,8 +563,65 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>With the Ascetic Tissametteiya </b><span id="Endnote43">[<a href="#endnote43">43</a>]</span></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><img src="page7/image7.jpeg" /></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><b>Bhaiya meeting the Buddha</b>. <span id="Endnote49">[<a href="#endnote49">49</a>]</span></p>
+<p></p>
+<p></p>
+<p></p>
+<p><h2>With the Ascetic Tissametteiya <span id="Endnote50">[<a href="#endnote50">50</a>]</span></h2></p>
 <p>On one occasion approaching the Buddha, ascetic Tissametteiya asked:</p>
 <p>“Who in this world is truly content?</p>
 <p>Who remains undisturbed?</p>
@@ -581,14 +633,15 @@
 <p>That thoughtful one, having known both ends, is not stuck in the middle.</p>
 <p>He is a great man, I declare; he has escaped the seamstress.”</p>
 <p><b>Notes:</b></p>
-<p><b>On the Seamstress</b>: The Buddha explained:</p>
+<p></p>
+<p>On the Seamstress: The Buddha explained:</p>
 <p></p>
 <p>“Contact, bhikkhus, is one end; the arising of contact is the second end; the cessation of contact is in the middle. And craving is the seamstress, for craving sews one to the production of this or that state of existence.</p>
-<p>It is in this way that a bhikkhu directly knows what should be known, fully understands what should be understood, and, by doing so, in this very life, brings suffering to an end.” <span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
+<p>It is in this way that a bhikkhu directly knows what should be known, fully understands what should be understood, and, by doing so, in this very life, brings suffering to an end.” <span id="Endnote51">[<a href="#endnote51">51</a>]</span></p>
 <p></p>
 <p>The Buddha and the arahants are called great men because they have escaped the seamstress—craving—thus freeing themselves from the cycle of existence.</p>
 <p>In the next section (8) we will focus on praise and criticism bestowed to the Buddha by various beings of this world</p>
-<p><b>End Note: Section 7</b></p>
+<p><h3>End Note: Section 7</h3></p>
 <p></p>
 <p></p>
 <p></p>
@@ -598,93 +651,109 @@
 <p></p>
 <p></p>
 <p></p>
-<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 The 14th Dalai Lama, Tenzin Gyatso, spiritual leader of Tibet. This is a quote from the book:
+<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 Source: https://newbuddhist.com/
+<p></p>
+<span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 The 14th Dalai Lama, Tenzin Gyatso, spiritual leader of Tibet. This is a quote from the book:
 <p></p>
 <p>‘Approaching the Buddhist Path’.</p>
 <p></p>
-<span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 Introduction to Majjima Nikaya by Bhikkhu Bodhi, see: MN: p.12, this is one of the 9 major qualities of the Buddha.
+<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 Introduction to Majjima Nikaya by Bhikkhu Bodhi, see: MN: p.12, this is one of the 9 major qualities of the Buddha.
 <p></p>
-<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 AN4: 25.
+<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 AN4: 25.
 <p></p>
-<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 Ibid.
+<span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 MN: 7 (Vatthūpama Sutta- the Simile of the Cloth).
+<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 MN: 7 (Vatthūpama Sutta- the Simile of the Cloth).
 <p></p>
-<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 MN: 58 (Abhayarājakumāra Sutta)
+<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 MN: 58 (Abhayarājakumāra Sutta)
 <p></p>
-<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Nigaṇṭha Nātaputta, the Jain leader was one of the popular religious teachers during the Buddha’s time.
+<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Nigaṇṭha Nātaputta, the Jain leader was one of the popular religious teachers during the Buddha’s time.
 <p></p>
-<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Both horns of the dilemma devised by the Nigaṇṭha Nātaputta presupposed that the Buddha would give a one-sided answer. Now that a one-sided answer has been rejected, the dilemma becomes inapplicable <b>see</b>: MN: Notes: 612, p. 1121.
+<span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 Both horns of the dilemma devised by the Nigaṇṭha Nātaputta presupposed that the Buddha would give a one-sided answer. Now that a one-sided answer has been rejected, the dilemma becomes inapplicable <b>see</b>: MN: Notes: 612, p. 1121.
 <p></p>
-<span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 The 10 views are: (1) “‘The world is eternal; this alone is true, anything else is wrong’: such is my view, householder.” (2) Another wanderer said: “‘The world is non-eternal; this alone is true, anything else is wrong’: such is my view, householder.” (3)–(4) Still another said: “‘The world is finite’ … ‘The world is infinite’ … (5)–(6) ‘The soul and the body are the same’ … ‘The soul is one thing, the body another’ … (7)–(10) ‘The Tathāgata exists after death’ … ‘The Tathāgata does not exist after death’ … ‘The Tathāgata both exists and does not exist after death’ … ‘The Tathāgata neither exists nor does not exist after death’; this alone is true, anything else is wrong, see: AN10: 93 (View sutta).
+<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 The 10 views are: (1) “‘The world is eternal; this alone is true, anything else is wrong’: such is my view, householder.” (2) Another wanderer said: “‘The world is non-eternal; this alone is true, anything else is wrong’: such is my view, householder.” (3)–(4) Still another said: “‘The world is finite’ … ‘The world is infinite’ … (5)–(6) ‘The soul and the body are the same’ … ‘The soul is one thing, the body another’ … (7)–(10) ‘The Tathāgata exists after death’ … ‘The Tathāgata does not exist after death’ … ‘The Tathāgata both exists and does not exist after death’ … ‘The Tathāgata neither exists nor does not exist after death’; this alone is true, anything else is wrong, see: AN10: 93 (View sutta).
 <p></p>
-<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 Pavāraṇā ceremony: at the end of the 3 months rain retreat ( vassāvāsa) which held annually, each bhikkhu/ bhikkhuni  in order of seniority invites the sangha to point out any misconduct on his/her part; accordingly the Buddha too invited his disciples. <b>See</b>: SN: Notes: 513, p.567.
+<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 Pavāraṇā ceremony: at the end of the 3 months rain retreat ( vassāvāsa) which held annually, each bhikkhu/ bhikkhuni  in order of seniority invites the sangha to point out any misconduct on his/her part; accordingly the Buddha too invited his disciples. <b>See</b>: SN: Notes: 513, p.567.
 <p></p>
-<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 SN8:7 (Pavāraṇā sutta).
+<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 SN8:7 (Pavāraṇā sutta).
 <p></p>
-<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 This extract is from Introduction to SN:Devatāsamyutta by Bhikkhu Bodhi.
+<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 This extract is from Introduction to SN:Devatāsamyutta by Bhikkhu Bodhi.
 <p></p>
-<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 For Buddhism the devas are not immortal gods exercising a creative role in the cosmic process. They are simply elevated beings, blissful and luminous, who had previously dwelt in the human world but had been reborn in the celestial planes as the fruit of their meritorious deeds. With rare exceptions they are just as much in bondage to delusion and desire as human beings, and they equally stand in need of guidance from the Enlightened One. <b>See</b>: SN: Introduction: 1. Devatāsamyutta, p.45
+<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 For Buddhism the devas are not immortal gods exercising a creative role in the cosmic process. They are simply elevated beings, blissful and luminous, who had previously dwelt in the human world but had been reborn in the celestial planes as the fruit of their meritorious deeds. With rare exceptions they are just as much in bondage to delusion and desire as human beings, and they equally stand in need of guidance from the Enlightened One. <b>See</b>: SN: Introduction: 1. Devatāsamyutta, p.45
 <p></p>
-<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 “Brahmā was the supreme deity of early Brahmanism, conceived as the creator of the universe and venerated by the brahmins with sacrifices and rituals. The Buddha reinterpreted the idea of brahmā and transformed the single, all-powerful deity of the brahmins into a class of exalted gods dwelling in the form realm (rūpadhātu) far above the sense sphere heavens. Their abode is referred to as “the brahmā world,” of which there are many, of varying dimensions and degrees of hegemony…like all sentient beings, the brahmās are impermanent, still tied to the round of rebirth, though sometimes they forget this and imagine themselves immortal. . <b>See</b>: SN: Introduction: 6. Brahmasamyutta, p.45
+<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 “Brahmā was the supreme deity of early Brahmanism, conceived as the creator of the universe and venerated by the brahmins with sacrifices and rituals. The Buddha reinterpreted the idea of brahmā and transformed the single, all-powerful deity of the brahmins into a class of exalted gods dwelling in the form realm (rūpadhātu) far above the sense sphere heavens. Their abode is referred to as “the brahmā world,” of which there are many, of varying dimensions and degrees of hegemony…like all sentient beings, the brahmās are impermanent, still tied to the round of rebirth, though sometimes they forget this and imagine themselves immortal. . <b>See</b>: SN: Introduction: 6. Brahmasamyutta, p.45
 <p></p>
-<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 The yakkhas are fierce spirits inhabiting remote areas such as forests, hills, and abandoned caves. They are depicted as hideous mean and wrathful temperaments, but when given offerings and shown respect they become benign and may protect people rather than harm them. Many of the shrines that dotted the North Indian countryside were built to honour the yakkhasto secure their favours. Though living in misery, they have the potential for awakening and can attain the paths and fruits of the spiritual life, <b>see</b>: Introduction:  SN: 10 Yakkhasamyutta.
-<p></p>
-<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 DN: 21 (Sakkapañha Sutta).
+<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 The yakkhas are fierce spirits inhabiting remote areas such as forests, hills, and abandoned caves. They are depicted as hideous mean and wrathful temperaments, but when given offerings and shown respect they become benign and may protect people rather than harm them. Many of the shrines that dotted the North Indian countryside were built to honour the yakkhasto secure their favours. Though living in misery, they have the potential for awakening and can attain the paths and fruits of the spiritual life, <b>see</b>: Introduction:  SN: 10 Yakkhasamyutta.
 <p></p>
 <span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 DN: 21 (Sakkapañha Sutta).
 <p></p>
-<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	  Prince Āḷavaka became one of the foremost lay followers of the Buddha; see: AN1:251.
+<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 DN: 21 (Sakkapañha Sutta).
 <p></p>
-<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 <b>See:</b> SN: Notes: 593.
+<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 Source: https://wisdomquarterly.blogspot.com/
 <p></p>
-<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 <b>See:</b> SN: Notes: 594, p.580.
+<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	  Prince Āḷavaka became one of the foremost lay followers of the Buddha; see: AN1:251.
 <p></p>
-<span id="endnote21">[<a href="#Endnote21">21</a>]</span>	 <b>See:</b> SN9:12  (Āḷavaka sutta).
+<span id="endnote21">[<a href="#Endnote21">21</a>]</span>	<b> </b>See: SN: Notes: 593.
 <p></p>
-<span id="endnote22">[<a href="#Endnote22">22</a>]</span>	 Brahma Baka is from the Brahma world, see: SN: Notes: 386, p.551.
+<span id="endnote22">[<a href="#Endnote22">22</a>]</span>	 See: SN: Notes: 594, p.580.
 <p></p>
-<span id="endnote23">[<a href="#Endnote23">23</a>]</span>	 The sutta points out when the Bodhisattva in a former birth was named  Kappa and his teacher was Kesava now the Brahma Baka. See: SN: Notes:391, p.552.
+<span id="endnote23">[<a href="#Endnote23">23</a>]</span>	 See<b>:</b> SN9:12  (Āḷavaka sutta).
 <p></p>
-<span id="endnote24">[<a href="#Endnote24">24</a>]</span>	  SN7: 4 (Brahmā Baka sutta) * This encounter is also mentioned in MN: 49 (Brahmanimantanika Sutta)
+<span id="endnote24">[<a href="#Endnote24">24</a>]</span>	 Source: https://namo.lk/category/tripitaka/sutta/samyuttanikaya/
 <p></p>
-<span id="endnote25">[<a href="#Endnote25">25</a>]</span>	 SN2:8 (Tāyana sutta).
+<span id="endnote25">[<a href="#Endnote25">25</a>]</span>	 Source:<b><i> </i></b><a href="https://namo.lk/dhammachakkappavattana-sutta/"><b>https://namo.lk/dhammachakkappavattana-sutta/</b></a>
 <p></p>
-<span id="endnote26">[<a href="#Endnote26">26</a>]</span>	  Arahant bhikkhuni Dhammadinnā was declared by the Buddha the foremost bhikkhunı̄ disciple in expounding the Dhamma, see: MN:Notes: 459, p. 1107.
+<span id="endnote26">[<a href="#Endnote26">26</a>]</span>	 Brahma Baka is from the Brahma world, see: SN: Notes: 386, p.551.
 <p></p>
-<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 He was the husband of venerable Dhammadinnā in her lay life and supported her in becoming a nun.
+<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 The sutta points out when the Bodhisattva in a former birth was named  Kappa and his teacher was Kesava now the Brahma Baka. See: SN: Notes:391, p.552.
 <p></p>
-<span id="endnote28">[<a href="#Endnote28">28</a>]</span>	 MN:44 (Cūḷavedalla Sutta)
+<span id="endnote28">[<a href="#Endnote28">28</a>]</span>	  SN7: 4 (Brahmā Baka sutta) * This encounter is also mentioned in MN: 49 (Brahmanimantanika Sutta)
 <p></p>
-<span id="endnote29">[<a href="#Endnote29">29</a>]</span>	  See: The story of Bhikkhuni Kisagotami- Verse 114: Treasury of Truth: Dhammapada by Ven. Weragoda Sarada Thero.
+<span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 SN2:8 (Tāyana sutta).
 <p></p>
-<span id="endnote30">[<a href="#Endnote30">30</a>]</span>	 SN5:3.
+<span id="endnote30">[<a href="#Endnote30">30</a>]</span>	  Arahant bhikkhuni Dhammadinnā was declared by the Buddha the foremost bhikkhunı̄ disciple in expounding the Dhamma, see: MN:Notes: 459, p. 1107.
 <p></p>
-<span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 The name “Angulimāla” is an epithet meaning “garland (mālā) of fingers (anguli).” He was the son of the brahmin Bhaggava, a chaplain to King Pasenadi of Kosala. His given name was Ahiṁsaka, meaning “harmless one.” He studied at Takkasilā, where he became his teacher’s favourite. His fellow students, jealous of him, told the teacher that Ahiṁsaka had committed adultery with his wife. The teacher, intent on bringing Ahiṁsaka to ruin, commanded him to bring him a thousand human right-hand fingers as an honorarium. Ahiṁsaka lived in the Jālinı̄ forest, attacking travellers, cutting off a finger of each, and wearing them as a garland around his neck, see: MN: Notes: 820, p. 1140.
+<span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 He was the husband of venerable Dhammadinnā in her lay life and supported her in becoming a nun.
 <p></p>
-<span id="endnote32">[<a href="#Endnote32">32</a>]</span>	 MN:86 (Angulimāla Sutta)
+<span id="endnote32">[<a href="#Endnote32">32</a>]</span>	 MN:44 (Cūḷavedalla Sutta)
 <p></p>
-<span id="endnote33">[<a href="#Endnote33">33</a>]</span>	 See: “Mahā Kaccāna, Master of Doctrinal Exposition” by Bhikkhu Bodhi: Wheel No: 405/406: PBS:1995.
+<span id="endnote33">[<a href="#Endnote33">33</a>]</span>	 Source: https://www.vridhamma.org/
 <p></p>
-<span id="endnote34">[<a href="#Endnote34">34</a>]</span>	 AN3:33.
 <p></p>
-<span id="endnote35">[<a href="#Endnote35">35</a>]</span>	 This power was discussed in <b>section 5,</b> under Six Unshared Super-Normal Knowledges.
 <p></p>
-<span id="endnote36">[<a href="#Endnote36">36</a>]</span>	 Subha’s father the brahmin Todeyya, was reborn as a dog in his own house because of his extreme stinginess. The Buddha identified him to Subha by getting the dog to dig up some hidden treasure Subha’s father had buried before his death. This inspired Subha’s confidence in the Buddha and moved him to approach and inquire about the workings of kamma. <b>See:</b> MN: Notes: 1223, p1174.
+<span id="endnote34">[<a href="#Endnote34">34</a>]</span>	  See: The story of Bhikkhuni Kisagotami- Verse 114: Treasury of Truth: Dhammapada by Ven. Weragoda Sarada Thero.
 <p></p>
-<span id="endnote37">[<a href="#Endnote37">37</a>]</span>	 MN: 135 (Cūḷakammavibhanga Sutta)
+<span id="endnote35">[<a href="#Endnote35">35</a>]</span>	 SN5:3.
 <p></p>
-<span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 This sutta is best known under the name of “The Kālāma Sutta”; it shows how the Buddha encouraged free inquiry in order to assess the truth.
+<span id="endnote36">[<a href="#Endnote36">36</a>]</span>	 The name “Angulimāla” is an epithet meaning “garland (mālā) of fingers (anguli).” He was the son of the brahmin Bhaggava, a chaplain to King Pasenadi of Kosala. His given name was Ahiṁsaka, meaning “harmless one.” He studied at Takkasilā, where he became his teacher’s favourite. His fellow students, jealous of him, told the teacher that Ahiṁsaka had committed adultery with his wife. The teacher, intent on bringing Ahiṁsaka to ruin, commanded him to bring him a thousand human right-hand fingers as an honorarium. Ahiṁsaka lived in the Jālinı̄ forest, attacking travellers, cutting off a finger of each, and wearing them as a garland around his neck, see: MN: Notes: 820, p. 1140.
 <p></p>
-<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 AN 3: 65 (Kesaputtiya sutta/The Kālāma Sutta)
+<span id="endnote37">[<a href="#Endnote37">37</a>]</span>	 MN:86 (Angulimāla Sutta)
 <p></p>
-<span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 Before he met the Buddha, he had lived as an ascetic and was convinced he was an arahant until a benevolent deity disabused him of this notion. He hastened to visit the Buddha in Sāvatthī. Upon receiving the Buddha’s teaching, he immediately attained arahantship. He was killed by a cow shortly after his attainment. Though he did not receive formal ordination, he is still considered a bhikkhu. <b>See:</b> AN:Notes: 99, p. 585.
+<span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 Source :https://www.facebook.com/InnerDhamma/photos
 <p></p>
-<span id="endnote41">[<a href="#Endnote41">41</a>]</span>	 Ud:1.10 (Bāhiya sutta: translated by Bhikkhu Ãnandajoti).
+<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 See: “Mahā Kaccāna, Master of Doctrinal Exposition” by Bhikkhu Bodhi: Wheel No: 405/406: PBS:1995.
 <p></p>
-<span id="endnote42">[<a href="#Endnote42">42</a>]</span>	 AN1:216.
+<span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 AN3:33.
 <p></p>
-<span id="endnote43">[<a href="#Endnote43">43</a>]</span>	 Snp:5.2. He was a student of Bāvari, after listening to the Buddha, he became one of his arahant disciples: see: KN:SuttaNipātha: Parayanvagg: Vatthugātā, Translated by Bikkhu Sujato: w.w.w.suttacentrl.net.
+<span id="endnote41">[<a href="#Endnote41">41</a>]</span>	 This power was discussed in <b>section 5,</b> under Six Unshared Super-Normal Knowledges.
 <p></p>
-<span id="endnote44">[<a href="#Endnote44">44</a>]</span>	 AN6.61.
+<span id="endnote42">[<a href="#Endnote42">42</a>]</span>	 Subha’s father the brahmin Todeyya, was reborn as a dog in his own house because of his extreme stinginess. The Buddha identified him to Subha by getting the dog to dig up some hidden treasure Subha’s father had buried before his death. This inspired Subha’s confidence in the Buddha and moved him to approach and inquire about the workings of kamma. <b>See:</b> MN: Notes: 1223, p1174.
+<p></p>
+<span id="endnote43">[<a href="#Endnote43">43</a>]</span>	 MN: 135 (Cūḷakammavibhanga Sutta)
+<p></p>
+<span id="endnote44">[<a href="#Endnote44">44</a>]</span>	 This sutta is best known under the name of “The Kālāma Sutta”; it shows how the Buddha encouraged free inquiry in order to assess the truth.
+<p></p>
+<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 AN 3: 65 (Kesaputtiya sutta/The Kālāma Sutta)
+<p></p>
+<span id="endnote46">[<a href="#Endnote46">46</a>]</span>	 Before he met the Buddha, he had lived as an ascetic and was convinced he was an arahant until a benevolent deity disabused him of this notion. He hastened to visit the Buddha in Sāvatthī. Upon receiving the Buddha’s teaching, he immediately attained arahantship. He was killed by a cow shortly after his attainment. Though he did not receive formal ordination, he is still considered a bhikkhu. <b>See:</b> AN:Notes: 99, p. 585.
+<p></p>
+<span id="endnote47">[<a href="#Endnote47">47</a>]</span>	 Ud:1.10 (Bāhiya sutta: translated by Bhikkhu Ãnandajoti).
+<p></p>
+<span id="endnote48">[<a href="#Endnote48">48</a>]</span>	 AN1:216.
+<p></p>
+<span id="endnote49">[<a href="#Endnote49">49</a>]</span>	 Source: https://www.mahamevnawa.org.au/
+<p></p>
+<span id="endnote50">[<a href="#Endnote50">50</a>]</span>	 Snp:5.2. He was a student of Bāvari, after listening to the Buddha, he became one of his arahant disciples: see: KN:SuttaNipātha: Parayanvagg: Vatthugātā, Translated by Bikkhu Sujato: w.w.w.suttacentrl.net.
+<p></p>
+<span id="endnote51">[<a href="#Endnote51">51</a>]</span>	 AN6.61.
 <p></p>
