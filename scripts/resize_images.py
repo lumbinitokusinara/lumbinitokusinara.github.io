@@ -1,21 +1,31 @@
 import os
 from PIL import Image
 
-# Define the maximum width
+# Define the maximum width and height
 MAX_WIDTH = 720
+MAX_HEIGHT = 900
 
 # Function to resize an image while maintaining aspect ratio
 def resize_image(image_path, output_path):
     with Image.open(image_path) as img:
-        # Calculate the new height to maintain the aspect ratio
         width, height = img.size
-        if width > MAX_WIDTH:
-            new_height = int((MAX_WIDTH / width) * height)
-            resized_img = img.resize((MAX_WIDTH, new_height), Image.Resampling.LANCZOS)
+
+        # Calculate scaling factors for width and height
+        width_scale = MAX_WIDTH / width
+        height_scale = MAX_HEIGHT / height
+
+        # Use the most restrictive scaling factor
+        scale = min(width_scale, height_scale)
+
+        # Check if resizing is needed
+        if scale < 1:
+            new_width = int(width * scale)
+            new_height = int(height * scale)
+            resized_img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
             resized_img.save(output_path)
-            print(f"Resized {image_path} to {MAX_WIDTH}x{new_height}")
+            print(f"Resized {image_path} to {new_width}x{new_height}")
         else:
-            # If the image is already 720px or less in width, just save it as is
+            # If the image is already within the constraints, save it as is
             img.save(output_path)
             print(f"No resizing needed for {image_path}")
 
@@ -30,7 +40,8 @@ def process_folder(folder_path):
 
 # List of folders to process
 folders = ['pages/page1', 'pages/page2', 'pages/page3','pages/page4', 'pages/page4_1',
-           'pages/page5', 'pages/page6', 'pages/page7', 'pages/page8', 'pages/page9']  # Add your folder names here
+           'pages/page5', 'pages/page6', 'pages/page7', 'pages/page8', 'pages/page9',
+           'pages/page10']  # Add your folder names here
 
 # Process each folder
 for folder in folders:

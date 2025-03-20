@@ -21,6 +21,7 @@ pages_info = [
     ("page7.txt", "Section 7 - As a Teacher.docx", "7."),
     ("page8.txt", "Section 8 - Praise and blame.docx", "8."),
     ("page9.txt", "Section 9 - Past lives.docx", "9."),
+    ("page10.txt", "Section 10 - Dhamma.docx", "10."),
   #  ("page11_1.txt","Section 11 -1 DF- Advice to the Sangha.docx", "11.1"),
   #  ("page11_2.txt","Section 11-2 Advice to Lay Followers.docx", "11.2"),
   #  ("TOC.txt","Table of Contents 1.docx", "I."),

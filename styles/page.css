@@ -16,8 +16,8 @@
  }
 
  img {
-   max-width: 100vw; /* Ensures the image does not exceed the viewport width */
-   min-width: 50vw;
+   max-width: 90vw; /* Ensures the image does not exceed the viewport width */
+   min-width: 30vw; 
    height: auto; /* Maintains the aspect ratio */
    display: block; /* Removes extra space below inline images */
    margin: 0 auto; /* Centers the image */
