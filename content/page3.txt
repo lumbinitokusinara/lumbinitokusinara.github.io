@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><h1>Section 3: The Life of Ascetic Siddhartha (Ages 29–35)</h1></p>
 <p></p>
 <p>This section recounts one of the most profound moments in history—the great renunciation of Prince Siddhartha. At the age of twenty-nine, he left behind the comforts of his royal life, his beloved family, and the promise of kingship, driven by an unshakable determination to seek the ultimate truth.</p>
@@ -872,3 +874,5 @@
 <span id="endnote43">[<a href="#Endnote43">43</a>]</span>	 MN:36.
 <p></p>
 <span id="endnote44">[<a href="#Endnote44">44</a>]</span>	 Source:Wikimedia Commons
+</article>
+</div>

@@ -6,23 +6,82 @@
     line-height: 1;
   }
 
+/* General Reset */
+body, h1, p {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+/* Container to center content */
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+/* pagewidth styling */
+.pagewidth {
+  /*max-width: 800px; /* Maximum width for wide screens */
+  /*width: 95%; /* Default width for smaller screens */
+
+  max-width: 75ch; /* 65 characters per line */
+  width: 90%; /* Fallback for smaller screens */
+}
+
+/* Image styling */
+.pagewidth img {
+  max-width: 80%; /* Images will not exceed 80% of the text width */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Ensure images don't have extra space below */
+  margin: 0 auto; 
+  /*margin: 1.5rem 0; /* Add some vertical spacing */
+}
+
+/* Media Queries for smaller screens */
+@media (max-width: 768px) {
+  .content {
+      width: 100%; /* Full width on smaller screens */
+      padding: 0 15px; /* Add some padding for better readability */
+  }
+
+  .pagewidth img {
+    max-width: 100%; /* Images will take up the full width */
+  }
+}
+
+/* Optional: Improve readability with typography */
+h1 {
+  font-size: 2.0rem;
+  margin-bottom: 1rem;
+}
+/*
  p {
     line-height: 1;
  }
-
+*/
  h4 {
     margin-top: 0;
     text-align: center;
  }
 
+ /*
  img {
-   max-width: 90vw; /* Ensures the image does not exceed the viewport width */
+   max-width: 80vw; 
    min-width: 30vw; 
-   height: auto; /* Maintains the aspect ratio */
-   display: block; /* Removes extra space below inline images */
-   margin: 0 auto; /* Centers the image */
+   height: auto; 
+   display: block; 
+   margin: 0 auto; 
  }
- 
+ */
+
+ /* Ensures the image does not exceed the viewport width */
+
+/* Maintains the aspect ratio */
+/* Removes extra space below inline images */
+/* Centers the image */
+
  .caption {
    font-size: 0.8em;
    text-align: center;

@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><h1>Section 5: The Greatness of the Buddha</h1></p>
 <p>The Blessed One, the Fully Awakened Buddha, was a being of boundless wisdom, immeasurable compassion, and unfathomable spiritual power. His supreme enlightenment illuminated the world, dispelling the darkness of ignorance and offering the path to liberation for countless beings.</p>
 <p>The greatness of the Buddha is beyond thought, beyond words, beyond limits. He is the supreme refuge, the incomparable guide, and the most exalted being to ever walk the earth.</p>
@@ -958,3 +960,5 @@
 <span id="endnote83">[<a href="#Endnote83">83</a>]</span>	 Exhibit in the Berkeley Art Museum and Pacific Film Archive, 2625 Durant Avenue #2250, Berkeley, California, USA: Source: Source: https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha
 <p></p>
 <span id="endnote84">[<a href="#Endnote84">84</a>]</span>	 Source: Harvard Art Museums/Arthur M. Sackler Museum, Gift of Alan J. and Suzanne W. Dworsky in honour of Robert D. Mowry: <a href="https://hvrd.art/o/352933">https://hvrd.art/o/352933</a>
+</article>
+</div>

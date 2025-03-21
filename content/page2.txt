@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><h1>Section 2: Childhood and Family Life of Prince Siddhartha</h1></p>
 <p>In the previous section of this series, we delved into the remarkable birth of Prince Siddhartha and the extraordinary events surrounding his arrival into this world. Now, we explore his early years, from childhood to the transformative moment at the age of twenty-nine, when he left his royal life behind to embark on the path of an ascetic in search of liberation.</p>
 <p><h2>The Family of Prince Siddhartha</h2></p>
@@ -849,3 +851,5 @@
 <p></p>
 <span id="endnote53">[<a href="#Endnote53">53</a>]</span>	 Source: Nagarjunakonda Stupa Site 6, Guntur district, Andhra Pradesh. Picture courtesy: https://www.metmuseum.org.
 <p></p>
+</article>
+</div>

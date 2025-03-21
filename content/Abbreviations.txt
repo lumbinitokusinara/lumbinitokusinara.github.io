@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><b>ABBREVIATIONS</b></p>
 <p>AN: <a href="https://www.accesstoinsight.org/tipitaka/an/index.html"><u>Anguttara Nikaya</u></a> (AN1:1 Nipāta 1, sutta 1 in Bhikkhu Bodhi’s translation)</p>
 <p>DN: <a href="https://www.accesstoinsight.org/tipitaka/dn/index.html"><u>Digha Nikaya</u></a> (DN:1-sutta 1 in Maurice Walshe’s translation)</p>
@@ -14,3 +16,5 @@
 <p>ThaAp: Thera apadana (ThaAp  vesr number)</p>
 <p>Ud: Udana (Ud + chapter + sutta nimber)</p>
 <p>VP: Vinaya Pitaka</p>
+</article>
+</div>

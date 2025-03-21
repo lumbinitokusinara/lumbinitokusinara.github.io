@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><h1>Section: 9: The Past Lives of the Buddha	</h1></p>
 <p>In this section, we explore the past lives of the Buddha—his journey as a Bodhisattva across countless rebirths—and his ability to recall not only his own previous existences but also the rebirths of other beings.</p>
 <p>The concept of rebirth is a fundamental teaching in Buddhism. According to the Dhamma, when a being passes away, they take birth again according to the actions (<i>kamma</i>) they have performed in this life. Wholesome <i>kamma</i> leads to a fortunate rebirth in a higher realm, while unwholesome <i>kamma</i> results in rebirth in a lower state of existence. <span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
@@ -565,3 +567,5 @@
 <a href="https://commons.wikimedia.org/wiki/File:KushanMaitreya.JPG">https://commons.wikimedia.org/wiki/File:KushanMaitreya.JPG</a>
 <p></p>
 <span id="endnote46">[<a href="#Endnote46">46</a>]</span>	 DN:26.
+</article>
+</div>

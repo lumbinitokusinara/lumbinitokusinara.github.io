@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><h1>Section 10: The Profound Greatness of the Buddha's Teachings</h1></p>
 <p>In this section, we will delve into the profound and transformative Dhamma — the sublime teachings of the Blessed One. These teachings are not merely words; they are the timeless, unshakable truths that lead us to liberation from suffering. The Dhamma shines with unparalleled clarity, offering a path that transcends all suffering, reveals the true nature of existence, and leads beings to the ultimate peace of Nibbāna.</p>
 <p>The teachings of the Buddha are not of ordinary origin. They arise from the depths of the Buddha's perfect wisdom and compassion. His words are infused with boundless love, understanding, and insight into the hearts and minds of all sentient beings. His guidance speaks to us not just as a doctrine, but as a living, breathing way of life, guiding us step by step toward our highest potential.</p>
@@ -629,4 +631,5 @@
 <span id="endnote46">[<a href="#Endnote46">46</a>]</span>	  Ibid.
 <p></p>
 <p></p>
-<p></p>
+</article>
+</div>

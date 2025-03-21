@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><h1>Section 4: The Enlightenment of Buddha Gotama (At Age 35)</h1></p>
 <p></p>
 <p>Tradition holds that the Blessed One attained supreme enlightenment in the year 589 B.C., on the full moon day of Vesākha (May), at Bodh Gaya—then known as Uruvelā. <span id="Endnote1">[<a href="#endnote1">1</a>]</span> This momentous event marked the dawn of a new era in human history, illuminating the path to liberation for countless beings. In this section, we focus on the profound events leading up to and following this noble awakening.</p>
@@ -1346,3 +1348,5 @@
 <span id="endnote70">[<a href="#Endnote70">70</a>]</span>	 Peshawar Museum: Source: Wikipedia.
 <p></p>
 <span id="endnote71">[<a href="#Endnote71">71</a>]</span>	 See: Smautta Nikaya: Devastāamutta, Devaputtasamyutta, Brahmasamytta, Yakkasamyutta and Sakkasamyutata.
+</article>
+</div>

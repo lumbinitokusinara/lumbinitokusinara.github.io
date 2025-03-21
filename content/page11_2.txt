@@ -1,9 +1,8 @@
-<p><b>Section 11-2: Advice and Guidance to Lay Followers</b></p>
-<p>Of the life of 45 years of the Buddha dedicated to teaching Dhamma we can see that he also was concerned of the progress of his lay followers—their happiness at home life and</p>
-<p>progress of their spiritual life. The Blessed One encouraged his white-clad lay followers (called as upasaka and upasika) to uphold the five precepts, to observe eight precepts on Full moon days and to lead a harmless life with kindness and compassion towards other beings.  Following are selected extracts form scriptures to show how the Buddha guided his lay followers.</p>
+<div class="container">
+<article class="pagewidth">
 <p></p>
-<p><img src="page11_2/image1.jpeg" /></p>
 <p></p>
+<p><img src="page11_2/image1.png" /></p>
 <p></p>
 <p></p>
 <p></p>
@@ -24,69 +23,53 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddha giving advice to lay followers</b>: picture courtesy: https://www.facebook.com/BuddhismPathToNirvana/photos</p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>▲ How to Live a Household Life with Peace and Happiness</b></p>
-<p><b>♦Advice to Young Sigālaka</b><span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
 <p></p>
-<p>On one occasion the Buddha met a young householder Sigālaka who was paying homage to the six directions. Then the Blessed One asked the purpose of his action, he said: <span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
+<p><b>The compassionate Buddha</b><span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
 <p></p>
+<p><h1>Section 11-2: Advice and Guidance to Lay Followers</h1></p>
+<p>For forty-five years, the Blessed One devoted his life to teaching the Dhamma, offering wisdom and guidance to both monastics and lay followers. He encouraged householders to cultivate happiness in family life while nurturing their spiritual development.</p>
+<p>The Buddha urged his lay disciples—known as upāsaka (male lay followers) and upāsikā (female lay followers)—to uphold the five precepts as the foundation of a virtuous life. He also encouraged them to observe the eight precepts on full moon days and to lead lives of peace, kindness, and compassion toward all living beings.</p>
+<p>The following are selected extracts from the scriptures that illustrate his profound guidance for lay practitioners.</p>
+<p><h1>How to Live a Household Life with Contentment</h1></p>
 <p></p>
-<p>‘<i>Lord, my father, when he was dying, told me to do so. And so, Lord, out of respect for my father’s words, which I revere, honour and hold sacred, I have got up thus early to pay homage in this way to the six directions”</i></p>
-<p>After listening to young Sigālaka, the Buddha told him the way in which an ariyan disciple pay homage to the six directions is different from his practice. When Sigālaka asked of that practice the Buddha said thus:</p>
+<p>Advice to Young Sigālaka<b> </b><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
-<p><i>“…young householder, it is by </i><b><i>abandoning the four defilements o</i></b><i>f action, the four causes, by not following the </i><b><i>six ways of wasting one’s substance  </i></b><i>by </i><b><i>not doing evil</i></b><i> from- through avoiding these fourteen evil ways — that the Ariyan disciple covers the six directions, and by such practice becomes a conqueror of both worlds, so that all will go well with him </i><b><i>in this world and the next</i></b><i>, and at the breaking up of the body after death he will go to a good destiny, a heavenly world…”</i></p>
-<p><b>Note: Four defilements</b> are: 1) Taking life, 2) taking what is not given, 3) sexual misconduct, 4) lying speech these defilements spring up due to greed, ill will, foolishness and fear, <b>six ways of wasting</b> one’s wealth: 1) addiction to strong drink and drugs, 2) haunting the streets at unfitting times 3) attending carnivals 4) being addicted to gambling 5) keeping bad company 6) habitual idleness</p>
+<p>On one occasion, the Blessed One encountered a young householder, Sigālaka, who was paying homage to the six directions. Seeing this, the Buddha asked him about the purpose of his practice. Sigālaka replied:</p>
+<p><i>“Lord, my father, when he was dying, instructed me to do so. And so, out of respect for my father’s words, which I revere, honour, and hold sacred, I rise early each day to pay homage in this way to the six directions.”</i><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
-<p><img src="page11_2/image2.jpeg" /></p>
 <p></p>
 <p></p>
+<p>Hearing this, the Buddha gently explained that an Ariyan disciple pays homage to the six directions in a different way—one that leads to true well-being and protection in both this life and the next. Eager to learn, Sigālaka asked about this noble practice, and the Blessed One responded:</p>
+<p><i>“…Young householder, it is by abandoning the four defilements of action, by refraining from the four causes of wrongdoing, and by not following the six ways of squandering one’s wealth—through avoiding these fourteen evil ways—that the Ariyan disciple truly covers the six directions. By practicing in this way, he becomes a conqueror of both worlds, ensuring well-being in this life and the next. And at the breaking up of the body after death, he will attain a good destiny, a heavenly world…”</i></p>
+<p><h3><b>The Four Defilements of Action</b></h3></p>
+<p><b>These four unwholesome actions arise from greed, ill will, delusion, and fear, and should be abandoned:</b></p>
 <p></p>
+<p>1)	<b>Taking life</b></p>
 <p></p>
+<p>2)	<b>Taking what is not given</b></p>
 <p></p>
+<p>3)	<b>Sexual misconduct</b></p>
 <p></p>
+<p>4)	<b>False speech</b></p>
+<p><h3>The Six Ways of Wasting One’s Wealth</h3></p>
+<p><b>A wise householder avoids these six ruinous habits that lead to poverty and suffering:</b></p>
 <p></p>
+<p>1)	<b>Addiction to intoxicants (strong drink and drugs)</b></p>
 <p></p>
+<p>2)	<b>Roaming the streets at improper hours</b></p>
 <p></p>
+<p>3)	<b>Frequenting worldly entertainments and frivolous amusements</b></p>
 <p></p>
+<p>4)	<b>Addiction to gambling</b></p>
 <p></p>
+<p>5)	<b>Associating with bad company</b></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Picture courtesy: https://declutterthemind.com/</p>
-<p></p>
-<p></p>
-<p></p>
+<p>6)	<b>Habitual laziness and idleness</b></p>
+<p>Through abandoning these harmful ways and living with mindfulness, discipline, and wisdom, a householder establishes a life of contentment, security, and spiritual progress—laying the foundation for true happiness in this world and beyond<b>.</b></p>
 <p><b>♦ To do good, abandon evil </b></p>
 <p>“If one regards oneself as dear</p>
 <p>One should not yoke oneself to evil,</p>
@@ -95,289 +78,386 @@
 <p>Therefore, one should do what is good</p>
 <p>As a collection for the future life.</p>
 <p>Merits are the support for living beings</p>
-<p>When they arise in the other world.</p>
+<p>When they arise in the other world <span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
 <p></p>
-<p>SN: 3:4 (Dear sutta)</p>
+<p><h1>Advice to Householders on Wealth and Future Well-being</h1></p>
+<p><h2>The Blessed One’s Advice to the Brahmin Householders of Veludvāra</h2></p>
+<p>On one occasion, a group of brahmin householders from Veludvāra approached the Blessed One and said:<i> </i><span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
 <p></p>
-<p></p>
-<p></p>
-<p>♦ On one occasion brahmin householders of Veludvāra village approached the Blessed One and said:</p>
-<p>“<i>Master Gotama, we have such wishes, desires, and hopes as these: ‘may we dwell in a home crowded with children!...we enjoy Kāsian sandalwood! …we wear garlands, scents… we receive gold and silver! with the breakup of the body, after death, may we be reborn in a good destination…”</i><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p>The Blessed One then advised them:</p>
-<p><i>“When, householders, the noble disciple possesses …</i><b><i>seven good qualities</i></b><i> and ….</i><b><i>four desirable states</i></b><i>, if he wishes he could by himself declare of himself: ‘I am one finished with hell, finished with the animal realm, finished with the domain of ghosts, finished with the plane of misery, the bad destinations, the nether world. I am a stream-enterer, no longer bound to the nether world, fixed in destiny, with enlightenment as my destination.’</i><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
-<p></p>
-<p><b></p>
-<p></b><b>Note: 7 Good qualities: </b>purifying<b> </b>3 ways of bodily and verbal conduct: by not doing them, urge others not to do them, praising of not doing bad deeds: 1) not killing 2) not stealing 3) no adultery 4) no false speech 5) no harsh speech 6) no divisive speech 7 no idle chatter. <b>Four desirable states</b>: 1-3 confidence in the Buddha, Dhamma and Sangaha 4) possessing unbroken virtue.</p>
+<p><i>“Master Gotama, we have such wishes, desires, and hopes as these: ‘May we dwell in a home filled with children… may we enjoy Kāsi sandalwood… may we wear garlands and fragrances… may we receive gold and silver! And with the breakup of the body, after death, may we be reborn in a good destination.’ </i><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p>♦ On one occasion, young Koliyan Dīghajāṇu approached the Blessed One, paid homage to him and said:<span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
+<p>Hearing this, the Blessed One offered them profound guidance, saying:</p>
+<p>“Householders, when a noble disciple possesses <b>seven good qualities</b> and <b>four desirable states</b>, he may confidently declare of himself: ‘I am one who is finished with hell, finished with the animal realm, finished with the domain of ghosts, finished with the plane of misery, the bad destinations, and the lower worlds. I am a stream-enterer, no longer bound to the nether realms, fixed in destiny, with enlightenment as my ultimate goal.’</p>
+<p><h3>The Seven Good Qualities</h3></p>
+<p>A noble disciple purifies his conduct in three ways—by abstaining from unwholesome actions, encouraging others to do the same, and rejoicing in righteous deeds. These seven qualities are:</p>
 <p></p>
-<p>“<i>Bhante, we are laymen enjoying sensual pleasures, living at home in a house full of children. We use sandalwood from Kāsi; we wear garlands, scents, and unguents; we receive gold and silver. Let the Blessed One teach us the Dhamma in a way that will lead to our welfare and happiness in this present life and in future lives.”</i></p>
-<p>The Buddha said:</p>
-<p><i>“There are, Byagghapajja, these four things that lead to the welfare and happiness of a clansman in this present life. What four? 1) Accomplishment in initiative, 2) accomplishment in protection,3) good friendship, and 4) balanced living…</i> <i>There are, Byagghapajja, these four other things that lead to a clansman’s welfare and happiness in future lives. What four? 5) Accomplishment in faith, 6) accomplishment in virtuous behaviour, 7) accomplishment in generosity, 8) and accomplishment in wisdom.”</i></p>
-<p><i>“Enterprising in his occupations, </i></p>
-<p><i>heedful in his arrangements, </i></p>
-<p><i>balanced in his way of living,</i></p>
-<p><i> he safeguards the wealth he earns. </i></p>
-<p><i>Endowed with faith, accomplished in virtue, </i></p>
-<p><i>charitable and devoid of miserliness, </i></p>
-<p><i>he constantly purifies the path </i></p>
-<p><i>that leads to safety in future lives”</i></p>
-<p><b>Note: </b>The four accomplishments in householder’s life (satara sangrha vastu) : 1) <b>Accomplishment in initiative</b>: skilful and diligent and have a sound judgment in order to carry out and arrange properly belonged to oneself 2) <b>accomplishment in protection: </b>he make arrangements to protect his wealth from kings, robbers unsuitable heirs taking it, and prevent destruction from fire and flood. 3) <b>Cultivating good friendship</b>: association with wise people leads him to develop his spiritual faculties 4) <b>Balance living</b>: he knows his income and accordingly set up his expenditure. He avoids womanizing, drunkenness, gambling and bad friends.</p>
+<p>1)	Abstaining from killing</p>
+<p></p>
+<p>2)	Abstaining from stealing</p>
+<p></p>
+<p>3)	Abstaining from sexual misconduct</p>
+<p></p>
+<p>4)	Abstaining from false speech</p>
+<p></p>
+<p>5)	Abstaining from harsh speech</p>
+<p></p>
+<p>6)	Abstaining from divisive speech</p>
+<p></p>
+<p>7)	Abstaining from idle chatter</p>
+<p><h3>The Four Desirable States</h3></p>
+<p>By cultivating these four qualities, a lay disciple establishes a strong foundation for both worldly and spiritual well-being:</p>
+<p></p>
+<p>1)	<b>Confidence in the Buddha</b> – Trusting in the wisdom and awakening of the Blessed One</p>
+<p></p>
+<p>2)	<b>Confidence in the Dhamma</b> – Trusting in the path that leads to liberation</p>
+<p></p>
+<p>3)	<b>Confidence in the Sangha</b> – Trusting in the community of noble disciples</p>
+<p></p>
+<p>4)	<b>Possessing unbroken virtue</b> – Upholding moral discipline with sincerity and care</p>
+<p>Through the cultivation of these qualities, a lay follower ensures happiness in this life and secures a fortunate rebirth in the next.</p>
+<p><h2>The Advice to Young Dīghajāṇu </h2></p>
+<p>On another occasion, a young man of the Koliyan clan, named Dīghajāṇu, approached the Blessed One, paid homage, and requested guidance: <span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
+<p></p>
+<p><i>“Bhante, we are laypeople enjoying sensual pleasures, living at home in households filled with children. We use Kāsi sandalwood; we wear garlands, scents, and unguents; we receive gold and silver. May the Blessed One teach us the Dhamma in a way that will bring us welfare and happiness both in this life and in future lives.”</i></p>
+<p>In response, the Buddha imparted this timeless teaching:</p>
+<p>Byagghapajja, there are four things that lead to the welfare and happiness of a clansman in this present life. What four?</p>
+<p><h3>The Four Factors for Well-being in This Life</h3></p>
+<p></p>
+<p>1)	<b>Accomplishment in Initiative</b> – A layperson should be skilful, diligent, and wise in managing their livelihood, ensuring that their efforts lead to success and well-being.</p>
+<p></p>
+<p>2)	<b>Accomplishment in Protection</b> – One should take necessary measures to safeguard wealth from kings, thieves, misfortune, and unworthy heirs.</p>
+<p></p>
+<p>3)	<b>Cultivating Good Friendship</b> – Associating with wise and virtuous people leads to spiritual growth and wholesome living.</p>
+<p></p>
+<p>4)	<b>Balanced Living</b> – One should manage income wisely, neither living in excess nor being overly frugal, while avoiding reckless behaviours such as womanizing, drunkenness, gambling, and associating with bad companions<b>.</b></p>
+<p><h3>The Four Factors for Well-being in Future Lives</h3></p>
+<p>Beyond material well-being, the Buddha emphasized four qualities that ensure happiness in future lives:</p>
+<p></p>
+<p>1)	<b>Accomplishment in Faith</b> – Having unwavering confidence in the Triple Gem</p>
+<p></p>
+<p>2)	<b>Accomplishment in Virtuous Conduct</b> – Leading a life of moral discipline</p>
+<p></p>
+<p>3)	<b>Accomplishment in Generosity</b> – Practicing selflessness and charity</p>
+<p></p>
+<p>4)	<b>Accomplishment in Wisdom</b> – Cultivating insight that leads to liberation</p>
+<p>By following these teachings, a layperson secures both worldly prosperity and spiritual advancement, leading to true and lasting happiness.</p>
+<p><h1>The Importance of Caring for One’s Parents</h1></p>
+<p>The Buddha often emphasized the profound duty of caring for one’s parents, recognizing it as both a moral responsibility and a source of great merit. In his teachings, he highlighted two essential aspects of this duty:</p>
+<p>Providing material support and comfort to one’s parents.<span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
+<p></p>
+<p>1)	Guiding them on the path of Dhamma—encouraging them to take refuge in the Triple Gem, cultivate Right View, and progress toward spiritual awakening, even to the level of stream-entry.</p>
+<p>The Blessed One did not merely instruct others on honouring their parents—he personally exemplified this virtue. He not only cared for his own parents but also helped his stepmother, who raised him with great love and devotion, to advance on the spiritual path and attain liberation from the endless cycle of suffering. This has been discussed in greater detail in Section 2 of this compilation.</p>
+<p>The following passage from the scriptures beautifully illustrates the Buddha’s guidance on filial duty and the immeasurable gratitude one owes to their parents:</p>
+<p><h3>Parents—The First Teachers of Their Children</h3></p>
+<p>"Mother and father are called ‘Brahmā’ (sublime ones),</p>
+<p>and also ‘first teachers.’</p>
+<p>They are worthy of gifts from their children,</p>
+<p>for they have boundless compassion for their offspring.</p>
+<p>Therefore, a wise person should revere them,</p>
+<p>honour them with love and respect,</p>
+<p>serve them with food and drink,</p>
+<p>with clothes and bedding,</p>
+<p>by massaging and bathing them,</p>
+<p>and by washing their feet.</p>
+<p>By rendering such devoted service</p>
+<p>to one’s mother and father,</p>
+<p>the wise are praised in this very life,</p>
+<p>and after death, they rejoice in heaven.”<span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<h2>▲<b>Importance of Taking Care of Parents</b></h2>
-<p>The Buddha often insisted, that people should take care of their parents. In this regard the Buddha pointed out two important things: 1) Providing material comforts to ones’ parents 2)</p>
-<p>Supporting them to establish in Dhamma—take refuge in the Triple Gem; guiding them into develop Right View, so they could attain the first level of spirituality— to be a stream winner.</p>
-<p>The Blessed One did not just advise others about treating their parents with respect. The Buddha not only helped his own parents but also his stepmother, who had adopted him when he was young, to develop spiritually and to liberated from samsara suffering. We have discussed this is detail in section:2 of this compilation.</p>
-<p>Following are some details from the scriptures, elaborating the advices and guidance of the Buddha towards the welfare of one’s parents:</p>
-<p>♦ <b>Parents are the First Teachers of Children</b></p>
-<p><i>“ Mother and father are called ‘Brahmā’ (great!)</i></p>
-<p><i>and also “first teachers.” </i></p>
-<p><i>They are worthy of gifts from their children, </i></p>
-<p><i>for they have compassion for their offspring.</i></p>
-<p><i>Therefore, a wise person should revere them, </i></p>
-<p><i>and show them due honor, </i></p>
-<p><i>serve them with food and drink, </i></p>
-<p><i>with clothes and bedding, </i></p>
-<p><i>by massaging and bathing them, </i></p>
-<p><i>and by washing their feet</i></p>
-<p><i>Because of this service </i></p>
-<p><i>to mother and father, </i></p>
-<p><i>the wise praise one in this world </i></p>
-<p><i>and after death one rejoices in heaven”</i><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
+<p><h2>Two Persons Who Cannot Easily Be Repaid</h2></p>
+<p>The Buddha taught that repaying one’s parents is one of the most difficult debts to fulfill. No matter how much wealth or power one bestows upon them, it still falls short of true repayment. However, if one can guide their parents toward the path of Dhamma and establish them in faith, virtue, generosity, and wisdom, then they have truly honoured their parents in the highest way.</p>
+<p>The Blessed One said:</p>
+<p><i>“Even if one were to make one’s parents the supreme rulers over this vast earth, abundant with the seven treasures, one still would not have fully repaid them. Why? Because parents are of immense benefit to their children—they nurture them, provide for them, and introduce them to the world. However, if one helps parents develop faith when they lack faith, virtue when they lack virtue, generosity when they lack generosity, and wisdom when they lack wisdom—then one has truly repaid them, and even done more than enough for them.”</i><span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p>♦ <b>Two Persons that Cannot Easily be Repaid </b></p>
-<p>The<b> </b>Buddha said that’s to repay one’s parents is hard. If they can establish them in spiritual life, then one is able to repay their parents. He said:</p>
-<p><i>“…even if one were to establish one’s parents as the supreme lords and rulers over this great earth abounding in the seven treasures, one still would not have done enough for one’s parents, nor would one have repaid them. For what reason? Parents are of great help to their children; they bring them up, feed them, and show them the world… if, when one’s parents lack faith, one establishes them in faith… in virtuous behaviour… in generosity; … in wisdom: in such a way, one has done enough for one’s parents, repaid them, and done more than enough for them…”</i><span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p>“The wise person, dwelling at home,</p>
+<p>The scriptures further praise those who care for their parents with diligence and devotion:</p>
+<p><i>“The wise person, dwelling at home,</p>
 <p>truly lives for the good of many.</p>
-<p>Day and night diligent toward</p>
-<p>his mother, father, and ancestors,</p>
-<p>he venerates them in accordance with the Dhamma,</p>
-<p>recollecting what they did for him in the past” <span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
+<p>Day and night, devoted to his mother, father, and ancestors,</p>
+<p>he honours them in accordance with the Dhamma,</p>
+<p>recollecting the boundless kindness they have shown him.”</i> <span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
+<p></p>
+<p><h1>The Importance of Making Merit and Sharing It</h1></p>
+<p>Another essential teaching the Buddha gave to lay followers was the practice of accumulating merit and dedicating it to departed relatives. He emphasized that beings in certain realms eagerly await such offerings, as these acts of generosity bring them great benefit.</p>
+<p><h2>Merit—A Source of True Happiness</h2></p>
+<p>The Blessed One encouraged all, including his monastic disciples, not to fear making merit, for it is the foundation of happiness and spiritual progress. Reflecting on his own past lives, he described the immense benefits he had gained through the practice of merit: <span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
+<p></p>
+<p></p>
+<p><i>“Do not be afraid of merit—merit is another name for happiness. I recall that for a long time, I experienced the desirable, lovely, and agreeable results of merit accumulated over many lifetimes. For seven years, I cultivated a mind of loving-kindness. As a result, for seven world cycles of dissolution and reformation, I never returned to this world of suffering. Instead, I was reborn in the realm of streaming radiance. When the world was re-formed, I became a great Brahmā… I was Sakka, lord of the gods… and hundreds of times I was a wheel-turning monarch.”</i></p>
+<p>Thus, the Buddha advised:</p>
+<p><i>“One who aspires for the highest good,</p>
+<p>who seeks true greatness,</p>
+<p>should deeply revere the noble Dhamma,</p>
+<p>ever mindful of the Buddhas’ timeless teachings.”</i></p>
+<p><h2>The Great Benefits of Making Merit</h2></p>
+<p>The Buddha emphasized that making merit is the foundation of true happiness and spiritual progress. Through generosity, virtuous conduct, and meditative cultivation, one creates the conditions for a fortunate life and favourable rebirths.</p>
+<p><h3>Merit Leads to Prosperity and Well-Being</h3></p>
+<p>In one discourse, the Blessed One highlighted the importance of living in a suitable place and associating with noble friends, as these factors support a person in accumulating merit, which in turn leads to prosperity and good fortune:</p>
+<p><i>“…When a person dwells in a suitable locality</p>
+<p>and makes friends with the noble ones,</p>
+<p>when he has formed right resolutions</p>
+<p>and done deeds of merit in the past,</p>
+<p>grain, riches, fame, and reputation,</p>
+<p>along with happiness accrue to him.” </i><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>▲ Important of Making Merits and Sharing them</b></p>
-<p>Another important advice given to lay followers were to make merits and share them with their departed relatives who are waiting to get merits from their relatives. Some of the advices of the Buddha in this matter are highlighted below:</p>
-<p>♦ <b>Merits is a Designation for Happiness</b></p>
-<p>The Buddha advised everyone (including his disciples) not to be afraid of making meris. In the following passage, he described how he had made merits which were beneficial to him for his many rebirths in samsara:<span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
+<p><h3>Merit Supports Good Rebirths</h3></p>
+<p>The Buddha also taught that acts of generosity—such as offering gifts, providing food, and supporting the virtuous, travellers, and the sick—bring joy not only in this life but also in future existences: <span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
+<p></p>
+<p><i>“Therefore, with an unwavering mind,</p>
+<p>one should give gifts where they yield great fruit.</p>
+<p>Merit is the true support of beings</p>
+<p>when they arise in the other world.”</i></p>
+<p>The Buddha praised Suppavāsā, <span id="Endnote15">[<a href="#endnote15">15</a>]</span> the daughter of the Koliyan clan, for her generosity in offering food to him and the Sangha, declaring that her wholesome deeds would bring immense blessings: <span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
+<p></p>
+<p><i>“…Those who recollect such generosity</p>
+<p>dwell in the world inspired by joy.</p>
+<p>Having uprooted the stain of miserliness,</p>
+<p>pure and blameless, they ascend to the heavenly realms.”</i></p>
+<p>Additionally, the Blessed One explained that three fundamental bases of merit lead to favourable rebirths: <span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
+<p></p>
+<p>1)	<b>Generosity (Dāna):</b> Acts of giving, which cultivate selflessness and compassion.</p>
+<p></p>
+<p>2)	<b>Virtuous Conduct (Sīla):</b> Moral discipline that purifies the mind and heart.</p>
+<p></p>
+<p>3)	<b>Meditative Development (Bhāvanā):</b> The cultivation of wisdom through mindfulness and meditation.</p>
+<p><i>“Even if one practices these three bases of merit in an average way,</p>
+<p>they will be reborn among humans in favourable conditions.</p>
+<p>But if one practices them in an excellent manner,</p>
+<p>they will attain rebirth in the celestial realms.”</i></p>
+<p><h2>Sharing Merit (Puñña) with Departed Relatives</h2></p>
+<p>A significant aspect of Buddhist tradition is the dedication of merit to departed loved ones. The Buddha frequently advised his followers to transfer the merits of their good deeds to their ancestors, as beings in the spirit realms often await such offerings.</p>
+<p>A well-known example is King Bimbisāra’s act of merit when he donated the first monastery to the Buddha and the Sangha. <span id="Endnote18">[<a href="#endnote18">18</a>]</span> According to tradition, his departed relatives, suffering in the lower realms, longed for the merit of his generosity. Failing to receive it, they appeared in his dreams, prompting the king to seek the Buddha’s guidance. The Blessed One, using his supernormal insight, confirmed that these beings were indeed awaiting merit. Upon the Buddha’s advice, the king made additional offerings and dedicated the merit to them, leading to their release from suffering.</p>
+<p>The Buddha then gave this profound discourse on the importance of remembering and supporting one’s departed relatives:</p>
+<p><i>“They stand beyond the walls,</p>
+<p>at the junctions and crossroads,</p>
+<p>they linger at the doorposts,</p>
+<p>returning to their former homes.</i></p>
+<p><i>Yet when food and drink,</p>
+<p>abundant and well-prepared,</p>
+<p>is offered in generosity,</p>
+<p>they remain forgotten.</i></p>
+<p><i>But the compassionate, those with wisdom,</p>
+<p>give to their departed relatives.</p>
+<p>They offer pure and suitable gifts,</p>
+<p>at the right time, with heartfelt devotion.</i></p>
+<p><i>Thinking: ‘May this reach our loved ones,</p>
+<p>may they find peace and happiness!’</p>
+<p></i></p>
+<p><i>The assembled spirits rejoice,</p>
+<p>accepting the offerings with gratitude.</i></p>
+<p><i>And in turn, they bless their benefactors,</p>
+<p>saying: ‘May you live long!</p>
+<p>May you prosper in goodness!</p>
+<p>For you have honoured us,</p>
+<p>and those who give are never without reward.’ </i><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><i>“ do not be afraid of merit. This is a designation for happiness, …I recall that for a long time I experienced the desirable, lovely, agreeable result of merit that had been made over a long</i></p>
-<p><i>time. For seven years I developed a mind of loving-kindness. As a consequence, for seven eons of world-dissolution and evolution I did not come back to this world…I fared on to the realm of streaming radiance. When the world was evolving there, I was Brahmā… Sakka…</i> <i>many hundreds of times I was a wheel-turning monarch…”</i></p>
-<p>Therefore, one desiring the good,</p>
-<p>aspiring for greatness,</p>
-<p>should deeply revere the good Dhamma,</p>
-<p>recollecting the Buddhas’ teaching.</p>
-<p>♦ <b>More Benefits of Making Merits</b></p>
-<p>In the following sutta the Buddha pointed out <b>living in a suitable place</b> and <b>association with good friends </b>support a person to make merits which would bring him good fortune:</p>
+<p>Thus, the Buddha taught that by making merit and dedicating it to others—whether the living or the departed—one fosters happiness, deepens spiritual progress, and strengthens the bonds of compassion that extend beyond this life.</p>
+<p><h3>The Importance of Offering Merit to Departed Relatives</h3></p>
+<p>Following is another discourse beautifully illustrates the significance of dedicating merit to our departed loved ones.</p>
+<p>On one occasion, the Brahmin Jāṇussoṇī <span id="Endnote20">[<a href="#endnote20">20</a>]</span>  approached the Blessed One and asked:</p>
+<p><i>“Master Gotama, we Brahmins offer gifts and perform memorial rites for the dead with the thought: ‘May our offerings benefit our departed relatives… May they partake of these merits.’ But, Master Gotama, can our gifts truly be of benefit to them?” </i><span id="Endnote21">[<a href="#endnote21">21</a>]</span><i> </i></p>
+<p>In response, the Buddha gave a profound teaching on the existence of certain departed beings who reside in a realm where they can receive and benefit from such offerings. He further explained that throughout this vast cycle of saṃsāra, it is impossible to say that our loved ones have never been reborn in unfortunate states, awaiting the merit of their relatives.</p>
+<p>The Buddha concluded by affirming that there are indeed beings who can benefit from alms given in their memory, and that those who make such offerings also accumulate great merit for themselves.</p>
+<p>Deeply moved by this teaching, Brahmin Jāṇussoṇī exclaimed:</p>
+<p><i>“It is truly astounding, Master Gotama, and most wonderful! There is indeed great reason to give gifts and perform memorial rites for the departed, for such acts bring benefit not only to the recipients but also to the givers themselves.” </i><span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
 <p></p>
-<p><i>“…When a person dwells in a suitable locality </i></p>
-<p><i>and makes friends with the noble ones, </i></p>
-<p><i>when he has formed right resolutions, </i></p>
-<p><i>and done deeds of merit in the past, </i></p>
-<p><i>grain, riches, fame, and reputation, </i></p>
-<p><i>along with happiness accrue to him”</i><span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p>♦ <b>Merits Supports Good Rebirths</b></p>
-<p>In the following sutta the Blessed One described how to make merits by giving gifts, food etc. to others such as virtuous persons, visitors, one going on a journey, to a sick person. The merits made in this life bring happiness for the present life and also for lives in the other world <span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
+<p><h1>How to Take Food for Good Health</h1></p>
+<p>The Buddha also provided practical advice on how to consume food mindfully to maintain good digestion and overall health. He frequently emphasized that a healthy body serves as a strong foundation for developing meditation and inner stillness.</p>
+<p><i>“One who is always mindful,</p>
+<p>knowing moderation in the food they eat,</p>
+<p>experiences a reduction in ailments.</p>
+<p>They age slowly, preserving their life.” </i><span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><i>Therefore, with a non-regressing mind, </i></p>
-<p><i>one should give a gift where it yields great fruit. </i></p>
-<p><i>Merits are the support of living beings </i></p>
-<p><i>when they arise in the other world…”</i></p>
-<p>* When Suppavāsā, Koliyan daughter <span id="Endnote12">[<a href="#endnote12">12</a>]</span>, gave food to the Buddha and the Sangha, the Buddha praised her and said that her generosity would bring good fortune:<span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
+<p>By eating in moderation and with awareness, one fosters both physical well-being and spiritual clarity.</p>
+<p><h1>How a Buddhist Should Dwell in Home Life</h1></p>
+<p>The Buddha frequently encouraged lay followers to cultivate generosity by supporting monks, nuns, and ascetics who dedicate themselves to spiritual practice, as well as by providing for family members, the poor, and those in need of food and clothing.</p>
+<p>In addition to acts of generosity, he urged laypeople to develop meditative recollections (<i>anusati bhāvanā</i>) to strengthen their spiritual progress. These include:</p>
+<p></p>
+<p>1)	<b>Recollection of the Buddha’s qualities</b></p>
+<p></p>
+<p>2)	<b>Recollection of the Dhamma’s purity</b></p>
+<p></p>
+<p>3)	<b>Recollection of the Sangha’s virtue</b></p>
+<p></p>
+<p>4)	<b>Recollection of one’s own moral integrity</b></p>
+<p></p>
+<p>5)	<b>Recollection of one’s generosity and past good deeds</b></p>
+<p></p>
+<p>6)	<b>Recollection of the higher qualities of celestial beings (devas), inspiring one to cultivate wholesome qualities</b></p>
+<p>A well-known example of this guidance is found in the discourse given to Mahanāma the Sakyan. When he approached the Blessed One and asked how a layperson should live while engaging in worldly responsibilities, the Buddha instructed him to cultivate: <span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
+<p></p>
+<p>--	<b>Faith</b> (saddhā) in the Triple Gem</p>
+<p></p>
+<p>--	<b>Energy</b> (viriya) to uphold wholesome practices</p>
+<p></p>
+<p>--	<b>Mindfulness</b> (sati) to stay attentive and aware</p>
+<p></p>
+<p>--	<b>Stillness of mind</b> (samādhi) to develop inner peace</p>
+<p></p>
+<p>--	<b>Wisdom</b> (paññā) to discern the true nature of life</p>
+<p>By integrating these principles into daily life, lay practitioners create a strong foundation for spiritual growth while fulfilling their worldly duties with wisdom and compassion.</p>
+<p><h1><img src="page11_2/image2.png" /></h1></p>
+<p><h1></h1></p>
+<p><h1></h1></p>
+<p><h1></h1></p>
+<p><h1></h1></p>
+<p><h1></h1></p>
+<p><h1></h1></p>
+<p><h1></h1></p>
+<p><h1></h1></p>
+<p><h1></h1></p>
+<p><h1></h1></p>
+<p><b>The Blessed One dedicated his life to teaching the Dhamma, imparting wisdom and guidance to both monastics and lay devotees for their lasting happiness in this world and beyond</b><span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
+<p></p>
+<p><h1>Keeping Precepts Brings Happiness in This Life and Favourable Rebirth</h1></p>
+<p>The Buddha emphasized the importance of moral discipline for lay followers, encouraging them to observe the Five Precepts in daily life and the Eight Precepts on Uposatha <span id="Endnote26">[<a href="#endnote26">26</a>]</span>. (observance) days. These ethical guidelines not only cultivate inner peace but also lead to happiness in this life and favourable rebirths in the next.</p>
+<p>The following suttas highlight the profound benefits of keeping precepts:</p>
+<p><h3>The Five Precepts: A Path to Fearlessness and Well-being</h3></p>
+<p>The Buddha declared:</p>
+<p>There are five gifts—great gifts, ancient and unadulterated, upheld by wise ascetics and brahmins. What five? <span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
+<p></p>
+<p>1)	Abstaining from the destruction of life</p>
+<p></p>
+<p>2)	Abstaining from taking what is not given</p>
+<p></p>
+<p>3)	Abstaining from sexual misconduct</p>
+<p></p>
+<p>4)	Abstaining from false speech</p>
+<p></p>
+<p>5)	Abstaining from intoxicating drinks and drugs</p>
+<p>By observing these precepts, one grants an immeasurable number of beings freedom from fear, enmity, and affliction. In return, one also enjoys freedom from fear, enmity, and affliction. Keeping these precepts brings happiness in this life and ensures a favourable rebirth.</p>
+<p><h3>The Eight Precepts: A Path to Higher Virtue and Heavenly Bliss</h3></p>
+<p>The Eight Precepts are traditionally observed on Full Moon and Uposatha days, fostering deeper spiritual practice. They are:</p>
+<p></p>
+<p>1)	Abstaining from killing</p>
+<p></p>
+<p>2)	Abstaining from stealing</p>
+<p></p>
+<p>3)	Abstaining from sexual activity</p>
+<p></p>
+<p>4)	Abstaining from false speech</p>
+<p></p>
+<p>5)	Abstaining from intoxicants</p>
+<p></p>
+<p>6)	Abstaining from eating after noon</p>
+<p></p>
+<p>7)	Abstaining from entertainment and personal adornment</p>
+<p></p>
+<p>8)	Abstaining from using luxurious beds and seats</p>
+<p>The Buddha extolled the immense merit of observing the Eight Precepts, as illustrated in the following verse: <span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><i>“…those recollecting such generosity </i></p>
-<p><i>dwell in the world inspired by joy. </i></p>
-<p><i>Having removed the stain of miserliness and its root, blameless, </i></p>
-<p><i>they go to the heavenly abode”</i></p>
-<p><b><i>*</i></b><b> </b>In the following sutta the Buddha said that there are three bases of meritorious activity and they bring good rebirths.</p>
-<p>What three? The basis of meritorious activity consisting in giving; the basis of meritorious activity consisting in virtuous behaviour; and the basis of meritorious activity consisting in</p>
-<p>meditative development. Even if one practice these three bases in <b>average way,</b> he will be reborn among humans in a favourable condition. If someone practice… in <b>superior way</b> he will be reborn in Deva realms.<span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
+<p><i>“Whatever treasures exist in this world—</i></p>
+<p><i>pearls, gems, and precious gold,</i></p>
+<p><i>are not worth a sixteenth part</i></p>
+<p><i>of an Uposatha observed in full.</i></p>
+<p><i>Thus, a virtuous woman or man,</i></p>
+<p><i>who upholds these eight factors</i></p>
+<p><i>and generates merit leading to happiness,</i></p>
+<p><i>will, blameless, attain a heavenly state.”</i></p>
+<p><h1>The Blessings of Generosity</h1></p>
+<p>The Buddha repeatedly praised generosity, encouraging laypeople to offer alms to monks and ascetics, support the needy, and care for the sick.</p>
+<p>In one discourse, the Buddha described the qualities of a noble giver: <span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
+<p></p>
+<p>1)	They give what is pure</p>
+<p></p>
+<p>2)	They give what is excellent</p>
+<p></p>
+<p>3)	They give at the right time</p>
+<p></p>
+<p>4)	They give what is appropriate</p>
+<p></p>
+<p>5)	They give with wisdom and discernment</p>
+<p></p>
+<p>6)	They give frequently</p>
+<p></p>
+<p>7)	While giving, their heart is filled with confidence</p>
+<p></p>
+<p>8)	After giving, they rejoice in their generosity</p>
+<p>“A noble giver shares what is pure and excellent,</p>
+<p>timely and appropriate food and drink.</p>
+<p>They offer gifts frequently,</p>
+<p>supporting those who walk the spiritual path.</p>
+<p>Having given with a heart full of faith,</p>
+<p>they feel no regret but rejoice in their deeds.” <span id="Endnote30">[<a href="#endnote30">30</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p>♦ <b>Sharing Merits (</b><b><i>punna</i></b><b>) with Departed Relatives</b></p>
-<p>In Buddhist culture sharing merits of good deeds is a common feature. In the scriptures we can see many instances where the Buddha advising people to give merits to their departed relatives.</p>
-<p>* On one occasion when King Bimbisara offered the 1<sup>st</sup> monastery to the Buddha and the sangha, he accrued much merits. Tradition says that during that occasion some of his relatives from former life waited to receive merits but failing appeared in a dream. The King had been disturbed by the bad dream inquired form the Buddha about it. The Blessed One with his supernormal powers understood that the former relatives in Petha realm were waiting for merits. Hence, the king gave food and other requestees to the Buddha and sangha and shared merits with his former relatives. Because of given merits they rejoiced and been released from their woeful status.<span id="Endnote15">[<a href="#endnote15">15</a>]</span>   Afterwards, the Blessed one gave a discourse to the king regarding importance of sharing merits with departed relatives thus:</p>
-<p>“ They stand beyond the walls,</p>
-<p>and at the junctions and crossroads,</p>
-<p>they stand at the door-posts,</p>
-<p>having come to their former homes.</p>
-<p>But when abundant food and drink,</p>
-<p>both staple and non-staple, is prepared,</p>
-<p>no one remembers these</p>
-<p>beings, because of their past unwholesome deeds,</p>
-<p>Thus, those who are compassionate</p>
-<p>give to their departed relatives,</p>
-<p>at the right time, pure, excellent,</p>
-<p>suitable drink and food.</p>
-<p>Thinking: "May this go to our relatives,</p>
-<p>may our relatives be happy!"</p>
-<p>Those who have gathered,</p>
-<p>the departed relatives who have assembled</p>
-<p>around the food and drink,</p>
-<p>respectfully offer their thanks:</p>
-<p>saying: " May our relatives live long!</p>
-<p>Those to whom we owe this gain,</p>
-<p>for we have been honoured,</p>
-<p>those who give are not without reward!" <span id="Endnote16">[<a href="#endnote16">16</a>]</span><span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
+<p>“The wise praise such generosity,</p>
+<p>for it leads to future happiness.</p>
+<p>One who is intelligent, full of faith,</p>
+<p>and rich in virtue is reborn in a peaceful, blissful realm.”  <span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
 <p></p>
+<p><h1>The Path to the Divine Realms</h1></p>
+<p><i>“Faith, moral shame, and wholesome giving</i></p>
+<p><i>are qualities cherished by the noble ones.</i></p>
+<p><i>For this, they say, is the divine path,</i></p>
+<p><i>leading to the radiant world of the devas.”</i> <span id="Endnote32">[<a href="#endnote32">32</a>]</span></p>
 <p></p>
+<p>By observing precepts and cultivating generosity, one paves the way for both present happiness and future liberation.</p>
+<p><h1>How to Be Free from Suffering</h1></p>
+<p>On one occasion, the headman Bhadraka approached the Buddha and said:</p>
+<p><i>“Venerable sir, it would be good if the Blessed One could teach me about the origin and cessation of suffering.”</i> <span id="Endnote33">[<a href="#endnote33">33</a>]</span></p>
 <p></p>
-<p>*  The following sutta also highlights the importance of offering merits to the departed relatives.</p>
-<p>On one occasion Brahmin Jāṇussoṇī <span id="Endnote18">[<a href="#endnote18">18</a>]</span> approached the Blessed One and asked:</p>
-<p><i>“Master Gotama, we brahmins give gifts and perform the memorial rites for the dead with the thought: ‘let our gift be of benefit to our departed relatives… let our departed relatives partake of our gift…can our gift, actually be of benefit to our departed relatives?”</i></p>
-<p>Buddha, then gave detailed description of departed beings who had taken rebirth in a certain realm, who could benefit from such offerings. The Blessed One also pointed out that it is impossible to say that in this long samsara journey, our relatives and friends were not born in unfortunate places where they were waiting to get merits from their relatives. The Buddha concluded by saying that there are beings who can benefit from alms given in memory of the dead. Likewise, people who offer such alms also receive much merit. Brahmin Jāṇussoṇī, understood the teaching said:</p>
-<p>“<i>It’s astounding and amazing, Master Gotama, that there is reason to give gifts and perform the memorial rites for the dead, since for the donor too it is not fruitless”.</i><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>▲ How to Take Food in order to Maintain Good Health</b>.</p>
-<p>The Buddha has advised his followers how to partake their meals so they can have a good digest which help for healthy life. He also often pointed out that healthy body would support to develop meditation.</p>
-<p>“When a man is always mindful ...</p>
-<p>Knowing moderation in the food he eats</p>
-<p>His ailments then diminish:</p>
-<p>He ages slowly, guarding his life” <span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>▲How Buddhists Should Dwell in Home Life</b></p>
-<p>Often in scriptures we can see the Buddha advising lay flowers to be generous towards monks, nuns and other ascetics who need support to maintain their spiritual life, and to support family and relatives, poor and beggars who need food, clothing etc. He also encouraged them to develop meditation, especially recollections (anusati bhavana) of the Triple Gem, their generosity and virtue, higher queitites of Deva etc. Following suttas elaborate this point.</p>
-<p>♦  On one occasion Mahanama the Sakyan approached the Buddha as asked: how should one dwell in lay life with various duties and engagements etc. Then the Blessed One showed him the way: To be successful in homelife one must have faith, energy, mindfulness, stillness of mind and wisdom. Then one must develop further 6 things: 1-3 recollection of the qualities of Buddha, Dhamma and Sangha (anusati ). To recollect one’s own: 4 virtue, 5 generosity &amp; 6 qualities of Devas. <span id="Endnote21">[<a href="#endnote21">21</a>]</span></p>
-<p></p>
-<p>Note: Details of anusati bhavana are given in the above suttas.</p>
-<p></p>
-<p></p>
-<p></p>
-<h2>▲ <b>Keeping Precepts Brings Happiness in this Life and Favourable Rebirth.</b></h2>
-<p>The Buddha has shown his men and women lay followers the importance of observing the Five Precepts on daily basis and the Eight Precepts on Uposatha days.<span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
-<p></p>
-<p>Following is some of the suttas carrying this message:</p>
-<p>♦ <b>Keeping five precepts</b></p>
-<p>The following sutta points out the benefits of keeping five precepts.</p>
-<p>The Buddha said:</p>
-<p>“There are… these five gifts, great gifts, primal, of long standing, traditional, ancient, unadulterated and never before adulterated…not repudiated by wise ascetics and brahmins. What five? <span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
-<p></p>
-<p>1) <b>abstain from destruction of life</b>2) – 5) abstain from: <b>taking what is not given</b>…<b>from sexual misconduct…from false speech</b>… <b>from liquor, wine, and intoxicants. </b>- this gives to an immeasurable number of beings freedom from fear, enmity, and affliction. He himself enjoys freedom from fear, enmity, and affliction. Keeping these precepts led a person to be happy in this life and to gain a good rebirth.</p>
-<p>♦ <b>Keeping eight precepts</b></p>
-<p>One should not kill living beings or take what is not given;</p>
-<p>one should not speak falsehood or drink intoxicants;</p>
-<p>one should refrain from sexual activity, from unchastity;</p>
-<p>one should not eat at night or at an improper time.</p>
-<p>One should not wear garlands or apply scents;</p>
-<p>one should sleep on a low bed or a mat on the ground;</p>
-<p>this, they say, is the eight-factored uposatha</p>
-<p>proclaimed by the Buddha,</p>
-<p>who reached the end of suffering.</p>
-<p>Whatever wealth exists in this sphere—</p>
-<p>pearls, gems, and excellent beryl,</p>
-<p>horn gold and mountain gold…</p>
-<p>those are not worth a sixteenth part</p>
-<p>of an uposatha complete in the eight factors…</p>
-<p>Therefore, a virtuous woman or man,</p>
-<p>having observed the uposatha complete in eight factors</p>
-<p>and having made merit productive of happiness,</p>
-<p>blameless goes to a heavenly state<span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>▲Generosity</b></p>
-<p>The Buddha constantly praised almsgiving and pointed out to laypeople the benefits of giving alms to the ascetics, gifts to the people in need, sick people etc.</p>
-<p>* In the following sutta the Buddha pointed out how a good person should give gifts:</p>
-<p>(1) He gives what is pure; (2) he gives what<b> </b>is excellent; (3) he gives a timely gift; (4) he gives what is allowable; (5) he gives after investigation; (6) he gives often; (7)<b> </b>while giving he settles his mind in confidence; and (8) having given, he rejoiced <span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p>He gives what is pure and excellent,</p>
-<p>allowable drinks and food at the proper time;</p>
-<p>he gives gifts often to fertile fields of merit,</p>
-<p>to those who lead the spiritual life.</p>
-<p>He does not feel regret,</p>
-<p>having given away many material things.</p>
-<p>Those with deep insight praise</p>
-<p>the gifts given in this way.</p>
-<p>Having thus practiced charity</p>
-<p>with a mind freely generous,</p>
-<p>one intelligent and wise, rich in faith,</p>
-<p>is reborn in a pleasant, unafflicted world <span id="Endnote26">[<a href="#endnote26">26</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Faith, moral shame, and wholesome giving</p>
-<p>are qualities pursued by the good person;</p>
-<p>for this, they say, is the divine path</p>
-<p>by which one goes to the world of the devas <span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>▲ How to be Free from Suffering</b></p>
-<p>On one occasion Bhadraka the headman approached the Buddha and said:</p>
-<p><i>“It would be good, venerable sir, if the Blessed One would teach me about the origin and the passing away of suffering…”</i></p>
-<p>The Buddha used the method of dialogue to teach Dhamma to so Bhadraka could himself realise how the suffering come to be and how it passes away:</p>
-<p><b>Buddha</b>: <i>“What do you think, headman? are there any people in Uruvelakappa on whose account sorrow… pain…would arise in you if they were to be executed, imprisoned… or censured?”</i></p>
-<p><b>Bhadraka</b>: “<i>There are such people, venerable sir.”</i></p>
-<p><b>Buddha: </b><i>“But are there any people in Uruvelakappa on whose account sorrow… pain, …would not arise in you in such an event?</i></p>
-<p><b>Bhadraka</b>: “<i>There are such people, venerable sir.”</i></p>
-<p><b>Buddha: </b><i>What…is the cause and reason why in relation to some people …sorrow, and pain, arise in you if they were to be executed…while in regard to others no such sorrow… pain, would arise in you?</i></p>
-<p><b>Bhadraka</b>: <i>“Those people… in in relation to whom sorrow…pain, would arise in me if they were to be executed…these are the ones for whom I have …attachment…”</i></p>
+<p>In response, the Buddha engaged in a dialogue, leading Bhadraka to discover for himself how suffering arises and how it ceases:</p>
+<p><b>Buddha:</b> <i>“What do you think, headman? Are there people in Uruvelakappa on whose account sorrow and pain would arise in you if they were to be executed, imprisoned, or censured?”</i></p>
+<p><b>Bhadraka:</b> <i>“Yes, venerable sir, there are such people.”</i></p>
+<p><b>Buddha:</b> <i>“And are there people in Uruvelakappa on whose account sorrow and pain would not arise in you in such an event?”</i></p>
+<p><b>Bhadraka:</b> <i>“Yes, venerable sir, there are such people.”</i></p>
+<p><b>Buddha:</b> <i>“What is the reason that sorrow and pain arise in relation to some people but not in relation to others?”</i></p>
+<p><b>Bhadraka:</b> <i>“The ones for whom sorrow and pain would arise in me are those to whom I have attachment.”</i></p>
 <p>Then the Blessed One said:</p>
-<p><i>“…whatever suffering arose in the past…whatever suffering will arise in the future, all that will arise rooted in desire, with desire as its source; for desire is the root of suffering.’</i></p>
-<p><i>“In this way too, headman, it can be understood: ‘Whatever suffering arises, all that arises rooted indesire, with desire as its source; for desire is the root of suffering.’”</i></p>
-<p>In this way the Buddha showed Bhadraka, how to identify causes of suffering and to abandon it in order to lead be free and peaceful <span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
+<p><b>Whatever suffering arose in the past, whatever suffering will arise in the future, all of it has desire as its root and source; for desire is the cause of suffering.</b></p>
+<p><b>In this way too, headman, it can be understood: ‘Whatever suffering arises, all of it arises rooted in desire, with desire as its source; for desire is the root of suffering.</b></p>
+<p>Thus, the Buddha guided Bhadraka to recognize the causes of suffering and the way to abandon it.</p>
+<p><h1>How to Recognize a Good and Wise Person</h1></p>
+<p>The Buddha frequently advised his followers to associate with the wise and avoid the company of fools. This teaching is beautifully expressed in the opening verse of the <b>Mangala Sutta</b>:</p>
+<p><i>“Not associating with fools,</i></p>
+<p><i>Associating with the wise,</i></p>
+<p><i>Honouring those worthy of honour—</i></p>
+<p><i>This is the highest blessing.”</i> <span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>▲ How to Recognize Good and Wise Person</b></p>
-<p>One of the advices that the Buddha consistently gave to his devotees was to associate with wise people and not with foolish people. The opening stanza of the Mangala Sutta is:</p>
-<p>"Not associating with fools,</p>
-<p>with the wise associating…</p>
-<p>honouring that worthy of honour:</p>
-<p>this is a supreme blessing”<span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
+<p><h2>How to Recognize Wise People</h2></p>
+<p>The Buddha once gave King Pasenadi of Kosala the following guidance: <span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
 <p></p>
+<p><i>“Great king, a person's virtue is known by living with him…</i></p>
+<p><i>His honesty is known through dealings with him…</i></p>
+<p><i>His strength is known in times of misfortune…</i></p>
+<p><i>His wisdom is known through discussion…</i></p>
+<p><i>But this is known only after a long time, not a short time;</i></p>
+<p><i>By one who is attentive, not by one who is inattentive;</i></p>
+<p><i>By one who is wise, not by a fool.”</i></p>
+<p>He further warned:</p>
+<p><i>“A man is not easily known by outward form,</i></p>
+<p><i>Nor should one trust a quick appraisal.</i></p>
+<p><i>For in the guise of the well-controlled,</i></p>
+<p><i>The uncontrolled move about in this world.</i></p>
+<p><i>Like a counterfeit earring made of clay,</i></p>
+<p><i>Like a bronze half-penny coated with gold,</i></p>
+<p><i>Some move about in disguise—</i></p>
+<p><i>Inwardly impure, outwardly beautiful.”</i></p>
+<p><h2>How to Distinguish Between a Fool and a Wise Person</h2></p>
+<p>The Buddha provided a clear measure to discern the difference: <span id="Endnote36">[<a href="#endnote36">36</a>]</span>.</p>
 <p></p>
+<p>--	A <b>fool</b> is one who engages in <b>bodily misconduct, verbal misconduct, and mental misconduct</b>. Associating with such a person brings harm to both worldly and spiritual life.</p>
 <p></p>
-<p>♦ <b>How to Recognize Wise People</b></p>
-<p>*The following was the advice given to King Pasenadi of Kosala:</p>
-<p><i>“ It is </i><b><i>by living together</i></b><i> with someone, great king, that his </i><b><i>virtue</i></b><i> is to be known, …it is by </i><b><i>dealing with someone</i></b><i>, great king, that his </i><b><i>honesty </i></b><i>is to be known…</i> <i>it is in </i><b><i>misfortunes</i></b><i>, great king, that a person’s </i><b><i>strength</i></b><i>  is to be known…</i> <i>It is by </i><b><i>discussion with someon</i></b><i>e, great king, that his </i><b><i>wisdom </i></b><i>is to be known… and that after a long time, not after a short time; by one who is attentive, not by one who is inattentive; by one who is wise, not by a fool…”</i></p>
-<p>“A man is not easily known by outward form</p>
-<p>Nor should one trust a quick appraisal,</p>
-<p>For in the guise of the well-controlled</p>
-<p>Uncontrolled men move in this world.</p>
-<p>“Like a counterfeit earring made of clay,</p>
-<p>Like a bronze half-penny coated with gold,</p>
-<p>Some move about in disguise:</p>
-<p>Inwardly impure, outwardly beautiful <span id="Endnote30">[<a href="#endnote30">30</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p>* The Buddha has shown the criteria to identify a fool and a wise person.</p>
-<p>If a person has three bad qualities — bodily misconduct, verbal misconduct, and mental misconduct he is considered to be a fool, association of such people bring harm to ones’ ordinary life as well as spiritual life. However, if a person has three good qualities — good bodily conduct, good verbal conduct, and good mental conduct he is considered to be a wise person; association of such people bring good tidings to ones’ ordinary life as well as spiritual life <span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>End Notes: Section 11-2.</b></p>
-<p></p>
+<p>--	A <b>wise person</b> is one who cultivates <b>good bodily conduct, good verbal conduct, and good mental conduct</b>. Associating with such a person brings great benefit, both in this life and beyond.</p>
+<p>By choosing one's company wisely, one progresses towards peace, wisdom, and liberation.</p>
+<p><h2>End Notes: Section 11-2.</h2></p>
 <p></p>
 <p></p>
 <p></p>
@@ -386,64 +466,77 @@
 <p></p>
 <p></p>
 <p></p>
-<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 He became a lay follower of the Buddha. * The Sigālovāda Sutta is a popular sutta among Buddhists in Sri Lanka, Thailand and Burma.
 <p></p>
-<span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 DN: 31 (Sigālaka Sutta)
+<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 AI generated image.
 <p></p>
-<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 SN55: 7 *The people of Bamboo Gate)
+<span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 He became a lay follower of the Buddha. * The Sigālovāda Sutta is a popular sutta among Buddhists in Sri Lanka, Thailand and Burma.
 <p></p>
-<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 Ibid.
+<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 DN:31
 <p></p>
-<span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 AN8: 54 *His clan’s name is Byagghapajja.
+<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 SN: 3:4 (Dear sutta)
 <p></p>
-<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 AN3: 31 (Brahma sutta)
+<span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 SN55: 7 *The people of Bamboo Gate)
 <p></p>
-<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 AN2: 33.
+<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 SN55: 7 *The people of Bamboo Gate)
 <p></p>
-<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 AN8: 38.
+<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 AN8: 54 *His clan’s name is Byagghapajja.
 <p></p>
-<span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 AN7: 62.
+<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 AN2:33
 <p></p>
-<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 AN4: 31 (The wheel sutta).
+<span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 AN3:31
 <p></p>
-<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 AN4: 36.
+<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 AN2:33
 <p></p>
-<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 She was the mother of Sīvalī Thera, The Buddha designated her as the foremost among givers of what is excellent, see: AN1:263.
+<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 AN8: 38.
 <p></p>
-<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 AN4: 57 (Suppavāsā sutta).
+<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 AN7: 62.
 <p></p>
-<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 AN8:36.
+<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 AN4: 31 (The wheel sutta).
 <p></p>
-<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 See section 14: Part 2 for details. In <a href="https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas">Maha Buddhavamsa—The Great Chronicle of Buddhas</a> by Ven. Mingun Sayadaw -describes this episode in details.
+<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 AN4: 36.
 <p></p>
-<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 KN:KP:7 (Tirokuddha sutta- Hungary Shades outside the wall, translated by Bhikkhu Bodhi)
+<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 She was the mother of Sīvalī Thera, The Buddha designated her as the foremost among givers of what is excellent, see: AN1:263.
 <p></p>
-<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Translated from the Pali by Thanissaro Bhikkhu- https://www.accesstoinsight.org/tipitaka/kn/pv/pv.1.05.than.html
+<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 AN4: 57 (Suppavāsā sutta).
 <p></p>
-<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 He was a wealthy brahmin of Sāvatthī became follower of the Buddha. Cūḷahatthipadopama Sutta (MN:27) delivered to him.
+<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 AN8:36.
 <p></p>
-<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 AN10: 177 (Jāṇussoṇī sutta).
+<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 See section 14: Part 2 for details. In <a href="https://www.wisdomlib.org/buddhism/book/the-great-chronicle-of-buddhas">Maha Buddhavamsa—The Great Chronicle of Buddhas</a> by Ven. Mingun Sayadaw -describes this episode in details.
 <p></p>
-<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 SN3:13 (A Bucket Measure of Food sutta). * This advice was given to King Pasenadi Kosla, who followed the Buddha’s advice and became healthy.
+<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 KN:KP:7 (Tirokuddha sutta- Hungary Shades outside the wall, translated by Bhikkhu Bodhi)
 <p></p>
-<span id="endnote21">[<a href="#Endnote21">21</a>]</span>	  AN11: 11, 12 &amp; 13.
+<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 He was a wealthy brahmin of Sāvatthī became follower of the Buddha. Cūḷahatthipadopama Sutta (MN:27) delivered to him.
 <p></p>
-<span id="endnote22">[<a href="#Endnote22">22</a>]</span>	 Upostaha is a Buddhist Observance Day that take place in Full moon and New Moon days. On those days lay people refrain form their daily home life, go to a monastery or a temple, take eight precepts and spend the whole day and the night doing chanting, listening to Dhamma talks and meditations.
+<span id="endnote21">[<a href="#Endnote21">21</a>]</span>	 AN10: 177 (Jāṇussoṇī sutta).
 <p></p>
-<span id="endnote23">[<a href="#Endnote23">23</a>]</span>	 AN8:39
+<span id="endnote22">[<a href="#Endnote22">22</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote24">[<a href="#Endnote24">24</a>]</span>	 AN8:42 * IN AN8:V Uposatha chapter has many suttas related to this subject.
+<span id="endnote23">[<a href="#Endnote23">23</a>]</span>	 SN3:13 (A Bucket Measure of Food sutta). * This advice was given to King Pasenadi Kosla, who followed the Buddha’s advice and became healthy.
 <p></p>
-<span id="endnote25">[<a href="#Endnote25">25</a>]</span>	 AN8: 37 (Good persons gifts sutta).
+<span id="endnote24">[<a href="#Endnote24">24</a>]</span>	  AN11: 11, 12 &amp; 13 *<b> </b>Details of anusati bhavana are mentioned in these suttas.
 <p></p>
-<span id="endnote26">[<a href="#Endnote26">26</a>]</span>	 Ibid.
+<span id="endnote25">[<a href="#Endnote25">25</a>]</span>	 AI generated image.
 <p></p>
-<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 AN8:32 (Giving).
+<span id="endnote26">[<a href="#Endnote26">26</a>]</span>	 Upostaha is a Buddhist Observance Day that take place in Full moon and New Moon days. On those days lay people refrain form their daily home life, go to a monastery or a temple, take eight precepts and spend the whole day and the night doing chanting, listening to Dhamma talks and meditations.
 <p></p>
-<span id="endnote28">[<a href="#Endnote28">28</a>]</span>	 SN42: 11.
+<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 AN8:39
 <p></p>
-<span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 KN:KP:5 (Mangala sutta, translated by Bhikkhu Bodhi)
+<span id="endnote28">[<a href="#Endnote28">28</a>]</span>	 AN8:42 * IN AN8:V Uposatha chapter has many suttas related to this subject.
 <p></p>
-<span id="endnote30">[<a href="#Endnote30">30</a>]</span>	 SN3: 11
+<span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 AN8: 37 (Good persons gifts sutta).
 <p></p>
-<span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 For details see: AN3: 2, 3 &amp; 4.
+<span id="endnote30">[<a href="#Endnote30">30</a>]</span>	 Ibid.
+<p></p>
+<span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 AN8:32 (Giving).
+<p></p>
+<span id="endnote32">[<a href="#Endnote32">32</a>]</span>	 Ibid.
+<p></p>
+<span id="endnote33">[<a href="#Endnote33">33</a>]</span>	 SN42: 11.
+<p></p>
+<span id="endnote34">[<a href="#Endnote34">34</a>]</span>	 KN:KP:5 (Mangala sutta, translated by Bhikkhu Bodhi)
+<p></p>
+<span id="endnote35">[<a href="#Endnote35">35</a>]</span>	 SN3: 11
+<p></p>
+<span id="endnote36">[<a href="#Endnote36">36</a>]</span>	 For details see: AN3: 2, 3 &amp; 4.
+</article>
+</div>

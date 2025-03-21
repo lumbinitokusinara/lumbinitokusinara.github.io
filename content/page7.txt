@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><h1>Section 7: The Buddha—The Supreme Teacher of the World</h1></p>
 <p>The Buddha was not just a teacher—he was the greatest teacher the world has ever known. His wisdom, boundless compassion, and supreme skill in guiding beings toward liberation make him unparalleled in history. He possessed an extraordinary ability to meet each person at their own level of understanding, gently leading them from ignorance to truth, from suffering to the highest bliss of Nibbāna.</p>
 <p></p>
@@ -537,3 +539,5 @@
 <p></p>
 <span id="endnote50">[<a href="#Endnote50">50</a>]</span>	 AN6.61.
 <p></p>
+</article>
+</div>

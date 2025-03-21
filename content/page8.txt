@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><h1>Section 8: Praise and Criticism – The Buddha’s Unshaken Wisdom</h1></p>
 <p>Throughout his lifetime, the Buddha was revered by both humans and devas for his boundless wisdom and immeasurable compassion. Many recognized him as a Supreme Teacher, a beacon of truth who illuminated the path to liberation. His words inspired countless beings, and those who truly saw his greatness joyfully took refuge in his teachings.</p>
 <p>Even among followers of other traditions, there were those who acknowledged his extraordinary leadership and noble qualities. Though they admired him as a great spiritual leader, they hesitated to embrace his path.</p>
@@ -727,3 +729,5 @@
 <span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 MN:54 (Potailya sutta).
 <p></p>
 <span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 SN7:2 (Abuse Sutta)
+</article>
+</div>

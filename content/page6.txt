@@ -1,4 +1,6 @@
-<h1><h1>Section 6: Titles and Epithets of the Buddha</h1></h1>
+<div class="container">
+<article class="pagewidth">
+<p><h1>Section 6: Titles and Epithets of the Buddha</h1></p>
 <p>Throughout the scriptures, the Blessed One is honoured with many titles, each reflecting his incomparable wisdom, compassion, and supreme awakening. This section explores some of these profound epithets that reveal the depth of his enlightenment and the boundless impact of his teachings.</p>
 <p></p>
 <p></p>
@@ -1186,3 +1188,5 @@
 <span id="endnote103">[<a href="#Endnote103">103</a>]</span>	 He is called (<i>danta</i>) because he is free from deviant conduct, see: SN:Note:87.
 <p></p>
 <span id="endnote104">[<a href="#Endnote104">104</a>]</span>	 Upāli was a prominent wise and wealthy householder of Nāḷandā , who was a follower of Nigaṇṭha Nātaputta, at a later date he met the Blessed One, listened to the Dhamma and became a stream-winner. When questioned by Nigaṇṭha Nātaputta: ‘whose disciple should we consider you to be…’ Upāli uttered the verses praising the Buddha. For details: see; MN: Upāli sutta.
+</article>
+</div>

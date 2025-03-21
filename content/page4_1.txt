@@ -1,3 +1,5 @@
+<div class="container">
+<article class="pagewidth">
 <p><h1>Section 4-1: The Founding of the Fourfold Assembly</h1></p>
 <p></p>
 <p>In the previous section, (section 4) we explored how the ascetic Siddhartha attained the supreme enlightenment and became the Fully Awakened Buddha. Now, we turn our attention to the profound moment when the Blessed One established the Fourfold Assembly—bhikkhus (monks), bhikkhunis (nuns), upāsakas (laymen), and upāsikās (laywomen)—the foundation upon which the Dhamma would take root and flourish for the welfare of countless beings.</p>
@@ -385,3 +387,5 @@
 <span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 For more details see <a href="https://dahampada.github.io/"><u>https://dahampada.github.io/</u></a>
 <p></p>
 <span id="endnote20">[<a href="#Endnote20">20</a>]</span>	  For detail information see: Great Disciples of the Buddha by Ven. Nyanaponika and Helmut Hecker and <a href="https://dahampada.github.io/"><u>https://dahampada.github.io/</u></a>
+</article>
+</div>
