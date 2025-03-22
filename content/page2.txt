@@ -1,8 +1,8 @@
 <div class="container">
 <article class="pagewidth">
-<p><h1>Section 2: Childhood and Family Life of Prince Siddhartha</h1></p>
+<h1>Section 2: Childhood and Family Life of Prince Siddhartha</h1>
 <p>In the previous section of this series, we delved into the remarkable birth of Prince Siddhartha and the extraordinary events surrounding his arrival into this world. Now, we explore his early years, from childhood to the transformative moment at the age of twenty-nine, when he left his royal life behind to embark on the path of an ascetic in search of liberation.</p>
-<p><h2>The Family of Prince Siddhartha</h2></p>
+<h2>The Family of Prince Siddhartha</h2>
 <p>Prince Siddhartha’s name, Siddhartha, means “<b>he who achieves his goal,</b>” <b> </b><span id="Endnote1">[<a href="#endnote1">1</a>]</span> and indeed, his life would unfold to achieve the supreme goal of enlightenment, bringing profound peace and wisdom to countless beings. Born in the city of Kapilavattu, Prince Siddhartha belonged to the Sakya Clan, a noble family of rulers. His father, King Suddhodana, and his mother, Queen Mahamaya, were revered for their wisdom and compassion. <span id="Endnote2">[<a href="#endnote2">2</a>]</span> However, the life of this noble prince was marked by profound sorrow, as his mother, Queen Mahamaya, passed away just seven days after his birth. <span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p>In a gesture of love and compassion, Queen Prajapati, Queen Mahamaya’s sister and King Suddhodana’s second consort, stepped forward as the prince’s foster mother. Queen Prajapati would later become a prominent figure in the Buddha’s teachings, being the first to be ordained as a Bhikkhuni in the community of nuns, embodying the noble qualities of devotion and compassion.</p>
 <p>Prince Siddhartha also had a half-brother, Prince Nanda, and a half-sister, Princess Nandā, children of King Suddhodana and Queen Prajapati, who were also part of the royal family that would witness the unfolding of his extraordinary destiny.</p>
@@ -22,7 +22,7 @@
 <p>Queen Prajāpati, reflecting on her unique role as the Buddha’s foster mother, said: <span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
 <p><i>“… </i><b><i>Sublime One</i></b><i>, I am your foster mother, yet you nourished me with the milk of the </i><b><i>True Dhamma</i></b><i>. Therefore, you are my father… </i><b><i>Greatest Hero</i></b><i>, I raised you by nursing you, and you supported me in building this </i><b><i>Dhamma body</i></b><i>. I quenched your thirst with my breast milk, and the </i><b><i>Dhamma milk</i></b><i> you provided extinguished my worldly desires. While titles like ‘King’s mother’ and ‘King’s wife’ hold great significance, the title of ‘Buddha’s mother’ surpasses them all…”</i><span id="Endnote7">[<a href="#endnote7">7</a>]</span><i> </i></p>
 <p></p>
-<p><img src="page2/image1.jpeg" /></p>
+<img src="page2/image1.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -56,11 +56,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Baby Prince Siddhartha with Maha Pajapati Gotami</b><span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
+<p class="caption"><b>Baby Prince Siddhartha with Maha Pajapati Gotami</b><span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
 <p></p>
-<p><h2>Prince Siddhartha’s Childhood</h2></p>
+<h2>Prince Siddhartha’s Childhood</h2>
 <p>Prince Siddhartha grew up in the comfort of royalty, sheltered from the outside world. However, even in his early years, two significant and unusual spiritual events occurred, foreshadowing the path he would one day follow, as documented in the scriptures.</p>
-<p><h3>Prophesy about Buddhahood</h3></p>
+<h3>Prophesy about Buddhahood</h3>
 <p>The first event took place when the renowned ascetic, Asita (also known as Kāladevala), visited King Suddhodana to see the newborn prince. The ascetic, upon observing the child, prophesied that the baby would one day become a great spiritual leader: <span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
 <p></p>
 <p></p>
@@ -71,7 +71,7 @@
 <p></p>
 <p>This prophecy marked the beginning of the divine significance of Prince Siddhartha’s life, setting the stage for his future as the Buddha.</p>
 <p></p>
-<p><img src="page2/image2.jpeg" /></p>
+<img src="page2/image2.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -79,7 +79,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Meditative Attainment as a Child</h3></p>
+<h3>Meditative Attainment as a Child</h3>
 <p>The second significant event took place during a ploughing festival organized by his father. At just seven years old, Prince Siddhartha was found meditating under a Rose Apple tree. In this serene moment, it is said that he entered the first Jhana, a deep state of meditation. This early experience of profound samadhi and mindfulness would later lay the foundation for his spiritual journey to enlightenment.</p>
 <p>After attaining Buddhahood, the Blessed One recalled this moment from his childhood, describing it in the following way:</p>
 <p><i>“…I recall that when my father, the Sakyan, was occupied, I sat in the cool shade of a rose-apple tree, completely secluded from sensual pleasures and free from unwholesome states. In this peaceful solitude, I entered and abided in the first jhāna, accompanied by applied and sustained thought, with rapture and pleasure born of seclusion…”</i><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
@@ -88,7 +88,7 @@
 <p></p>
 <p>This early meditation marked the beginning of Prince Siddhartha’s connection with the path of inner peace, which would ultimately lead him to the realization of enlightenment.</p>
 <p></p>
-<p><img src="page2/image3.jpeg" /></p>
+<img src="page2/image3.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -118,11 +118,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Prince Siddhartha’s first meditation at the age of seven </b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
+<p class="caption"><b>Prince Siddhartha’s first meditation at the age of seven </b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Young Prince Siddhartha </h2></p>
+<h2>Young Prince Siddhartha </h2>
 <p>According to the scriptures, prince Siddhartha lived in the royal palace in<b> </b>Kapilavattu, the capital of the Sakyan Clan until the age of twenty-nine. The Buddha recalls:</p>
 <p><i>“I lived in lay life for twenty-nine years… Bhadda Kacchana  (Yashodhara) was my queen… Rahula was my son’ . </i><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
 <p></p>
@@ -141,7 +141,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page2/image4.jpeg" /></p>
+<img src="page2/image4.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -179,15 +179,15 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Royal pleasures of Prince Siddhartha</b> -I spent the four months of the rains in the rainy-season mansion, being entertained by musicians, none of whom were male and I did not leave the mansion<span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
+<p class="caption"><b>Royal pleasures of Prince Siddhartha</b> -I spent the four months of the rains in the rainy-season mansion, being entertained by musicians, none of whom were male and I did not leave the mansion<span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
 <p></p>
-<p><img src="page2/image5.png" /></p>
+<img src="page2/image5.png" />
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p><b>Young Prince Siddhartha in the royal palace </b>(may be reflecting of uncertainty of sensual life) <span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
+<p class="caption"><b>Young Prince Siddhartha in the royal palace </b>(may be reflecting of uncertainty of sensual life) <span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -207,7 +207,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page2/image6.jpeg" /></p>
+<img src="page2/image6.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -239,11 +239,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Royal wedding of Prince Siddhartha and princess Yasodhara</b> <span id="Endnote18">[<a href="#endnote18">18</a>]</span></p>
+<p class="caption"><b>Royal wedding of Prince Siddhartha and princess Yasodhara</b> <span id="Endnote18">[<a href="#endnote18">18</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page2/image7.jpeg" /></p>
+<img src="page2/image7.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -281,15 +281,15 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Royal Family of Kapilavattu </b>Seated:<b> </b>Prince Siddhartha and princess Yasodhara in the center, left: Amita Devi (Yasodhara’s mother) Princess Nandā, right: Prince Nanda Standing: center King Suddhodana and Queen Prajapathi, left King Suppabuddha and right Prince Devadatta (Yasodhara’s father and brother) <span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
+<p class="caption"><b>Royal Family of Kapilavattu </b>Seated:<b> </b>Prince Siddhartha and princess Yasodhara in the center, left: Amita Devi (Yasodhara’s mother) Princess Nandā, right: Prince Nanda Standing: center King Suddhodana and Queen Prajapathi, left King Suppabuddha and right Prince Devadatta (Yasodhara’s father and brother) <span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Additional Information</h2></p>
+<h2>Additional Information</h2>
 <p>Additionally, this section includes a description of the Buddha’s close family members. It is fitting to highlight how, after attaining enlightenment, the Buddha guided his parents and relatives on the spiritual path. Below, we provide a profile of each family member and their journey into spiritual life.</p>
-<p><h2>Princess Yasodharā: The Devoted Companion Across Lifetimes</h2></p>
+<h2>Princess Yasodharā: The Devoted Companion Across Lifetimes</h2>
 <p>According to tradition, Princess Yasodharā (Bhaddā Kaccānā) was not only the beloved wife of Prince Siddhartha in this life but also his devoted companion across countless past existences. Their bond was one of unwavering faithfulness and spiritual dedication. At the age of sixteen, she married Prince Siddhartha, sharing a life of royal splendour until he renounced the world in search of ultimate truth. <span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
 <p></p>
 <p></p>
@@ -307,7 +307,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page2/image8.png" /></p>
+<img src="page2/image8.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -335,11 +335,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Yasodharā Their paying her final respect to the Buddha </b><span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
+<p class="caption"><b>Yasodharā Their paying her final respect to the Buddha </b><span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page2/image9.jpeg" /></p>
+<img src="page2/image9.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -373,11 +373,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Prince Nanda following the   Blessed One- </b>though he was carrying the bowl of the Buddha his mind was on his wife to be ‘Janapada Kalyani’ who was asking him to come back soon. <span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
+<p class="caption"><b>Prince Nanda following the   Blessed One- </b>though he was carrying the bowl of the Buddha his mind was on his wife to be ‘Janapada Kalyani’ who was asking him to come back soon. <span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Prince Nanda</h2></p>
+<h2>Prince Nanda</h2>
 <p>Prince Nanda, also known as Nanda Gotama, was the Buddha’s half-brother, born to King Suddhodana and Queen Mahāpajāpatī Gotamī.</p>
 <p>On one occasion, the Blessed One, accepting an invitation from his father, visited Kapilavatthu. At that time, Prince Nanda was preparing to marry a beautiful Sakyan maiden known as <i>Janapada Kalyāṇī</i>—meaning “the most beautiful maiden of the province.” After taking his meal at the palace, the Buddha handed his alms bowl to Prince Nanda and silently walked with him to the monastery. Out of deep respect for the Blessed One, Nanda agreed to ordain as a monk when asked, though his mind remained attached to the comforts of royal life and his beloved bride-to-be.</p>
 <p>Longing to return to his former life, Nanda struggled with monastic discipline. Sensing his inner conflict, the Buddha, using his spiritual<b> </b>powers, transported Nanda to the <i>Tāvatiṁsa</i> Deva realm, where celestial maidens of surpassing beauty resided. Pointing to them, the Buddha said: <span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
@@ -404,12 +404,12 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Princess Nandā Gotamī</h2></p>
+<h2>Princess Nandā Gotamī</h2>
 <p>Like Prince Nanda, Princess Nandā was the child of King Suddhodana and Queen Mahāpajāpatī Gotamī, making her the Buddha’s half-sister. Renowned for her exceptional beauty, she was called <i>Sundarī Nandā</i>—"Beautiful Nandā."</p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page2/image10.jpeg" /><img src="page2/image11.jpeg" /><img src="page2/image12.jpeg" /><img src="page2/image13.jpeg" /></p>
+<img src="page2/image10.jpeg" /><img src="page2/image11.jpeg" /><img src="page2/image12.jpeg" /><img src="page2/image13.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -435,7 +435,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Beautiful Princess Nanda    -      Nanada Theri awaken to the Buddha’s teaching </b><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
+<p class="caption"><b>Beautiful Princess Nanda    -      Nanada Theri awaken to the Buddha’s teaching </b><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -446,13 +446,13 @@
 <p>In Therigatha of Venerable Nandā stated how the Buddha regularly advised her with these verses:</p>
 <p><i>“…Nandā, see this bag of bones as diseased, filthy, and rotten. With mind unified and serene, meditate on the ugly aspects of the body.  Meditate on the sign-less, give up the underlying tendency to conceit; and when you comprehend conceit, you will live at peace…”.  </i><span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
 <p></p>
-<p><img src="page2/image14.jpeg" /></p>
+<img src="page2/image14.jpeg" />
 <p></p>
-<p><b>Ordination of Rahula</b><span id="Endnote32">[<a href="#endnote32">32</a>]</span></p>
+<p class="caption"><b>Ordination of Rahula</b><span id="Endnote32">[<a href="#endnote32">32</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Prince Rāhula: The Young Renunciant</h2></p>
+<h2>Prince Rāhula: The Young Renunciant</h2>
 <p>Prince Rāhula, the only son of Prince Siddhartha and Princess Yasodharā, was known as <i>Rāhula Bhadda</i>— “fortunate Rāhula”—for he was blessed to be the son of the Blessed One. Yet, his true fortune lay not in royal privilege, but in the rare opportunity to walk the noble path under the direct guidance of the Buddha himself.</p>
 <p>According to tradition, when Prince Siddhartha renounced the world, Rāhula was still an infant. He was raised in the comforts of the palace by his loving mother and grandparents, unaware that his destiny would soon lead him far beyond the luxuries of royal life.</p>
 <p>The <i>Vinaya Pitaka</i> describes the remarkable event of his ordination at the tender age of seven: <span id="Endnote33">[<a href="#endnote33">33</a>]</span></p>
@@ -467,19 +467,19 @@
 <p>Then the Buddha turned to Venerable Sāriputta and said:</p>
 <p><i>“Well then, Sāriputta, give Rāhula the going forth.”</i></p>
 <p>Thus, at just seven years old, Prince Rāhula renounced his princely life and entered the monastic order as a novice monk. Venerable Sāriputta was entrusted with his training, guiding him with wisdom and compassion.</p>
-<p><h3>King Suddhodana’s Grief</h3></p>
+<h3>King Suddhodana’s Grief</h3>
 <p>However, the news of Rāhula’s ordination pierced King Suddhodana’s heart with sorrow. Already having endured the departure of both Siddhartha and Nanda, the loss of his beloved grandson was too much to bear. He went to the Buddha and, with a heavy heart, expressed his pain:</p>
 <p><i>“When the Buddha went forth, it was painful for me. When Nanda went forth, it was painful again. But with Rāhula, it is even worse. A parent’s love cuts deep—it cuts through the outer and inner skin, through the flesh, sinews, and bones, reaching all the way to the marrow. Please, Blessed One, do not grant ordination to a child without the parents’ permission.”</i></p>
 <p>Respecting his father’s plea, the Buddha established a new rule: henceforth, no child would be ordained without the consent of their parents.<span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Venerable Rahula’s Progress in Dhamma</h2></p>
+<h2>Venerable Rahula’s Progress in Dhamma</h2>
 <p>Though Rāhula had once sought an inheritance of wealth and power, under the Buddha’s guidance, he would come to receive the greatest inheritance of all—the wealth of the Dhamma, the path to ultimate liberation.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page2/image15.jpeg" /></p>
+<img src="page2/image15.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -501,7 +501,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Venerable Rahula paying attention to the Buddha’s teachings</b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
+<p class="caption"><b>Venerable Rahula paying attention to the Buddha’s teachings</b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -548,14 +548,14 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha’s Reverence for His Parents</h2></p>
+<h2>The Buddha’s Reverence for His Parents</h2>
 <p>Throughout his teachings, the Blessed One emphasized the profound duty of homering and respecting one’s parents. He reminded his followers that no worldly wealth or power could ever fully repay the debt owed to those who give life, nurture, and guide their children. Yet, the highest way to honour them is by leading them toward the path of virtue and wisdom. The Buddha himself exemplified this truth, guiding his own parents to the Dhamma with boundless compassion.</p>
 <p>He declared:</p>
 <p><i>“…Even if one were to establish one’s parents as the supreme lords and rulers over this great earth, abounding in the seven treasures, one still would not have done enough for them, nor would one have repaid them. Why? Because parents are of great help to their children—they bring them up, feed them, and show them the world. Yet, if one leads one’s parents to develop faith, virtuous behaviour, generosity, and wisdom—then, indeed, they have been truly repaid.”  </i><span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Guiding His Father and Foster Mother to the Dhamma</h2></p>
+<h2>Guiding His Father and Foster Mother to the Dhamma</h2>
 <p>According to tradition, when the Buddha first returned to Kapilavatthu after attaining enlightenment, he went on his daily alms round, walking silently from house to house. Word spread quickly, and when King Suddhodana heard that his son—the prince who once lived in luxury—was now seeking alms like a wandering mendicant, his heart was filled with dismay. Overcome with concern and the pride of a Sakyan ruler, the king hurried to meet the Blessed One. With deep emotion, he implored: <span id="Endnote42">[<a href="#endnote42">42</a>]</span></p>
 <p></p>
 <p><i>“My son, why must you beg for food? You are a prince of the Sakyans, not a beggar.”</i></p>
@@ -566,7 +566,7 @@
 <p>Thus, through wisdom and love, the Blessed One repaid his parents in the highest way—by guiding them beyond the cycle of suffering, leading them toward the path of true liberation.</p>
 <p>According to tradition the King absorbed the dhamma and was subsequently a stream entrant—Sottapanna and subsequently an Anagami—non-returner. <span id="Endnote43">[<a href="#endnote43">43</a>]</span></p>
 <p></p>
-<p><img src="page2/image16.jpeg" /></p>
+<img src="page2/image16.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -602,7 +602,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>King Suddhodana meeting the Buddha in Kapilavattu </b><span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
+<p class="caption"><b>King Suddhodana meeting the Buddha in Kapilavattu </b><span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -611,7 +611,7 @@
 <p>The Blessed One is said to have visited his father, King Suddhodana at his death-bed. <span id="Endnote45">[<a href="#endnote45">45</a>]</span></p>
 <p></p>
 <p>The Buddha taught the Dhamma and the king became an Arahant. He enjoyed the bliss of liberation for seven days as a lay person before passing away <span id="Endnote46">[<a href="#endnote46">46</a>]</span>.</p>
-<p><h2>Helping Queen Mahāpajāpatī Gotamī</h2></p>
+<h2>Helping Queen Mahāpajāpatī Gotamī</h2>
 <p>The <i>Dakkhiṇāvibhaṅga Sutta</i> (MN 142) contains a passage in which Venerable Ānanda highlights the immense help the Blessed One provided to his foster mother, Mahāpajāpatī Gotamī, in her journey along the Dhamma path. He states:</p>
 <p><i>“…The Blessed One has been truly helpful to Mahāpajāpatī Gotamī. It is because of the Blessed One that she has gone for refuge to the Buddha, the Dhamma, and the Saṅgha and possesses unwavering confidence in them.”</i></p>
 <p>These four qualities—refuge in the Triple Gem and unwavering confidence—are the defining factors of stream-entry (<i>sotāpatti</i>). <span id="Endnote47">[<a href="#endnote47">47</a>]</span> Thus, from this account, it is evident that by this time, Mahāpajāpatī Gotamī had already attained the first stage of enlightenment.</p>
@@ -619,7 +619,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page2/image17.jpeg" /></p>
+<img src="page2/image17.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -647,7 +647,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Painting of Mahapajapati Gotami, the Buddha's foster mother, and the first Buddhist nun in history</b> <span id="Endnote49">[<a href="#endnote49">49</a>]</span></p>
+<p class="caption"><b>Painting of Mahapajapati Gotami, the Buddha's foster mother, and the first Buddhist nun in history</b> <span id="Endnote49">[<a href="#endnote49">49</a>]</span></p>
 <p></p>
 <p>In the <i>Therīgāthā</i>, she expressed her deep gratitude to the Buddha with these profound verses:</p>
 <p>“Since I have seen the Blessed One,</p>
@@ -666,7 +666,7 @@
 <p></p>
 <p>With unwavering faith and diligence, Mahāpajāpatī Gotamī fulfilled her spiritual journey,</p>
 <p>exemplifying the highest gratitude by realizing the very liberation the Buddha so compassionately taught.</p>
-<p><h2>Guiding His Mother to the Dhamma in the Deva Realm</h2></p>
+<h2>Guiding His Mother to the Dhamma in the Deva Realm</h2>
 <p>According to the scriptures and tradition, Queen Mahāmāyā, the mother of the Buddha, was reborn in the <i>Tusita</i> Deva Realm as a radiant celestial being known as <i>Santusita Deva</i>—also referred to as the "Mother Deva." Though she had departed from the human world just seven days after giving birth to Prince Siddhartha, her connection to him remained profound beyond lifetimes.</p>
 <p>The Blessed One, out of boundless compassion, ascended to the deva world to share the Dhamma with his mother and the celestial beings. The texts describe this extraordinary event:</p>
 <p><i>“…When the Buddha went to the Tāvatimsa deva world, his mother, who had been reborn in the Tusita deva world as Santusita Deva, also descended to Tāvatimsa. There, throughout the three months of the vassa (rain retreat), the Blessed One expounded the Abhidhamma to the devas and brahmas. As a result, Santusita Deva attained the fruit of stream-entry (sotāpatti).” </i><span id="Endnote51">[<a href="#endnote51">51</a>]</span></p>
@@ -701,7 +701,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page2/image18.jpeg" /></p>
+<img src="page2/image18.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -721,14 +721,14 @@
 <p></p>
 <p><b>The Blessed One coming from the Deva- loka</b> <b>after teaching to his mother who was born as a young deva </b><span id="Endnote53">[<a href="#endnote53">53</a>]</span></p>
 <p></p>
-<p><h3>Summary</h3></p>
+<h3>Summary</h3>
 <p></p>
 <p>This Section provides an outline of life of Gotama Buddha as child and a young man living a luxurious worldly life.  Brief descriptions are given of the Buddha’s immediate family, most of whom ordained under him.  The information is from scriptures.  To elaborate specific points/events and to fill some gaps, we have taken some information from traditional Buddhist books and other sources which are documented in the notes and references at the end.</p>
 <p></p>
 <p></p>
 <p></p>
 <p>In the next section (Section: 3), we will recount the story of Prince Siddhartha’s departure from the palace at the age of twenty-nine to embrace the life of an ascetic, followed by his attainment of Buddhahood at thirty-five.</p>
-<p><h3>End Notes: Section 2</h3></p>
+<h3>End Notes: Section 2</h3>
 <p></p>
 <p></p>
 <p></p>

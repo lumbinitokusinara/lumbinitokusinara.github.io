@@ -42,7 +42,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Fully Enlightened Buddha </b><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
+<p class="caption"><b>The Fully Enlightened Buddha </b><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -252,7 +252,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Devas paying homage to the Buddha</b><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
+<p class="caption"><b>Devas paying homage to the Buddha</b><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
 <p></p>
 <h2>Celestial Beings Paying Homage to the Buddha</h2>
 <p></p>
@@ -354,7 +354,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Buddha’s Great Miracles</b><span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
+<p class="caption"><b>Buddha’s Great Miracles</b><span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -396,7 +396,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Encounter with a Naga serpen</b>t <span id="Endnote48">[<a href="#endnote48">48</a>]</span></p>
+<p class="caption"><b>Encounter with a Naga serpen</b>t <span id="Endnote48">[<a href="#endnote48">48</a>]</span></p>
 <p></p>
 <h2>Performances of Miracle at the Monastery of Uruvela Kassapa</h2>
 <p></p>
@@ -615,7 +615,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Foot print of an ordinary person        Foot print of the Buddha</b></p>
+<p class="caption"><b>Foot print of an ordinary person        Foot print of the Buddha</b></p>
 <p><b>Note: Another source</b> says: “when other persons set foot on the ground, the tip of the foot or the heel or the outer part of the sole touches the ground first, but the middle portion of the sole does not. But the Bodhisatta puts down his foot on the ground, the entire sole touches it evenly the way the sole of a soft golden shoe does…”<span id="Endnote80">[<a href="#endnote80">80</a>]</span></p>
 <p></p>
 <img src="page5/image7.jpeg" />
@@ -661,7 +661,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Standing Buddha </b><span id="Endnote82">[<a href="#endnote82">82</a>]</span></p>
+<p class="caption"><b>Standing Buddha </b><span id="Endnote82">[<a href="#endnote82">82</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -880,7 +880,7 @@
 <p></p>
 <span id="endnote46">[<a href="#Endnote46">46</a>]</span>	 Source: Kagyu Shenpen Kunchab Buddhist Centre
 <p></p>
-<a href="https://nobletruth.org/">https://nobletruth.org/</a>
+<p><a href="https://nobletruth.org/">https://nobletruth.org/</a></p>
 <p></p>
 <p></p>
 <p></p>

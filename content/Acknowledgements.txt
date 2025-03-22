@@ -1,6 +1,6 @@
 <div class="container">
 <article class="pagewidth">
-<h1><b>ACKNOWLEDGMENT</b></h1>
+<p><b>ACKNOWLEDGMENT</b></p>
 <p>With much respect and gratitude, we gratefully acknowledge the exceptional translations of Tripiṭaka<i> </i>by Venerable Sangha: Bhikkhu Bodhi, Bhikkhu Brahmali, Bhikkhu Sujato and Mr. Maurice Walshe a devout Buddhist which we used in this work as our primary sources.</p>
 <p>We appreciate the unwavering support extended by Google, ChatGPT and Wikipedia for creating essential maps, beautiful images, meaningful revisions, translation, providing vast resources and much more. We are in debt to other websites and computer resources for the free use of information and illustrations etc. which we have acknowledged in the End Note of each section.</p>
 <p>Our particular gratitude for help and encouragement in getting this compilation are due to:</p>

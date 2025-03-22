@@ -1,19 +1,19 @@
 <div class="container">
 <article class="pagewidth">
-<p><h1>Section: 9: The Past Lives of the Buddha	</h1></p>
+<h1>Section: 9: The Past Lives of the Buddha	</h1>
 <p>In this section, we explore the past lives of the Buddha—his journey as a Bodhisattva across countless rebirths—and his ability to recall not only his own previous existences but also the rebirths of other beings.</p>
 <p>The concept of rebirth is a fundamental teaching in Buddhism. According to the Dhamma, when a being passes away, they take birth again according to the actions (<i>kamma</i>) they have performed in this life. Wholesome <i>kamma</i> leads to a fortunate rebirth in a higher realm, while unwholesome <i>kamma</i> results in rebirth in a lower state of existence. <span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
 <p><b>Bhikkhu Bodhi explains:</b></p>
 <p><b>“According to the Buddha’s teaching, all beings except the arahants are subject to ‘renewal of being in the future’ (</b><b><i>punabbhava</i></b><b>), that is, to rebirth.</b> Rebirth, in the Buddhist conception, is not the transmigration of a self or soul but the continuation of a process—a flux of becoming—where successive lives are linked by a causal transmission of influence rather than by substantial identity. The fundamental pattern that underlies this process is the teaching of dependent origination, which also reveals how rebirth is possible without the need for an enduring self.” <span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
-<p><h1>The Buddha’s Ability to Recall Past Lives</h1></p>
+<h1>The Buddha’s Ability to Recall Past Lives</h1>
 <p>The Blessed One possessed extraordinary knowledge, known as <b><i>The Ten Powers</i></b> (<i>dasabala</i>). <span id="Endnote3">[<a href="#endnote3">3</a>]</span>  Among them were:</p>
 <p></p>
 <p>--	The ability to understand the law of <i>kamma</i> and its results (<i>kamma vipāka</i>) in all beings.</p>
 <p></p>
 <p>--	The ability to see the rebirths of beings, knowing whether they would take birth in a higher or lower realm.  <span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
 <p></p>
-<p><h3>The Buddha’s Recollection of Many Past Lives</h3></p>
+<h3>The Buddha’s Recollection of Many Past Lives</h3>
 <p>On the night of his enlightenment, the Buddha described his profound experience of recalling his past existences: <span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
 <p></p>
 <p>When my mind was fully concentrated, purified, bright, unblemished, free from imperfections, malleable, wieldy, steady, and attained to imperturbability, I directed it to the knowledge of the recollection of past lives.</p>
@@ -22,15 +22,15 @@
 <p><b>“</b><b><i>This was the first true knowledge attained by me in the first watch of the night</i></b><i>.</i>” <span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
 <p></p>
 <p>Through this supreme vision, the Buddha not only realized the cycle of his own past existences but also gained insight into the vast and intricate workings of <i>saṁsāra</i>, the endless cycle of birth and death.</p>
-<p><h2></h2></p>
-<p><h2>The Buddha’s Power to See Ninety-One Aeons of Past Lives</h2></p>
-<p><h3>The Appearance of Former Buddhas’</h3></p>
+<h2></h2>
+<h2>The Buddha’s Power to See Ninety-One Aeons of Past Lives</h2>
+<h3>The Appearance of Former Buddhas’</h3>
 <p>In this discourse, the Blessed One described in detail the Buddhas who had appeared in the world before him, beginning from ninety-one aeons ago: <span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p><i>“Monks, ninety-one aeons ago, the Lord, the Arahant, the fully enlightened </i><b><i>Buddha Vipassī</i></b><i> arose in the world. Thirty-one aeons ago, the Lord </i><b><i>Buddha Sikhī</i></b><i> appeared; and in that same thirty-first aeon, the </i><b><i>Lord Buddha Vessabhū</i></b><i> arose. In this present fortunate aeon, the </i><b><i>Lords Buddha Kakusandha, Konāgamana, and Kassapa</i></b><i> appeared in the world. And now, monks, in this very same fortunate aeon, I too have arisen as a fully enlightened Buddha.” </i><span id="Endnote8">[<a href="#endnote8">8</a>]</span><i> </i></p>
-<p><h3>The Appearance of Beings in Heavenly Realms</h3></p>
+<h3>The Appearance of Beings in Heavenly Realms</h3>
 <p>On one occasion, the wanderer Vacchagotta <span id="Endnote9">[<a href="#endnote9">9</a>]</span> asked the Buddha whether any <i>Ājīvakas</i>—followers of a sect that rejected the law of <i>kamma</i>—had, upon passing away, been reborn in the heavenly realms.</p>
 <p>The Blessed One replied:</p>
 <p><i>“Vaccha, when I recollect the past ninety-one aeons, I do not recall any Ājīvaka who, on the dissolution of the body, was reborn in heaven—except for one. And he was one who upheld the doctrine of the moral efficacy of actions, the doctrine of the moral efficacy of deeds.”  </i><span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
@@ -38,7 +38,7 @@
 <p></p>
 <p></p>
 <p>Thus, even among those who doubted <i>kamma</i>, only one who recognized the power of wholesome actions attained a fortunate rebirth.</p>
-<p><h3>The Longstanding Generosity of People</h3></p>
+<h3>The Longstanding Generosity of People</h3>
 <p>At one time, the headman Asibandhakaputta, <span id="Endnote11">[<a href="#endnote11">11</a>]</span> attempting to challenge the Buddha, questioned him:</p>
 <p><i>“Venerable Sir, why is the Blessed One traveling with a large Saṅgha of monks at a time of famine and scarcity, when crops are blighted and have turned to straw? Is the Blessed One not bringing ruin to families, misfortune to families, the destruction of families?” </i><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
 <p></p>
@@ -48,7 +48,7 @@
 <p><i>“Headman, I recollect ninety-one aeons into the past, and I do not recall any family ever being destroyed merely by offering cooked alms food. Rather, whatever families are wealthy—with abundant gold and silver, abundant possessions and means of subsistence, abundant wealth and grain—they have all become so through generosity, truthfulness, and self-restraint.”</i></p>
 <p>With this, the Buddha affirmed the profound truth that giving, honesty, and discipline are the causes of true prosperity, not only in this life but across countless lifetimes.</p>
 <p></p>
-<p><img src="page9/image1.jpeg" /></p>
+<img src="page9/image1.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -88,11 +88,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p>After countless eons wandering through the vast cycle of saṃsāra, the Bodhisatta at last fulfilled his supreme aspiration—bringing an end to all rebirths. In this final existence, he descended into the world one last time, not for himself, but to illuminate the path of liberation for the welfare and happiness of all beings.<span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
+<p class="caption">After countless eons wandering through the vast cycle of saṃsāra, the Bodhisatta at last fulfilled his supreme aspiration—bringing an end to all rebirths. In this final existence, he descended into the world one last time, not for himself, but to illuminate the path of liberation for the welfare and happiness of all beings.<span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Scriptural Evidence of the Buddha’s Previous Births as a Bodhisattva</h2></p>
+<h2>Scriptural Evidence of the Buddha’s Previous Births as a Bodhisattva</h2>
 <p>The <i>Khuddaka Nikāya</i> of Sutta Pitaka contains three key texts that describe the past lives of the Bodhisattva:</p>
 <p><b>1 The Great Chronicle of Buddhas (</b><b><i>Buddhavaṁsa</i></b><b>) </b><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
 <p>This text narrates the appearance of twenty-five Fully Enlightened Buddhas, beginning with Buddha Dīpaṅkara and culminating with Buddha Gotama. It recounts the moment when our Bodhisattva first made his aspiration to attain Buddhahood in the presence of Buddha Dīpaṅkara. Additionally, it details the lives of the twenty-four Buddhas who appeared before Buddha Gotama, along with significant events such as their birth, enlightenment, and final passing.  <span id="Endnote15">[<a href="#endnote15">15</a>]</span></p>
@@ -106,7 +106,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page9/image2.jpeg" /></p>
+<img src="page9/image2.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -138,11 +138,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Bodhisattva as the ascetic Sumedha at the feet of the Buddha Dipankara aspiring to be the future Buddha. </b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
+<p class="caption"><b>Bodhisattva as the ascetic Sumedha at the feet of the Buddha Dipankara aspiring to be the future Buddha. </b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
 <p></p>
-<p><h2>Other Suttas Revealing the Bodhisattva’s Past Lives</h2></p>
+<h2>Other Suttas Revealing the Bodhisattva’s Past Lives</h2>
 <p>Beyond the three key texts mentioned earlier, several suttas in the <i>Sutta Piṭaka</i> also recount the previous births of the Bodhisattva. According to the scriptures, the Buddha would reveal his past lives on special occasions—either to clarify a point of Dhamma or in response to a request from his disciples. Below are selected excerpts in which the Blessed One spoke of his former existences:</p>
-<p><h3>As an Attendant to Brahmā Baka <span id="Endnote20">[<a href="#endnote20">20</a>]</span></h3></p>
+<h3>As an Attendant to Brahmā Baka <span id="Endnote20">[<a href="#endnote20">20</a>]</span></h3>
 <p>On one occasion, Brahmā Baka mistakenly believed that his existence was eternal. The Buddha, knowing his thoughts and moved by compassion, appeared in the Brahma world to dispel his delusion. In their discourse, the Blessed One revealed that in a past life, Brahma Baka had been his teacher, and he, as the Bodhisattva, had been Baka’s devoted attendant named Kappa.</p>
 <p><i>“I was your apprentice named Kappa;</p>
 <p>You thought him intelligent and devout:</p>
@@ -164,13 +164,13 @@
 <p>In the past, I was your friend…” </i><span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
 <p></p>
 <p></p>
-<p><h2>The Brahmin Chaplain of King Mahāvijita</h2></p>
+<h2>The Brahmin Chaplain of King Mahāvijita</h2>
 <p>Once, while the Blessed One was residing in Ambalatthika Park near Khānumata village, the Brahmin Kutadanta approached him with a profound inquiry. He sought guidance on how to conduct the great triple sacrifice with its sixteen requisites in the most righteous and meritorious way.</p>
 <p>In response, the Blessed One recounted the story of King Mahāvijita, a sovereign of ancient times who wished to offer a grand sacrifice. Before proceeding, the wise king consulted his chief minister and chaplain, the learned Purohita. With wisdom and discernment, the chaplain instructed the king on performing the sacrifice with sixteen noble requisites—ensuring that it was conducted without the taking of life. Instead of bloodshed, the offering consisted of pure gifts: ghee, oil, butter, curds, honey, and molasses, symbolizing generosity and compassion.</p>
 <p>Deeply moved by the Blessed One’s words, the Brahmin Kutadanta asked, “Venerable Sir, in that past life, were you the king or the chaplain?”</p>
 <p>The Blessed One replied with serene authority:</p>
 <p><b>“Indeed, Brahmin, I was the Brahmin chaplain who guided that sacrifice.” </b><i>’</i><span id="Endnote24">[<a href="#endnote24">24</a>]</span><i> </i></p>
-<p><h2>King Mahāsudassana, the Wheel-Turning Monarch of Kusāvatī</h2></p>
+<h2>King Mahāsudassana, the Wheel-Turning Monarch of Kusāvatī</h2>
 <p></p>
 <p>As the Blessed One lay in the sāl-grove of the Mallas in Kusinara, approaching his final Nibbāna, Venerable Ānanda, overcome with sorrow, respectfully implored him:</p>
 <p></p>
@@ -186,7 +186,7 @@
 <p><b>See, Ānanda, how all those conditioned things of the past have vanished and changed! Thus, all formations are impermanent, unstable, and offer no lasting refuge. Knowing this, Ānanda, one should not take delight in them, but instead, let go, transcend them, and be truly liberated</b>” <span id="Endnote26">[<a href="#endnote26">26</a>]</span></p>
 <p></p>
 <p></p>
-<p><h2>Jotipāla, the Son of the Chaplain of King Disampati</h2></p>
+<h2>Jotipāla, the Son of the Chaplain of King Disampati</h2>
 <p>Once, while the Blessed One was dwelling at Vultures’ Peak in Rājagaha, Pañcasikha of the Gandhabbas approached him with deep reverence. After paying homage, he recounted a remarkable event—the visit of Brahma Sanankumāra to the celestial assembly of the Thirty-Three Gods. Addressing Sakka and the assembled deities, Brahma Sanankumāra proclaimed:<i> </i><span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
 <p></p>
 <p><b><i>“For how long has the Blessed Lord possessed such mighty wisdom?”</i></b></p>
@@ -228,7 +228,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>As Brahmin Velāma Who Gave Great Alms</h2></p>
+<h2>As Brahmin Velāma Who Gave Great Alms</h2>
 <p>Once, the Blessed One taught the householder Anāthapiṇḍika <span id="Endnote33">[<a href="#endnote33">33</a>]</span> on the art of giving, illuminating the proper way to offer alms. In his discourse, he recounted the inspiring story of a noble Brahmin named Velāma, renowned for his boundless generosity. Velāma bestowed magnificent alms in nine diverse forms—ranging from golden bowls to silver bowls—with each type offered in the astonishing quantity of 84,000.</p>
 <p>Then the Buddha spoke:</p>
 <p>“You might be inclined, dear householder, to think, ‘Those great alms offering was made by some other Brahmin Velāma.’ But understand this: I was that very Brahmin Velāma.</p>
@@ -245,13 +245,13 @@
 <p></p>
 <p></p>
 <p>The above statement of the Buddha conforms that cultivating true generosity and virtuous conduct bring goodness in to this life and future lives too.</p>
-<p><h1>Previous Lives of Other Beings</h1></p>
+<h1>Previous Lives of Other Beings</h1>
 <p>In his boundless compassion, the Blessed One often shared the previous lives of various beings to illuminate the eternal truths of the Dhamma. Here are some treasured accounts:</p>
-<p><h2>Lives of Five Buddhas Who Appeared Before the Buddha Gotama</h2></p>
+<h2>Lives of Five Buddhas Who Appeared Before the Buddha Gotama</h2>
 <p>One day, the Bhikkhu Saṅgha, residing in Anāthapiṇḍika’s park in the serene Jeta Grove, gathered in the Dhamma hall after the meal to reflect on their former lives. As they engaged in this heartfelt discussion, the Blessed One approached them and gently inquired about their conversation. When the Saṅgha explained, he warmly asked if they would be willing to hear a discourse on past lives. With open hearts, they consented.<i> ”</i><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
 <p></p>
 <p>In his compassionate and clear manner, the Buddha then recounted a magnificent vision of time: over ninety-one aeons, seven fully enlightened Buddhas appeared in the world.</p>
-<p><h3>Appearance of the Seven Fully Enlightened Buddhas</h3></p>
+<h3>Appearance of the Seven Fully Enlightened Buddhas</h3>
 <p>The Blessed One explained that ninety-one aeons ago, <b>Buddha Vipassī</b> arose; thirty-one aeons ago, <b>Buddha Sikhi</b> arose. Int the same thirty-first aeon before this <b>Buddha Vessabhū</b> emerged. In the present fortune aeon, five Buddhas—<b>Kakusandha, Konagamana, Kassapa,</b> and finally <b>Buddha Gotama</b>, the Blessed One himself—manifested to guide all beings with their profound wisdom. The sutta even lovingly details the lives of these Buddhas—their families, moments of enlightenment, and the names of their chief disciples.</p>
 <p>Overwhelmed by the depth of this revelation, the monks marvelled at the Tathāgata’s extraordinary psychic abilities. One of them expressed in awe:</p>
 <p><i>“Friends, it is truly marvellous—the Tathāgata’s immense power and insight. He recalls the past Buddhas who have attained Parinibbāna—their births, names, clans, lifespans, and the noble assemblies that accompanied them. But tell me, how did he come by such penetrative knowledge? Was it a deva who revealed these things to him?”</i></p>
@@ -260,14 +260,14 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Tathāgata’s Penetration of the Past Buddhas</h3></p>
+<h3>The Tathāgata’s Penetration of the Past Buddhas</h3>
 <p>The Buddha elaborated thus:</p>
 <p>And so it is, monks, that through his profound penetration of the Dhamma’s essence, the Tathāgata recalls the past Buddhas—those Fully Enlightened Ones who have attained final Nibbāna. Having cut through the countless complexities of existence, they blazed the path of liberation, bringing an end to the cycle of birth and death. With perfect wisdom, they transcended all suffering and exhaustion, leaving behind only the pure radiance of their teachings.</p>
 <p>The Tathāgata remembers them—those Blessed Ones who came before—recalling their births, their names, their noble clans. He reflects on the span of their lives, the twin disciples who upheld their teachings, and the assemblies of devoted followers who walked the path under their guidance.</p>
 <p><i>"These Blessed Lords arose in the world thus; they were known thus; their noble lineage was thus. Such was their flawless virtue, such was their Dhamma, such was their wisdom, such was their dwelling, and such was their final liberation."</i><span id="Endnote39">[<a href="#endnote39">39</a>]</span></p>
 <p></p>
 <p>Thus, monks, the lineage of the Buddhas shines unbroken, a beacon of wisdom illuminating the path for those who seek the end of suffering.</p>
-<p><h1>The Buddhas: Beacons of Liberation</h1></p>
+<h1>The Buddhas: Beacons of Liberation</h1>
 <p>Throughout the vast expanse of time, when the light of the Dhamma fades, a Buddha arises—like the sun dispelling the deepest night. They come, not for themselves, but for the welfare of countless beings lost in the endless cycle of birth and death.</p>
 <p>From aeon to aeon, these supreme beings have trod the noble path, illuminating the way to the Deathless:</p>
 <p>🔹 <b>Buddha Vipassī</b>—the first of the Seven Buddhas, whose wisdom shone like a golden dawn in a distant age.</p>
@@ -284,7 +284,7 @@
 <p>Thus, the Buddhas come, age after age, not for their own gain, but as selfless guides, offering the supreme gift—the way to the Deathless.</p>
 <p>May we remember their boundless compassion. May we walk the noble path! May we awaken!</p>
 <p></p>
-<p><img src="page9/image3.jpeg" /></p>
+<img src="page9/image3.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -326,13 +326,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddhas: Beacons of Boundless Compassion</b></p>
+<p class="caption"><b>The Buddhas: Beacons of Boundless Compassion</b></p>
 <p><b>From time to time, when wisdom fades and the world is shrouded in darkness, a Buddha arises—like the morning sun piercing the night</b><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
 <p></p>
 <p>Former Lives of Sakka, the Lord of the Devas<b> </b><span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
 <p></p>
 <p>In the Sakkasamyutta of the Samyutta Nikaya, the Blessed One recounted the remarkable story of Sakka’s previous lives. In those human incarnations, Sakka lived with unwavering righteousness and embraced a path of virtuous conduct. He undertook <b>seven sacred vows</b> with deep determination and heartfelt commitment—vows that, over time, transformed his life and ultimately elevated him to the exalted position of Sakka, the Lord of the Devas.</p>
-<p><h3>The seven sacred vows:</h3></p>
+<h3>The seven sacred vows:</h3>
 <p>1) As long as I live may I: support my parents.</p>
 <p>(2) may I respect the family elders.</p>
 <p>(3) may I speak gently.</p>
@@ -342,26 +342,26 @@
 <p>(6) may I speak the truth.’</p>
 <p>(7) may I be free from anger, and if anger should arise in me may I dispel it quickly.<span id="Endnote42">[<a href="#endnote42">42</a>]</span></p>
 <p></p>
-<p><img src="page9/image4.jpeg" /></p>
+<img src="page9/image4.jpeg" />
 <p></p>
 <p></p>
 <p></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
-<p><h2></h2></p>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2></h2>
 <p><b>Sakka, the Lord of the Devas also called Lord Indra</b><b>: </b><b>Statue</b><b> </b><b>of Indra Śakra in Zhihua Temple in Beijing, China </b><span id="Endnote43">[<a href="#endnote43">43</a>]</span></p>
 <p></p>
-<p><h2></h2></p>
-<p><h2>The Future Buddha Metteyya: A Beacon of Hope</h2></p>
+<h2></h2>
+<h2>The Future Buddha Metteyya: A Beacon of Hope</h2>
 <p>Just as the Buddhas of the past have arisen to illuminate the world, so too will another arise in the time to come. When human life spans reach eighty thousand years, there will appear the Blessed One, the Arahant, the fully enlightened Buddha Metteyya (Maitreya).<span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
 <p></p>
 <p></p>
@@ -372,7 +372,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page9/image5.jpeg" /></p>
+<img src="page9/image5.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -436,11 +436,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Future Buddha Maitreya </b><span id="Endnote45">[<a href="#endnote45">45</a>]</span></p>
+<p class="caption"><b>The Future Buddha Maitreya </b><span id="Endnote45">[<a href="#endnote45">45</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Rise and Fall of Humanity: A Lesson from the Buddha</h2></p>
+<h2>The Rise and Fall of Humanity: A Lesson from the Buddha</h2>
 <p>The Buddha revealed a profound truth—when people turn away from generosity and virtue, suffering multiplies. As greed and neglect take root, poverty spreads, leading to theft, violence, and the decline of life itself. In a world consumed by wrongdoing, human lifespan dwindles, eventually reaching a mere ten years. In their delusion, people will see one another as enemies, bringing about an age of chaos and destruction.<span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
 <p></p>
 <p></p>
@@ -448,7 +448,7 @@
 <p>Yet, even in the darkest times, a spark of wisdom remains. Some, realizing the devastation caused by their own unwholesome actions, will renounce violence and return to virtue. With the revival of morality, life will flourish once more, and human lifespan will gradually increase until it reaches eighty thousand years again.</p>
 <p>In this golden age, a righteous wheel-turning monarch, King Sankha, will rule with justice and truth. And in this time, the world will be blessed with the arising of the future Buddha, Metteyya, who will illuminate the path of Dhamma once again, leading countless beings to liberation.</p>
 <p>Thus, the cycle continues—suffering arises from unwholesome deeds, and peace returns through the practice of goodness. The choice is always ours: to descend into darkness or to rise towards the light of the Dhamma.</p>
-<p><h2>Conclusion: The End of Samsāra</h2></p>
+<h2>Conclusion: The End of Samsāra</h2>
 <p>Reflecting on the Buddha’s past lives, we witness a luminous tapestry of compassion, wisdom, and unwavering determination. In each incarnation, the Blessed One exemplified the transformative power of virtuous actions, showing us that every step on the spiritual path brings us closer to liberation from the endless cycle of birth, sickness, death, and sorrow.</p>
 <p>The Buddha’s teachings remind us that it is far better to choose the path that leads to the cessation of suffering than to remain entangled in samsāra. He encouraged us to see beyond the impermanence of this world and to embrace a life of mindful practice, cultivating insight, loving-kindness, and equanimity. Such a path, though challenging, offers us the ultimate freedom—a life where the calamities of existence give way to the profound peace of Nibbāna.</p>
 <p>This narrative reminds us that the journey of spiritual growth is built upon consistent, dedicated practice. Even in human life, where challenges abound, every mindful step and every act of virtue accumulates merit, paving the way for profound transformation. May these cherished narratives remind us of the wondrous and mysterious ways the Dhamma unfolds, guiding all beings ever closer to enlightenment.</p>
@@ -459,7 +459,7 @@
 <p>Dear readers, let these past lives inspire you to persist with courage and compassion on your own journey. Every mindful act, every step taken with awareness and love, builds the merit and understanding needed to transcend the cycle of suffering. May the Buddha’s timeless example guide you toward the radiant light of liberation, where the endless sorrows of samsāra finally come to an end, and you dwell in everlasting peace!</p>
 <p></p>
 <p>With those words we would like to end this section. In the Next section (10) we will focus on The Profound Greatness of the Buddha's Teachings.</p>
-<p><h3>End Notes: Section 9 </h3></p>
+<h3>End Notes: Section 9 </h3>
 <p></p>
 <p></p>
 <p></p>
@@ -504,7 +504,7 @@
 <span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Birth stories: * Jataka (English): Translated by Bhikhu Sujato: w.w.w.suttacentral.net. * Sinhala and Pali: Buddha Jayanti Tripitaka Series: 3 volumes. (available online). In these 2 texts described 547 birth stories; in Sinhala ‘Pansiya Panas Jatakaya’ (550 birth stories) mentioned 550 births of the Bodhisattva.
 <p></p>
 <span id="endnote18">[<a href="#Endnote18">18</a>]</span>		 The Jataka Tales in the Buddhist Canon, the Buddha recounts the tales of his previous five-hundreds (500) plus incarnations, when he was a still an unenlightened “Bodhisattva” — not yet the Conqueror, the Buddha. The word “Jataka” means “birth” in both the Pali and Sanskrit languages. The Jataka tales, among the oldest and best known of Buddhist texts, refers to stories of the past lives of Siddhartha Gautama before he became the Buddha in his final life. These charming and helpful stories number in the hundreds, with each life illustrating different teachings: the Paramitas, the Four Noble Truths, the Bodhisattva Vows, the Eightfold Path, the Four Abodes, the Six Realms —all engagingly taught in the form of life stories. Each features the Buddha in diverse forms: he appears as an animal, a king, a wandering ascetic, a monkey and much more. Source:
-<a href="https://buddhaweekly.com/the-jataka-tales">https://buddhaweekly.com/the-jataka-tales</a>
+<p><a href="https://buddhaweekly.com/the-jataka-tales">https://buddhaweekly.com/the-jataka-tales</a></p>
 <p></p>
 <span id="endnote19">[<a href="#Endnote19">19</a>]</span>		 Gandhara sculpture. Metropolitan Museum. NY. Source: Wikipedia
 <p></p>
@@ -564,7 +564,7 @@
 <p></p>
 <p></p>
 <p>PHG</a> at <a href="https://en.wikipedia.org/wiki/">English Wikipedia</a></p>
-<a href="https://commons.wikimedia.org/wiki/File:KushanMaitreya.JPG">https://commons.wikimedia.org/wiki/File:KushanMaitreya.JPG</a>
+<p><a href="https://commons.wikimedia.org/wiki/File:KushanMaitreya.JPG">https://commons.wikimedia.org/wiki/File:KushanMaitreya.JPG</a></p>
 <p></p>
 <span id="endnote46">[<a href="#Endnote46">46</a>]</span>	 DN:26.
 </article>

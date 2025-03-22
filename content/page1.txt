@@ -1,6 +1,6 @@
 <div class="container">
 <article class="pagewidth">
-<h1><h1>Section 1: The Birth of the Buddha Gotama</h1></h1>
+<h1>Section 1: The Birth of the Buddha Gotama</h1>
 <p>The appearance of a Buddha in this world is an event of immeasurable significance—a rare and wondrous occurrence that illuminates the path to liberation for countless beings. A Buddha does not arise by chance but through the boundless perfections (pāramī) cultivated over countless lifetimes. His birth marks the culmination of an extraordinary journey, a moment when wisdom, compassion, and virtue manifest in their highest form for the welfare of all.</p>
 <p>In this section, we reflect upon the profound significance of the birth of the Bodhisatta, who would one day become the Supreme Teacher of gods and humans, the Buddha Gotama. While the Tipiṭaka does not specify the exact year of his birth, the ancient traditions of Southeast Asia widely accept that he was born in 623 B.C. on the full moon day of May (Vesākha or Vesak)—a day that remains sacred to millions who honour his life and teachings. ).<span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
 <p></p>
@@ -12,7 +12,7 @@
 <p></p>
 <p>The birth of a Buddha is not merely a historical event; it is a rare gift to the world, a cause for boundless rejoicing, for such a being arises solely out of infinite compassion to reveal the Dhamma—the way to the highest peace, Nibbāna.</p>
 <p></p>
-<p><img src="page1/image1.jpeg" /></p>
+<img src="page1/image1.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -58,9 +58,9 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Buddha in Sarnath Museum (Dhammajak Mutra) </b><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
+<p class="caption"><b>Buddha in Sarnath Museum (Dhammajak Mutra) </b><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
-<p><img src="page1/image2.jpeg" /></p>
+<img src="page1/image2.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -98,7 +98,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Profound Significance of the Buddha’s Birth</h2></p>
+<h2>The Profound Significance of the Buddha’s Birth</h2>
 <p>The birth of the Buddha is an event of unparalleled significance—an extraordinary moment in the vast unfolding of time. The appearance of a Buddha in the human realm is a rare and wondrous occurrence, for he is an awakened being, a supreme teacher who illuminates the path from suffering and discontent to the ultimate freedom of Nibbāna. His wisdom is a guiding light, his compassion boundless, and his teachings an enduring refuge for all who seek liberation.</p>
 <p>The scriptures speak of the immeasurable impact of such a being:</p>
 <p><i>“…There is one person who arises in the world for the welfare of many, for the happiness of many, out of compassion for the world, for the good, welfare, and happiness of devas and human beings… Who is that one person? The Tathāgata, the Arahant, the Perfectly Enlightened One…”</i><span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
@@ -147,10 +147,10 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Bodhisatta Descends from the Tuṣita Deva Realm</h2></p>
+<h2>The Bodhisatta Descends from the Tuṣita Deva Realm</h2>
 <p>According to Buddhist scriptures, the Buddha was born in a human realm as a Bodhisatta <span id="Endnote7">[<a href="#endnote7">7</a>]</span>,  having spent a period of time in the “deva” realm of Tuṣita’ <span id="Endnote8">[<a href="#endnote8">8</a>]</span>.</p>
 <p></p>
-<p><img src="page1/image3.jpeg" /></p>
+<img src="page1/image3.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -182,10 +182,10 @@
 <p></p>
 <p><b>Venerable Ānanda</b> <span id="Endnote10">[<a href="#endnote10">10</a>]</span> is quoted in the suttas, describing the birth of the Buddha:</p>
 <p><i>“…I heard and learned this, Venerable Sir, from the Blessed One’s own lips: ‘Mindful and fully aware…the Bodhisatta appeared in the Tusita heaven …the Bodhisatta remained in the Tusita heaven …the Bodhisatta passed away from the Tusita heaven” and descended into his mother’s womb”</i> <span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
-<p><h2>The Bodhisatta’s Birth into a Royal Family</h2></p>
+<h2>The Bodhisatta’s Birth into a Royal Family</h2>
 <p>The Bodhisatta was born into the noble Sakyan dynasty, a lineage of warrior-kings known for their wisdom and strength. His parents, King Suddhodana and Queen Mahāmāyā, ruled from the royal capital of Kapilavatthu, a prosperous city in the Sakyan province.</p>
 <p>According to ancient Buddhist tradition, the moment the Bodhisatta descended into Queen Mahāmāyā’s womb was marked by a remarkable vision. That night, the queen experienced a dream of profound significance—one that foretold the arrival of an extraordinary being who would change the course of history.</p>
-<p><h3>Queen Mahāmāyā’s Dream</h3></p>
+<h3>Queen Mahāmāyā’s Dream</h3>
 <p>On a radiant full-moon night, as Queen Mahāmāyā lay asleep in the palace, she had a vivid and wondrous dream. She felt herself being gently lifted by four celestial beings and carried to Lake Anotatta, a sacred and pristine lake nestled in the Himalayas. There, the devas bathed her in the pure waters, adorned her in divine garments, anointed her with fragrant perfumes, and decorated her with heavenly flowers.</p>
 <p>As she rested in this sublime state, a magnificent white elephant appeared before her, holding a pure white lotus in its trunk. With grace and majesty, the elephant circled her three times before entering her womb through her right side. <span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
 <p></p>
@@ -193,7 +193,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image4.jpeg" /></p>
+<img src="page1/image4.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -225,18 +225,18 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Birth of the Bodhisatta at Lumbini Park</h2></p>
+<h2>The Birth of the Bodhisatta at Lumbini Park</h2>
 <p>According to ancient tradition, Queen Mahāmāyā, the wife of King Suddhodana, set out from the royal city of Kapilavattu to travel to her parental home in Devadaha, as was the custom for expectant mothers of noble lineage. Along the journey, she came upon the enchanting Lumbini Park, a serene grove where Sāl trees stood in full bloom, their delicate flowers filling the air with a sweet fragrance.</p>
 <p>Captivated by the beauty of the place, the queen entered the park with her attendants. After bathing in a clear pond, she strolled through the grove, admiring its peaceful splendour. As she reached for a branch laden with blossoms, holding it gently in her hand, a wondrous moment unfolded—the Bodhisatta was born.<span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Miraculous Signs at the Birth of the Bodhisatta</h2></p>
+<h2>The Miraculous Signs at the Birth of the Bodhisatta</h2>
 <p>The birth of a Bodhisatta is unlike any other—it is a moment of extraordinary significance, marked by divine signs that proclaim the arrival of a being destined to bring unparalleled wisdom and compassion to the world. The scriptures record that the birth of the future Buddha was accompanied by wondrous events, as vividly described by Venerable Ānanda: <span id="Endnote15">[<a href="#endnote15">15</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>A Child of Great Power</h3></p>
+<h3>A Child of Great Power</h3>
 <p></p>
 <p>I heard and learned this from the Blessed One’s own lips:</p>
 <p>‘While other mothers give birth seated or lying down, the Bodhisatta’s mother did not. She gave birth standing, and the moment the Bodhisatta emerged from her womb, he did not touch the earth. Instead, four young devas received him in their arms and set him before his mother, proclaiming:</p>
@@ -247,11 +247,11 @@
 <p></p>
 <p>At that very moment, an immeasurable light—surpassing even the radiance of the celestial realms—illuminated the entire world. <span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
 <p></p>
-<p><img src="page1/image5.jpeg" /><b>Birth of the Buddha </b><span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
+<img src="page1/image5.jpeg" /><b>Birth of the Buddha </b><span id="Endnote17">[<a href="#endnote17">17</a>]</span>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Lion’s Utterance at Birth</h3></p>
+<h3>The Lion’s Utterance at Birth</h3>
 <p></p>
 <p>The scriptures further recount that as soon as the Bodhisatta was born, he stood firmly upon the earth, took seven steps toward the north <span id="Endnote18">[<a href="#endnote18">18</a>]</span> , and gazed across the four quarters. A divine white parasol was held above him, signifying his noble destiny. Then, with a voice filled with wisdom and certainty, he made a profound declaration—his first utterance in this world:</p>
 <p></p>
@@ -270,7 +270,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image6.jpeg" /></p>
+<img src="page1/image6.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -312,7 +312,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Birth of Bodhisatta is glorified in the following poem of Aśvaghoṣa</h3></p>
+<h3>The Birth of Bodhisatta is glorified in the following poem of Aśvaghoṣa</h3>
 <p></p>
 <p>“ In that glorious grove, perceiving that it was time for the birth,</p>
 <p></p>
@@ -354,7 +354,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Devas Rejoice at the Birth of the Bodhisatta</h2></p>
+<h2>The Devas Rejoice at the Birth of the Bodhisatta</h2>
 <p>According to the scriptures, the birth of the Bodhisatta was not only a moment of great significance for the human realm but also an occasion of immense joy in the celestial worlds. Sakka, the King of the Devas, along with his retinue, rejoiced and celebrated this extraordinary event. <span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
 <p></p>
 <p></p>
@@ -369,7 +369,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image7.jpeg" /></p>
+<img src="page1/image7.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -395,11 +395,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Sakka the king of devas and his retinue rejoicing the birth of the Bodhisatta</b>  <span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
+<p class="caption"><b>Sakka the king of devas and his retinue rejoicing the birth of the Bodhisatta</b>  <span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Lumbini Park: The Sacred Birthplace of the Gotama Buddha</h2></p>
+<h2>Lumbini Park: The Sacred Birthplace of the Gotama Buddha</h2>
 <p>The name Lumbini carries a meaning as beautiful as its significance— “lovely” in the Nepalese language. Both tradition and the sacred scriptures affirm that Lumbini, the hallowed site of the Buddha’s birth, was located within the Sakyan Kingdom of northern India, an area known in ancient times as the Middle Country (Majjhimadesa).</p>
 <p>As we have seen in the verse sung by the rejoicing devas, they proclaimed the blessed event of the Buddha’s birth with these words: <span id="Endnote26">[<a href="#endnote26">26</a>]</span></p>
 <p></p>
@@ -420,7 +420,7 @@
 <p></p>
 <p>Thus, Lumbini was not just the geographical birthplace of the Buddha; it was the starting point of a journey that would transform the world—a journey that would lead to the enlightenment of one who would become the Supremely Awakened One, guiding countless beings toward liberation.</p>
 <p></p>
-<p><img src="page1/image8.gif" /></p>
+<img src="page1/image8.gif" />
 <p></p>
 <p></p>
 <p></p>
@@ -463,7 +463,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image9.jpeg" /></p>
+<img src="page1/image9.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -485,11 +485,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Map showing the main provinces of North India during the time of the Buddha</b><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
+<p class="caption"><b>Map showing the main provinces of North India during the time of the Buddha</b><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Evidence from Historical Sources: Lumbini as the Birthplace of the Buddha</h2></p>
+<h2>Evidence from Historical Sources: Lumbini as the Birthplace of the Buddha</h2>
 <p></p>
 <p></p>
 <p></p>
@@ -502,7 +502,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image10.png" /></p>
+<img src="page1/image10.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -538,7 +538,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image11.jpeg" /></p>
+<img src="page1/image11.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -572,7 +572,7 @@
 <p></p>
 <p><b>Excavation of Asoka’s Piller in Lumbini </b><span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
 <p></p>
-<p><img src="page1/image12.jpeg" /></p>
+<img src="page1/image12.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -606,17 +606,17 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Modern day Lumbini Piller</b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
+<p class="caption"><b>Modern day Lumbini Piller</b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Traveling Monks from China Visiting India</h3></p>
+<h3>Traveling Monks from China Visiting India</h3>
 <p>Another significant body of evidence supporting Lumbini as the birthplace of the Buddha comes from the accounts of two renowned Chinese monks: Faxian in the 5th century and Xuanzang in the 7th century. Both monks embarked on long pilgrimages from China to India, visiting ancient Buddhist sites along the way.</p>
 <p>These two distinguished travellers from the Far East not only visited Lumbini, but also many other important Buddhist locations. Their detailed travel records, documenting their experiences, later became invaluable to archaeologists and scholars in identifying the Buddha’s birthplace, as well as other key Buddhist sites. <span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image13.jpeg" /></p>
+<img src="page1/image13.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -634,11 +634,9 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Ancient ruins at Lumbini, Nepal </b><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
+<p class="caption"><b>Ancient ruins at Lumbini, Nepal </b><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
 <p></p>
-<p><img src="page1/image14.jpeg" /></p>
-<p></p>
-<p></p>
+<img src="page1/image14.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -647,9 +645,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Word Peace Pagoda in Lumbini </b><span id="Endnote38">[<a href="#endnote38">38</a>]</span></p>
 <p></p>
-<p><h2>The Buddha: A Noble Sage of the Sakyan Clan</h2></p>
+<p></p>
+<p class="caption"><b>Word Peace Pagoda in Lumbini </b><span id="Endnote38">[<a href="#endnote38">38</a>]</span></p>
+<p></p>
+<h2>The Buddha: A Noble Sage of the Sakyan Clan</h2>
 <p>Throughout the scriptures, the Buddha is revered as a member of the noble Sakyan clan, which is why he came to be known as ‘Sakya Muni’, the sage of the Sakyans, and his disciples as ‘Sakya Putta’, the sons of the Sakyans. The Sakyan Republic was located on the edge of the majestic Himalayas, with Kapilavattu serving as their royal capital. Though the Sakyan Republic was under the rule of the King of Kosala, it was a republican state, where power was shared among its leaders.</p>
 <p>According to both tradition and the scriptures, King Okkāka was regarded as the legendary ancestor of the Sakyans. The Ambaṭṭha Sutta (DN:3) recounts a passage that highlights the origins of the Sakyan clan in these words:</p>
 <p>The Buddha said:</p>
@@ -670,7 +670,7 @@
 <p></p>
 <p></p>
 <p>Thus, the Sakyans embodied the qualities of leadership, ambition, and a deep pursuit of wisdom, standing proudly as rulers of their land and people.</p>
-<p><h2>Kapilavattu the Royal City of the Sakyan</h2></p>
+<h2>Kapilavattu the Royal City of the Sakyan</h2>
 <p></p>
 <p>Tradition holds that the city of Kapilavattu was named in honor of the great sage Kapila. According to the legend, when the exiled princes of King Okkāka ventured into the Himalayan range in search of a place to settle, they came upon the hermitage of Sage Kapila, who welcomed them with kindness and offered them refuge. Grateful for his assistance, the princes later established a city and named it Kapilavattu as a tribute to the sage who had helped them.</p>
 <p></p>
@@ -685,11 +685,11 @@
 <p>Further, in the Mahāparinibbāna Sutta (DN:16), when the Buddha passed away, the Sakyans of Kapilavattu sent a request for his relics, as they considered themselves the rightful heirs of the Buddha’s legacy:</p>
 <p></p>
 <p><i>“…The Sakyas of Kapilavattu heard of the Buddha’s passing, and they sent a message saying: ‘The Lord was the chief of our clan. We are worthy to receive a share of his remains, and we will construct a great stupa in his honor…’ The Sakyans of Kapilavattu built a stupa at Kapilavattu.”</i></p>
-<p><h3>Location of Kapilavattu</h3></p>
+<h3>Location of Kapilavattu</h3>
 <p></p>
 <p>The map below shows the modern locations of Kapilavattu 1) site is in present day Nepal in Tilaurakot and the 2) site in Piprahawa of India.</p>
 <p></p>
-<p><img src="page1/image15.png" /></p>
+<img src="page1/image15.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -715,7 +715,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Two locations of Kapilavattu: Tilaurakot, Nepal and Piprahawa, India </b><span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
+<p class="caption"><b>Two locations of Kapilavattu: Tilaurakot, Nepal and Piprahawa, India </b><span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -741,7 +741,7 @@
 <p></p>
 <p>Below are the pictures of the two sites:</p>
 <p></p>
-<p><img src="page1/image16.png" /></p>
+<img src="page1/image16.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -763,13 +763,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Stupa at Piprahwa village in Uttar Pradesh, India</b> <span id="Endnote45">[<a href="#endnote45">45</a>]</span></p>
+<p class="caption"><b>Stupa at Piprahwa village in Uttar Pradesh, India</b> <span id="Endnote45">[<a href="#endnote45">45</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page1/image17.jpeg" /></p>
+<img src="page1/image17.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -791,7 +791,7 @@
 <p></p>
 <p>T<b>he east gate at the Tilaurakot archaeological site in Nepal </b><span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
 <p></p>
-<p><h3>Summary</h3></p>
+<h3>Summary</h3>
 <p></p>
 <p>In this section, we have briefly outlined the birth of Gotama Buddha and the significant events that occurred during that time:</p>
 <p></p>
@@ -811,7 +811,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>End Notes: Section 1</h3></p>
+<h3>End Notes: Section 1</h3>
 <p></p>
 <p></p>
 <p></p>

@@ -1,18 +1,18 @@
 <div class="container">
 <article class="pagewidth">
-<p><h1>Section 8: Praise and Criticism – The Buddha’s Unshaken Wisdom</h1></p>
+<h1>Section 8: Praise and Criticism – The Buddha’s Unshaken Wisdom</h1>
 <p>Throughout his lifetime, the Buddha was revered by both humans and devas for his boundless wisdom and immeasurable compassion. Many recognized him as a Supreme Teacher, a beacon of truth who illuminated the path to liberation. His words inspired countless beings, and those who truly saw his greatness joyfully took refuge in his teachings.</p>
 <p>Even among followers of other traditions, there were those who acknowledged his extraordinary leadership and noble qualities. Though they admired him as a great spiritual leader, they hesitated to embrace his path.</p>
 <p>Yet, as with all awakened beings, the Buddha also encountered those who opposed him—individuals who neither understood nor appreciated his teachings. Some were displeased by his message, clinging instead to their own views and attachments.</p>
 <p>To illustrate this reality—the dual nature of praise and blame—we have selected insightful passages from the scriptures that reveal how the Blessed One, ever serene and unwavering, remained beyond both admiration and criticism, resting in perfect equanimity.</p>
-<p><h2>This is what the Buddha taught about Praise and Blame:</h2></p>
+<h2>This is what the Buddha taught about Praise and Blame:</h2>
 <p><i>“Bhikkhus, if others speak ill of me or disparage me, do not let resentment, anger, or animosity arise in your hearts. For if you allow yourselves to be disturbed, you are only creating an obstacle for your own peace. When faced with criticism, how can you discern whether their words are true or false if you are consumed by anger? Instead, unravel what is false and clearly point it out as untrue, saying: ‘This is not the case, this is not found in us, this is false.’</i></p>
 <p><i>And if others speak in praise of me or speak highly of you, do not let joy, excitement, or pride take hold of your heart. If you become caught up in exultation, you are once again creating an obstacle for your own spiritual progress. Instead, recognize the truth as truth, saying: ‘This is true, this is a fact, this quality is present in us.’</i></p>
 <p><i>In both praise and blame, maintain your equanimity. Be steadfast in wisdom, unaffected by fleeting opinions, and focused on the path that leads to liberation. In this way, neither praise nor blame will disturb your mind or hinder your practice, but rather, you will move forward with clarity and peace."</i> <span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Mind of a Noble One</h3></p>
+<h3>Mind of a Noble One</h3>
 <p>Gain and loss, disrepute and fame,</p>
 <p>blame and praise, pleasure and pain:</p>
 <p>these conditions that people meet</p>
@@ -32,12 +32,12 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Disciples' Acclaim of the Buddha</h2></p>
+<h2>The Disciples' Acclaim of the Buddha</h2>
 <p>The Blessed One's disciples—both the bhikkhu and bhikkhuni Sangha—accepted the Buddha as their supreme guide, recognizing him as the one who had shown them the path to liberation. Throughout the scriptures, we see how deeply they esteemed and revered him. Below are a few excerpts that reflect this profound respect.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page8/image1.jpeg" /></p>
+<img src="page8/image1.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -76,7 +76,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page8/image2.jpeg" /></p>
+<img src="page8/image2.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -114,7 +114,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddha in deep meditation-Six rays coming out from his body</b><span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
+<p class="caption"><b>The Buddha in deep meditation-Six rays coming out from his body</b><span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -189,7 +189,7 @@
 <p></p>
 <p></p>
 <p>In these words, Bhikkhunī Sīsupacālā expressed her deep reverence for the Buddha, acknowledging him as the supreme teacher, whose wisdom and liberation are beyond compared. Her reply reflected both her profound faith and her realization of the Buddha's extraordinary qualities.</p>
-<p><h3>Venerable Sela</h3></p>
+<h3>Venerable Sela</h3>
 <p>Venerable Sela, who was deeply moved and inspired upon first encountering the Buddha, went forth with his students and, within just seven days, attained arahantship. He praised the Blessed One with heartfelt reverence:</p>
 <p>"<i>Eight days have passed, All-Seeing One, since we sought refuge in you. In these seven nights, O Blessed One, we have been tamed by your teaching… You are the Buddha, the Teacher, the Sage, the conqueror of Māra. Having cut off all evil tendencies, you have crossed over and now guide humanity across.</i></p>
 <p><i>Here stand these three hundred bhikkhus, hands held out in adoration. O Hero, extend your feet, and let these great beings worship the Teacher." </i><span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
@@ -197,16 +197,16 @@
 <p></p>
 <p></p>
 <p>Venerable Sela’s words reflect the profound transformation he and his fellow bhikkhus experienced in the Buddha’s presence. Within such a short time, they were liberated through the Buddha’s wisdom, and their devotion to him was boundless. His praise captures the awe and reverence felt by those who encounter the Buddha's incomparable teachings—guiding them swiftly toward liberation.</p>
-<p><h3>Group of Bhikkhu Sangha Praising the Buddha</h3></p>
+<h3>Group of Bhikkhu Sangha Praising the Buddha</h3>
 <p>In the following sutta, a group of bhikkhus gathered to discuss the great abilities of the Blessed One, and they expressed their awe:</p>
 <p>"<i>It is truly wonderful, friends, it is marvellous, how mighty and powerful the Tathāgata is! For he is able to know about the Buddhas of the past—those who attained final Nibbāna, who cut through the tangle of proliferation, broke the cycle, ended the round of samsara, and surmounted all suffering. He knows the details of their lives: how they were born, their</i> <i>names, their clans, their virtues, their state of samadhi, their wisdom, their progress in the attainments, and their deliverance." </i><span id="Endnote18">[<a href="#endnote18">18</a>]</span><i> </i></p>
 <p>In their praise, the bhikkhus expressed deep admiration for the Buddha’s extraordinary wisdom and insight into the lives of past Buddhas, recognizing his unparalleled knowledge of the path to ultimate liberation.</p>
-<p><h1> Brahmās, Devas, and Yakkhas Praising the Buddha</h1></p>
+<h1> Brahmās, Devas, and Yakkhas Praising the Buddha</h1>
 <p>The Buddha’s teachings were not only a beacon for humans but also for countless other beings—Brahmās, Devas, and Yakkhas—who, having heard his wisdom, approached him with reverence. Many of them attained noble status through the Buddha's guidance, recognizing him as their supreme teacher.<span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Brahmā Sanaṅkumāra Praises the Blessed One</h2></p>
+<h2>Brahmā Sanaṅkumāra Praises the Blessed One</h2>
 <p>On one occasion, while the Blessed One was residing at Rājagaha, by the bank of the river Sappinī, the night grew deep, and Brahmā Sanaṅkumāra, radiant with stunning beauty and illuminating the entire riverbank, approached the Blessed One. With deep reverence, he paid homage to the Buddha, stood to one side, and recited this inspiring verse in the presence of the Blessed One:</p>
 <p><i>"The khattiya is the best among people,</p>
 <p>For those whose standard is the clan,</p>
@@ -217,7 +217,7 @@
 <p></p>
 <p>Brahmā Sanaṅkumāra’s words beautifully express the Buddha’s unparalleled excellence—not just among humans but among all beings. He affirms that the highest ideal is not lineage or birth, but the noble qualities of wisdom, conduct, and realization. Through his teachings, the Buddha illuminated the path to transcendence, inspiring not only humans but all beings in the cosmos.</p>
 <p></p>
-<p><img src="page8/image3.jpeg" /></p>
+<img src="page8/image3.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -275,7 +275,7 @@
 <p></p>
 <p>8)	"The Lord has transcended doubt, passed beyond all ‘how’ and ‘why,’ and has accomplished his aim regarding his goal and the supreme holy life. We find no teacher who has done this, whether in the past or present, other than the Lord."</p>
 <p>After proclaiming these eight truths in praise of the Blessed One, Sakka’s words filled the Thirty-Three Gods with even greater joy, delight, and happiness. His praise of the Buddha not only expressed his reverence but also illuminated the depth of his realization as a stream-winner, inspiring all who heard him to reflect on the Buddha’s incomparable qualities and the profound wisdom contained in his teachings.</p>
-<p><h3>A Deva praising the Buddha</h3></p>
+<h3>A Deva praising the Buddha</h3>
 <p></p>
 <p>In the following sutta a deva praised the Buddha thus:</p>
 <p></p>
@@ -290,7 +290,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Yakkhas Praising the Buddha</h3></p>
+<h3>Yakkhas Praising the Buddha</h3>
 <p></p>
 <p>On one occasion the Buddha was teaching Dhamma to the Sangha. Then the female Yakkha</p>
 <p></p>
@@ -311,7 +311,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>On one-time Sātāgira and Hemavata Yakkhas honoured the Buddha thus:</h3></p>
+<h3>On one-time Sātāgira and Hemavata Yakkhas honoured the Buddha thus:</h3>
 <p><i>“Behold him of perfect name,</p>
 <p>the one who sees the subtle meaning,</p>
 <p>the giver of wisdom, unattached</p>
@@ -355,7 +355,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page8/image4.jpeg" /></p>
+<img src="page8/image4.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -383,7 +383,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>King Pasenadi paying homage to the Buddha</b><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
+<p class="caption"><b>King Pasenadi paying homage to the Buddha</b><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -427,18 +427,18 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>People from Other Religious Sects</h2></p>
+<h2>People from Other Religious Sects</h2>
 <p></p>
 <p>During the time of the Blessed One, many prominent figures from other religious sects praised the wisdom and skillful leadership of the Buddha. While some of them chose to follow him, others did not. Among the most powerful religious sects of the time were the Brahmins and Jains. The scriptures often depict how some of their members opposed the Buddha and his teachings, while others recognized him as a great teacher worthy of respect.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Nigaṇṭha Nātaputta’s Displeasure</h3></p>
+<h3>Nigaṇṭha Nātaputta’s Displeasure</h3>
 <p></p>
 <p>In the <i>Upali Sutta</i> (MN:56), we find a statement from Nigaṇṭha Nātaputta, the leader of the Jain sect, who, upon hearing that his former pupil Upali had become a follower of the Buddha, expressed his displeasure. He said:</p>
 <p></p>
 <p><i>“Householder, you are mad, you are an imbecile. You went saying, ‘Venerable sir, I shall refute the recluse Gotama’s doctrine,’ and you have come back caught in the vast net of his doctrine. Just as if a man went to castrate someone and came back castrated himself, or went to put out someone’s eyes and came back with his own eyes put out—so too, householder, you went saying, ‘Venerable sir, I shall refute the recluse Gotama’s doctrine,’ and you have returned caught in the vast net of his teachings. Householder, you have been converted by the recluse Gotama with his converting magic!”</i></p>
-<p><h3>Brahmin Verañjā’s Criticism </h3></p>
+<h3>Brahmin Verañjā’s Criticism </h3>
 <p></p>
 <p>In the Verañjā Sut<i>ta</i> (AN8:11), a Brahmin from Verañjā approached the Buddha, accusing him of improper conduct for not paying homage to elderly Brahmins and other perceived failings. He listed eight reasons for his disapproval of the Buddha:</p>
 <p></p>
@@ -470,7 +470,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Daṇḍapāni the Sakyan’s attitude</h3></p>
+<h3>Daṇḍapāni the Sakyan’s attitude</h3>
 <p></p>
 <p>In the following passage from the <i>Madhupiṇḍika Sutta</i> (MN:18), we see how Daṇḍapāni, <span id="Endnote31">[<a href="#endnote31">31</a>]</span> an elderly Sakyan, failed to respect or believe the teachings of the Buddha, despite the fact that the Buddha hailed from his own clan:</p>
 <p></p>
@@ -531,7 +531,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Sunakkhatta the Licchavi Blaming the Buddha</h3></p>
+<h3>Sunakkhatta the Licchavi Blaming the Buddha</h3>
 <p></p>
 <p>Sunakkhatta, a member of the Licchavi clan from Vesali, became a disciple of the Buddha and served as his attendant for a time. He once requested the Blessed One to perform miracles and explain the origins of things. However, when the Buddha declined, Sunakkhatta became disheartened and left the Sangha. In his discontent, he made deceptive statements about the Buddha, saying:</p>
 <p></p>
@@ -539,7 +539,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Wanderer Pilotika’s Commendation of the Buddha</h3></p>
+<h3>Wanderer Pilotika’s Commendation of the Buddha</h3>
 <p></p>
 <p>On one occasion, Brahmin Jāṇussoṇi, knowing that the wanderer Pilotika had visited the Buddha, asked him what he thought about the lucidity of the Buddha’s wisdom. Pilotika replied:</p>
 <p></p>
@@ -557,8 +557,8 @@
 <p></p>
 <p><i>“…I saw four footprints of the recluse Gotama, and I came to the conclusion: ‘The Blessed One is fully enlightened, the Dhamma is well proclaimed by the Blessed One, and the Sangha is practicing the good way.</i>” <i> </i><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
 <p></p>
-<p><h3></h3></p>
-<p><h3>Saccaka, the Nigaṇṭha’s Son <span id="Endnote36">[<a href="#endnote36">36</a>]</span></h3></p>
+<h3></h3>
+<h3>Saccaka, the Nigaṇṭha’s Son <span id="Endnote36">[<a href="#endnote36">36</a>]</span></h3>
 <p></p>
 <p>According to the <i>Cūḷasaccaka Sutta</i> (MN:35), on one occasion, Saccaka approached Venerable Assaji and asked,</p>
 <p></p>
@@ -580,7 +580,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Potaliya the Householder</h3></p>
+<h3>Potaliya the Householder</h3>
 <p></p>
 <p>On one occasion, the Buddha was residing in the town of Āpaṇa in Anguttarāpans country when he encountered the householder, Potaliya. At that time, Potaliya had renounced his worldly affairs and considered himself a spiritual person. However, when the Blessed One addressed him as “householder,” Potaliya was displeased and angry, saying:</p>
 <p></p>
@@ -604,7 +604,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Ordinary People Blaming and Criticizing the Buddha</h2></p>
+<h2>Ordinary People Blaming and Criticizing the Buddha</h2>
 <p></p>
 <p>In the Vinaya Pitaka, it is recorded that when the Buddha was residing in Rājagaha, many young men from Magadha, inspired by his teachings, became his disciples. This led to complaints and criticism from the people of the town:</p>
 <p></p>
@@ -620,7 +620,7 @@
 <p></p>
 <p>Through this profound encounter, we see how the Buddha’s wisdom transformed even the harshest critics, leading them to the path of understanding, compassion, and ultimately, liberation.</p>
 <p></p>
-<p><h2>The Buddhas’ empathy</h2></p>
+<h2>The Buddhas’ empathy</h2>
 <p></p>
 <p>The Buddha, throughout his life, received both praise and blame from people of all walks of life, yet he responded to each with remarkable wisdom, universal compassion, and a deep understanding of human nature. Whether praised as the supreme teacher or criticized by those who misunderstood his path, the Buddha remained unmoved by ego or pride. He understood that human reactions were often shaped by ignorance, fear, or attachment, and he responded with patience, clarity, and empathy.</p>
 <p></p>

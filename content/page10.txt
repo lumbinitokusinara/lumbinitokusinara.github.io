@@ -1,11 +1,11 @@
 <div class="container">
 <article class="pagewidth">
-<p><h1>Section 10: The Profound Greatness of the Buddha's Teachings</h1></p>
+<h1>Section 10: The Profound Greatness of the Buddha's Teachings</h1>
 <p>In this section, we will delve into the profound and transformative Dhamma — the sublime teachings of the Blessed One. These teachings are not merely words; they are the timeless, unshakable truths that lead us to liberation from suffering. The Dhamma shines with unparalleled clarity, offering a path that transcends all suffering, reveals the true nature of existence, and leads beings to the ultimate peace of Nibbāna.</p>
 <p>The teachings of the Buddha are not of ordinary origin. They arise from the depths of the Buddha's perfect wisdom and compassion. His words are infused with boundless love, understanding, and insight into the hearts and minds of all sentient beings. His guidance speaks to us not just as a doctrine, but as a living, breathing way of life, guiding us step by step toward our highest potential.</p>
 <p>Hearing and learning the Dhamma is essential for those of us walking the noble path. It is the means by which we purify our minds, understand the nature of suffering, and cultivate the noble qualities of wisdom, ethical conduct, and mental discipline. Through the Dhamma, we learn how to live in harmony with the world and how to transcend the pain and confusion that bind us.</p>
 <p>May we take to heart the Buddha’s timeless wisdom, let it awaken within us a deep yearning for peace, and strive to embody it in our every thought, word, and deed!</p>
-<p><h2>Dhamma is the Right Course</h2></p>
+<h2>Dhamma is the Right Course</h2>
 <p><i>“If through desire, hate, fear, or delusion</i></p>
 <p><i>one transgresses against the Dhamma,</i></p>
 <p><i>one’s fame diminishes like the moon</i></p>
@@ -31,7 +31,7 @@
 <p>with a heart of good will.</p>
 <p>One should be mindful and one-pointed in mind,</p>
 <p>internally well concentrated.</p>
-<p><h1>The Dhamma is the Teaching of the Buddha</h1></p>
+<h1>The Dhamma is the Teaching of the Buddha</h1>
 <p>The Dhamma is the profound teaching of the Blessed One, the truth discovered by Him upon His awakening as a Samma Sambuddha. It is the path to freedom, leading to liberation from all worldly suffering.</p>
 <p>In the following extract, we find a <b>clear definition of the Dhamma</b> and the reason why it was revealed.</p>
 <p><i>“The Buddha’s teaching is called the Dhamma, a word that can signify both the truth transmitted by the teaching and the conceptual-verbal medium by which that truth is expressed in order that it can be communicated and made comprehensible. The Dhamma is not a body of immutable dogmas or a system of speculative thought.</i></p>
@@ -40,7 +40,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Dhamma will not decay</h3></p>
+<h3>Dhamma will not decay</h3>
 <p>“The beautiful chariots of kings wear out,</p>
 <p>This body too undergoes decay.</p>
 <p>But the Dhamma of the good does not decay:</p>
@@ -48,13 +48,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Wheel of the Dhamma</h2></p>
+<h2>The Wheel of the Dhamma</h2>
 <p>The Dhamma is often referred to as the "<b>Wheel of the Dhamma</b>" (<i>Dhamma Chakka</i>), symbolizing the teachings of the Blessed One that cannot be reversed. Why? Because it is the Truth, set in motion by the Buddha. The following sutta explains this: <span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p><i>“…Bhikkhus, </i><b><i>possessing five qualities,</i></b><i> the Tathāgata, the Arahant, the Perfectly Enlightened One, sets in motion the unsurpassed wheel of the Dhamma. This wheel cannot be turned back by any ascetic, brahmin, deva, Māra, Brahmā, or by anyone in the world. What five? Here, the </i><b><i>Tathāgata is one who knows what is good, who knows the Dhamma, who knows the right measure, who knows the proper time, and who knows the assembly.</i></b><i> Possessing these five qualities, the Tathāgata sets in motion the unsurpassed wheel of the Dhamma, a wheel that cannot be turned back by anyone in the world.”</i></p>
-<p><h2>Dhamma is the Vehicle of the Buddha</h2></p>
+<h2>Dhamma is the Vehicle of the Buddha</h2>
 <p>The Buddha appears in the world as a beacon of light, revealing the Truth – the Dhamma – to those lost in the fog of delusion, unaware of the path leading beyond the suffering of Samsara. With the Dhamma as his divine vehicle, he guides all beings across the turbulent waters of Samsara, from the near shore of suffering to the far shore of liberation. Through his teachings, the Buddha offers us the means to transcend the endless cycle of birth, death, and rebirth, leading us to the peaceful shores of freedom and enlightenment.</p>
 <p>In Dhammapada the following verse shows that all the Buddha’s appears in the world, teaches Dhamma for the purification of the minds of beings:</p>
 <p>Not to do any evil -to embrace the good;</p>
@@ -62,21 +62,21 @@
 <p></p>
 <p><i>(Sabbapāpassa akaraņam- Kusalass upasampadā</i></p>
 <p><i>Sacitta pariyōdapanam -Ētam Buddhāna sāsanam)</i></p>
-<p><h2>Why the Buddha Came into the Human World? </h2></p>
+<h2>Why the Buddha Came into the Human World? </h2>
 <p>In many scriptures, we find the Blessed One explaining that the purpose of his appearance in the human world is to teach the Dhamma to both humans and devas. <b>His mission is to show them the way to overcome suffering and break free from the cycle of rebirth</b>, which only leads to more suffering. The following excerpts from the scriptures highlight the central purpose of the Buddha's presence in the world.</p>
-<p><h3>The Buddha’s Message of Suffering and Liberation</h3></p>
+<h3>The Buddha’s Message of Suffering and Liberation</h3>
 <p>The Buddha understood deeply the immense suffering caused by birth, old age, sickness, and death. He wanted humanity to recognize that suffering is an inescapable part of life. He proclaimed:</p>
 <p>“<i>Bhikkhus, if these three things—</i><b><i>birth, old age, and death</i></b><i>—did not exist in the world, the Tathāgata, the Arahant, the Perfectly Enlightened One would not arise, and the Dhamma he teaches would not shine in the world…”</i><span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Path to Overcome Suffering</h2></p>
+<h2>The Path to Overcome Suffering</h2>
 <p>But the Buddha did not leave humanity without hope. He showed that there is a way to transcend suffering. He explained:</p>
 <p><i>“The Tathāgata, the Arahant, the Perfectly Enlightened One…is the one who embodies the realization of true knowledge and liberation, the fruit of stream-entry, the path to arahantship, and the ultimate freedom from suffering.” </i><span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha’s Compassion for All Beings</h2></p>
+<h2>The Buddha’s Compassion for All Beings</h2>
 <p>The Buddha’s care for the welfare of all beings shines through in his teachings. He said:</p>
 <p>“<i>Bhikkhus, there is one person who arises in the world for the welfare of many, for the happiness of many, out of deep compassion for the world. That one person is the Tathāgata, the Arahant, the Perfectly Enlightened One, who brings good, welfare, and happiness to devas and human beings alike.”</i> <span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
 <p></p>
@@ -88,7 +88,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page10/image1.png" /></p>
+<img src="page10/image1.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -132,12 +132,12 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Samma Sambuddha </b></p>
+<p class="caption"><b>The Samma Sambuddha </b></p>
 <p><b>The Dhamma is the profound teaching of the Blessed One, the truth discovered by Him upon His awakening as a Samma Sambuddha </b><span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h1>The Dhamma – Teachings That Lead to a Complete and Pure Life</h1></p>
+<h1>The Dhamma – Teachings That Lead to a Complete and Pure Life</h1>
 <p>In the following sutta, the Buddha explains:</p>
 <p>“<i>Here, Upāli, the Tathāgata arises in the world—an arahant, the Enlightened One, the Blessed One. Having realized with his own direct knowledge the nature of this world, he makes it known to others. He teaches </i><b><i>the Dhamma that is good in the beginning, good in the middle, and good in the end, with the right meaning and phrasing</i></b><i>. Through this, he reveals the perfectly complete and pure spiritual life.” </i><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
 <p></p>
@@ -153,7 +153,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Why the Buddha Taught the Dhamma? </h2></p>
+<h2>Why the Buddha Taught the Dhamma? </h2>
 <p>The Blessed One’s universal compassion (<i>mahā karuna</i>) for all beings inspired him to teach the Dhamma, for the welfare and happiness of many. His deep concern for the suffering of the world motivated him to share the path of liberation. The following passage illustrates how his kindness and compassion led him to teach:</p>
 <p>“ The Tathagata, awakened, who endured what is hard to endure, two thoughts occur: safety the first thought mentioned; seclusion the second… he dispeller of darkness, free of fermentation, the great seer who has gone beyond, reached attainment, gained mastery crossed over the poisons; who's released in the ending of craving: that sage bears his last body, has shaken off Māra, I tell you, has gone beyond aging. As one standing on a rocky crag would see the people all around below, so the wise, with the all-around eye having scaled the tower made of Dhamma, having crossed over sorrow, gaze on those overwhelmed with sorrow, conquered by aging and death.” <span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
 <p></p>
@@ -169,7 +169,7 @@
 <p></p>
 <p></p>
 <p>The Buddha, having attained enlightenment, saw the suffering of all beings and, moved by boundless compassion, shared his wisdom to guide them towards the cessation of suffering.</p>
-<p><h1>The Buddha Acts Like a Skilful Surgeon</h1></p>
+<h1>The Buddha Acts Like a Skilful Surgeon</h1>
 <p>In the <i>Sunakkhatta Sutta</i> (MN:105), the Blessed One compares himself to a skilful surgeon. Just as a surgeon uses a knife to remove poison from a wound caused by an arrow, the Buddha, as a spiritual surgeon, removes the poison of craving from the minds of others. In this simile, the arrow represents craving, the poison symbolizes ignorance (not knowing the Four Noble Truths), the knife represents Noble Wisdom, and the surgeon is the Buddha, the Fully Enlightened One. With great compassion, the Buddha, having seen the suffering of beings, steps forward to relieve them from the pain and misery of Samsara.</p>
 <p>The Buddha said:</p>
 <p><i>“Suppose, Sunakkhatta, a man is wounded by an arrow smeared with poison. The surgeon would cut around the wound with a knife, then use a probe to locate the arrow. After removing the arrow, the surgeon would expel the poisonous substance, leaving only a trace of it behind. </i></p>
@@ -178,7 +178,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>People Delight to Hear the Dhamma</h1></p>
+<h1>People Delight to Hear the Dhamma</h1>
 <p>When the Buddha, with his boundless wisdom and infinite compassion, teaches the Dhamma, his words resonate deeply with all who listen. It is said that four extraordinary things unfold when the Tathāgata speaks: People, who are often caught in the web of attachment, conceit, excitement, and ignorance, find themselves drawn to his teachings. As the Buddha reveals the path to freedom from these very burdens, hearts are awakened, and listeners eagerly open their minds, seeking understanding. In the presence of the Tathāgata’s words, they delight in the wisdom that leads to liberation, finding joy in the removal of their afflictions and the blossoming of true insight.<i> ”</i><span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
 <p></p>
 <p></p>
@@ -223,21 +223,21 @@
 <p></p>
 <p></p>
 <p>In these teachings, the Buddha and his disciples underscored that understanding the Four Noble Truths is not just important—it is essential for the cessation of suffering and the attainment of liberation. All paths to wisdom and freedom are contained within them.</p>
-<p><h3>Knowing the Four Noble Truths: The Foundation of the Holy Life</h3></p>
+<h3>Knowing the Four Noble Truths: The Foundation of the Holy Life</h3>
 <p>The Buddha instructed the Sangha on the essential practice of reflecting on the Four Noble Truths:</p>
 <p><i>"Bhikkhus, when you reflect, you should contemplate: ‘This is suffering’; ‘This is the origin of suffering’; ‘This is the cessation of suffering’; ‘This is the path leading to the cessation of suffering.’ Why is this important? Because such reflection is beneficial, fundamental to the holy life, and leads to disenchantment, to detachment, to cessation, to peace, to direct knowledge, to enlightenment, and ultimately to Nibbāna.” </i><span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p>Understanding and contemplating the Four Noble Truths is the very essence of the spiritual path, guiding one toward ultimate liberation.</p>
-<p><h3>Realizing the Four Noble Truths: The Path to Nibbāna</h3></p>
+<h3>Realizing the Four Noble Truths: The Path to Nibbāna</h3>
 <p>Attaining Nibbāna is only possible through the direct realization of the Four Noble Truths. The following sutta emphasizes this profound truth:</p>
 <p><b><i>"</i></b><i>Bhikkhus, all ascetics and brahmins in the past who fully awakened to reality did so by realizing the Four Noble Truths as they truly are. All ascetics and brahmins in the future who will fully awaken to reality will do so by realizing the Four Noble Truths as they truly are. Likewise, all ascetics and brahmins in the present who have fully awakened to reality have done so by realizing the Four Noble Truths as they truly are.</i><b><i>" </i></b><span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p><b>Thus, the realization of the Four Noble Truths is the key to awakening and the gateway to ultimate liberation.</b></p>
-<p><h2>The Noble Eightfold Path: The Journey to Liberation</h2></p>
+<h2>The Noble Eightfold Path: The Journey to Liberation</h2>
 <p>The Noble Eightfold Path, the fourth of the Four Noble Truths, is the sacred road that leads to the culmination of the spiritual journey. Known as the <i>Middle Way</i>, it is the noble path that transcends extremes and fulfills the highest purpose of life—the complete liberation from the endless cycle of suffering in <i>Saṃsāra</i>.</p>
 <p>In his first discourse, the Blessed One expounded this profound path with these words: <span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
 <p><i>"And what, bhikkhus, is that middle way, realized by the Tathāgata, which gives rise to vision, which leads to peace, to direct knowledge, to enlightenment, to Nibbāna? It is this Noble Eightfold Path: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right samadhi."</i></p>
@@ -247,7 +247,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page10/image2.jpeg" /></p>
+<img src="page10/image2.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -279,18 +279,18 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Factors of The Noble Eightfold Path</b><span id="Endnote26">[<a href="#endnote26">26</a>]</span></p>
+<p class="caption"><b>Factors of The Noble Eightfold Path</b><span id="Endnote26">[<a href="#endnote26">26</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Noble Eightfold Path: An Ancient and Timeless Way</h3></p>
+<h3>The Noble Eightfold Path: An Ancient and Timeless Way</h3>
 <p>The Noble Eightfold Path is not a new teaching but an ancient and timeless road walked by the Perfectly Enlightened Ones of the past. The Buddha himself affirmed this in the following words:</p>
 <p><i>"Bhikkhus, I have seen the ancient path, the ancient road traversed by the Perfectly Enlightened Ones of the past. And what is that ancient path, that ancient road? It is none other than this Noble Eightfold Path... Having directly realized this, I have proclaimed it to the bhikkhus, the bhikkhunīs, the male lay followers, and the female lay followers. As a result, this holy life has flourished and prospered, becoming well-established, widespread, and renowned among both devas and humans." ”</i><span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p><b>This sacred path, rediscovered and illuminated by the Blessed One, continues to guide countless beings toward true liberation and the highest peace—Nibbāna.</b></p>
-<p><h3>The Noble Eightfold Path: The Divine Chariot to Liberation</h3></p>
+<h3>The Noble Eightfold Path: The Divine Chariot to Liberation</h3>
 <p>The Noble Eightfold Path is not merely a guide to right living—it is the Great Vehicle, the supreme chariot that leads beings toward ultimate freedom. Once, when Venerable Ānanda asked the Blessed One to reveal a divine vehicle within this Dhamma and Discipline, the</p>
 <p>Buddha proclaimed:</p>
 <p><i>“…this Noble Eightfold Path is known as ‘the divine vehicle,’ ‘the vehicle of Dhamma,’ and ‘the unsurpassed victory in battle.” </i><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
@@ -318,7 +318,7 @@
 <p></p>
 <p></p>
 <p><b>The Noble Eightfold Path is the chariot of wisdom, powered by virtue and mindfulness, rolling steadily toward Nibbāna. Those who embark upon this great journey are destined to reach the highest peace, free from the fetters of Samsara.</b></p>
-<p><h3>The Noble Eightfold Path: The Straight and Fearless Way</h3></p>
+<h3>The Noble Eightfold Path: The Straight and Fearless Way</h3>
 <p>Once, a devata approached the Blessed One, seeking guidance on how to escape from the enchanting Nandana Grove, filled with celestial nymphs. In response, the Buddha revealed the path that leads beyond all distractions and delusions:</p>
 <p><i>“The straightway—that is its name,</i></p>
 <p><i>And ‘fearless’ is its destination.</i></p>
@@ -336,11 +336,11 @@
 <p></p>
 <p></p>
 <p><b>The Noble Eightfold Path is the unwavering road to liberation, the fearless way that leads beyond all suffering. It is the chariot of wisdom, driven by the Dhamma itself, guiding those who embark upon it toward the ultimate goal—Nibbāna.</b></p>
-<p><h3>The Noble Eightfold Path Encompasses the Entire Spiritual Journey</h3></p>
+<h3>The Noble Eightfold Path Encompasses the Entire Spiritual Journey</h3>
 <p>The Noble Eightfold Path is the complete framework for the spiritual life, encompassing three essential divisions: <b>virtue (sīla), unification of mind (samādhi), and wisdom (paññā).</b> These three pillars serve as the foundation for liberation, guiding one toward the highest goal—freedom from suffering.</p>
 <p>In the Cūḷavedalla Sutta (MN: 44), Venerable Bhikkhunī Dhammadinnā explained how the Blessed One categorized the three divisions of the Noble Eightfold Path:</p>
 <p><i>“…The Noble Eightfold Path is encompassed by the three aggregates. Right speech, right action, and right livelihood fall under the aggregate of virtue. Right effort, right mindfulness, and right concentration belong to the aggregate of concentration. Right view and right intention are included in the aggregate of wisdom…”</i></p>
-<p><h1>Rebirth: A Fundamental Truth in the Buddha’s Teaching</h1></p>
+<h1>Rebirth: A Fundamental Truth in the Buddha’s Teaching</h1>
 <p>The cycle of rebirth (<i>saṁsāra</i>) is a central truth revealed by the Blessed One, and understanding this process is essential for those who seek liberation. The Dhamma teaches that beings are bound to be reborn again and again due to their cravings and attachments. The ultimate purpose of the Buddha’s teaching is not only to guide beings toward restraint in this life but also to help them break free from the endless cycle of birth, aging, and death.</p>
 <p>The Buddha emphasized that true wisdom lies in seeing the dangers of continued existence and striving for the cessation of rebirth:</p>
 <p><i>“Cunda, I do not teach you a Dhamma for restraining the corruptions that arise in the present life alone. I do not teach a Dhamma merely for their destruction in future lives, but one for their restraining in this life as well as for their destruction in future lives…” </i><span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
@@ -348,14 +348,14 @@
 <p></p>
 <p></p>
 <p>By cultivating wisdom, virtue, and meditative insight, one gradually weakens the forces that perpetuate rebirth. Those who fully realize the Four Noble Truths uproot the causes of existence and attain the supreme peace of Nibbāna—where the cycle of rebirth is finally brought to an end.</p>
-<p><h1>Dhamma is Beneficial</h1></p>
+<h1>Dhamma is Beneficial</h1>
 <p>Dhamma is beneficial to one who follows it accordingly, as it brings favourable results- wellbeing and happiness in this life and lives to come, it is the ultimate way to freedom.</p>
 <p>The Buddha says:</p>
 <p><i>“And what, bhikkhus, is the Dhamma and beneficial? Right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right samadhi, right knowledge, and right liberation”</i><span id="Endnote32">[<a href="#endnote32">32</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Dhamma should be practice accordingly</h3></p>
+<h3>Dhamma should be practice accordingly</h3>
 <p>“When the Dhamma is rightly expounded</p>
 <p>those people who practice accordingly</p>
 <p>are the ones who will go beyond</p>
@@ -363,7 +363,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>The Dhamma Possesses profound and Extraordinary Qualities.</h1></p>
+<h1>The Dhamma Possesses profound and Extraordinary Qualities.</h1>
 <p></p>
 <p></p>
 <p></p>
@@ -381,7 +381,7 @@
 <p><i>svākkhāto bhagavatā dhammo sandiṭṭhiko, akāliko, ehipassiko, opanayiko Paccattaṃ veditabbo viññūhiti </i></p>
 <p>1) well expounded-explained (svakkhato) 2) directly visible-can be experienced in this life</p>
 <p>( sanditthiko) 3) gives immediate results (akaliko) 4)  invites people to come and see (ehipassiko-)  5) applicable- every step takes towards liberation (opanayiko) 6) to be personally experienced by the wise (paccattam veditabbo vinnuhiti)</p>
-<p><h2>Eight Astounding and Remarkable Qualities of the Dhamma</h2></p>
+<h2>Eight Astounding and Remarkable Qualities of the Dhamma</h2>
 <p>The Buddha described eight extraordinary qualities of this Dhamma that bring delight to his followers: <span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
 <p></p>
 <p></p>
@@ -401,7 +401,7 @@
 <p>7)	Just as the great ocean contains numerous precious treasures—such as pearls, gems, and rare substances—so too, this Dhamma and discipline is abundant with treasures of wisdom, including the four establishments of mindfulness, the four right efforts, the four bases of spiritual power, the five faculties, the five strengths, the seven factors of enlightenment, and the noble eightfold path.</p>
 <p></p>
 <p>8)	Just as the great ocean is home to mighty beings—creatures with bodies extending for hundreds or even five hundred yojanas—so too, this Dhamma and discipline is the dwelling place of great beings: the stream-enterer, the one practicing for the fruit of stream-entry; the once-returner, the one practicing for the fruit of once-returning; the non-returner, the one practicing for the fruit of non-returning; and the arahant, the one striving for full liberation.</p>
-<p><h2>The Dhamma is Directly Visible (Sandiṭṭhiko Dhammo)</h2></p>
+<h2>The Dhamma is Directly Visible (Sandiṭṭhiko Dhammo)</h2>
 <p>This is yet another marvellous quality of the Dhamma. When one follows the Dhamma, one knows for oneself that it is being practiced as the Buddha taught.</p>
 <p>When people asked how the Dhamma is directly visible, the Blessed One explained:</p>
 <p><i>“…When there is lust, hatred, delusion, or any bodily, verbal, or mental misconduct within you, you know: ‘There is lust, hatred, and delusion within me.’ And when there is no lust, hatred, or delusion within you, you know: ‘There is no lust, hatred, or delusion within me.’</i></p>
@@ -409,13 +409,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>The Path to Learning and Practicing the Dhamma</h1></p>
+<h1>The Path to Learning and Practicing the Dhamma</h1>
 <p>Training in and learning the Dhamma is a continuous process. The culmination of this training is liberation—the attainment of final knowledge and the realization of noble attainment as an Arahant. The Buddha often described learning and practicing the Dhamma as a gradual process. The following passages from the suttas illustrate this principle:</p>
-<p><h2>Gradual Training</h2></p>
+<h2>Gradual Training</h2>
 <p>The Buddha emphasized that final knowledge is not attained instantly but unfolds step by step through dedicated practice:</p>
 <p><i>“Bhikkhus, I do not say that final knowledge is attained all at once. On the contrary, it is achieved through gradual training, gradual practice, and gradual progress.”</i><span id="Endnote38">[<a href="#endnote38">38</a>]</span><i></p>
 <p></i></p>
-<p><h2>Gradual Practice</h2></p>
+<h2>Gradual Practice</h2>
 <p>The following passage outlines the step-by-step progression of training in the Dhamma:</p>
 <p><i>“And how is final knowledge attained through gradual training, gradual practice, and gradual progress?</i><span id="Endnote39">[<a href="#endnote39">39</a>]</span></p>
 <p></p>
@@ -423,7 +423,7 @@
 <p></p>
 <p>Here, one who has <b>faith</b> in a teacher seeks him out. Upon <b>visiting </b>him, he pays <b>respect</b>; in showing respect, he <b>listens attentively</b>. By listening, he <b>hears the Dhamma</b>; having heard the Dhamma, he <b>memorizes</b> it. He then <b>examines</b> the meaning of the teachings he has memorized. Through examination, he gains a <b>reflective acceptance</b> of those teachings. When this reflective acceptance arises, <b>zeal springs up</b>. With zeal, <b>he applies his will</b>. Applying his will, he <b>scrutinizes the Dhamma</b>. With scrutiny, he <b>strives diligently</b>. Through resolute striving, he <b>realizes </b>with his own body the supreme truth and sees it by penetrating it with wisdom.”<span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
 <p></p>
-<p><h2> Gradual Learning</h2></p>
+<h2> Gradual Learning</h2>
 <p>In the Cankī Sutta (MN:85), the Blessed One elaborates on the gradual process of learning and training in the Dhamma, culminating in liberation. The key stages are summarized as follows:</p>
 <p></p>
 <p>1)	First, one must establish faith in the Dhamma, which requires finding a suitable teacher.</p>
@@ -452,7 +452,7 @@
 <p></p>
 <p>13)	Through resolute striving, one directly realizes the supreme truth, seeing it through the penetration of wisdom.</p>
 <p>This structured approach underscores the importance of persistence, dedication, and step-by-step cultivation in the journey toward liberation.</p>
-<p><h1>A Disciple’s Journey in Learning the Dhamma</h1></p>
+<h1>A Disciple’s Journey in Learning the Dhamma</h1>
 <p>The path of learning and training in the Dhamma is one of dedication, perseverance, and deep reflection. In the following sutta, Venerable Ānanda beautifully describes the process of mastering the Dhamma as he understood it from the Buddha’s teaching: <span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
 <p></p>
 <p>1)	A bhikkhu first learns the Dhamma—comprising discourses, mixed prose and verse, expositions, verses, inspired utterances, quotations, birth stories, profound accounts, and questions-and-answers.</p>
@@ -476,7 +476,7 @@
 <p></p>
 <p>--	He gains deeper insight into what he had not previously understood.</p>
 <p><b>Thus, a disciple walks the noble path of learning, not merely accumulating knowledge but cultivating wisdom, deepening faith, and moving ever closer to liberation.</b></p>
-<p><h2>The Importance of Reciting the Dhamma</h2></p>
+<h2>The Importance of Reciting the Dhamma</h2>
 <p>Recitation plays a vital role in learning and training in the Dhamma. It ensures the preservation, understanding, and transmission of the teachings. The Buddha emphasized this by saying:</p>
 <p><i>“…Cunda, all of you to whom I have taught these truths, realized through super knowledge, should come together and recite them—aligning meaning with meaning and expression with expression—without discord. In doing so, this holy life will endure and remain firmly established for a long time, for the benefit and happiness of the many, out of compassion for the world, and for the welfare, benefit, and happiness of both devas and humans…”</i><span id="Endnote42">[<a href="#endnote42">42</a>]</span></p>
 <p></p>
@@ -485,7 +485,7 @@
 <p>The things that should be recited are the 37 factors of enlightenment.  <span id="Endnote43">[<a href="#endnote43">43</a>]</span></p>
 <p></p>
 <p>Through diligent recitation, the Dhamma is safeguarded, enabling future generations to walk the noble path toward liberation.</p>
-<p><h1>Understanding the True Goodness of the Dhamma</h1></p>
+<h1>Understanding the True Goodness of the Dhamma</h1>
 <p>To walk the noble path and fulfill the spiritual life, one must clearly distinguish between the true Dhamma (Dhamma-truth) and what is not Dhamma (adhamma). Recognizing this difference is essential for one’s progress toward liberation.</p>
 <p>Thus, the Buddha proclaimed:</p>
 <p><i>“Bhikkhus, what is non-Dhamma and harmful should be understood, and what is the Dhamma and beneficial should also be understood… And what, bhikkhus, is the Dhamma and beneficial?” </i><span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
@@ -517,7 +517,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Wrong View Is Not the Dhamma</h2></p>
+<h2>Wrong View Is Not the Dhamma</h2>
 <p>The Blessed One clearly taught that non-Dhamma is the direct opposite of the Dhamma. Venerable Ānanda later explained this profound truth to the Saṅgha:</p>
 <p><i>“…Friends, wrong view is non-Dhamma, while right view is the Dhamma. The numerous harmful and unwholesome qualities that arise due to wrong view led to suffering. Conversely, the countless wholesome qualities that flourish through the development of right view bring true benefit…” </i><span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
 <p></p>
@@ -528,7 +528,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>End Notes- Section 10</h3></p>
+<h3>End Notes- Section 10</h3>
 <p></p>
 <p></p>
 <p></p>
@@ -629,6 +629,7 @@
 <span id="endnote45">[<a href="#Endnote45">45</a>]</span>	  Ibid.
 <p></p>
 <span id="endnote46">[<a href="#Endnote46">46</a>]</span>	  Ibid.
+<p></p>
 <p></p>
 <p></p>
 </article>

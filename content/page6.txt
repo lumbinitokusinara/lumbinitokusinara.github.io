@@ -7,33 +7,7 @@
 <p></p>
 <img src="page6/image1.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Sitting Buddha, Gal Vihara, Sri Lanka</b> <span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
+<p class="caption"><b>Sitting Buddha, Gal Vihara, Sri Lanka</b> <span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -147,35 +121,7 @@
 <p></p>
 <img src="page6/image2.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>The Buddha sitting on a lotus Flower</b><span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
+<p class="caption"><b>The Buddha sitting on a lotus Flower</b><span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -190,19 +136,9 @@
 <p>Therefore, O Brahmin, I am a Buddha.”</i></p>
 <p>These words express the Buddha’s transcendence over the defilements of the world, an untainted purity that arises from deep realization and mastery over the cycle of existence.</p>
 <p></p>
-<img src="page6/image3.jpeg" />
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<img src="page6/image3.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -260,73 +196,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Sitting Buddha</b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
+<p class="caption"><b>Sitting Buddha </b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -559,33 +429,7 @@
 <p></p>
 <img src="page6/image5.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>The Blessed One attending to a sick monk</b><span id="Endnote54">[<a href="#endnote54">54</a>]</span></p>
+<p class="caption"><b>The Blessed One attending to a sick monk </b><span id="Endnote54">[<a href="#endnote54">54</a>]</span></p>
 <p></p>
 <h2>The Buddha’s Compassionate Service: Attending to a Sick Monk</h2>
 <p>An incident from the <i>Vinaya Pitaka</i> illustrates the Buddha’s selfless service and compassionate care. The Buddha set an example for others by attending to a sick monk who had been abandoned by the rest of the community. <i>”</i><span id="Endnote55">[<a href="#endnote55">55</a>]</span></p>
@@ -769,31 +613,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>The Buddha as a leader of a caravan showing the way to liberation</b>. <span id="Endnote84">[<a href="#endnote84">84</a>]</span></p>
+<p class="caption"><b>The Buddha as a leader of a caravan showing the way to liberation</b>. <span id="Endnote84">[<a href="#endnote84">84</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -815,39 +635,7 @@
 <p></p>
 <img src="page6/image7.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Angirasa Buddha</b><span id="Endnote87">[<a href="#endnote87">87</a>]</span></p>
+<p class="caption"><b>Angirasa Buddha </b><span id="Endnote87">[<a href="#endnote87">87</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>

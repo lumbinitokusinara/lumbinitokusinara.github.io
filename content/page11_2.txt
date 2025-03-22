@@ -28,7 +28,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The compassionate Buddha</b><span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
+<p class="caption"><b>The compassionate Buddha</b><span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
 <p></p>
 <h1>Section 11-2: Advice and Guidance to Lay Followers</h1>
 <p>For forty-five years, the Blessed One devoted his life to teaching the Dhamma, offering wisdom and guidance to both monastics and lay followers. He encouraged householders to cultivate happiness in family life while nurturing their spiritual development.</p>

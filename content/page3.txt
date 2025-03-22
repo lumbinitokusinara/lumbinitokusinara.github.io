@@ -1,6 +1,6 @@
 <div class="container">
 <article class="pagewidth">
-<p><h1>Section 3: The Life of Ascetic Siddhartha (Ages 29–35)</h1></p>
+<h1>Section 3: The Life of Ascetic Siddhartha (Ages 29–35)</h1>
 <p></p>
 <p>This section recounts one of the most profound moments in history—the great renunciation of Prince Siddhartha. At the age of twenty-nine, he left behind the comforts of his royal life, his beloved family, and the promise of kingship, driven by an unshakable determination to seek the ultimate truth.</p>
 <p></p>
@@ -18,7 +18,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page3/image1.jpeg" /></p>
+<img src="page3/image1.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -74,7 +74,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Great Renunciation</h2></p>
+<h2>The Great Renunciation</h2>
 <p>According to legend, the Great Renunciation (<i>Mahā Abhinikkhamana</i>) of Prince Siddhartha took place on the full moon day of Āsāḷha (Esala) in the year 595 B.C. <span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
 <p>As recorded in the scriptures, the Buddha later reflected on his going forth with these words:</p>
@@ -102,9 +102,9 @@
 <p></p>
 <p>At the age of twenty-nine, Prince Siddhartha renounced his life of luxury, leaving behind his royal lineage and all worldly comforts, in search of a path beyond the endless cycle of birth, aging, and death—<i>saṃsāra</i>—and the suffering it entails. His Great Renunciation stands as one of the most significant events in Buddhist history, a momentous milestone for the entire Buddhist world.</p>
 <p>The Buddha’s noble departure set an unparalleled example of renouncing lay life for the path of liberation, inspiring generations of monks and nuns to follow in his footsteps. The world remains indebted to the Buddha Gotama, whose unwavering determination and boundless compassion illuminated the way to true freedom.</p>
-<p><h3>What Inspired Prince Siddhartha to Become an Ascetic?</h3></p>
+<h3>What Inspired Prince Siddhartha to Become an Ascetic?</h3>
 <p>The profound renunciation of Prince Siddhartha was not an impulsive act, but the culmination of deep insight and reflection. The suttas provide glimpses into what stirred his heart and led him to abandon his royal life in pursuit of the highest truth.</p>
-<p><h3>Witnessing the Suffering of Life—Old Age, Sickness, and Death</h3></p>
+<h3>Witnessing the Suffering of Life—Old Age, Sickness, and Death</h3>
 <p>The Buddha later recounted:<span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
 <p></p>
 <p></p>
@@ -117,7 +117,7 @@
 <p>‘I too am subject to death and am not exempt from it. If I were to feel repelled, humiliated, or disgusted when seeing another who has died, that would not be proper for me.’</p>
 <p>When I reflected thus, my intoxication with life was completely abandoned…”</p>
 <p>These reflections awakened in him a profound understanding of suffering and impermanence. He saw with great clarity that all beings—no matter their status, wealth, or power—are bound by aging, illness, and death. The fleeting pleasures of the world could not offer lasting peace or freedom. With this realization, he set forth in search of a way beyond suffering, seeking the ultimate truth (<i>kiṃkusalānuesī?</i>).</p>
-<p><h3>The Buddha’s Own Words on Renunciation</h3></p>
+<h3>The Buddha’s Own Words on Renunciation</h3>
 <p><i>“While I was dwelling thus,</p>
 <p>Having known the state beyond all grasping,</p>
 <p>I overcame every intoxication—</p>
@@ -142,7 +142,7 @@
 <p></p>
 <p>The <i>Mahāpadāna Sutta</i> (<i>DN 14</i>) mentions that Buddha Vipassī, upon seeing the four signs, also left his palace to become an ascetic. This suggests that such omens have played a crucial role in the renunciations of past Buddhas, reinforcing their significance in Buddhist tradition.</p>
 <p></p>
-<p><img src="page3/image2.jpeg" /></p>
+<img src="page3/image2.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -164,21 +164,21 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>Did Prince Siddhartha Leave in the Middle of the Night Without Bidding Farewell to His Family?</h1></p>
+<h1>Did Prince Siddhartha Leave in the Middle of the Night Without Bidding Farewell to His Family?</h1>
 <p>The <i>Great Renunciation</i> is one of the most profound moments in the life of Prince Siddhartha. In traditional accounts, it is often portrayed as a sudden departure—leaving his loved ones behind without consultation or conversation. However, the suttas provide a deeper perspective, revealing the immense wisdom and compassion that guided his decision.</p>
 <p>In the following sutta, the Buddha himself describes the thoughts that led him to renounce the world:</p>
 <p><i>“Why, being myself subject to birth, do I seek what is also subject to birth? Why, being myself subject to aging, sickness, death, sorrow, and defilement, do I seek what is also subject to aging, sickness, death, sorrow, and defilement?</i></p>
 <p><i>Suppose that, being myself subject to birth, having understood the danger in what is subject to birth, I seek the unborn, the supreme security from bondage... </i><b><i>Later, while still young—a black-haired young man, endowed with the blessing of youth, in the prime of life—though my mother and father wished otherwise and wept with tearful faces,</i></b><i> I shaved off my hair and beard, donned the yellow robe, and went forth from the home life into homelessness.”</i> <span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
 <p></p>
 <p>Though young and surrounded by royal luxuries, Prince Siddhartha saw the true nature of existence—impermanence, suffering, and the endless cycle of birth and death. He realized that worldly pleasures were fleeting and incapable of providing lasting peace. This profound understanding shaped his path toward renunciation.</p>
-<p><h2>A Deeper Understanding of His Departure</h2></p>
+<h2>A Deeper Understanding of His Departure</h2>
 <p>It is possible that Prince Siddhartha discussed these truths with his beloved wife, Princess Yasodharā. In the <i>Jātaka Stories</i>—which recount the Buddha’s past lives—they had been husband and wife across many lifetimes. In those past lives, whenever the Bodhisatta renounced the world, his wife supported and encouraged him. It is reasonable to believe that in his final life as Prince Siddhartha, she too understood the depth of his aspirations and the nobility of his quest.</p>
 <p>Traditional narratives often leave gaps in the story of his renunciation. Yet, when the Blessed One later returned to Kapilavattu, Princess Yasodharā displayed remarkable wisdom and devotion. She pointed out the Buddha to their son, Prince Rāhula, and encouraged him to approach his father, saying:</p>
 <p><i>“That is your father, dear Rāhula. Go to him and ask for your inheritance.”</i> <span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
 <p></p>
 <p>What inheritance could the Buddha offer his son? A <i>Sammāsambuddha</i> possesses no material wealth, no kingdom, no treasures. The only gift he could bestow—the greatest gift in the world—was the path to liberation, the way to be free from <i>saṃsāric</i> suffering.</p>
 <p>Princess Yasodharā, a wise and loving mother, understood this truth. She did not cling to worldly attachments but instead guided her son toward the highest refuge.</p>
-<p><h2>The Compassion Behind His Departure</h2></p>
+<h2>The Compassion Behind His Departure</h2>
 <p>Would a being of such boundless wisdom and compassion leave without any parting words? It is unlikely. A prince destined to become the Buddha, who deeply loved his family, would not have abandoned them thoughtlessly.</p>
 <p>His renunciation was not an act of disregard but of profound love—love that extended beyond a single lifetime, beyond personal relationships, toward the liberation of all beings. He set forth on this noble journey, not to turn away from his loved ones, but to find a way to end suffering for them and for the entire world.</p>
 <p>Thus, the Great Renunciation was not an escape, nor was it a selfish act—it was the greatest sacrifice ever made for the welfare of all beings.</p>
@@ -193,7 +193,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page3/image3.jpeg" /></p>
+<img src="page3/image3.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -201,7 +201,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page3/image4.jpeg" /></p>
+<img src="page3/image4.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -231,7 +231,7 @@
 <p></p>
 <p><b>Prince Siddhartha shaves his hair and becomes an ascetic</b><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
 <p></p>
-<p><img src="page3/image5.jpeg" /></p>
+<img src="page3/image5.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -271,24 +271,24 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Ascetic Siddhartha reflecting on his new freedom beside the river Anoma</b></p>
+<p class="caption"><b>Ascetic Siddhartha reflecting on his new freedom beside the river Anoma</b></p>
 <p></p>
 <p>Image: Specially created by Chat: GPT</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Wanderings of Ascetic Siddhartha</h2></p>
+<h2>The Wanderings of Ascetic Siddhartha</h2>
 <p>After renouncing lay life, Ascetic Siddhartha embarked on a profound journey in search of the <i>Truth</i>. As we have seen earlier, the Blessed One later reflected on this period, stating:</p>
 <p><i>“…I performed a difficult and strenuous exercise for six years…” </i><span id="Endnote15">[<a href="#endnote15">15</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p>The exact sequence of events during these years is not entirely preserved in the scriptures, as there are gaps in the recorded accounts. To bridge these gaps, references from other sources have been incorporated, all of which are detailed in the endnotes. The key milestones in his journey are summarized below:</p>
-<p><h1>The Journey of Ascetic Siddhartha :Key Milestones </h1></p>
+<h1>The Journey of Ascetic Siddhartha :Key Milestones </h1>
 <p><b>Age 29: The Great Departure—</b>Leaving Kapilavattu to Seek Liberation</p>
 <p>On a full moon day of Āsāḷha (<i>Esala</i>, the month of April), Prince Siddhartha set forth on his great quest—to transcend suffering and discover the path to true liberation. <span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
 <p></p>
-<p><h3>1) The Departure from the palace</h3></p>
+<h3>1) The Departure from the palace</h3>
 <p>According to the <i>Mahāparinibbāna Sutta</i> (<i>DN 16</i>), the Buddha later recalled:</p>
 <p><i>“I went forth seeking what is good—twenty-nine years of age I was…”</i></p>
 <p>Other sources provide additional details:</p>
@@ -306,7 +306,7 @@
 <p></p>
 <p></p>
 <p><b>Thus began the extraordinary journey of Ascetic Siddhartha—one that would lead to the ultimate awakening, bringing light to the world.</b></p>
-<p><h3>3) Anupiya Mango Grove to Rājagaha city</h3></p>
+<h3>3) Anupiya Mango Grove to Rājagaha city</h3>
 <p><b>According to other sources:</b> from Anupiya Mango grove the recluse Siddhartha walked thirty yojanas towards Magadha province and arrived at city of Rājagaha and stayed in a cave of Pandava Mountain outside the city. There he went round the city for alms and the King Bimbisara, the ruler of Magadha saw him and met him in the cave <span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
 <p></p>
 <p></p>
@@ -315,12 +315,12 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>4) From Rājagaha wandering in Magadha looking for teachers</h3></p>
+<h3>4) From Rājagaha wandering in Magadha looking for teachers</h3>
 <p><b>According to scriptures: </b>Ascetic Siddhartha met Āḷāra Kālāma<i>, </i>a well-known teacher of Magadha and learned under him, understood deep meditation but realised that teaching would not guide him to escape from suffering. Then he met another famous Magadhan teacher, <b>Uddaka Rāmaputta</b>, studied under him and came to know that teaching too would not guide to what he believed—freedom from suffering —and left him <span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>5) From the monastery of Uddaka Rāmaputta to Senani Village in Uruvela, Magadha</h3></p>
+<h3>5) From the monastery of Uddaka Rāmaputta to Senani Village in Uruvela, Magadha</h3>
 <p><b>According to scriptures: </b>After leaving the hermitage of Uddaka, Ascetic Siddhartha wandering in stages arrived in beautiful forest grove in Uruvelā and decided to settle down there near the river bank of Neranjaana. Then the five group of ascetics: Kondanna, Vappa, Baddhiya, Mahanama and Assaji <span id="Endnote23">[<a href="#endnote23">23</a>]</span> attended to Ascetic Siddhartha <span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
 <p></p>
 <p></p>
@@ -333,7 +333,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Finding a Suitable Place to Strive</h2></p>
+<h2>Finding a Suitable Place to Strive</h2>
 <p></p>
 <p>The Blessed One described his search for the ideal place to undertake his ascetic practice in the following way:</p>
 <p></p>
@@ -346,7 +346,7 @@
 <p></p>
 <p>This tranquil setting, with its natural beauty and quiet surroundings, became the place where Ascetic Siddhartha engaged in his intense spiritual quest—one that would ultimately lead to the realization of the highest truth.</p>
 <p></p>
-<p><img src="page3/image6.jpeg" /></p>
+<img src="page3/image6.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -390,7 +390,7 @@
 <p></p>
 <p><b>Acetic Siddhartha looking for a suitable place</b> <b>to meditate</b><span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
 <p></p>
-<p><img src="page3/image7.jpeg" /></p>
+<img src="page3/image7.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -408,9 +408,9 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Present day picture of Uruvela Forest Grove (Bodh Gaya) </b><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
+<p class="caption"><b>Present day picture of Uruvela Forest Grove (Bodh Gaya) </b><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
 <p></p>
-<p><img src="page3/image8.png" /></p>
+<img src="page3/image8.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -448,11 +448,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Map1: Tthe route of Ascetic Siddhartha ‘s wandering from Kapilavattu to Uruvela . </b>Distance: Kapilavatthu to Rajagaha about 518 km, Rajagaha -Uruvela about 71 km.</p>
+<p class="caption"><b>Map1: Tthe route of Ascetic Siddhartha ‘s wandering from Kapilavattu to Uruvela . </b>Distance: Kapilavatthu to Rajagaha about 518 km, Rajagaha -Uruvela about 71 km.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page3/image9.png" /></p>
+<img src="page3/image9.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -466,9 +466,9 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Map2: Modern day road map </b>from Kapilvastu (Nepal) to Rajgir: 518.7 km. <span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
+<p class="caption"><b>Map2: Modern day road map </b>from Kapilvastu (Nepal) to Rajgir: 518.7 km. <span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
 <p></p>
-<p><img src="page3/image10.png" /></p>
+<img src="page3/image10.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -490,19 +490,19 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Map 3: </b>Modern day road map from Rajgir to Bodh Gaya (Uruvela). Distance:<b> </b>71.2 km. <span id="Endnote30">[<a href="#endnote30">30</a>]</span></p>
+<p class="caption"><b>Map 3: </b>Modern day road map from Rajgir to Bodh Gaya (Uruvela). Distance:<b> </b>71.2 km. <span id="Endnote30">[<a href="#endnote30">30</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h1>Important Events in the Life of Ascetic Siddhartha</h1></p>
+<h1>Important Events in the Life of Ascetic Siddhartha</h1>
 <p></p>
 <p>During his years of wandering in search of truth, Ascetic Siddhartha encountered several pivotal figures who shaped his journey.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Encounter with King Bimbisāra of Magadha</h2></p>
+<h2>Encounter with King Bimbisāra of Magadha</h2>
 <p></p>
 <p>The <i>Pabbajjā Sutta</i> of the <i>Sutta Nipāta</i> describes this meeting: <span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
 <p></p>
@@ -540,7 +540,7 @@
 <p>This moment is significant because it marks the first recorded instance where the Buddha-to-be explicitly states his reason for renunciation. His unwavering determination to seek liberation rather than indulge in worldly pleasures serves as a powerful inspiration—especially for those who have chosen the monastic path. Through his own example, the Buddha seems to say:</p>
 <p></p>
 <p><b>I have overcome the pull of sensual pleasures for the sake of freedom—you can too!</b></p>
-<p><h2>Encounters with the Teachers Āḷāra Kālāma and Uddaka Rāmaputta</h2></p>
+<h2>Encounters with the Teachers Āḷāra Kālāma and Uddaka Rāmaputta</h2>
 <p></p>
 <p>In the <i>Ariyapariyesanā Sutta</i> (<i>MN 26</i>), the Buddha explained why he sought out these two teachers during his ascetic life:</p>
 <p></p>
@@ -559,7 +559,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Of Āḷāra Kālāma’s teachings, he later reflected:</h3></p>
+<h3>Of Āḷāra Kālāma’s teachings, he later reflected:</h3>
 <p><i>“...but it occurred to me: ‘This Dhamma does not lead to enlightenment, to Nibbāna,</p>
 <p>but only to reappearance in the base of neither-perception-nor-non-perception.’</p>
 <p>Not being satisfied with that Dhamma, disappointed with it, I left.”</i> <span id="Endnote33">[<a href="#endnote33">33</a>]</span></p>
@@ -568,13 +568,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>On Uddaka’s Teaching:</h3></p>
+<h3>On Uddaka’s Teaching:</h3>
 <p><i>“This Dhamma does not lead to disenchantment, to dispassion, to cessation, to peace, to direct knowledge, to enlightenment, to Nibbāna, but only to reappearance in the base of neither-perception-nor-non-perception</i>.”</p>
 <p>Not being satisfied with that Dhamma, disappointed with it, I left.”</p>
 <p></p>
 <p>This reflects Ascetic Siddhartha’s realization that even the deepest meditative attainments, as taught by these two teachers, were not sufficient to bring an end to the cycle of <i>saṃsāra</i>. He understood that true liberation required something beyond temporary states of absorption—it required the complete cessation of suffering. <span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
 <p></p>
-<p><img src="page3/image11.png" /></p>
+<img src="page3/image11.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -602,15 +602,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Ascetic Siddhartha learning under the teacher Āḷāra Kālāma </b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
+<p class="caption"><b>Ascetic Siddhartha learning under the teacher Āḷāra Kālāma </b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page3/image12.jpeg" /></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<img src="page3/image12.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -632,9 +628,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Ascetic Siddhartha meeting Uddaka Rāmaputta </b><span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
 <p></p>
-<p><h2>The Intense Austerities at Uruvelā</h2></p>
+<p></p>
+<p></p>
+<p></p>
+<p class="caption"><b>Ascetic Siddhartha meeting Uddaka Rāmaputta </b><span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
+<p></p>
+<h2>The Intense Austerities at Uruvelā</h2>
 <p></p>
 <p>During his arduous search for the truth, the Bodhisatta pushed himself to the very limits of human endurance. Reflecting on his extreme ascetic practices, he recounted:</p>
 <p></p>
@@ -647,7 +647,7 @@
 <p></p>
 <p>Despite his fierce determination, he came to realize that self-mortification was not the path to liberation. His body weakened, yet the truth he sought remained beyond reach. This turning point would lead him to discover the Middle Path—the way of wisdom, balance, and true awakening.</p>
 <p></p>
-<p><img src="page3/image13.jpeg" /></p>
+<img src="page3/image13.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -673,7 +673,7 @@
 <p></p>
 <p><b>Extreme ascetic practice of bodhisattva</b><span id="Endnote38">[<a href="#endnote38">38</a>]</span></p>
 <p></p>
-<p><h2>The Buddha’s Reflection on His Extreme Austerities</h2></p>
+<h2>The Buddha’s Reflection on His Extreme Austerities</h2>
 <p></p>
 <p>In a conversation with Venerable Sāriputta, one of his chief disciples, the Blessed One recounted the severe ascetic practices he had undertaken before his enlightenment:</p>
 <p></p>
@@ -699,7 +699,7 @@
 <p></p>
 <p>Thus, the Ascetic Siddhartha embraced the Middle Way, demonstrating to the world that true awakening lies not in extremes but in deep meditation, wisdom, and right understanding. He pointed out to us that pleasure of deep samadhi- Jhanas bring only wholesome and peace. This is important for mediator, as it shows that the pleasures-bliss come out from deep mediation should not be discard as it is part and partial of the practice. He describes the Fourth Jhana (of the eight Jhanas), a state of equanimity:</p>
 <p></p>
-<p><h2>The Role of Meditative Joy and Physical Strength in the Path to Enlightenment</h2></p>
+<h2>The Role of Meditative Joy and Physical Strength in the Path to Enlightenment</h2>
 <p></p>
 <p>The Bodhisatta realized that the joy arising from deep meditation—<b>jhāna</b>—was pure, wholesome, and peaceful. He pointed out that this meditative bliss should not be rejected, as it is an essential part of the path. He described the <b>fourth jhāna</b>, a state of profound equanimity:</p>
 <p></p>
@@ -713,7 +713,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Rebuilding Strength for the Final Striving</h3></p>
+<h3>Rebuilding Strength for the Final Striving</h3>
 <p></p>
 <p>Recognizing that his body needed strength for the deep meditative attainments required for awakening, the Bodhisatta decided to take food again:</p>
 <p></p>
@@ -723,7 +723,7 @@
 <p></p>
 <p>These five ascetics—<b>Koṇḍañña, Bhaddiya, Vappa, Mahānāma, and Assaji</b>—would later become the first disciples of the Buddha after hearing his first sermon. Their initial misunderstanding highlights an important lesson: true renunciation is not about self-torture but about wisdom—the ability to discern the Middle Path between indulgence and self-mortification.</p>
 <p></p>
-<p><img src="page3/image14.jpeg" /></p>
+<img src="page3/image14.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -757,11 +757,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Ascetic Siddhartha and his five attendants in Uruvela forest grove </b><span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
+<p class="caption"><b>Ascetic Siddhartha and his five attendants in Uruvela forest grove </b><span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Summary</h3></p>
+<h3>Summary</h3>
 <p></p>
 <p>* The section refers to his learning path - meeting the two teachers: Āḷāra Kālāma and Uddaka Rāmaputta and experiencing extreme deprivation with the Group of Five ascetics.</p>
 <p></p>
@@ -773,7 +773,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>End Notes: Section 3</h3></p>
+<h3>End Notes: Section 3</h3>
 <p></p>
 <p></p>
 <p></p>

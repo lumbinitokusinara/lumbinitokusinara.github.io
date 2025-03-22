@@ -1,9 +1,9 @@
 <div class="container">
 <article class="pagewidth">
-<p><h1>Section 4-1: The Founding of the Fourfold Assembly</h1></p>
+<h1>Section 4-1: The Founding of the Fourfold Assembly</h1>
 <p></p>
 <p>In the previous section, (section 4) we explored how the ascetic Siddhartha attained the supreme enlightenment and became the Fully Awakened Buddha. Now, we turn our attention to the profound moment when the Blessed One established the Fourfold Assembly—bhikkhus (monks), bhikkhunis (nuns), upāsakas (laymen), and upāsikās (laywomen)—the foundation upon which the Dhamma would take root and flourish for the welfare of countless beings.</p>
-<p><h2>Preparing to Teach the Dhamma</h2></p>
+<h2>Preparing to Teach the Dhamma</h2>
 <p></p>
 <p>Having awakened to the ultimate truth, the Buddha, the Compassionate One, did not keep his realization to himself. Out of boundless loving-kindness, he resolved to gather disciples who would transcend worldly bondage and become bearers of the Dhamma, guiding others beyond the clutches of Māra.</p>
 <p></p>
@@ -29,7 +29,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Fourfold Assembly</h2></p>
+<h2>The Fourfold Assembly</h2>
 <p></p>
 <p>The Fourfold Assembly—bhikkhus (monks), bhikkhunis (nuns), upāsakas (laymen), and upāsikās (laywomen)—was established to uphold and transmit the Dhamma and Vinaya, the Buddha’s teachings and discipline. The primary purpose of forming this assembly was to preserve the Buddha’s teachings in their true essence, ensuring that both the Dhamma and Vinaya remained intact. Furthermore, it was to serve as a guiding force, spreading the Good Dhamma for the welfare and happiness of beings, not only in their present lives but also in future existences.</p>
 <p></p>
@@ -39,7 +39,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Buddha’s Resolve to Establish the Sāsana</h3></p>
+<h3>The Buddha’s Resolve to Establish the Sāsana</h3>
 <p></p>
 <p>In the Mahāparinibbāna Sutta (DN:16), the Buddha recalls an encounter with Māra soon after his awakening at Uruvelā, on the banks of the River Nerañjarā, beneath the Goatherd’s Banyan tree. Māra, realizing that the Blessed One’s teachings would liberate countless beings, attempted to persuade him to enter final Nibbāna without teaching others:</p>
 <p></p>
@@ -55,7 +55,7 @@
 <p></p>
 <p></p>
 <p><i> “Evil One, I shall not take final Nibbāna until I have disciples—monks, nuns, laymen, and laywomen—who are accomplished, trained, and learned, who are bearers of the Dhamma, skilled in explaining it, and who will spread this path of wondrous benefit. I shall not take final Nibbāna until this holy life is well established, flourishing, widely known, and proclaimed far and wide for the welfare of many.”</i></p>
-<p><h3>The Buddha’s First Missionaries</h3></p>
+<h3>The Buddha’s First Missionaries</h3>
 <p></p>
 <p>The Buddha’s resolve to spread the Dhamma in all directions was further demonstrated when he addressed his first sixty disciples, instructing them to go forth and share the path of liberation:</p>
 <p></p>
@@ -64,7 +64,7 @@
 <p></p>
 <p>(Details of the first sixty disciples are mentioned below.)</p>
 <p></p>
-<p><img src="page4_1/image1.png" /></p>
+<img src="page4_1/image1.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -98,8 +98,8 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Five group of ascetics listening to the first sermon of the Buddha</b></p>
-<p><h2>The Unsurpassed Trainer of Those to Be Tamed</h2></p>
+<p class="caption"><b>The Five group of ascetics listening to the first sermon of the Buddha</b></p>
+<h2>The Unsurpassed Trainer of Those to Be Tamed</h2>
 <p></p>
 <p>Through the boundless wisdom and compassion of the Buddha, we today have the precious opportunity to access the Dhamma—a legacy upheld by the Fourfold Assembly he so carefully established. Throughout the Sutta Piṭaka and certain sections of the Vinaya Piṭaka, we find countless accounts of the Blessed One’s extraordinary ability as the "Unsurpassed Trainer of Those to Be Tamed."</p>
 <p></p>
@@ -113,7 +113,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The First Five Disciples</h2></p>
+<h2>The First Five Disciples</h2>
 <p></p>
 <p>The Blessed One’s journey as a teacher began with the ordination of his first five disciples, the former ascetics who had once practiced alongside him. At the conclusion of his first sermon—the Dhammacakkappavattana Sutta—these five ascetics, deeply moved and filled with confidence in the Buddha and his teaching, took refuge and were ordained as bhikkhus.</p>
 <p></p>
@@ -121,15 +121,11 @@
 <p></p>
 <p>Thus, with the going forth of Venerable Koṇḍañña, Bhaddiya, Vappa, Mahānāma, and Assaji, the Bhikkhu Saṅgha was established, marking the formal beginning of the Buddha Sāsana—the Dispensation of the Blessed One.</p>
 <p></p>
-<p><img src="page4_1/image2.jpeg" />Later, upon hearing the Anattalakkhaṇa Sutta (The Discourse on the Characteristics of Non-Self), all five attained arahantship, becoming fully liberated beings. With their awakening, there were now six noble ones in the world, and the light of the Dhamma had begun to spread for the welfare of countless beings. <span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
+<img src="page4_1/image2.jpeg" />Later, upon hearing the Anattalakkhaṇa Sutta (The Discourse on the Characteristics of Non-Self), all five attained arahantship, becoming fully liberated beings. With their awakening, there were now six noble ones in the world, and the light of the Dhamma had begun to spread for the welfare of countless beings. <span id="Endnote3">[<a href="#endnote3">3</a>]</span>
 <p></p>
 <p></p>
 <p></p>
-<p><b>Young Yas meeting the Buddha first time at the Deer Park, Isipatana </b><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p class="caption"><b>Young Yas meeting the Buddha first time at the Deer Park, Isipatana </b><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -143,7 +139,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Yasa and His Friends Join the Dispensation</h2></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h2>Yasa and His Friends Join the Dispensation</h2>
 <p></p>
 <p>During the Buddha’s first Rains Retreat, a young man named Yasa sought refuge in the Dhamma and, together with his four close friends—Vimala, Subāhu, Puṇṇaji, and Gavampati—ordained as bhikkhus. Soon after, fifty more of Venerable Yasa’s friends from the surrounding region also entered the Saṅgha, becoming disciples of the Blessed One. <span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
 <p></p>
@@ -151,7 +151,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page4_1/image3.jpeg" /></p>
+<img src="page4_1/image3.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -191,17 +191,17 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddha and his disciples meditating together</b><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
+<p class="caption"><b>The Buddha and his disciples meditating together</b><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Thirty Bhaddavaggīya Princes Join the Saṅgha</h2></p>
+<h2>The Thirty Bhaddavaggīya Princes Join the Saṅgha</h2>
 <p></p>
 <p>While traveling from Isipatana to Uruvelā, the Blessed One encountered thirty young princes, known as the Bhaddavaggīya—"the fortunate ones." Blessed with the rare opportunity to hear the Dhamma directly from the Buddha, they awakened to the truth, attaining stream-entry. Filled with deep faith, they renounced worldly life and joined the Bhikkhu Saṅgha, further strengthening the growing monastic community, which now expanded to ninety bhikkhus. <span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Kassapa Brothers and Their Students Enter the Saṅgha</h2></p>
+<h2>The Kassapa Brothers and Their Students Enter the Saṅgha</h2>
 <p></p>
 <p>As described in <b>Section 13.2</b>, the Buddha’s encounter with Uruvelā Kassapa, his two brothers, and their large following of disciples was a pivotal moment in the early Saṅgha.</p>
 <p></p>
@@ -209,7 +209,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Sāriputta, Moggallāna, and Other Great Disciples Join the Buddha</h2></p>
+<h2>Sāriputta, Moggallāna, and Other Great Disciples Join the Buddha</h2>
 <p></p>
 <p>During his first visit to Rājagaha after attaining enlightenment, the Buddha met Sāriputta and Moggallāna, who would later become his two chief disciples. <span id="Endnote8">[<a href="#endnote8">8</a>]</span> Around the same time, other renowned disciples such as Venerable Mahākassapa and Venerable Rādha also entered the Saṅgha. <span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
 <p></p>
@@ -219,7 +219,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Ordination of the Bhikkhunī Saṅgha: A Legacy of Liberation</h2></p>
+<h2>The Ordination of the Bhikkhunī Saṅgha: A Legacy of Liberation</h2>
 <p></p>
 <p>The establishment of the Bhikkhunī Saṅgha was one of the most profound and transformative moments in the Buddha’s Dispensation. It signified not only the Blessed One’s boundless compassion but also his unwavering commitment to providing the path of liberation to all, regardless of gender.</p>
 <p></p>
@@ -231,7 +231,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page4_1/image4.png" /></p>
+<img src="page4_1/image4.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -265,13 +265,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Venerable Mahāpajāpati Gotamī and her Sakyan Ladies becoming Bhikkhunis</b><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
+<p class="caption"><b>Venerable Mahāpajāpati Gotamī and her Sakyan Ladies becoming Bhikkhunis</b><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page4_1/image5.jpeg" /></p>
+<img src="page4_1/image5.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -307,7 +307,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1> Lay Followers of the Buddha</h1></p>
+<h1> Lay Followers of the Buddha</h1>
 <p></p>
 <p>The Blessed One did not establish the Saṅgha alone; he also extended his boundless wisdom and compassion to lay disciples (upāsakas and upāsikās), who became the other two pillars of the Fourfold Assembly.</p>
 <p></p>
@@ -338,7 +338,7 @@
 <p></p>
 <p></p>
 <p>With this, we conclude this section. In the next section (5), we will focus on the greatness of the Blessed One.</p>
-<p><h3>End Notes: Section 4-1</h3></p>
+<h3>End Notes: Section 4-1</h3>
 <p></p>
 <p></p>
 <p></p>

@@ -1,10 +1,10 @@
 <div class="container">
 <article class="pagewidth">
-<p><h1>Section 4: The Enlightenment of Buddha Gotama (At Age 35)</h1></p>
+<h1>Section 4: The Enlightenment of Buddha Gotama (At Age 35)</h1>
 <p></p>
 <p>Tradition holds that the Blessed One attained supreme enlightenment in the year 589 B.C., on the full moon day of Vesākha (May), at Bodh Gaya—then known as Uruvelā. <span id="Endnote1">[<a href="#endnote1">1</a>]</span> This momentous event marked the dawn of a new era in human history, illuminating the path to liberation for countless beings. In this section, we focus on the profound events leading up to and following this noble awakening.</p>
 <p></p>
-<p><img src="page4/image1.jpeg" /></p>
+<img src="page4/image1.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -46,11 +46,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Compassionate Buddha</b><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
+<p class="caption"><b>Compassionate Buddha</b><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Events Leading to Enlightenment</h2></p>
+<h2>Events Leading to Enlightenment</h2>
 <p></p>
 <p>As we have seen in the previous section (section:3), Ascetic Siddhartha abandoned extreme austerities, reflecting deeply on his childhood meditative attainments and realizing, through wisdom, the true way to liberation. Strengthening his body to endure the final striving, he prepared himself for the ultimate breakthrough. <span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
@@ -72,7 +72,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Five Great Dreams</h3></p>
+<h3>The Five Great Dreams</h3>
 <p></p>
 <p>Before his enlightenment, the Bodhisatta experienced five extraordinary dreams—visions that foreshadowed his awakening and the immense impact his teachings would have on the world. In his own words:</p>
 <p></p>
@@ -97,13 +97,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Significance of These Dreams</h3></p>
+<h3>The Significance of These Dreams</h3>
 <p></p>
 <p>Tradition holds that these five dreams were profound premonitions (<i>pubbanimitta</i>), revealing that the Bodhisatta was on the threshold of Buddhahood. They foretold his awakening and the vast, transformative reach of his teachings, which would shine across generations, guiding countless beings to the path of liberation.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Encounters with Māra <span id="Endnote8">[<a href="#endnote8">8</a>]</span> </h2></p>
+<h2>Encounters with Māra <span id="Endnote8">[<a href="#endnote8">8</a>]</span> </h2>
 <p></p>
 <p>On the occasion when the Ascetic Siddhartha was sitting in meditation under the <i>assattha</i> bodhi-tree <span id="Endnote9">[<a href="#endnote9">9</a>]</span>, in the bank of Nerañjanā, river, Māra wanted to discourage him from attending liberation, wanted to hold him in his grip. Below we can see a passage from Suttanipata, how the Māra, was trying to persuade the Ascetic Siddhartha away from Buddhahood.</p>
 <p></p>
@@ -177,8 +177,8 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>Profound Reflections on the Path of Awakening</h1></p>
-<p><h2>The Power of Right Effort</h2></p>
+<h1>Profound Reflections on the Path of Awakening</h1>
+<h2>The Power of Right Effort</h2>
 <p></p>
 <p>The essence of the Dhamma message presented here is the unwavering effort required to walk the spiritual path. Right Effort (<i>sammāvāyama</i>), a vital aspect of the Noble Eightfold Path, is the foundation of spiritual progress. It is the dedicated resolve to:</p>
 <p></p>
@@ -194,7 +194,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Offering of Sujātā—A Moment of Significance</h2></p>
+<h2>The Offering of Sujātā—A Moment of Significance</h2>
 <p></p>
 <p>Tradition tells us that on the morning of his enlightenment, the Bodhisatta Siddhartha received a nourishing meal of milk rice from Sujātā, the daughter of a householder in the village of Senani near Uruvelā. <span id="Endnote12">[<a href="#endnote12">12</a>]</span> While the scriptures do not explicitly mention this event, the <i>Anguttara Nikāya</i> (AN 1:258) offers a striking reference to her:</p>
 <p></p>
@@ -206,7 +206,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Sacred Act of Offering</h2></p>
+<h2>The Sacred Act of Offering</h2>
 <p></p>
 <p>The <i>Mahāparinibbāna Sutta</i> (DN:16) records the Blessed One’s words about two uniquely meritorious acts of giving:</p>
 <p></p>
@@ -218,7 +218,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Sujātā—The First Lay Woman to Take Refuge?</h3></p>
+<h3>Sujātā—The First Lay Woman to Take Refuge?</h3>
 <p></p>
 <p>A deeper reflection on the Buddha’s words raises an intriguing possibility: could Sujātā have been the very first laywoman to pay homage to the newly enlightened Buddha? In <i>Anguttara Nikāya</i> (AN 1: XIV), all other lay disciples described as foremost in different qualities are those who sought refuge in the Buddha after his enlightenment. Could Sujātā’s refuge have been an act of devotion preceding all others?</p>
 <p></p>
@@ -242,13 +242,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>Supreme Enlightenment – Sammāsambodhi</h1></p>
+<h1>Supreme Enlightenment – Sammāsambodhi</h1>
 <p></p>
 <p>With unwavering determination and an unshakable resolve for liberation, the Bodhisatta strengthened his courage and deepened his effort. Through relentless striving and heedfulness, he overcame the formidable forces of Māra and his tenfold army, ultimately attaining the supreme enlightenment. <span id="Endnote15">[<a href="#endnote15">15</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Blessed One’s Words on Effort and Determination</h2></p>
+<h2>The Blessed One’s Words on Effort and Determination</h2>
 <p></p>
 <p>The Buddha himself described the depth of his perseverance in these stirring words:</p>
 <p></p>
@@ -262,7 +262,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Blessed One’s Declaration of Enlightenment</h2></p>
+<h2>The Blessed One’s Declaration of Enlightenment</h2>
 <p></p>
 <p>Upon attaining supreme awakening, the Blessed One proclaimed:</p>
 <p></p>
@@ -281,7 +281,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Path to Enlightenment </h2></p>
+<h2>The Path to Enlightenment </h2>
 <p></p>
 <p>After his awakening, the Buddha reflected deeply on the arduous journey that had led him to supreme realization. As he rested beneath the Goatherd’s Banyan Tree on the banks of the Nerañjarā River in Uruvelā, he contemplated:</p>
 <p></p>
@@ -309,7 +309,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page4/image2.png" /></p>
+<img src="page4/image2.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -341,8 +341,8 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>“…being myself subject to birth… ageing… sickness … death…sorrow…and defilements…I attained the supreme security from bondage, Nibbāna. The knowledge and vision arose in me: ‘My deliverance is unshakeable This is my last birth; now there is no renewal of being”.</b><span id="Endnote22">[<a href="#endnote22">22</a>]</span><b> </b></p>
-<p><h1>What is Full Enlightenment? – The Meaning of Sammāsambuddha</h1></p>
+<p class="caption"><b>“…being myself subject to birth… ageing… sickness … death…sorrow…and defilements…I attained the supreme security from bondage, Nibbāna. The knowledge and vision arose in me: ‘My deliverance is unshakeable This is my last birth; now there is no renewal of being”.</b><span id="Endnote22">[<a href="#endnote22">22</a>]</span><b> </b></p>
+<h1>What is Full Enlightenment? – The Meaning of Sammāsambuddha</h1>
 <p></p>
 <p>Sammāsambuddha—the Fully Enlightened One—is one of the nine noble qualities of the Tathāgata. These nine qualities, as proclaimed in the scriptures, are:</p>
 <p></p>
@@ -354,14 +354,14 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Nine Noble Qualities of the Blessed One</h2></p>
-<p><h3>1. Arahant – The Accomplished One</h3></p>
+<h2>The Nine Noble Qualities of the Blessed One</h2>
+<h3>1. Arahant – The Accomplished One</h3>
 <p></p>
 <p>The Buddha is an <b>Arahant</b>, having completely eradicated all defilements, severed the cycle of saṁsāra, and put an end to rebirth. Free from all taints, he is worthy of the highest veneration by both gods and humans. <span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>2. Sammāsambuddha – The Fully Enlightened One</h3></p>
+<h3>2. Sammāsambuddha – The Fully Enlightened One</h3>
 <p></p>
 <p>The Buddha is called Sammāsambuddha because:</p>
 <p></p>
@@ -375,7 +375,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>3. Vijjācaraṇa Sampanno – Endowed with True Knowledge and Conduct</h3></p>
+<h3>3. Vijjācaraṇa Sampanno – Endowed with True Knowledge and Conduct</h3>
 <p></p>
 <p>The Buddha possessed both supreme wisdom (<i>vijjā)</i> and the highest perfection of virtue <b><i>(</i></b><i>caraṇa),</i> fulfilling the ideal of complete purity in knowledge and action.</p>
 <p></p>
@@ -434,7 +434,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>4. Sugata – The Sublime One</h3></p>
+<h3>4. Sugata – The Sublime One</h3>
 <p></p>
 <p>The Buddha is Sugata, the Sublime One, because:</p>
 <p></p>
@@ -452,7 +452,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>5. Lokavidū – Knower of the Worlds</h3></p>
+<h3>5. Lokavidū – Knower of the Worlds</h3>
 <p></p>
 <p>The Buddha is Lokavidū, for he fully comprehended the three realms:</p>
 <p></p>
@@ -466,19 +466,19 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>6. Anuttaro Purisadammasārathi – The Incomparable Leader of Beings to be Tamed</h3></p>
+<h3>6. Anuttaro Purisadammasārathi – The Incomparable Leader of Beings to be Tamed</h3>
 <p></p>
 <p>The Buddha is Anuttaro Purisadammasārathi—the unsurpassed guide for those who seek liberation. With supreme wisdom and boundless compassion, he leads beings across the ocean of suffering, training them according to their potential and inclinations. None can equal him—only another Sammāsambuddha.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>7. Satthā Deva-Manussānaṃ – Teacher of Gods and Humans</h3></p>
+<h3>7. Satthā Deva-Manussānaṃ – Teacher of Gods and Humans</h3>
 <p></p>
 <p>The Buddha is Satthā Deva-Manussānaṃ, the Teacher of gods and men, who guides beings across the vast wilderness of saṁsāra, just as a skilled caravan leader safely leads travelers through dangerous terrain.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>8. Buddha – The Awakened One</h3></p>
+<h3>8. Buddha – The Awakened One</h3>
 <p></p>
 <p>The Buddha is Buddha, for he is fully awakened:</p>
 <p></p>
@@ -513,7 +513,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>9. Bhagavā – The Blessed One</h3></p>
+<h3>9. Bhagavā – The Blessed One</h3>
 <p></p>
 <p>The Buddha is Bhagavā, the Blessed One, a title of the highest reverence. He is endowed with unparalleled wisdom, virtue, and compassion. He is the one who has gained, mastered, and declared the Dhamma for the welfare of all beings. This term embodies:</p>
 <p></p>
@@ -527,13 +527,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Conclusion</h3></p>
+<h3>Conclusion</h3>
 <p></p>
 <p>Each of these nine noble qualities illuminates a different facet of the Buddha’s supreme enlightenment. Yet, together, they point to one extraordinary truth—the Buddha is <b>the Fully Enlightened One, Sammāsambuddha</b>—who, through his perfect wisdom and limitless compassion, has opened the path of liberation for all beings.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Rarity of a Fully Enlightened One</h2></p>
+<h2>The Rarity of a Fully Enlightened One</h2>
 <p></p>
 <p>Reflecting on all these noble qualities, we can see that a Sammāsambuddha embodies them all. In the following sutta, the Blessed One reveals the profound significance of his presence in the world:</p>
 <p></p>
@@ -557,7 +557,7 @@
 <p></p>
 <p><i>‘‘Rājāhamasmi selāti, - dhammarājā anuttaro; </i></p>
 <p><i>Dhammena cakkaṃ vattemi, - cakkaṃ appaṭivattiyaṃ’’.</i></p>
-<p><h2>The Buddha—The Supreme Teacher</h2></p>
+<h2>The Buddha—The Supreme Teacher</h2>
 <p></p>
 <p>The Buddha is the noble one who discovered the path to enlightenment by himself. Having no teacher, he declared the path solely for the welfare and happiness of all beings. Venerable Ānanda affirmed this rare and extraordinary achievement<b>:</b></p>
 <p></p>
@@ -573,7 +573,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Extraordinary Rarity of a Buddha’s Appearance</h2></p>
+<h2>The Extraordinary Rarity of a Buddha’s Appearance</h2>
 <p></p>
 <p>From all the testimony above, we can confirm that the presence of a Sammāsambuddha in the world is an event of profound significance—something truly extraordinary.</p>
 <p></p>
@@ -586,7 +586,7 @@
 <p></p>
 <p></p>
 <p><b>Thus, the arising of a Sammāsambuddha is not only rare but also the most extraordinary blessing for all beings.</b></p>
-<p><h2>The Supreme Teacher and Guide to Liberation</h2></p>
+<h2>The Supreme Teacher and Guide to Liberation</h2>
 <p></p>
 <p>One of the most profound distinctions of a Sammāsambuddha is that only a Fully Enlightened Buddha possesses the ability to teach the Dhamma—to illuminate the path that leads both devas and humans toward liberation from the endless cycle of saṁsāric<b> </b>suffering.</p>
 <p></p>
@@ -594,7 +594,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Supreme Healer of the World</h2></p>
+<h2>The Supreme Healer of the World</h2>
 <p></p>
 <p>A Sammāsambuddha is like the supreme physician, tending to the ailments of the world. Through his immeasurable compassion and unsurpassed wisdom, he diagnoses the root causes of suffering and prescribes the cure—the Noble Eightfold Path—leading beings toward true peace and liberation.</p>
 <p></p>
@@ -604,13 +604,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>A Rare and Precious Opportunity</h2></p>
+<h2>A Rare and Precious Opportunity</h2>
 <p></p>
 <p>This truth should encourage and uplift the followers of the Blessed One. Even now, in this 21st century, we are living in an era where the Dhamma proclaimed by the Buddha is still available to us. We are incredibly fortunate to have knowledge of the Buddha, the Dhamma, and the Sangha—to have the opportunity to take refuge in the Triple Gem and walk the path he so compassionately revealed.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>This leaves us with a choice:</h3></p>
+<h3>This leaves us with a choice:</h3>
 <p></p>
 <p>--		We can <b>follow his guidance as lay followers</b>, cultivating wholesome deeds and practicing the Dhamma to lead lives of peace and happiness, both in this existence and in those to come.</p>
 <p></p>
@@ -618,7 +618,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>How Can We Repay the Blessed One?</h2></p>
+<h2>How Can We Repay the Blessed One?</h2>
 <p></p>
 <p>The greatest way to honor and repay the Blessed One is not through mere words of gratitude, but by walking the path he illuminated for us. Through his own boundless wisdom and supreme effort, he broke through the darkness of ignorance and revealed the way to true liberation.</p>
 <p></p>
@@ -629,13 +629,13 @@
 <p></p>
 <p></p>
 <p><b>May we cherish this rare opportunity, and may we strive to walk in his footsteps!</b></p>
-<p><h1>Events Following the Enlightenment</h1></p>
+<h1>Events Following the Enlightenment</h1>
 <p></p>
 <p>After the attainment of Nibbāna, the newly enlightened Buddha encountered various trials that revealed the nature of the world. These events not only demonstrate the unshakable wisdom and purity of the Blessed One but also serve as reminders for those aspiring to walk the spiritual path. While a <b>S</b>ammāsambuddha cannot be ensnared by worldly temptations, seekers of truth must remain ever-vigilant against the snares of Māra, which seek to pull them away from the path to liberation.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Māra’s Challenge and Defeat</h2></p>
+<h2>Māra’s Challenge and Defeat</h2>
 <p></p>
 <p>Soon after his enlightenment, as the Buddha sat immersed in the bliss of samādhi at Uruvelā, beneath the Goatherd’s Banyan Tree, Māra—the embodiment of delusion and death—once again approached him. Still uncertain about the Bodhisatta’s supreme liberation, Māra tried to challenge the Buddha’s path, saying:</p>
 <p></p>
@@ -664,7 +664,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Daughters of Māra and Their Failed Temptation</h2></p>
+<h2>The Daughters of Māra and Their Failed Temptation</h2>
 <p></p>
 <p>Humiliated by his failure, Māra sat nearby in sorrow. Seeing their father in despair, his daughters—Taṇhā (Craving), Aratī (Discontent), and Ragā (Passion)—approached him and asked what troubled him. Māra, still lamenting his loss, replied:</p>
 <p></p>
@@ -711,12 +711,12 @@
 <p>But the Teacher swept them away right there,</p>
 <p>As the wind scatters a fallen cotton tuft.” </i><span id="Endnote39">[<a href="#endnote39">39</a>]</span></p>
 <p></p>
-<p><img src="page4/image3.jpeg" /><i> </i></p>
-<p><b>Māra’s three daughters attempt to seduce the Buddha</b><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
+<img src="page4/image3.jpeg" /><i> </i>
+<p class="caption"><b>Māra’s three daughters attempt to seduce the Buddha</b><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Lessons from this Event</h2></p>
+<h2>Lessons from this Event</h2>
 <p></p>
 <p>1)		<b>The Importance of Establishing Right View</b> – The foundation of the spiritual path begins with Right View. One must discern what leads to <b>true liberation</b> and what does not.</p>
 <p></p>
@@ -731,13 +731,13 @@
 <p>I have attained supreme purity:</p>
 <p>You’re defeated, End-maker!" </i><span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
 <p></p>
-<p><h1>The Buddha’s Peaceful Abiding’s After Enlightenment</h1></p>
+<h1>The Buddha’s Peaceful Abiding’s After Enlightenment</h1>
 <p></p>
 <p>According to the Vinaya Piṭaka, after his enlightenment, the Blessed One remained near the Nerañjanā River, dwelling in meditative bliss (<i>phalasamāpatti</i>) for seven weeks, spending seven days in one location before moving to another. The events of these weeks are summarized as follows: <span id="Endnote42">[<a href="#endnote42">42</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>According to the Vinaya Piṭaka: </h2></p>
+<h2>According to the Vinaya Piṭaka: </h2>
 <p></p>
 <p>🔹 <b>First week</b> – The Buddha sat under the Bodhi Tree, deeply contemplating Dependent Origination (paṭiccasamuppāda).</p>
 <p>🔹 <b>Second week</b> – He stayed at the Goatherd’s Banyan Tree, where he had an encounter with a brahmin from a nearby village.</p>
@@ -779,7 +779,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page4/image4.png" /></p>
+<img src="page4/image4.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -799,7 +799,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>The Buddhist flag, displayed during religious ceremonies, represents these colors. It is a universal symbol of Buddhism, features six vertical bands representing the six colours of the Buddha's aura upon enlightenment.  <span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
+<p class="caption">The Buddhist flag, displayed during religious ceremonies, represents these colors. It is a universal symbol of Buddhism, features six vertical bands representing the six colours of the Buddha's aura upon enlightenment.  <span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -813,8 +813,8 @@
 <p></p>
 <p>According to tradition, they requested a keepsake from the Buddha, and he gave them a lock of his hair (Kesa Dhātu). They took it back to Burma (Myanmar) and enshrined it in what later became the famous Shwedagon Pagoda in Rangoon.</p>
 <p></p>
-<p><h1>Profound Dhamma Revealed During This Period</h1></p>
-<p><h2>The Cycle of Dependent Origination – The Core Teaching of the Buddha</h2></p>
+<h1>Profound Dhamma Revealed During This Period</h1>
+<h2>The Cycle of Dependent Origination – The Core Teaching of the Buddha</h2>
 <p></p>
 <p>According to the <i>Vinaya Pitaka</i>, soon after his Supreme Awakening, while abiding in the bliss of liberation, the Blessed One deeply contemplated Dependent Origination (<i>paṭicca Samuppāda</i>)—both in its forward and reverse sequence: <span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
 <p></p>
@@ -828,7 +828,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha’s Own Reflection on Dependent Origination</h2></p>
+<h2>The Buddha’s Own Reflection on Dependent Origination</h2>
 <p></p>
 <p>In the following discourse, the Blessed One recounts his own journey of discovery before attaining Enlightenment:</p>
 <p></p>
@@ -838,7 +838,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Through deep contemplation, he discerned:</h3></p>
+<h3>Through deep contemplation, he discerned:</h3>
 <p><i>“When what exists does aging-and-death arise? By what is it conditioned?”</i></p>
 <p></p>
 <p>Then, through his supreme wisdom, he realized:</p>
@@ -853,7 +853,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Finally, with the complete cessation of ignorance, all suffering ceases:</h3></p>
+<h3>Finally, with the complete cessation of ignorance, all suffering ceases:</h3>
 <p><i>"With the fading away and cessation of ignorance comes the cessation of volitional formations; with the cessation of volitional formations, consciousness ceases … Thus, suffering is brought to an end."</i></p>
 <p></p>
 <p></p>
@@ -864,7 +864,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page4/image5.jpeg" /></p>
+<img src="page4/image5.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -906,7 +906,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Nature of Conditioned Phenomena in Dependent Origination</h3></p>
+<h3>The Nature of Conditioned Phenomena in Dependent Origination</h3>
 <p></p>
 <p>The principle of conditionality in <i>Paṭicca Samuppāda</i> is beautifully expressed in the following sutta:</p>
 <p></p>
@@ -924,7 +924,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The First Mention of Dependent Origination (Paṭicca Samuppāda)</h3></p>
+<h3>The First Mention of Dependent Origination (Paṭicca Samuppāda)</h3>
 <p></p>
 <p>According to the <i>Vinaya Piṭaka</i>, this is the earliest recorded instance of the Buddha reflecting on Dependent Origination (DP) after his awakening.<span id="Endnote51">[<a href="#endnote51">51</a>]</span></p>
 <p></p>
@@ -933,7 +933,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Nature of Awakening: Dependent Origination or the Four Noble Truths?</h2></p>
+<h2>The Nature of Awakening: Dependent Origination or the Four Noble Truths?</h2>
 <p></p>
 <p>Some who study the suttas may wonder:</p>
 <p>Did the Buddha’s enlightenment occur through his reflection on <i>Dependent Origination</i>, as recorded in the <i>Vinaya Piṭaka</i>? Or did the true breakthrough come with the full realization of the <i>Four Noble Truths</i>, as mentioned in his first discourse– <i>Setting in Motion the Wheel of the Dhamma</i>?<span id="Endnote54">[<a href="#endnote54">54</a>]</span></p>
@@ -967,19 +967,19 @@
 <p>"Very frequently, we find that the Buddha expressed His experience of enlightenment in one of two ways: either in terms of having understood the Four Noble Truths or in terms of having understood the nature of Dependent Origination. Again, the Buddha has often mentioned that in order to attain enlightenment, one has to understand the Four Noble Truths; or similarly, one has to understand Dependent Origination."<span id="Endnote56">[<a href="#endnote56">56</a>]</span></p>
 <p></p>
 <p></p>
-<p><h1>Who is an Arahant?</h1></p>
+<h1>Who is an Arahant?</h1>
 <p>This is the first recorded instance in the scriptures where the term <b>‘Arahant’</b> is explicitly defined.</p>
 <p>As the newly enlightened Buddha dwelled in the bliss of liberation near Bodh Gaya, a brahmin from a nearby village approached him, inquiring about the true qualities of a brahmin. In response, the Blessed One redefined the concept, showing that a true brahmin is not simply one by birth, but rather one who has reached the highest spiritual attainment—<b>an Arahant</b>:</p>
 <p><i>"The brahmin who has abandoned all unwholesome qualities, who is humble, free from flaws, and self-controlled, who has attained final knowledge and fulfilled the spiritual life—he alone may rightfully call himself a brahmin, having no conceit about anything in the world." </i><span id="Endnote57">[<a href="#endnote57">57</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Definition of an Arahant</h2></p>
+<h2>Definition of an Arahant</h2>
 <p>In the Mahā Assapura Sutta (MN:39), the Buddha further explains:</p>
 <p>"Bhikkhus, how is one truly an Arahant?</p>
 <p>For him, all evil and unwholesome states—those that defile, lead to renewed existence, bring trouble, ripen in suffering, and result in future birth, aging, and death—are completely abandoned. That is how a bhikkhu is an Arahant."</p>
 <p><i>(‘Kathañca, bhikkhave, bhikkhu arahaṃ hoti? Ārakāssa honti pāpakā akusalā dhammā, saṃkilesikā, ponobbhavikā, sadarā, dukkhavipākā, āyatiṃ, jātijarāmaraṇiyā. Evaṃ kho, bhikkhave, bhikkhu arahaṃ hotī’”ti.)</i></p>
-<p><h2>The Importance of Practicing Harmlessness and Kindness Towards All Beings</h2></p>
+<h2>The Importance of Practicing Harmlessness and Kindness Towards All Beings</h2>
 <p>One of the most profound messages conveyed by the Blessed One in the early weeks after his awakening was the significance of harmlessness (ahiṃsā) and loving-kindness (mettā) toward all living beings.</p>
 <p>The scriptures recount a remarkable encounter during this time: as the Buddha sat in deep meditation, a great storm arose. Seeing this, Muchalinda, the Nāga King, emerged and wrapped his mighty coils around the Buddha’s body, shielding him with his hood to protect him from the heavy rains and winds.</p>
 <p>When the storm passed and the Buddha emerged from meditation, realizing the Nāga King’s act of kindness, he uttered the following <i>Udāna</i> (inspired exclamation), emphasizing the joy and peace that arise from a life of non-harming:</p>
@@ -1001,7 +1001,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page4/image6.jpeg" /></p>
+<img src="page4/image6.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -1033,9 +1033,9 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Muchalinda Naga giving protection to the Buddha</b><span id="Endnote59">[<a href="#endnote59">59</a>]</span></p>
+<p class="caption"><b>Muchalinda Naga giving protection to the Buddha</b><span id="Endnote59">[<a href="#endnote59">59</a>]</span></p>
 <p></p>
-<p><h1>Honouring the Dhamma</h1></p>
+<h1>Honouring the Dhamma</h1>
 <p>Not long after hi<i>s </i>Supreme Awakening, while dwelling at Uruvelā, on the banks of the Nerañjarā River, beneath the Goatherd’s Banyan Tree, a profound reflection arose in the Blessed One’s mind: <span id="Endnote60">[<a href="#endnote60">60</a>]</span></p>
 <p><i>“One who lacks reverence and respect dwells in suffering.</p>
 <p>Now, which ascetic or brahmin could I honour, respect, and depend upon?”</i></p>
@@ -1051,7 +1051,7 @@
 <p></p>
 <p></p>
 <p>Hence, we Buddhist rely on Dhamma and live and practice according to Dhamma would never fall out from our spiritual path!</p>
-<p><h2>Dhamma should be revere</h2></p>
+<h2>Dhamma should be revere</h2>
 <p>“Therefore, one desiring his own good,</p>
 <p>Aspiring for spiritual greatness,</p>
 <p>Should deeply revere the true Dhamma,</p>
@@ -1059,7 +1059,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Profundity of the Dhamma</h2></p>
+<h2>Profundity of the Dhamma</h2>
 <p>Another significant Dhamma factor revealed during that time the Buddha was pondering of depth of the Dhamma he fathomed during the night of his awakening: understanding the causality (dependent origination) and giving up all attachments (abandoning greed -tanha) which led him to liberation. He reflected thus:</p>
 <p>“<i>I have discovered this profound truth, so hard to see, so hard to comprehend. It’s peaceful and sublime, subtle, beyond the intellect, and knowable only to the wise…” </i><span id="Endnote63">[<a href="#endnote63">63</a>]</span></p>
 <p></p>
@@ -1079,7 +1079,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Brahmā Sahampati’s Invitation</h2></p>
+<h2>Brahmā Sahampati’s Invitation</h2>
 <p></p>
 <p>The Buddha describes the event:</p>
 <p></p>
@@ -1095,7 +1095,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page4/image7.jpeg" /></p>
+<img src="page4/image7.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -1131,21 +1131,21 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Invitation of Brahma Shampati</b><span id="Endnote66">[<a href="#endnote66">66</a>]</span></p>
+<p class="caption"><b>Invitation of Brahma Shampati</b><span id="Endnote66">[<a href="#endnote66">66</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Blessed One’s Response</h2></p>
+<h2>The Blessed One’s Response</h2>
 <p><i>“ ‘Open for them are the doors to the Deathless, let those with ears now show their faith. Thinking it would be troublesome, O Brahma, I did not speak the Dhamma subtle and sublime’… Then Brahma Shampati thinking: ‘The Blessed One has consented to my request that he teach the Dhamma.’ and after paying homage to me, keeping me on the right, he thereupon departed at once”.</i><span id="Endnote67">[<a href="#endnote67">67</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p>This is the first occasion Brahma Sahampati, follower of the Blessed One meeting the newly attained Buddha <span id="Endnote68">[<a href="#endnote68">68</a>]</span>  The Blessed One with great compassion consented to his request.</p>
 <p>This incident demonstrates the Noble Qualities of the Buddha. He had the humility -modesty to accept the request of Brahma Sahampati to proclaim the Dhamma for the people who could get immense benefits from hearing the good Dhamma. He also displayed his highest wisdom by accepting a good advice.</p>
-<p><h1>Significant Events During This Time</h1></p>
-<p><h2>The First Step Toward the Establishment of the Fourfold Assembly</h2></p>
+<h1>Significant Events During This Time</h1>
+<h2>The First Step Toward the Establishment of the Fourfold Assembly</h2>
 <p>The Fourfold Assembly (<i>catuparisā</i> in Pali) refers to the four groups who follow the Buddha’s teaching: monks, nuns, laymen, and laywomen. In the history of the Buddha’s dispensation, we can see that the foundation of the Fourfold Sangha was laid during this period.</p>
 <p>At that time, two brothers, Tapussa and Bhallika, were traveling from Ukkalā to Uruvelā, near the place of the Buddha’s enlightenment. Following the advice of a deva, they offered food to the Buddha. After making the offering, they paid homage to him and requested to be accepted as his lay followers. <span id="Endnote69">[<a href="#endnote69">69</a>]</span></p>
 <p></p>
@@ -1156,13 +1156,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page4/image8.jpeg" /><b>Tapussa and Bhallika</b>, <b>offering food to the Blessed One</b> <span id="Endnote70">[<a href="#endnote70">70</a>]</span></p>
+<img src="page4/image8.jpeg" /><b>Tapussa and Bhallika</b>, <b>offering food to the Blessed One</b> <span id="Endnote70">[<a href="#endnote70">70</a>]</span>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>First Instance of Devas and Non-Humans Paying Homage</h2></p>
+<h2>First Instance of Devas and Non-Humans Paying Homage</h2>
 <p></p>
-<p>Both scriptures and legends recount numerous instances of devas and non-humans, such as Nāga kings, paying homage to the Blessed One. They often approached him to ask questions about the Dhamma or to listen to his discourses. Earlier, we saw how the Nāga King Muchalinda paid homage to the Buddha.<span id="Endnote71">[<a href="#endnote71">71</a>]</span></p>
+<p class="caption">Both scriptures and legends recount numerous instances of devas and non-humans, such as Nāga kings, paying homage to the Blessed One. They often approached him to ask questions about the Dhamma or to listen to his discourses. Earlier, we saw how the Nāga King Muchalinda paid homage to the Buddha.<span id="Endnote71">[<a href="#endnote71">71</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -1176,7 +1176,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Summary</h3></p>
+<h3>Summary</h3>
 <p></p>
 <p>--		In this section, we saw how Ascetic Siddhartha, with his unwavering determination and wisdom, defeated Māra and his army, attaining supreme Buddhahood.</p>
 <p></p>
@@ -1192,7 +1192,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>End Notes: Section 4</h3></p>
+<h3>End Notes: Section 4</h3>
 <p></p>
 <p></p>
 <p></p>

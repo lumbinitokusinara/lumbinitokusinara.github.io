@@ -152,9 +152,10 @@
 <p></p>
 <p>Just as the chances of the turtle finding the yoke are nearly impossible, so too is the opportunity to be reborn as a human after falling into the lower realms—making this life an invaluable chance to practice the Dhamma.</p>
 <h2></h2>
-<h2><img src="page12/image1.jpeg" /></h2>
 <p></p>
-<p>A Bit of Soil<span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
+<img src="page12/image1.jpeg" />
+<p></p>
+<p class="caption">A Bit of Soil <span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -363,8 +364,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>The Buddha standing radiant and untainted, like a lotus in full bloom, </b></p>
-<p><b>rising above the waters of the world </b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
+<p class="caption"><b>The Buddha standing radiant and untainted, like a lotus in full bloom, rising above the waters of the world </b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -418,40 +418,7 @@
 <p></p>
 <img src="page12/image3.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>The Endless Cycle: A Cosmic Wheel of Birth and Death—Turning Again and Again, </b></p>
-<p><b>Until One Finds the Path to Liberation </b><span id="Endnote43">[<a href="#endnote43">43</a>]</span></p>
+<p class="caption"><b>The Endless Cycle: A Cosmic Wheel of Birth and Death—Turning Again and Again, Until One Finds the Path to Liberation </b><span id="Endnote43">[<a href="#endnote43">43</a>]</span></p>
 <p></p>
 <h1>The Importance of Virtue (<i>Sīla</i>)</h1>
 <p>Virtue (<i>sīla</i>) is the foundation of spiritual development. Time and again, the Buddha emphasized that just as a strong foundation supports a magnificent structure, so too does moral conduct support the higher stages of the path. Without virtue, wisdom and concentration cannot flourish. With virtue, one walks the path with unshakable stability, progressing toward true liberation.</p>
