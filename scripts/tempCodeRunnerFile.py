@@ -1,2 +1,2 @@
 
-pages_folder = "pages"
+    ("page4.txt", "Section 4 - Enlightenment.docx", "4."),

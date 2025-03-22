@@ -1,11 +1,11 @@
 <div class="container">
 <article class="pagewidth">
-<p><h1>Section 6: Titles and Epithets of the Buddha</h1></p>
+<h1>Section 6: Titles and Epithets of the Buddha</h1>
 <p>Throughout the scriptures, the Blessed One is honoured with many titles, each reflecting his incomparable wisdom, compassion, and supreme awakening. This section explores some of these profound epithets that reveal the depth of his enlightenment and the boundless impact of his teachings.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page6/image1.jpeg" /></p>
+<img src="page6/image1.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -37,9 +37,9 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>The Buddha—The Awakened One</h1></p>
+<h1>The Buddha—The Awakened One</h1>
 <p><i>The Pali term </i><b><i>“Buddha”</i></b><i> means </i><b><i>“the Awakened One”</i></b><i> or </i><b><i>“the Enlightened One”</i></b><i>—a title that signifies his perfect realization of the true nature of reality. He was known simply as </i><b><i>“the Buddha”</i></b><i> among his followers, and in the scriptures, we often see the Blessed One referring to himself by this name, embodying the essence of perfect wisdom and awakening.</i></p>
-<p><h2>The Buddha—Knower of Liberation, Teacher of the Path</h2></p>
+<h2>The Buddha—Knower of Liberation, Teacher of the Path</h2>
 <p>The Buddha is revered as the one who not only attained liberation but also illuminated the path for others to follow. As he declared in the following sutta, he is called the Buddha because he realized four essential aspects of the path and guided beings toward freedom:</p>
 <p><i>“Bhikkhus, it is because of not understanding and not penetrating noble virtuous behaviour, noble concentration, noble wisdom, and noble liberation that you and I have wandered through this long cycle of existence... But now, having fully understood and penetrated these truths…”</i></p>
 <p>Then the Blessed One proclaimed:</p>
@@ -54,7 +54,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha—The Noble One Who Knows All</h2></p>
+<h2>The Buddha—The Noble One Who Knows All</h2>
 <p>The term <b>“Buddha”</b> also signifies the one who possesses perfect knowledge and insight. When the Brahmin Sela inquired about enlightenment, the Buddha responded with these profound words:</p>
 <p><i>“What must be known is directly known,</p>
 <p>What must be developed has been developed,</p>
@@ -68,7 +68,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Rare and Precious Arising of a Buddha</h2></p>
+<h2>The Rare and Precious Arising of a Buddha</h2>
 <p>The birth of a Buddha in the world is an event of immeasurable significance, a beacon of hope for beings lost in the cycle of suffering. The scriptures remind us of the precious rarity of such an occurrence:</p>
 <p><i>“Difficult is it to obtain human birth,</p>
 <p>Challenging is the life of mortals,</p>
@@ -77,7 +77,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha is a Sublime Gem</h2></p>
+<h2>The Buddha is a Sublime Gem</h2>
 <p></p>
 <p>“There’s no wealth here or beyond,</p>
 <p></p>
@@ -91,7 +91,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha is the Foremost in the World </h2></p>
+<h2>The Buddha is the Foremost in the World </h2>
 <p></p>
 <p>“In this world together with its devas</p>
 <p></p>
@@ -105,7 +105,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Nature of the Buddha</h2></p>
+<h2>The Nature of the Buddha</h2>
 <p></p>
 <p>“The perfect Buddhas of the past,</p>
 <p></p>
@@ -125,7 +125,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Buddha is peerless</h2></p>
+<h2>Buddha is peerless</h2>
 <p></p>
 <p>“When, through direct knowledge,</p>
 <p></p>
@@ -145,7 +145,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page6/image2.jpeg" /></p>
+<img src="page6/image2.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -179,7 +179,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha—The Noble One Unsoiled by the World</h2></p>
+<h2>The Buddha—The Noble One Unsoiled by the World</h2>
 <p>When Brahmin Dona first encountered the Blessed One, he was uncertain whether he was in the presence of a deva or a human. In his awe and curiosity, he asked the Buddha, and the Blessed One responded with these profound words: <span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
 <p></p>
 <p></p>
@@ -190,7 +190,7 @@
 <p>Therefore, O Brahmin, I am a Buddha.”</i></p>
 <p>These words express the Buddha’s transcendence over the defilements of the world, an untainted purity that arises from deep realization and mastery over the cycle of existence.</p>
 <p></p>
-<p><img src="page6/image3.jpeg" /></p>
+<img src="page6/image3.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -206,7 +206,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha—Emerging Like the Lotus from the Mud of Samsāra</h2></p>
+<h2>The Buddha—Emerging Like the Lotus from the Mud of Samsāra</h2>
 <p>In the Sutta Nipāta, another verse beautifully describes how the Buddha, like the lotus, emerges from the muddy waters of samsāra: <i>”  </i><span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
 <p></p>
 <p><i>“Suppose there were a blue water lily,</p>
@@ -218,7 +218,7 @@
 <p>I live, having mastered it,</p>
 <p>Unsullied by the world.”</i></p>
 <p>Just as the lotus stands tall and pure above the murky waters, the Buddha transcended the limitations of the world, embodying purity, wisdom, and peace, despite his physical presence within it.</p>
-<p><h2>The Buddha—Worthy of All Offerings</h2></p>
+<h2>The Buddha—Worthy of All Offerings</h2>
 <p>The Buddha is the unsurpassed field of merit, deserving of the highest reverence and offerings. As the scriptures reveal:</p>
 <p><i>“The honourable Buddha deserves the sacrificial cake;</p>
 <p>He is the unsurpassed field of merit,</p>
@@ -226,24 +226,24 @@
 <p>What is given to the worthy one brings great fruit.” </i><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
 <p></p>
 <p>To offer to the Buddha is to plant seeds of immeasurable merit, for in him is the embodiment of the highest truth, a beacon that guides all beings towards liberation.</p>
-<p><h1>Tathāgata—The Fully Awakened One</h1></p>
+<h1>Tathāgata—The Fully Awakened One</h1>
 <p>In the scriptures, the Buddha referred to himself, his disciples, and followers as ‘Tathāgata’, a title meaning “the Fully Awakened One.” <span id="Endnote13">[<a href="#endnote13">13</a>]</span> The term can be understood as “one who has thus (tatha) gone (gata)” or “one who has thus (tatha) come (agata)”, signifying a being who has transcended all delusions and has attained perfect enlightenment. The following quotes from the scriptures reveal why the Buddha is called Tathāgata.</p>
-<p><h2>Tathāgata is Fully Awakened</h2></p>
+<h2>Tathāgata is Fully Awakened</h2>
 <p>The Buddha explained:</p>
 <p><i>“…Bhikkhus, in this world with its devas, Māra, Brahmā, and humans… whatever is seen, heard, sensed, cognized, reached, sought after, examined by the mind—all that the Tathāgata has fully awakened to; therefore, he is called Tathāgata. Whatever the Tathāgata speaks, utters, or expounds in the interval between the night when he awakens to the unsurpassed perfect enlightenment and the night when he attains final Nibbāna, all that is just so and not otherwise. Therefore, as the Tathāgata speaks, so he does; as he does, so he speaks. Since he does as he speaks and speaks as he does, therefore… in this world with its devas, the Tathāgata is the vanquisher, the unvanquished, the universal seer, the wielder of mastery; therefore, he is called Tathāgata.”</i><i> </i><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
 <p></p>
 <p><b>In these words, the Buddha emphasizes his perfect realization, where nothing in the world escapes his awakened understanding, and his actions are in perfect harmony with his words.</b></p>
-<p><h2>Tathāgata is the Accomplished One</h2></p>
+<h2>Tathāgata is the Accomplished One</h2>
 <p>When the Five Ascetics <span id="Endnote15">[<a href="#endnote15">15</a>]</span> addressed the Buddha as "friend," the Blessed One responded:</p>
 <p><i>“Do not address the Tathāgata by name and as a ‘friend.’ The Tathāgata is the Accomplished One, the Fully Enlightened One. Listen… the Deathless has been attained.” </i><span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
 <p></p>
 <p>The Buddha’s awakening is not just an ordinary realization but the supreme attainment—the Deathless—the realization of the eternal truth beyond birth and death.</p>
-<p><h2>Tathāgata Appears for the Welfare of the World</h2></p>
+<h2>Tathāgata Appears for the Welfare of the World</h2>
 <p>The Buddha also said:</p>
 <p><i>“…There is one person who arises in the world for the welfare of many people, for the happiness of many people, out of compassion for the world. The manifestation of this person is rare in the world—extraordinary, unique, without peer, incomparable, matchless, unrivaled, unequalled, the foremost of bipeds. The manifestation of this one person is the manifestation of great vision, great light, the realization of the fruit of true knowledge and liberation, the realization of the fruit of stream-entry, arahantship… Who is this one person? The Tathāgata, the Arahant, the Perfectly Enlightened One.”</i><i> </i><span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
 <p></p>
 <p>The Buddha’s appearance in the world is a rare and extraordinary event, a beacon of compassion and wisdom for the benefit of all beings, guiding them toward liberation.</p>
-<p><h2>Tathāgata—The Embodiment of Distinguishing Qualities</h2></p>
+<h2>Tathāgata—The Embodiment of Distinguishing Qualities</h2>
 <p>The following suttas beautifully expound upon the noble qualities of the Tathāgata: <span id="Endnote18">[<a href="#endnote18">18</a>]</span><i>“Having renounced sensual pleasures, triumphant in his journey,</p>
 <p>He who has known the end of birth and death,</p>
 <p>Who has attained Nibbāna, as cool and serene as a lake,</p>
@@ -256,7 +256,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page6/image4.jpeg" /></p>
+<img src="page6/image4.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -330,7 +330,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Householder Upāli Honors the Tathāgata</h2></p>
+<h2>The Householder Upāli Honors the Tathāgata</h2>
 <p>The householder Upāli, deeply moved by the Buddha's qualities, expressed:<span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
 <p></p>
 <p><i>“Of supreme serenity, with vast and infinite wisdom,</p>
@@ -340,38 +340,38 @@
 <p>He is intrepid, proficient in all,</p>
 <p>The Blessed One is he, and I am his disciple.”</i></p>
 <p>Upāli recognizes the Buddha as the embodiment of wisdom, serenity, and mastery, acknowledging that the Blessed One stands alone—unrivaled, incomparable, and an inspiration to all who seek the truth.</p>
-<p><h1>Sammā Sambuddha—The Fully Enlightened Buddha</h1></p>
+<h1>Sammā Sambuddha—The Fully Enlightened Buddha</h1>
 <p>Among the nine noble qualities attributed to the Buddha is the title Sammā Sambuddha, meaning “he who has attained enlightenment by his own efforts.” This title reflects the Buddha’s remarkable journey of self-realization, achieved without a teacher. Through his own wisdom and determination, the Buddha rediscovered the ancient path to liberation. He then dedicated his life to sharing this path with others, teaching the Dhamma, and establishing a community of followers who continue to support and carry forward the Buddha Sasana—the dispensation of the Buddha. <span id="Endnote21">[<a href="#endnote21">21</a>]</span></p>
 <p></p>
-<p><h2></h2></p>
-<p><h2>Homage to the Blessed One—The Fully Enlightened One</h2></p>
+<h2></h2>
+<h2>Homage to the Blessed One—The Fully Enlightened One</h2>
 <p>The Buddhist world also referred to the Buddha in this way. In during their daily chanting the Buddhists, pay homage to the Blessed One like thus:</p>
 <p><i>“Namotassa Bhagavato Arahato Sammā Sambuddhassa”</i></p>
 <p>(Homage to the Blessed One, Accomplished and Fully Enlightened One)</p>
 <p>This homage acknowledges the Buddha’s profound realization and the boundless wisdom he embodies. Let us explore the wisdom within the scriptures that explains why the Buddha is called the Fully Enlightened One.</p>
-<p><h2>The Buddha as the Perfectly Enlightened One</h2></p>
+<h2>The Buddha as the Perfectly Enlightened One</h2>
 <p>The Buddha explained to his disciples:</p>
 <p><i>“Bhikkhus, the Tathāgata, the Arahant, the Perfectly Enlightened One, liberated by non-clinging through revulsion towards form, feeling, perception, volitional formations, and consciousness—through their fading away and cessation—is called the Perfectly Enlightened One.” </i><span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
 <p></p>
 <p>The Buddha's liberation came through the profound understanding of the impermanence of all things and his ultimate freedom from attachment and suffering. This profound realization is what defines his enlightenment.</p>
-<p><h3>In the Mahāpadāna Sutta (DN: 14), the Buddha declares:</h3></p>
+<h3>In the Mahāpadāna Sutta (DN: 14), the Buddha declares:</h3>
 <p><i>“And, monks, in this present fortunate aeon, I too have now arisen in the world as a fully enlightened Buddha… I am now the Arahant and fully enlightened Buddha, and am of the Gotama clan.”</i></p>
 <p>Through his own efforts, the Buddha realized the supreme truth, breaking free from the cycle of birth and death to attain the highest state of enlightenment.</p>
-<p><h2>King Pasenadi's Recognition of the Buddha's Enlightenment</h2></p>
+<h2>King Pasenadi's Recognition of the Buddha's Enlightenment</h2>
 <p>Once, King Pasenadi of Kosala <span id="Endnote23">[<a href="#endnote23">23</a>]</span> approached the Buddha and asked:</p>
 <p><i>“Does Master Gotama too claim, ‘I have awakened to the unsurpassed perfect enlightenment’? </i><span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
 <p></p>
 <p>The Buddha replied:</p>
 <p><i>“I, great king, have awakened to the unsurpassed perfect enlightenment.”</i></p>
 <p>This simple yet profound affirmation from the Buddha reveals the depths of his realization—one that transcends all worldly limitations and brings liberation to all beings.</p>
-<p><h2>Why the Buddha is Called Sammāsambuddha</h2></p>
+<h2>Why the Buddha is Called Sammāsambuddha</h2>
 <p>In another sutta, the Buddha explains why he is called Sammā Sambuddha:</p>
 <p><i>“Bhikkhus, there are these Four Noble Truths. What four? The noble truth of suffering… the noble truth of the way leading to the cessation of suffering. It is because he has fully awakened to these Four Noble Truths as they really are that the Tathāgata is called the Arahant, the Perfectly Enlightened One.” </i><span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p>The Buddha’s perfect awakening comes from his deep understanding of the Four Noble Truths—the essence of his teaching, the path to liberation, and the cessation of all suffering.</p>
-<p><h2>Noble Qualities of the Fully Enlightened Being</h2></p>
+<h2>Noble Qualities of the Fully Enlightened Being</h2>
 <p>The scriptures also describe the Buddha’s supreme qualities:</p>
 <p><i>“He has severed craving and become the Enlightened One,</p>
 <p>Cleared of all fumes, completely untainted;</p>
@@ -393,7 +393,7 @@
 <p><i>“I am the victor, the knower of all. Having abandoned everything, I am not soiled by anything. Through my own insight, I am freed by the ending of craving—so, who should I call my teacher? I have no teacher;</p>
 <p>No one like me exists in the world, with its gods; I have no equal.”</i></p>
 <p><b>Note:</b><i> </i>The title “Jina” is also known as “Anantajina” — Universal Victor. See: MN:26. This verse is also mentioned in the Dhammapada (Dhp:353).</p>
-<p><h2>Cunda the Smith’s Son Asks About the Conqueror</h2></p>
+<h2>Cunda the Smith’s Son Asks About the Conqueror</h2>
 <p>On one occasion, Cunda, <span id="Endnote30">[<a href="#endnote30">30</a>]</span>  the smith's son, asked the Buddha:</p>
 <p><i>“Whom do the Buddhas call a conqueror of the path?”</i></p>
 <p>The Buddha replied:</p>
@@ -404,13 +404,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Devas Addressing the Buddha as Victor</h2></p>
+<h2>Devas Addressing the Buddha as Victor</h2>
 <p>Āṭānāṭiya Sutta (DN:32), we see Devas paying homage to the Buddha as Victor (Conqueror)</p>
 <p><i>“Often asked, do we revere Gotama the Conqueror? —</p>
 <p>We reply: ‘We do revere Gotama, great Conqueror,</p>
 <p>In wisdom trained, in conduct too,</p>
 <p>Buddha Gotama, we hail!’”</i></p>
-<p><h2>Disciples Addressing the Buddha as Victor</h2></p>
+<h2>Disciples Addressing the Buddha as Victor</h2>
 <p>In the Therīgāthā, an elder nun recounts her struggle over twenty-five years and how, remembering the Buddha’s teachings, she found peace:</p>
 <p><b><i>“</i></b><i>In the twenty-five years since I went forth,</p>
 <p>I don’t know that I had ever found serenity in my mind.</p>
@@ -421,7 +421,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>Other Titles Attributed to the Buddha</h1></p>
+<h1>Other Titles Attributed to the Buddha</h1>
 <p>The scriptures also mention three other titles for the Buddha: ‘Brahmin’, ‘<b>One bearing his last body’</b>, and ‘<b>An unsurpassed physician and surgeon’</b>. The Buddha spoke to the Sangha:</p>
 <p><i>“Bhikkhus, I am a Brahmin, ever accessible to entreaties, open-handed,</p>
 <p>One bearing his last body, an unsurpassed physician and surgeon.</p>
@@ -429,7 +429,7 @@
 <p>Born of Dhamma, fashioned by Dhamma, heirs of Dhamma,</p>
 <p>Not heirs of material things.”</i> <span id="Endnote33">[<a href="#endnote33">33</a>]</span></p>
 <p></p>
-<p><h1>Brahmin </h1></p>
+<h1>Brahmin </h1>
 <p>In the scriptures the Buddha often used the word ‘<b>brahmin’</b> to referred to himself and his noble disciples who were arahants <span id="Endnote34">[<a href="#endnote34">34</a>]</span>.</p>
 <p><i>“When things become clear to the keen, meditating brahmin, he remains, scattering Māra’s army, as the sun lights up the sky”</i><b> </b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
 <p></p>
@@ -469,7 +469,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>Antimadehadhari- Bearer of the Final Body</h1></p>
+<h1>Antimadehadhari- Bearer of the Final Body</h1>
 <p>Buddha and arahants are noble beings that carry the last body and called Bearer of the Final Body—because they have destroyed all taints, therefore, no rebirth for them <span id="Endnote40">[<a href="#endnote40">40</a>]</span>. Following extracts from scriptures shows that the Buddha and Arahant bear the final body.</p>
 <p><i>“…a bhikkhu is an arahant, consummate, with taints destroyed, one who bears his final body…” </i> <span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
 <p></p>
@@ -487,7 +487,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>In another sutta, the Buddha affirms that he bears his final body:</h3></p>
+<h3>In another sutta, the Buddha affirms that he bears his final body:</h3>
 <p><i>“He who is concentrated, who has crossed the flood,</p>
 <p>and has known the Dhamma with the supreme view,</p>
 <p>whose influxes are destroyed, who bears his final body:</p>
@@ -495,7 +495,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Buddha, having gone beyond all attachments, carries his final body:</h3></p>
+<h3>The Buddha, having gone beyond all attachments, carries his final body:</h3>
 <p><i>“One virtuous, wise, of developed mind,</p>
 <p>Concentrated, mindful, enjoying jhāna,</p>
 <p>For whom all sorrows are gone, abandoned,</p>
@@ -511,7 +511,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>An Unsurpassed Physician and Surgeon</h1></p>
+<h1>An Unsurpassed Physician and Surgeon</h1>
 <p>The Buddha is also honoured with the title <i>Anuttaro Bhisakko Sallakatto</i>, the Unsurpassed Physician and Surgeon, for he cures the suffering of beings trapped in samsara with the noble medicine of the Four Noble Truths. Indeed, he is the Supreme Physician. The following sutta shows the Buddha identifying himself as such:</p>
 <p><i>“I am the one whose presence in the world </i></p>
 <p><i>Is very rarely come upon, </i></p>
@@ -520,11 +520,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha as the Supreme Physician</h2></p>
+<h2>The Buddha as the Supreme Physician</h2>
 <p>The Buddha, like a compassionate physician, offers the noble purgative known as the Eightfold Path to beings suffering from the illness of samsara, guiding them to freedom from suffering. As the scriptures reveal:</p>
 <p><i>“…bhikkhus, this is the noble purgative that always succeeds and never fails. In dependence on this path, beings subject to birth are freed from birth; beings subject to old age are freed from old age; beings subject to death are freed from death; beings subject to sorrow, lamentation, pain, dejection, and anguish are freed from sorrow, lamentation, pain, dejection, and anguish.” </i><span id="Endnote48">[<a href="#endnote48">48</a>]</span></p>
 <p></p>
-<p><h2>The Buddha’s Healing Power</h2></p>
+<h2>The Buddha’s Healing Power</h2>
 <p>The following extracts from the scriptures demonstrate how the Buddha, as a spiritual physician, cures beings from the malady of worldly life:</p>
 <p>Telakāni Bhikkhu expresses how he was relieved from the poison of samsara through the Buddha’s guidance: <span id="Endnote49">[<a href="#endnote49">49</a>]</span></p>
 <p><i>“Dragging it along,</p>
@@ -552,12 +552,12 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha’s Care for the Physically Unwell</h2></p>
+<h2>The Buddha’s Care for the Physically Unwell</h2>
 <p>The Buddha’s compassion extended beyond the spiritual realm; he also attended to the physical well-being of those who were unwell. In the <i>Vinaya Pitaka</i>, particularly in the <i>Bhesajjakkhandhaka</i>, there is abundant evidence of the Buddha’s care for the physical comfort of beings in need. <span id="Endnote53">[<a href="#endnote53">53</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page6/image5.jpeg" /></p>
+<img src="page6/image5.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -587,7 +587,7 @@
 <p></p>
 <p><b>The Blessed One attending to a sick monk</b><span id="Endnote54">[<a href="#endnote54">54</a>]</span></p>
 <p></p>
-<p><h2>The Buddha’s Compassionate Service: Attending to a Sick Monk</h2></p>
+<h2>The Buddha’s Compassionate Service: Attending to a Sick Monk</h2>
 <p>An incident from the <i>Vinaya Pitaka</i> illustrates the Buddha’s selfless service and compassionate care. The Buddha set an example for others by attending to a sick monk who had been abandoned by the rest of the community. <i>”</i><span id="Endnote55">[<a href="#endnote55">55</a>]</span></p>
 <p></p>
 <p></p>
@@ -613,12 +613,12 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>He further taught:</h3></p>
+<h3>He further taught:</h3>
 <p>“The greatest of all gains is health; Nibbāna is the greatest bliss. The Eightfold Path is the best of paths, for it leads safely to the Deathless.”<span id="Endnote59">[<a href="#endnote59">59</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Guidelines for Caregivers </h3></p>
+<h3>Guidelines for Caregivers </h3>
 <p>The Buddha not only cared for sick monks but also gave detailed guidance on the qualities required for caregivers, emphasizing selflessness, mindfulness, and compassion. He outlined the following qualities for those who would attend to the sick:</p>
 <p></p>
 <p>1)	Capable of preparing medicine</p>
@@ -629,16 +629,16 @@
 <p></p>
 <p>4)	Not disgusted by the need to clean up feces, urine, spit, or vomit</p>
 <p>Able to instruct, inspire, and gladden the sick with Dhamma teachings from time to time <span id="Endnote60">[<a href="#endnote60">60</a>]</span></p>
-<p><h1>Cakkhumā- The One with of Vision</h1></p>
+<h1>Cakkhumā- The One with of Vision</h1>
 <p>‘Cakkhumā’ is a title ascribed to the Buddha, meaning the "One with Vision" or "Clear-eyed One." The Buddha is called Cakkhumā because he possesses spiritual insight into the path of liberation, seeing deeply into the nature of suffering, the path to freedom, and the realization of Nibbāna.</p>
 <p>In the scriptures, the Buddha is described as Cakkhumā in the following ways:</p>
-<p><h3>In here the Buddha reflects on his own understanding:</h3></p>
+<h3>In here the Buddha reflects on his own understanding:</h3>
 <p><i>“Virtuous behaviour, samādhi wisdom, and unsurpassed liberation: these things the illustrious Gotama understood by himself. Having directly known these things; the Buddha taught the Dhamma to the bhikkhus. The Teacher, the end-maker of suffering, the One with Vision, has attained nibbāna’.</i></p>
 <p>(<i>Iti buddho abhiññāya, dhammamakkhāsi bhikkhunaṃ; Dukkhassantakaro satthā, </i><b><i>cakkhumā</i></b><i> parinibbuto’’ti. paṭhamaṃ)</i><span id="Endnote61">[<a href="#endnote61">61</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>In the Dhammapada:</h3></p>
+<h3>In the Dhammapada:</h3>
 <p>“ Of paths, the eightfold is the best of truths,</p>
 <p>the four statements; dispassion is the best of things,</p>
 <p>and the Clear-eyed One is the best of humans.”</p>
@@ -653,9 +653,9 @@
 <p>And well-proclaimed. I, serving you,</p>
 <p>Heard the Noble Ones’ good words,</p>
 <p>And so, I’m born, a Sakka-son”</p>
-<p><h1>Vesarājja-The Self-Confident One</h1></p>
+<h1>Vesarājja-The Self-Confident One</h1>
 <p>Vesarājja’ means "One with supreme self-confidence." This epithet describes the Buddha because he possessed four types of self-confidence. The following quote from the scriptures elaborates on these four qualities:</p>
-<p><h2>The Buddha’s Four Kinds of Self-Confidence</h2></p>
+<h2>The Buddha’s Four Kinds of Self-Confidence</h2>
 <p>"Bhikkhus, there are these four kinds of self-confidence that the Tathāgata has, possessing which he claims the place of the chief bull, roars his lion’s roar in the assemblies, and sets in motion the Brahma wheel. <span id="Endnote63">[<a href="#endnote63">63</a>]</span>  What four?</p>
 <p></p>
 <p>1)	"I do not see any ground on the basis of which an ascetic or brahmin, or deva, or Māra, or Brahmā, or anyone in the world might reasonably reprove me, saying: ‘Though you claim to be perfectly enlightened, you are not fully enlightened about these things.’ Since I do not see any such ground, I dwell securely, fearless, and self-confident.<i> </i><span id="Endnote64">[<a href="#endnote64">64</a>]</span></p>
@@ -665,7 +665,7 @@
 <p>3)	"I do not see any ground on the basis of which an ascetic or brahmin, or deva, or Māra, or Brahmā, or anyone in the world might reasonably reprove me, saying: ‘These things that you have said to be obstructive are not able to obstruct one who engages in them.’ Since I do not see any such ground, I dwell securely, fearless, and self-confident.</p>
 <p></p>
 <p>4)	"I do not see any ground on the basis of which an ascetic or brahmin, or deva, or Māra, or Brahma, or anyone in the world might reasonably reprove me, saying: ‘The Dhamma does not lead one who practices it to the complete destruction of suffering, the goal for the sake of which you teach it.’ Since I do not see any such ground, I dwell securely, fearless, and self-confident.”</p>
-<p><h2>The Buddha Does Not Need to Hide Anything</h2></p>
+<h2>The Buddha Does Not Need to Hide Anything</h2>
 <p>The Buddha’s openness and irreproachability further solidified his self-confidence. He openly stated that there are four things about which he has no need to hide, and three things for which he is beyond reproach: <span id="Endnote65">[<a href="#endnote65">65</a>]</span></p>
 <p></p>
 <p>1)	Bodily behaviour: His bodily behaviour is purified.</p>
@@ -676,19 +676,19 @@
 <p></p>
 <p>4)	Livelihood: His livelihood is purified.</p>
 <p><b>Note</b>: The four things mentioned here align with the self-confidence the Buddha holds, as detailed in the <i>Mahāsihanāda Sutta</i> (MN:12).</p>
-<p><h1>Ãdicca Bandhu - Kinsman of the Sun </h1></p>
+<h1>Ãdicca Bandhu - Kinsman of the Sun </h1>
 <p><b>‘</b>Ādicca Bandhu’ is a frequently used epithet for the Buddha, meaning “Kinsman of the Sun” (<i>Ādicca</i> = Sun, <i>bandhu</i> = relative). According to legend, the Buddha’s clan, the Sakyan clan, was referred to as <i>Ādicca bandhu</i>, which is why the Buddha was often addressed by this title. .<span id="Endnote66">[<a href="#endnote66">66</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha as the Kinsman of the Sun</h2></p>
+<h2>The Buddha as the Kinsman of the Sun</h2>
 <p>In the following sutta, the Buddha refers to himself as the ‘Kinsman of the Sun’:</p>
 <p>“<i>Restraint and abandonment, development and protection: these four strivings were taught by the Kinsman of the Sun. By these means, an ardent bhikkhu here can attain the destruction of suffering.”</i> <span id="Endnote67">[<a href="#endnote67">67</a>]</span></p>
 <p></p>
 <p>In the Suttanipāta<b><i> </i></b><b>a seeker of Dhamma addresses the Buddha as the “Kinsman of the Sun”:</b></p>
 <p>“Great seer, I ask you, the Kinsman of the Sun, about seclusion and the state of peace.” <span id="Endnote68">[<a href="#endnote68">68</a>]</span></p>
 <p></p>
-<p><h2>Disciples’ Reverence for the Buddha</h2></p>
+<h2>Disciples’ Reverence for the Buddha</h2>
 <p>The following verses from the <i>Theragāthā</i> show that the disciples of the Blessed One also referred to him as the “Kinsman of the Sun”</p>
 <p><i>“Having heard the fine words of the Buddha, </i></p>
 <p><i>the Kinsman of the Sun, </i></p>
@@ -702,15 +702,15 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Devas’ Homage to the Buddha</h2></p>
+<h2>Devas’ Homage to the Buddha</h2>
 <p>In the <i>Āṭānāṭiya Sutta</i> (DN:32), the Devas express their reverence to the Buddha:</p>
 <p><b>“</b><i>They, having seen the Awakened One,</p>
 <p>the Buddha, Kinsman of the Sun,</p>
 <p>From afar, do reverence him,</p>
 <p>who is great and fully mature.”</i></p>
-<p><h1>More Epithets for the Buddha</h1></p>
+<h1>More Epithets for the Buddha</h1>
 <p>Throughout the scriptures and in tradition, we find numerous titles given to the Buddha by devas, his direct disciples, lay followers, and others who have recognized his great wisdom, universal compassion, boundless teaching skills, and supreme qualities.</p>
-<p><h2>Mārisa— Venerable Sir or Lord <span id="Endnote71">[<a href="#endnote71">71</a>]</span></h2></p>
+<h2>Mārisa— Venerable Sir or Lord <span id="Endnote71">[<a href="#endnote71">71</a>]</span></h2>
 <p>According to scriptures the devas often addressed the Buddha as mārisa—venerable sir or Lord <span id="Endnote72">[<a href="#endnote72">72</a>]</span>.  The following quotes from the scriptures illustrate how devas would address the Blessed One:</p>
 <p>“<i>kathaṃ nu tvaṃ, </i><b><i>mārisa</i></b><i>, oghamatarī’ti</i>?”  <span id="Endnote73">[<a href="#endnote73">73</a>]</span></p>
 <p></p>
@@ -720,7 +720,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Victor in Battle -Vijitasaṅgāmaṃ</h2></p>
+<h2>The Victor in Battle -Vijitasaṅgāmaṃ</h2>
 <p>The Blessed One is referred as ‘the Victor in Battle’ because he has triumphed over Māra’s tenfold army. <span id="Endnote75">[<a href="#endnote75">75</a>]</span></p>
 <p></p>
 <p></p>
@@ -730,7 +730,7 @@
 <p><i>The unsurpassed caravan leader— </i></p>
 <p><i>The disciples bearing the triple knowledge, </i></p>
 <p><i>Who have left Death far behind”</i></p>
-<p><h2>Sakka and Brahmā Sahampati’s Reverence</h2></p>
+<h2>Sakka and Brahmā Sahampati’s Reverence</h2>
 <p>Both <i>Sakka</i>, the lord of the Devas, and <i>Brahmā Sahampati</i> also referred to the Buddha as the “Victor in Battle”.<i> </i><span id="Endnote77">[<a href="#endnote77">77</a>]</span></p>
 <p></p>
 <p>“<i>Rise up, O hero, victor in battle!” </i><span id="Endnote78">[<a href="#endnote78">78</a>]</span></p>
@@ -740,7 +740,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha’s Triumph Over Māra</h2></p>
+<h2>The Buddha’s Triumph Over Māra</h2>
 <p>The following extract highlights how the Buddha became the Victor in Battle by defeating Māra. On one occasion, Māra approached the Blessed One, who was teaching in a large assembly, and said: <span id="Endnote80">[<a href="#endnote80">80</a>]</span></p>
 <p></p>
 <p><i>“Why now do you roar like a lion,</i></p>
@@ -755,7 +755,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Caravan Leader- <i>satthāvāha</i></h2></p>
+<h2>The Caravan Leader- <i>satthāvāha</i></h2>
 <p>The Blessed One is called <i>‘Caravan Leader’</i> because he leads beings across the desert of samsāra on the chariot of the Noble Eightfold Path. <span id="Endnote82">[<a href="#endnote82">82</a>]</span></p>
 <p></p>
 <p>In the following sutta, <i>Brahmā Sahampati</i> addresses the Buddha as the <i>Caravan Leader</i>:</p>
@@ -765,7 +765,7 @@
 <p><i>O Blessed One: </i></p>
 <p><i>There will be those who will understand</i>.”<span id="Endnote83">[<a href="#endnote83">83</a>]</span></p>
 <p></p>
-<p><img src="page6/image6.png" /></p>
+<img src="page6/image6.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -797,7 +797,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Aṅgīrasa- The Resplendent One</h2></p>
+<h2>Aṅgīrasa- The Resplendent One</h2>
 <p><i>Aṅgīrasa</i> (Pali) means resplendent or glorious. This epithet refers to the Buddha, as he is pure, without defilements, and shines with radiant perfection—flawless in every way.<span id="Endnote85">[<a href="#endnote85">85</a>]</span></p>
 <p></p>
 <p>In Āṭānāṭiyasutta Sutta (DN:32), the King Vessavana, a Deva and other Devas pays homage to the Buddha calling him Aṅgīrasa:<span id="Endnote86">[<a href="#endnote86">86</a>]</span></p>
@@ -813,7 +813,7 @@
 <p><i>In kindness you have looked on us,</i></p>
 <p><i>Who, though not human, honour you!</i></p>
 <p></p>
-<p><img src="page6/image7.jpeg" /></p>
+<img src="page6/image7.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -851,7 +851,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Venerable Vaṅgīsa’s Praise of the Buddha:</h3></p>
+<h3>Venerable Vaṅgīsa’s Praise of the Buddha:</h3>
 <p>Venerable Vaṅgīsa, a devoted disciple of the Blessed One, expressed his admiration in these luminous verses:</p>
 <p><i>As the moon shines in a cloudless sky,</p>
 <p>As the sun radiates without blemish,</p>
@@ -867,7 +867,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Candanaṅgalika’s Prasie</h3></p>
+<h3>Candanaṅgalika’s Prasie</h3>
 <p>In a dialogue with five kings, led by King Pasenadi of Kosala, the Buddha's radiant presence surpassed the kings in majesty. Witnessing this, <i>Candanaṅgalika</i>, a lay follower of the Blessed One, uttered this verse: <span id="Endnote90">[<a href="#endnote90">90</a>]</span></p>
 <p></p>
 <p></p>
@@ -883,10 +883,10 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>Other Titles Bestowed Upon the Buddha</h1></p>
-<p><h2>Great Ascetic (Māha Śramaṇa)</h2></p>
+<h1>Other Titles Bestowed Upon the Buddha</h1>
+<h2>Great Ascetic (Māha Śramaṇa)</h2>
 <p>The Buddha, having renounced his princely life to seek the ultimate truth, is often referred to as the <i>Great Ascetic</i> in the scriptures. His journey to enlightenment is an inspiration for all seekers of wisdom.</p>
-<p><h3>Venerable Assaji spoke of the Buddha</h3></p>
+<h3>Venerable Assaji spoke of the Buddha</h3>
 <p><i>“There’s a great ascetic, a Sakyan who has gone forth from the Sakyan clan. I’ve gone forth in his name, he’s my teacher, and I follow his teaching.”</i> <span id="Endnote93">[<a href="#endnote93">93</a>]</span></p>
 <p></p>
 <p></p>
@@ -901,9 +901,9 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>Titles Given to the Buddha by Devas</h1></p>
+<h1>Titles Given to the Buddha by Devas</h1>
 <p>One occasion revealed the Buddha's extraordinary endurance, when a stone splinter pierced his foot, causing intense bodily pain. Yet, he remained steadfast—mindful and composed, undisturbed by the discomfort. Witnessing this, a group of devas praised the Blessed One, offering these powerful epithets:</p>
-<p><h2>Several Tittles Bequeathed to the Budha by Devas</h2></p>
+<h2>Several Tittles Bequeathed to the Budha by Devas</h2>
 <p>On one occasion the Buddha’s foot had been cut by a stone splinter. Severe pains</p>
 <p>assailed the Blessed One—bodily feelings that were painful, racking, sharp, piercing, harrowing, disagreeable. But the Blessed One endured them, mindful and clearly comprehending, without becoming distressed. <span id="Endnote96">[<a href="#endnote96">96</a>]</span> Then a group of devas visited the Buddha, having seen him enduring bodily pain with mindfulness and equanimity the group devas praised the Blessed One thus: <span id="Endnote97">[<a href="#endnote97">97</a>]</span><b> </b></p>
 <p></p>
@@ -928,7 +928,7 @@
 <p>Suvimuttaṃ (Well Liberated):<b></p>
 <p></b><i>“The ascetic Gotama is well liberated: his samādhi is perfected, his mind unfettered—not bent forward or back, not blocked by forceful suppression.”</i></p>
 <p><b><i>Note:</i></b> In the <i>Saṁyutta Nikāya</i> (SN:7), a deva named <i>Pañcālacaṇḍa</i> also praises the Buddha as the “chief bull” for his unshakable equanimity</p>
-<p><h2>Numerous exalted titles</h2></p>
+<h2>Numerous exalted titles</h2>
 <p>In the <i>Upāli Sutta</i> (MN:56), the householder <i>Upāli</i> offers a profound homage to the Blessed One, addressing him with numerous exalted titles. Here is a glimpse of his praise: <span id="Endnote104">[<a href="#endnote104">104</a>]</span></p>
 <p></p>
 <p><i>“He is the Wise One who has cast off delusion,</p>

@@ -1,16 +1,16 @@
 <div class="container">
 <article class="pagewidth">
-<p><h1>Section 5: The Greatness of the Buddha</h1></p>
+<h1>Section 5: The Greatness of the Buddha</h1>
 <p>The Blessed One, the Fully Awakened Buddha, was a being of boundless wisdom, immeasurable compassion, and unfathomable spiritual power. His supreme enlightenment illuminated the world, dispelling the darkness of ignorance and offering the path to liberation for countless beings.</p>
 <p>The greatness of the Buddha is beyond thought, beyond words, beyond limits. He is the supreme refuge, the incomparable guide, and the most exalted being to ever walk the earth.</p>
 <p>In this section, we shall recount some of the most remarkable events in his life—profound moments that reveal his extraordinary wisdom, boundless compassion, and the unparalleled greatness of his awakening.</p>
-<p><h1>The Buddha’s Supreme and Noble Qualities</h1></p>
+<h1>The Buddha’s Supreme and Noble Qualities</h1>
 <p>In the earlier sections, we saw how the Buddha, with his unmatched wisdom and unwavering determination, overcame Māra’s tenfold army and attained the supreme enlightenment of a Sammāsambuddha. Now, we will highlight the extraordinary qualities he perfected upon reaching this ultimate state of awakening.</p>
 <p>The Buddha possessed unparalleled virtues that no other being in the three worlds could equal. As a Sammāsambuddha—one who rediscovers and proclaims the timeless Path to Enlightenment—he attained a vast range of exceptional powers and supreme knowledges. While some of these were also realized by his noble disciples, there were certain higher wisdoms and insights that only a Fully Enlightened One could possess. <span id="Endnote2">[<a href="#endnote2">2</a>]</span>  His supreme qualities set him apart as the greatest of all beings, a beacon of wisdom, compassion, and boundless liberation.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page5/image1.jpeg" /></p>
+<img src="page5/image1.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -46,13 +46,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Inconceivable Greatness of the Buddha</h2></p>
+<h2>The Inconceivable Greatness of the Buddha</h2>
 <p>The supremacy of the Blessed One is beyond measure—so profound and vast that only another Buddha could truly comprehend the depth of his wisdom, knowledge, and spiritual attainments. The Buddha’s enlightenment is not something that can be grasped by ordinary minds; it transcends all human and celestial understanding. As the following sutta states:</p>
 <p><i>“The domain of the Buddhas is an inconceivable matter that one should not try to conceive; one who tries to conceive it would reap either madness or frustration.” </i><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>No One in the Three Worlds Can Rival the Buddha</h2></p>
+<h2>No One in the Three Worlds Can Rival the Buddha</h2>
 <p>Just as a lion—the king of beasts—stands unsurpassed among all animals, so too does the Blessed One reign supreme in the world, beyond comparison with devas, humans, or any other beings. As the Fully Awakened One, he set in motion the great Wheel of the Dhamma, also known as the Brahma Wheel, which no one else could turn. His teachings, pure and luminous, were offered for the welfare and liberation of all sentient beings.</p>
 <p>The following verses illustrate the Buddha’s unparalleled greatness:</p>
 <p>"He is the Blessed One, the Buddha,</p>
@@ -76,12 +76,12 @@
 <p>Unstintingly offers teaching.</p>
 <p>Sentient beings revere him, first among gods and humans,</p>
 <p>Who has gone beyond rebirth." <span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
-<p><h1>The Buddha’s Profound and Extraordinary Knowledge</h1></p>
+<h1>The Buddha’s Profound and Extraordinary Knowledge</h1>
 <p>Upon attaining perfect enlightenment, the Buddha realized special abilities unique to a Sammāsambuddha. These supreme insights, known as the Ten Tathāgata Powers, granted him unparalleled understanding of reality. With these extraordinary powers, the Blessed One rightfully assumed the position of the supreme teacher, fearlessly proclaiming the Dhamma and turning the Wheel of Brahma—a turning that no other being could accomplish.</p>
 <p>As the Buddha declared: <span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
 <p></p>
 <p><i>“Sāriputta, the Tathāgata possesses these ten Tathāgata powers. With them, he claims the place of the herd leader, roars his lion’s roar in the assemblies, and sets rolling the Wheel of Brahma…”</i></p>
-<p><h2>The Ten Powers of the Tathāgata</h2></p>
+<h2>The Ten Powers of the Tathāgata</h2>
 <p>1️. <b>Perfect Discernment of Reality</b> – The Buddha understands, as it truly is, what is possible and what is impossible. (He possesses the power to distinguish absolute truth from falsehood.) <span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
 <p></p>
 <p>2️ <b>Knowledge of Kamma and Its Results</b> – The Buddha comprehends the workings of kamma—past, present, and future—along with the causes and consequences of all actions. <span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
@@ -97,7 +97,7 @@
 <p></p>
 <p>10 <b>Unshakable Liberation</b> – By his direct realization, the Buddha abides in perfect liberation of mind and wisdom, completely free from all taints and defilements, having utterly destroyed them.</p>
 <p>These supreme knowledges of the <b>Tathāgata</b> are beyond the reach of any other being in the three worlds. With these unparalleled insights, the Buddha illuminated the path to liberation, guiding countless beings from suffering to the bliss of Nibbāna.</p>
-<p><h3>The Six Unshared Supernormal Knowledges of the Buddha</h3></p>
+<h3>The Six Unshared Supernormal Knowledges of the Buddha</h3>
 <p>Among the vast range of supreme knowledges possessed by the Buddha, there are six extraordinary insights that no noble disciple can attain. These unique abilities, known as asādhārana ñāna (unshared knowledge), belong exclusively to the Sammāsambuddha and further distinguish his incomparable wisdom. They are:</p>
 <p>1️ Knowledge of the Maturity Levels of the Five Spiritual Faculties (<i>Indriya-Paropariyatta Ñāna</i>) – The Buddha perceives, with perfect clarity, the varying degrees of development in beings' faculties of faith, energy, mindfulness, concentration, and wisdom. <span id="Endnote15">[<a href="#endnote15">15</a>]</span></p>
 <p></p>
@@ -113,10 +113,10 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>A Unique and Supreme Wisdom</h3></p>
+<h3>A Unique and Supreme Wisdom</h3>
 <p>The <i>Patisambhidāmagga</i>, a revered text in the Theravāda tradition, describes seventy-three kinds of knowledge possessed by the Buddha. Of these, sixty-seven are shared with his noble disciples, while the six asādhārana ñānas listed above remain exclusive to the Tathāgata.</p>
 <p>These supreme knowledges further illuminate the Buddha’s unsurpassed wisdom, limitless compassion, and absolute mastery over all phenomena, qualities that set him apart as the greatest being to ever arise in the three worlds.</p>
-<p><h1>The Nine Supreme Noble Qualities of the Buddha</h1></p>
+<h1>The Nine Supreme Noble Qualities of the Buddha</h1>
 <p>The virtues of the Blessed One are beyond measure—his wisdom, purity, and compassion shine like the sun, illuminating the path for all beings lost in the darkness of suffering. The scriptures speak of countless noble qualities of the Buddha, but among them, nine stand as the most revered, encapsulating his incomparable greatness. These qualities are not merely words of praise; they are a source of profound inspiration. The Buddha himself declared that reflecting upon his noble qualities brings deep peace and harmony to the mind.</p>
 <p>The Buddha said this to Mahānāma sakyan:<span id="Endnote21">[<a href="#endnote21">21</a>]</span></p>
 <p></p>
@@ -168,7 +168,7 @@
 <p></p>
 <p></p>
 <p>Thus, the Buddha stands beyond all comparison—the greatest being to ever walk the earth, the peerless teacher of gods and men, the embodiment of boundless wisdom and infinite compassion. Recollecting his supreme qualities is not just an act of devotion; it is a gateway to inner peace, unwavering faith, and the path to liberation.</p>
-<p><h1>The Buddha: The Great Man of Supreme Wisdom</h1></p>
+<h1>The Buddha: The Great Man of Supreme Wisdom</h1>
 <p></p>
 <p>In a profound discourse, the brahmin Vassakāra, the chief minister of Magadha, engaged in a dialogue with the Blessed One, seeking to understand who truly embodies greatness and supreme wisdom. By the end of their discussion, Vassakāra himself recognized that no one surpassed the Buddha in wisdom and virtue, declaring him the Great Man of Great Wisdom.</p>
 <p></p>
@@ -182,13 +182,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>The Buddha: Honored and Revered by All Beings</h1></p>
+<h1>The Buddha: Honored and Revered by All Beings</h1>
 <p></p>
 <p>The Blessed One was revered by all—humans, devas, and brahmins alike—yet he himself had no need to bow to anyone. The suttas reveal why the Buddha was the most honored being in all the worlds, standing supreme in wisdom, virtue, and liberation.</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha’s Supreme Status</h2></p>
+<h2>The Buddha’s Supreme Status</h2>
 <p></p>
 <p>In the <i>Verañjā Sutta</i> (AN 8:11), a brahmin from Verañjā approached the Buddha and questioned why he did not pay homage to elderly brahmins, stand up for them, or offer them a seat, saying:</p>
 <p></p>
@@ -206,7 +206,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha Honored the Dhamma</h2></p>
+<h2>The Buddha Honored the Dhamma</h2>
 <p></p>
 <p>Even though no being in existence was worthy of receiving his homage, the Buddha himself sought something truly worthy of reverence. Soon after his enlightenment, as he reflected on whom he could honor and respect, he realized: <span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
 <p></p>
@@ -220,7 +220,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page5/image2.jpeg" /></p>
+<img src="page5/image2.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -254,7 +254,7 @@
 <p></p>
 <p><b>Devas paying homage to the Buddha</b><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
 <p></p>
-<p><h2>Celestial Beings Paying Homage to the Buddha</h2></p>
+<h2>Celestial Beings Paying Homage to the Buddha</h2>
 <p></p>
 <p>The Buddha’s supreme wisdom and boundless compassion inspired reverence not only among humans but also among the most powerful celestial beings in the universe.</p>
 <p></p>
@@ -266,7 +266,7 @@
 <p></p>
 <p>Even the most exalted beings of the cosmos bowed before the Buddha, for they knew that no power, no divine radiance, no celestial authority could surpass the unshakable wisdom, perfect liberation, and boundless compassion of the Fully Enlightened One.</p>
 <p></p>
-<p><h1>The Buddha: The Most Senior and Supreme Being in the World</h1></p>
+<h1>The Buddha: The Most Senior and Supreme Being in the World</h1>
 <p></p>
 <p>The scriptures describe the Buddha as the most senior, the foremost, and the eldest being in the world, not by age, but by wisdom, liberation, and his complete transcendence of birth and death.</p>
 <p></p>
@@ -276,7 +276,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Buddha: The True Elder of the World</h2></p>
+<h2>The Buddha: The True Elder of the World</h2>
 <p></p>
 <p>The Buddha further explained the true meaning of seniority—not merely by years, but by the complete abandonment of birth and death, the perfection of the spiritual path, and the destruction of all taints: <i>”</i><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
 <p></p>
@@ -293,7 +293,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>The Buddha is Skilful in All Three Deeds </h1></p>
+<h1>The Buddha is Skilful in All Three Deeds </h1>
 <p></p>
 <p>The Buddha has mastery of deeds done by body, speech and mind. On one occasion remembering his past life as a king’s chariot-maker the Buddha said:</p>
 <p></p>
@@ -303,7 +303,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>The Buddha is the Most Excellent Speaker </h1></p>
+<h1>The Buddha is the Most Excellent Speaker </h1>
 <p>The Buddha is the best of speakers because he speaks the Truth—the Dhamma his excellent words has helped many hundreds and thousands of beings from bondage.</p>
 <p><i>“Knowledge is the best of things that rise up; </i></p>
 <p><i>Ignorance excels among things that fall down; </i></p>
@@ -312,7 +312,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>The Blessed One was the Arouser of the Unarisen Path</h1></p>
+<h1>The Blessed One was the Arouser of the Unarisen Path</h1>
 <p>On one occasion the brahmin Gopaka Moggallāna, approached and asked Venerable Ānanda Thera:</p>
 <p>“<i>Master Ānanda, is there any single bhikkhu who possesses in each and every way all those qualities that were possessed by Master Gotama, accomplished and fully enlightened?”</i></p>
 <p></p>
@@ -322,15 +322,15 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>Wonderful and Marvelous Qualities of the Buddha</h1></p>
+<h1>Wonderful and Marvelous Qualities of the Buddha</h1>
 <p>In Section 1 of this series, we have seen some of the wonderful and marvellous qualities of the Boddhisatva—the Buddha to be. In the scriptures there are innumerable places pointing out the wonderful and marvellous qualities of the fully awakened Buddha. We have selected a few suttas to elaborate on this point:</p>
 <p>In the following sutta the Buddha says:</p>
 <p><i>“The Tathāgatas, Ānanda, are wonderful and possess wonderful qualities; the Tathāgatas are amazing and possess amazing qualities”</i><span id="Endnote44">[<a href="#endnote44">44</a>]</span><i>.</i></p>
-<p><h2>The Buddha Possessed Numerous Psychic Abilities</h2></p>
+<h2>The Buddha Possessed Numerous Psychic Abilities</h2>
 <p></p>
 <p>The many psychic powers of the Buddha were called wonderful and marvellous qualities. These abilities varied: being many, he could become one; he appears and disappears; he passes through fences, walls and mountains unhindered as if through air; he sinks into the ground and emerges from it as if it were water; he walks on the water without breaking the surface as if on land; he flies cross-legged through the sky like a bird with wings; he even touches and strokes with his hand the sun and moon, mighty and powerful as they are; and he travels in the body as far as the Brahmā world.<span id="Endnote45">[<a href="#endnote45">45</a>]</span></p>
 <p></p>
-<p><img src="page5/image3.jpeg" /></p>
+<img src="page5/image3.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -358,7 +358,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Ability to Appear in the Brahmā World</h2></p>
+<h2>Ability to Appear in the Brahmā World</h2>
 <p></p>
 <p>At one time Venerable Ānanda approached the Blessed One and asked:</p>
 <p></p>
@@ -368,7 +368,7 @@
 <p></p>
 <p><i>“When, Ānanda, the Tathāgata immerses the body in the mind and the mind in the body, and when he dwells having entered upon a blissful perception and a buoyant perception in regard to the body, on that occasion the body of the Tathāgata rises up without difficulty from the earth into the air. He wields the various kinds of spiritual power: having been one, he becomes many; having been many, he becomes one; … he exercises mastery with the body as far as the Brahmā world”</i><span id="Endnote47">[<a href="#endnote47">47</a>]</span></p>
 <p></p>
-<p><img src="page5/image4.jpeg" /></p>
+<img src="page5/image4.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -398,7 +398,7 @@
 <p></p>
 <p><b>Encounter with a Naga serpen</b>t <span id="Endnote48">[<a href="#endnote48">48</a>]</span></p>
 <p></p>
-<p><h2>Performances of Miracle at the Monastery of Uruvela Kassapa</h2></p>
+<h2>Performances of Miracle at the Monastery of Uruvela Kassapa</h2>
 <p></p>
 <p>In the Vinaya Pitaka it describes <span id="Endnote49">[<a href="#endnote49">49</a>]</span> several performances of miracles by the Blessed One at the hermitage of Uruvelā Kasspa.  It seems such events led to the conversion of Uruvelā Kassapa, a famous Jatila teacher at that time in Magadha and his two brothers, Nadī Kassapa, and Gayā Kassapa, who established faith in the Blessed One and became his disciples <span id="Endnote50">[<a href="#endnote50">50</a>]</span>. We have selected the following incident: an encounter with a Naga serpent—a venomous dragon king who lived in the ‘Fire Hut’ of Uruvelā Kassapa.</p>
 <p></p>
@@ -427,7 +427,7 @@
 <p></p>
 <p></p>
 <p><b>Note: </b>Here we clearly see that the Buddha has shown his psychic power only on special occasions such as the taming of the serial killer Angulimāla and the great miracle he performed to break the pride of the Sakyas in the city of Kapilavastu.</p>
-<p><h2>The Only Miracles the Buddha Approved</h2></p>
+<h2>The Only Miracles the Buddha Approved</h2>
 <p></p>
 <p>In Kevaddha Sutta (DN:11) the Buddha says this to the brahmin Kevaddha who urged the Buddha to perform miracles to gain the faith of people in the city of Nālanda.</p>
 <p></p>
@@ -440,7 +440,7 @@
 <p></p>
 <p></p>
 <p>The Blessed One then warns Kevaddha that the miracle of psychic power and the miracle of telepathy have many dangers, hence he dislikes, rejects and despises them. The only miracle the Blessed One approved of was the miracle of instruction—the ability to transform a person through teaching the Dhamma; when one follows the teaching ardently, one can realise the truth for oneself.<u> </u></p>
-<p><h2>Noble Qualities are the True Wonders</h2></p>
+<h2>Noble Qualities are the True Wonders</h2>
 <p>The following stanza is the way the Buddha called attention to the quality he regarded as a true wonder and marvel <span id="Endnote55">[<a href="#endnote55">55</a>]</span></p>
 <p></p>
 <p></p>
@@ -450,7 +450,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h1>The Signs of the Great Man</h1></p>
+<h1>The Signs of the Great Man</h1>
 <p>It is shown in the scriptures that the Buddha had not only great spiritual qualities but also extraordinary physical features. The Lakkhaṇa Sutta (DN:30) outlines the thirty-two physical attributes of the Blessed One <span id="Endnote57">[<a href="#endnote57">57</a>]</span></p>
 <p></p>
 <p></p>
@@ -460,16 +460,16 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>The Thirty-Two (32) Signs of a Great Man</h2></p>
+<h2>The Thirty-Two (32) Signs of a Great Man</h2>
 <p>According to Lakkhaṇa Sutta (DN:30) the following is the detailed account of the thirty-two signs of a great man:</p>
 <p></p>
 <p>(1) He has feet with level tread <span id="Endnote59">[<a href="#endnote59">59</a>]</span> (2) On the soles of his feet has the impression of a thousand-spoked wheel. (3) He has projecting heels. (4) He has long fingers and toes <span id="Endnote60">[<a href="#endnote60">60</a>]</span> (5) He has soft and tender hands and feet. (6) His hands and feet are net-like <span id="Endnote61">[<a href="#endnote61">61</a>]</span> (7) He has high-raised ankles <span id="Endnote62">[<a href="#endnote62">62</a>]</span> (8) His legs are like an antelope’s. (9) Standing and without bending, he can touch and rub his knees with either hand. (10) His male organs are enclosed in a sheath. (11) His complexion is bright, the colour of gold. (12) His skin is delicate and so smooth that no dust can adhere to his body. (13) His body-hairs are separate, one to each pore. (14) His body-hairs grow upwards, each one bluish-black like collyrium, curling in rings to the right. (15) His body is divinely straight <span id="Endnote63">[<a href="#endnote63">63</a>]</span> (16) He has the seven curved surfaces <span id="Endnote64">[<a href="#endnote64">64</a>]</span> (17) The front part of his body is like a lion’s. (18) There is no hollow between his shoulders. (19) He is proportioned like a banyan-tree: the height of his body is the same as the span of his outstretched arms, and conversely. (20) His bust is evenly rounded. (21) He has a perfect sense of taste (22) He has jaws like a lion’s. (23) He has forty teeth.  (24) His teeth are even. (25) There are no spaces between his teeth. (26) His canine teeth are very bright. (27) His tongue is very long. (28) He has a Brahmā-like voice, like that of the karavīka-bird. (29) His eyes are deep blue. (30) He has eyelashes like a cow’s.  (31) The hair between his eyes is white and soft like cotton-down <span id="Endnote65">[<a href="#endnote65">65</a>]</span>  (32) His head is like a royal turban a bulge/ knot on the top of the head <span id="Endnote66">[<a href="#endnote66">66</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Some More Evidence from the Scriptures Regarding the Thirty-Two Signs</h2></p>
+<h2>Some More Evidence from the Scriptures Regarding the Thirty-Two Signs</h2>
 <p>In Section Four of this series, we saw the Buddha as the Supreme Being —a Fully Enlightened Buddha possessing all the noble qualities. Many suttas in the Sutta Pitaka describe the Buddha's noble qualities as well as his beautiful body. We have selected a few extracts from the scriptures where the physical bodily qualities of the Blessed One were described.</p>
-<p><h3>Discovery of Brahmin Student Uttara</h3></p>
+<h3>Discovery of Brahmin Student Uttara</h3>
 <p>According to the Brahmāyu Sutta (MN:91) the Brahmin Brahmāyu, sent his student Uttara to verify the report spread about the Buddha in his community as being true or not. He instructed his student to check all the noble qualities and also the so-called thirty-two physical marks attributed to the Buddha. Agreeing to fulfill his teachers wish, Uttara</p>
 <p>followed the Blessed One for seven months like a shadow, never leaving him. At the end of the seven months, he went to his teacher and reported:</p>
 <p><i>“…the report that has been spread about Master Gotama is true, sir, and not otherwise; and Master Gotama is one such as this and not otherwise. He possesses the thirty-two marks of a Great Man…”</i></p>
@@ -477,7 +477,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Confirmation of the Brahmin Sela </h3></p>
+<h3>Confirmation of the Brahmin Sela </h3>
 <p>According to the Sela Sutta (MN:92), on one occasion the brahmin Sela, who was a great teacher of that time—Master of the three Vedas…fully versed in the marks of the Great Man…, accompanied by three hundred students met the Blessed One seated in green grove with some of his bhikkhu disciples. He approached the Buddha, exchanged greetings and sat down nearby and looked for the thirty-two marks of a Great Man on the Blessed One’s body, seeing all of them except two. The Blessed One, knowing that doubt occurred in the mind of Sela, performed a feat of supernormal power so the brahmin Sela saw the missing two marks. Then Sela said thus:</p>
 <p>“O perfect in body, well favoured,</p>
 <p>Well fashioned and lovely to behold;</p>
@@ -487,14 +487,14 @@
 <p>That distinguish a man as well born;</p>
 <p>They are all to be found on your body,</p>
 <p>These marks that reveal a Great Man”<span id="Endnote67">[<a href="#endnote67">67</a>]</span></p>
-<p><h3>The Brahmin Dona witnessing the Footprints of the Buddha</h3></p>
+<h3>The Brahmin Dona witnessing the Footprints of the Buddha</h3>
 <p>In the Dona Sutta (AN4: 36) describes how the brahamin Dona, who was travelling on the highway between Ukkaṭṭhā and Setavya, saw the thousand-spoked wheels of the Blessed One’s footprints, with their rims and hubs, complete in all respects, and thought: “<i>It is astounding and amazing! These surely could not be the footprints of a human being!”. </i></p>
 <p>Then Doana saw the Buddha sitting near the foot of a tree, went there and asked the Buddha whether he was deva or gandhabba or any superbeing. The Blessed One said that he is awaken being—the Buddha.</p>
-<p><h3>How the Brahmin Student Ambatta’s Doubt Disappeared</h3></p>
+<h3>How the Brahmin Student Ambatta’s Doubt Disappeared</h3>
 <p>According to the Ambatta Sutta (DN:3), Ambatta the student of the brahmin Pokkharasati was walking with the Buddha and looked out for the thirty-two marks of a Gret Man on the Blessed One’s body., seeing all of them except for two. He was in doubt and perplexity about these two marks. The Buddha, being aware of his doubts, enabled Ambattha to see those two marks on his body using his psychic powers.</p>
 <p>Then Ambattha went to see his teacher and reported thus:</p>
 <p>“<i>Sir, he (the Buddha) is as he is reported to be, and he is of such nature and not otherwise. He is possessed of the thirty-two marks of a Great Man, all complete, with none missing” .</i></p>
-<p><h3>The Brahmin Bāvari’s Descriptions of how to Recognise the Buddha</h3></p>
+<h3>The Brahmin Bāvari’s Descriptions of how to Recognise the Buddha</h3>
 <p>On one occasion the brahmin Bāvari, asked his students to go and see the Buddha and ask a question about “what is head splitting?”. But first the students wanted to know how to recognize the Buddha, and Bāvari said thus:</p>
 <p><i>“The marks of a Great Man have been handed down in our hymns. Thirty-two have been described, complete and in order. One upon whose body is found these marks of a Great Man has two possible destinies, there is no third. If he stays at home, having conquered this land without rod or sword, he shall govern by principle. But if he goes forth from the lay life to homelessness, he becomes an Awakened One, a perfected one, with veil drawn back, supreme”</i><span id="Endnote68">[<a href="#endnote68">68</a>]</span><i>.</i></p>
 <p>Then the students went seeking the Buddha and finally met him:</p>
@@ -508,13 +508,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Brahmin Soṇadaṇḍa Declaring the Thirty-Two Marks upon the Blessed One</h3></p>
+<h3>The Brahmin Soṇadaṇḍa Declaring the Thirty-Two Marks upon the Blessed One</h3>
 <p>On one occasion the Buddha arrived in the country of Angha and stayed near by the city of Champa. Soṇadaṇḍa, a well-known brahmin of that city, planned to visit the Blessed One. Then his followers heard the news and said it was not fitting for him to go and see Master Gotama, instead Master Gotama should visit him. They gave the following reasons:</p>
 <p><i>“…the Reverend Sonadanda is handsome, good-looking, pleasing, of the most beautiful</i></p>
 <p><i>complexion, in form and countenance like Brahmā, of no mean appearance…</i><i> </i><i>He is aged, grown old, venerable, advanced in years, long past his youth, whereas the ascetic Gotama is youthful and newly gone forth as a wanderer. The Reverend Sonadanda is esteemed, made much of, honoured, revered, worshipped by King Seniya Bimbisara …etc.  This being so, it is not proper that he should visit the ascetic Gotama, but rather the ascetic Gotama should visit him…”</i><span id="Endnote70">[<a href="#endnote70">70</a>]</span><i>.</i></p>
 <p>Then the Brahmin Soṇadaṇḍa said thus:</p>
 <p><i>“This good report has been spread about him: “This Blessed Lord is an Arahant, a fully-enlightened Buddha, perfected in knowledge and conduct...He bears the thirty-two marks of a Great Man…</i><i> </i><i>Indeed, King Seniya Bimbisara of Magadha has gone for refuge to him… Having come to Gaggara’s lotus-pond, the ascetic Gotama is such a guest, and should be treated as such. Therefore, it is not proper that he should come to us, but rather we should go to him”.</i></p>
-<p><h3>King Bimbisara Has Seen the Great Marks of Ascetic Siddhartha</h3></p>
+<h3>King Bimbisara Has Seen the Great Marks of Ascetic Siddhartha</h3>
 <p>When the Buddha was just an ascetic wandering in Magadha (see, Section Three), King Bimbisara saw him. This is what the scriptures says:</p>
 <p><i>The Buddha went to Rājagaha,</i></p>
 <p><i>the Mountainfold of the Magadhans.</i></p>
@@ -544,19 +544,19 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2> Why the skin colour of the Buddha is like gold?</h2></p>
+<h2> Why the skin colour of the Buddha is like gold?</h2>
 <p></p>
 <p>According to Lakkhaṇa Sutta (DN:30) the Buddha’s complexion is bright, the colour of gold. Gold colour in Buddhism represents purity, enlightenment and radiant wisdom of a fully enlighten being.  In scriptures there are many places describing the pure and bright skin of the Buddha, a selected few is given below:</p>
 <p></p>
 <p></p>
 <p></p>
-<p><h2> Ājīvaka Upaka praising the skin colour of the Buddha</h2></p>
+<h2> Ājīvaka Upaka praising the skin colour of the Buddha</h2>
 <p>According to Vinaya Pitaka, Ājīvaka Upaka coming from the other direction saw the Blessed One. He was impressed with the sight of the Buddha and said:</p>
 <p><i>“ Sir, your senses are clear and your skin is pure and bright. In whose name have you gone forth? Who is your teacher or whose teaching do you follow?”</i><span id="Endnote73">[<a href="#endnote73">73</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Two occasions when the skin-colour of the Buddha becomes exceedingly pure and clean. </h3></p>
+<h3>Two occasions when the skin-colour of the Buddha becomes exceedingly pure and clean. </h3>
 <p></p>
 <p>On one occasion Venerable Ānanda receiving a pair of golden colour robes put one on the Buddha and said this:</p>
 <p></p>
@@ -570,14 +570,14 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h3>The Brahmin Vacchagotta of Venāgapura praising the colour of the Buddha</h3></p>
+<h3>The Brahmin Vacchagotta of Venāgapura praising the colour of the Buddha</h3>
 <p><b> </b>On one time the Brahmin Vacchagotta seeing the Blessed One said this:</p>
 <p></p>
 <p><i>“It is astounding and amazing, Master Gotama, how Master Gotama’s faculties are tranquil and the colour of his skin is pure and bright. Just as a yellow jujube fruit in the autumn is pure and bright, so Master Gotama’s faculties are tranquil and the colour of his skin is pure and bright. Just as a palm fruit that has just been removed from its stalk is pure and bright, so Master Gotama’s faculties are tranquil and the colour of his skin is pure and bright. Just as an ornament of finest gold, well prepared by a skilled goldsmith and very skilfully wrought in the furnace, placed on red brocade, shines and beams and radiates, so Master Gotama’s faculties are tranquil and the color of his skin is pure and bright” </i><span id="Endnote76">[<a href="#endnote76">76</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><h3>Saccaka the Nigaṇṭha’s son’s statement</h3></p>
+<h3>Saccaka the Nigaṇṭha’s son’s statement</h3>
 <p></p>
 <p>Saccaka, who came to debate with the Buddha and was defeated, said:</p>
 <p></p>
@@ -585,7 +585,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><h2>Why the soles of the Buddha’s feet were wheels of a thousand spokes, complete with felloe (the outer rim of a wheel) and hub? </h2></p>
+<h2>Why the soles of the Buddha’s feet were wheels of a thousand spokes, complete with felloe (the outer rim of a wheel) and hub? </h2>
 <p><b><i>‘</i></b><i>Monks, in whatever former life ... the Tathagata, being born a human being, lived for the</i></p>
 <p><i>happiness of the many, as a… provider of lawful protection and shelter, and supplying all necessities, by performing that kamma, ... was reborn in a happy state… (and)  falling away from there and coming to be reborn here on earth, he acquired this mark: on the soles of his feet are wheels of a thousand spokes, complete with felloe and hub…</i> <i>how does he benefit (of this mark) ? He has a large retinue: he is surrounded by monks, nuns, male and female lay-followers, devas and humans, asuras,nāgas and gandhabbas”. </i><span id="Endnote78">[<a href="#endnote78">78</a>]</span></p>
 <p></p>
@@ -599,7 +599,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page5/image5.png" /><img src="page5/image6.jpeg" /><img src="page5/image7.png" /><img src="page5/image8.jpeg" /></p>
+<img src="page5/image5.png" /><img src="page5/image6.jpeg" /><img src="page5/image7.png" /><img src="page5/image8.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -618,14 +618,14 @@
 <p><b>Foot print of an ordinary person        Foot print of the Buddha</b></p>
 <p><b>Note: Another source</b> says: “when other persons set foot on the ground, the tip of the foot or the heel or the outer part of the sole touches the ground first, but the middle portion of the sole does not. But the Bodhisatta puts down his foot on the ground, the entire sole touches it evenly the way the sole of a soft golden shoe does…”<span id="Endnote80">[<a href="#endnote80">80</a>]</span></p>
 <p></p>
-<p><img src="page5/image7.jpeg" /></p>
+<img src="page5/image7.jpeg" />
 <p></p>
 <p></p>
 <p><b>The Buddha’s Feet</b><span id="Endnote81">[<a href="#endnote81">81</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page5/image9.jpeg" /></p>
+<img src="page5/image9.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -665,7 +665,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page5/image10.jpeg" /></p>
+<img src="page5/image10.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -683,7 +683,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page5/image11.jpeg" /></p>
+<img src="page5/image11.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -719,7 +719,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><img src="page5/image12.jpeg" /></p>
+<img src="page5/image12.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -774,7 +774,7 @@
 <p></p>
 <p></p>
 <p>In the next section (6) we will focus on the<b> </b>Titles and Epithets of the Buddha</p>
-<p><h3>End Notes: Section 5 </h3></p>
+<h3>End Notes: Section 5 </h3>
 <p></p>
 <p></p>
 <p></p>

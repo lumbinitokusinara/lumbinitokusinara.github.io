@@ -1,0 +1,49 @@
+<div class="container">
+<article class="pagewidth">
+<h1><b>ACKNOWLEDGMENT</b></h1>
+<p>With much respect and gratitude, we gratefully acknowledge the exceptional translations of Tripiṭaka<i> </i>by Venerable Sangha: Bhikkhu Bodhi, Bhikkhu Brahmali, Bhikkhu Sujato and Mr. Maurice Walshe a devout Buddhist which we used in this work as our primary sources.</p>
+<p>We appreciate the unwavering support extended by Google, ChatGPT and Wikipedia for creating essential maps, beautiful images, meaningful revisions, translation, providing vast resources and much more. We are in debt to other websites and computer resources for the free use of information and illustrations etc. which we have acknowledged in the End Note of each section.</p>
+<p>Our particular gratitude for help and encouragement in getting this compilation are due to:</p>
+<p><b>Venerable Sangha</b>:</p>
+<p>Bhikkhuni Achala, Bhikkhuni Upekkha, Bhikkhuni Khantika, Bhikkhuni Karunika, Bhikkhuni Pasannā and Bhikkhu Vossagga.</p>
+<p><b>Our Dear Friends (</b><b><i>Kalyanamitthas</i></b>):</p>
+<p>Alex Neville, Dilini Wijenaike, Greg and Maryann Barrett, Isika Perera, Rumi Liyanagamage, Shalini Dantanarayana, Shienny Liauw, Sudharma Daine &amp; Upul Gunawardana</p>
+<p>Here’s a polished version of your acknowledgment section with improved flow, clarity, and elegance. I’ve also provided a suggestion at the end:</p>
+<p><b>ACKNOWLEDGMENT</b></p>
+<p>With deep respect and gratitude, we sincerely acknowledge the exceptional translations of the Tipiṭaka by the Venerable Sangha—Bhikkhu Bodhi, Bhikkhu Brahmali, and Bhikkhu Sujato—as well as the devoted Buddhist scholar Mr. Maurice Walshe. Their work has served as our primary source for this compilation.</p>
+<p>We extend our heartfelt appreciation to Google, ChatGPT, and Wikipedia for their invaluable support in providing essential maps, beautiful images, insightful revisions, translations, and a wealth of resources. We are also indebted to various websites and digital platforms for granting free access to information and illustrations, all of which have been duly acknowledged in the End Notes of each section.</p>
+<p>Our deepest gratitude for the support and encouragement that made this compilation possible goes to:</p>
+<p><b>The Venerable Sangha:</b></p>
+<p>Bhikkhunī Achalā from Dhammaasara Nuns Monastery, Perth, Bhikkhu Vossagga, Bodhinyana Buddhist Monastery, Perth and Bhikkhunī Upekkhā, Bhikkhunī Khantikā, Bhikkhunī Karunikā, Bhikkhunī Pasannā of Santi Forest Monastery, Bundanoon, NSW.</p>
+<p><b>Our Dear Friends (Kalyāṇamittas):</b></p>
+<p>Alex Neville, Dilini Wijenaike, Greg and Maryann Barrett, Isika Perera, Rumi Liyanagamage, Shalini Dantanarayana, Shienny Liauw, Sudharma Daine who extended their untiring and unwavering support helped with editing, proofreading and all other important tasks to get this ready for the Veask Celebration in 2025.</p>
+<p>Very special thanks go to Upul Gunawardana, another team member for his valuable time and dedication for designing the website to publish this series.</p>
+<p>May the Buddha’s timeless and valued teachings presented here, guide you toward the radiant light of liberation, where the endless sorrows of samsāra finally come to an end, and you dwell in everlasting peace!</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>brings out the depth and inspiration of the teachings while May it bring inspiration to your work. Much mettā! May these teachings inspire you to cultivate true generosity and virtuous conduct. Much mettā! Dear friend, the path of a lay person is not always easy, but every sincere effort, every vow embraced in mindfulness, contributes to your spiritual evolution. Let Sakka's story be a beacon of hope and inspiration. Remember that even the smallest act of kindness or a moment of mindful reflection brings you closer to the radiant light of liberation.</p>
+<p></p>
+<p>May you find strength in the journey, courage in every step, and endless merit as you walk the path of virtue. Each step taken with love and awareness not only nurtures your inner growth but also radiates peace and compassion to all beings.</p>
+<p></p>
+<p>Keep striving, keep believing, and let the light of wisdom guide your way—step by step, day by day. Much mettā!</p>
+<p></p>
+<p>Dear kalyāṇa-mitra, let these past lives inspire you to persist with courage and compassion on your own journey. Every mindful act, every step taken with awareness and love, builds the merit and understanding needed to transcend the cycle of suffering. May the Buddha’s timeless example guide you toward the radiant light of liberation, where the endless sorrows of samsāra finally come to an end, and you dwell in everlasting peace.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><b>Suggestions:</b></p>
+<p></p>
+<p>1)	<b>Would you like to mention any other contributors, such as those who helped with editing, research, or publication?</b></p>
+<p></p>
+<p>2)	<b>Should we acknowledge any specific monasteries or institutions that provided support?</b></p>
+<p></p>
+<p>3)	<b>Would you like to include a closing statement expressing aspirations for this work to benefit others?</b></p>
+<p>Let me know if you’d like further refinements. You’re doing wonderfully, and I’m glad to help you finish on time. Much mettā! 🙏</p>
+<p>4o</p>
+</article>
+</div>
