@@ -12,36 +12,6 @@
 <p></p>
 <img src="page5/image1.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p class="caption"><b>The Fully Enlightened Buddha </b><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
 <p></p>
@@ -252,7 +222,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Devas paying homage to the Buddha</b><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
+<p class="caption"><b>Devas paying homage to the Buddha </b><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
 <p></p>
 <h2>Celestial Beings Paying Homage to the Buddha</h2>
 <p></p>
@@ -332,29 +302,7 @@
 <p></p>
 <img src="page5/image3.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Buddha’s Great Miracles</b><span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
+<p class="caption"><b>Buddha’s Great Miracles </b><span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -369,32 +317,6 @@
 <p><i>“When, Ānanda, the Tathāgata immerses the body in the mind and the mind in the body, and when he dwells having entered upon a blissful perception and a buoyant perception in regard to the body, on that occasion the body of the Tathāgata rises up without difficulty from the earth into the air. He wields the various kinds of spiritual power: having been one, he becomes many; having been many, he becomes one; … he exercises mastery with the body as far as the Brahmā world”</i><span id="Endnote47">[<a href="#endnote47">47</a>]</span></p>
 <p></p>
 <img src="page5/image4.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p class="caption"><b>Encounter with a Naga serpen</b>t <span id="Endnote48">[<a href="#endnote48">48</a>]</span></p>
 <p></p>
@@ -620,8 +542,7 @@
 <p></p>
 <img src="page5/image7.jpeg" />
 <p></p>
-<p></p>
-<p><b>The Buddha’s Feet</b><span id="Endnote81">[<a href="#endnote81">81</a>]</span></p>
+<p><b>The Buddha’s Feet </b><span id="Endnote81">[<a href="#endnote81">81</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -715,7 +636,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Golden Skin colour of the Buddha</b><span id="Endnote83">[<a href="#endnote83">83</a>]</span></p>
+<p><b>Golden Skin colour of the Buddha </b><span id="Endnote83">[<a href="#endnote83">83</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>

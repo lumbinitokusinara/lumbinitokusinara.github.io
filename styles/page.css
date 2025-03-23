@@ -28,8 +28,8 @@ body, h1, p {
   /*max-width: 800px; /* Maximum width for wide screens */
   /*width: 95%; /* Default width for smaller screens */
 
-  max-width: 75ch; /* 65 characters per line */
-  width: 90%; /* Fallback for smaller screens */
+  max-width: 80ch; /* 80 characters per line */
+  width: 95%; /* Fallback for smaller screens */
 }
 
 /* Image styling */
@@ -65,7 +65,7 @@ h1 {
 */
  h4 {
     margin-top: 0;
-    text-align: center;
+    /* text-align: center;  */
  }
 
  /*
