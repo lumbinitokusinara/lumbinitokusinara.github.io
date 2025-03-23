@@ -19,10 +19,9 @@
 <p><b>Section 12: The Similes and Metaphors of the Buddha</b></p>
 <p><b>Section 13: Introduction: Summary of the Forty-five years of Buddha’s Great Service to the World </b></p>
 <p><b>Section 13:1: First Teaching Tour and the First Rainy Season</b></p>
-<p><b>Section 13:2- Second and the Third Walking/ Teaching Tours</b></p>
-<p><b>Section: 14-1: The Buddha Meeting King Seniya Bimbisāra of Magadha</b></p>
-<p><b>Section: 14-2: Rājagaha to Kapilavattu the Fourth Walking Tour and </b></p>
-<p><b>Kapilavattu to Rājagaha: the Fifth Walking Tour</b></p>
+<p><b>Section 13:2: Second and the Third Walking/ Teaching Tours</b></p>
+<p><b>Section 14-1: The Buddha Meeting King Seniya Bimbisāra of Magadha</b></p>
+<p><b>Section 14-2: Rājagaha to Kapilavattu the Fourth Walking Tour and Kapilavattu to Rājagaha: the Fifth Walking Tour</b></p>
 <p><b>Section: 14-3: Second to Fourth Vassa Spent in Rājagaha (Age 36-39)</b></p>
 <p><b>Section: 15-1: Fifth Vassa Spent in Vesālȋ (Age 39)</b></p>
 <p><b>Section: 15-2: Sixth to Eighth Vassa- Age 40 - 42 Years</b></p>
@@ -31,6 +30,6 @@
 <p><b>Section: 16-1: Thirteenth, Fourteenth and Fifteenth Vassa (Age 47 to 49) </b></p>
 <p><b>Section: 16-2: Sixteenth to Seventeenth Vassa (Age 50-51) </b></p>
 <p><b>Section: 16-3: Eighteenth to Nineteenth Vassa (Age 52-53) </b></p>
-<p><b>Section: 17: Twentieth Vassa (Age 54) </b></p>
-<p><b>Section: 18: Twenty-first to Forty-fourth Vassa in Savatthi (from Age 55 onwards) </b></p>
+<p><b>Section 17: Twentieth Vassa (Age 54) </b></p>
+<p><b>Section 18: Twenty-first to Forty-fourth Vassa in Savatthi (from Age 55 onwards) </b></p>
 <p><b>Section 19: The last Vassa and the Final Passing-away.</b></p>
