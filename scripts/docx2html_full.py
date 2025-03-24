@@ -17,7 +17,7 @@ pages_info = [
    # ("page3.txt", "Section 3 - Asetic life.docx", "3."),
    # ("page4.txt", "Section 4 - Enlightenment.docx", "4."),
    # ("page4_1.txt", "Section 4-1 Four Assembly.docx", "4-1."),
-   # ("page5.txt", "Section 5 - Greatness of The Buddha.docx", "5."),
+    ("page5.txt", "Section 5 - Greatness of The Buddha.docx", "5."),
   #  ("page6.txt", "Section 6 - Titles.docx", "6.")
   #  ("page7.txt", "Section 7 - As a Teacher.docx", "7."),
   #  ("page8.txt", "Section 8 - Praise and blame.docx", "8."),
@@ -26,8 +26,9 @@ pages_info = [
   #  ("page11_1.txt","Section 11-1 Advice to the Sangha.docx", "11.1"),
   #  ("page11_2.txt","Section 11-2 Advice to Lay Followers.docx", "11.2"),
   #  ("page12.txt","Section 12 - Similies.docx", "12."),
-    ("page13.txt","Section 13 - Introduction- 45 years of life of the Buddhas.docx", "13."),
-    ("page13_1.txt","Section 13-1 First Dhamma Tour-45.docx", "13.1")
+  #  ("page13.txt","Section 13 - Introduction- 45 years of life of the Buddhas.docx", "13."),
+    ("page13_1.txt","Section 13-1 First Dhamma Tour-45.docx", "13.1"),
+    ("page13_2.txt","Section 13-2 Second Dhamma Tour.docx", "13.2")
   #  ("TOC.txt","Table of Contents 1.docx", "I."),
   #  ("Gratitude.txt","Gratitude to the Blessed One.docx", "III."),
   #  ("Abbreviations.txt","Abbreviations.docx", "V.")

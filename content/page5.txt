@@ -521,32 +521,15 @@
 <p></p>
 <p></p>
 <p></p>
-<img src="page5/image5.png" /><img src="page5/image6.jpeg" /><img src="page5/image7.png" /><img src="page5/image8.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Foot print of an ordinary person        Foot print of the Buddha</b></p>
 <p><b>Note: Another source</b> says: “when other persons set foot on the ground, the tip of the foot or the heel or the outer part of the sole touches the ground first, but the middle portion of the sole does not. But the Bodhisatta puts down his foot on the ground, the entire sole touches it evenly the way the sole of a soft golden shoe does…”<span id="Endnote80">[<a href="#endnote80">80</a>]</span></p>
 <p></p>
-<img src="page5/image7.jpeg" />
+<img src="page5/image5.jpeg" />
 <p></p>
-<p><b>The Buddha’s Feet </b><span id="Endnote81">[<a href="#endnote81">81</a>]</span></p>
+<p class="caption"><b>The Buddha’s Feet </b><span id="Endnote81">[<a href="#endnote81">81</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<img src="page5/image9.jpeg" />
+<img src="page5/image6.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -586,25 +569,7 @@
 <p></p>
 <p></p>
 <p></p>
-<img src="page5/image10.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<img src="page5/image11.jpeg" />
+<img src="page5/image7.jpeg" />
 <p></p>
 <p></p>
 <p></p>
@@ -636,11 +601,35 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Golden Skin colour of the Buddha </b><span id="Endnote83">[<a href="#endnote83">83</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<img src="page5/image12.jpeg" />
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p class="caption"><b>Golden Skin colour of the Buddha </b><span id="Endnote83">[<a href="#endnote83">83</a>]</span></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<img src="page5/image8.jpeg" />
 <p></p>
 <p></p>
 <p></p>
