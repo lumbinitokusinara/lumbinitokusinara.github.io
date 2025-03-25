@@ -14,87 +14,11 @@
 <p></p>
 <img src="page1/image1.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p class="caption"><b>Buddha in Sarnath Museum (Dhammajak Mutra) </b><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
 <img src="page1/image2.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Map showing the Jambudȋpa during the time of Gotama Buddha</b><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
+<p><b>Map showing the Jambudȋpa during the time of Gotama Buddha </b><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -152,30 +76,6 @@
 <p></p>
 <img src="page1/image3.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p><b>Bodhisatta in Tuṣita Heaven </b><span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
 <p></p>
 <p></p>
@@ -195,33 +95,7 @@
 <p></p>
 <img src="page1/image4.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b> Dream of Mayadevi </b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
+<p><b>Dream of Mayadevi </b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -271,42 +145,6 @@
 <p></p>
 <p></p>
 <img src="page1/image6.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p><b>The Bodhisatta taking seven steps</b> <span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
 <p></p>
@@ -371,30 +209,6 @@
 <p></p>
 <img src="page1/image7.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p class="caption"><b>Sakka the king of devas and his retinue rejoicing the birth of the Bodhisatta</b>  <span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
 <p></p>
 <p></p>
@@ -424,28 +238,6 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>The modern map of India (above) shows that Lumbini is located in Nepal, near the border with India. During the time of the Buddha, the entire Indian subcontinent, which included present-day Nepal, was referred to as Jambudīpa. According to Buddhist scriptures, the Buddha’s birthplace was in Kapilavattu, the royal capital of the Sakyan people. Therefore, Lumbini is traditionally believed to have been situated near this royal city.</p>
 <p>Earlier, we encountered the words of Ascetic Siddhārtha, who, in speaking to King Bimbisāra, described his origins as coming from the Sakyan kingdom, located on the slopes of the Himalayan Mountain range. <span id="Endnote28">[<a href="#endnote28">28</a>]</span>Referring to the map below, we can observe that Kapilavattu lies just south of the Himalayan range.</p>
 <p></p>
@@ -464,24 +256,6 @@
 <p></p>
 <p></p>
 <img src="page1/image9.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -534,7 +308,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>“When King Devanampriya Priyadarsin had been anointed twenty years, he came himself and worshipped (this spot) because the <a href="https://en.wikipedia.org/wiki/Buddha_Shakyamuni"><u>Buddha Shakyamuni</u></a> was born here. (He) both caused to be made a stone bearing a horse and caused a stone pillar to be set up, (in order to show) that the Blessed One was born here. (He) made the village of <u>Lummini</u> free of taxes, and paying (only) an eighth share (of the produce)”</p>
+<p>“When King Devanampriya Priyadarsin had been anointed twenty years, he came himself and worshipped (this spot) because the <a href="https://en.wikipedia.org/wiki/Buddha_Shakyamuni"><u>Buddha Shakyamuni</u></a> was born here. (He) both caused to be made a stone bearing a horse and caused a stone pillar to be set up, (in order to show) that the Blessed One was born here. (He) made the village of <a href="https://en.wikipedia.org/wiki/Lumbini"><u>Lummini</u></a> free of taxes, and paying (only) an eighth share (of the produce)”</p>
 <p></p>
 <p></p>
 <p></p>
@@ -618,36 +392,13 @@
 <p></p>
 <img src="page1/image13.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p class="caption"><b>Ancient ruins at Lumbini, Nepal </b><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
+<p></p>
+<p></p>
 <p></p>
 <img src="page1/image14.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Word Peace Pagoda in Lumbini </b><span id="Endnote38">[<a href="#endnote38">38</a>]</span></p>
+<p class="caption"><b>World Peace Pagoda in Lumbini </b><span id="Endnote38">[<a href="#endnote38">38</a>]</span></p>
 <p></p>
 <h2>The Buddha: A Noble Sage of the Sakyan Clan</h2>
 <p>Throughout the scriptures, the Buddha is revered as a member of the noble Sakyan clan, which is why he came to be known as ‘Sakya Muni’, the sage of the Sakyans, and his disciples as ‘Sakya Putta’, the sons of the Sakyans. The Sakyan Republic was located on the edge of the majestic Himalayas, with Kapilavattu serving as their royal capital. Though the Sakyan Republic was under the rule of the King of Kosala, it was a republican state, where power was shared among its leaders.</p>
@@ -745,24 +496,6 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p class="caption"><b>Stupa at Piprahwa village in Uttar Pradesh, India</b> <span id="Endnote45">[<a href="#endnote45">45</a>]</span></p>
 <p></p>
 <p></p>
@@ -770,24 +503,6 @@
 <p></p>
 <p></p>
 <img src="page1/image17.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>T<b>he east gate at the Tilaurakot archaeological site in Nepal </b><span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
 <p></p>

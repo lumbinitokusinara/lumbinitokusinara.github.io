@@ -12,7 +12,7 @@ output_folder = 'content'
 pages_info = [
     ("Introduction.txt", "Introduction.docx", "II."),
    # ("Acknowledgements.txt", "Acknowledgements.docx", "IV."),
-   # ("page1.txt", "Section 1 - Birth.docx", "1."),
+    ("page1.txt", "Section 1 - Birth.docx", "1."),
    # ("page2.txt", "Section 2 - Childhood and Family of the Buddha.docx", "2."),
    # ("page3.txt", "Section 3 - Asetic life.docx", "3."),
    # ("page4.txt", "Section 4 - Enlightenment.docx", "4."),
@@ -27,8 +27,9 @@ pages_info = [
   #  ("page11_2.txt","Section 11-2 Advice to Lay Followers.docx", "11.2"),
   #  ("page12.txt","Section 12 - Similies.docx", "12."),
   #  ("page13.txt","Section 13 - Introduction- 45 years of life of the Buddhas.docx", "13."),
-    ("page13_1.txt","Section 13-1 First Dhamma Tour-45.docx", "13.1"),
-    ("page13_2.txt","Section 13-2 Second Dhamma Tour.docx", "13.2")
+  #  ("page13_1.txt","Section 13-1 First Dhamma Tour-45.docx", "13.1"),
+    ("page13_2.txt","Section 13-2 Second Dhamma Tour.docx", "13.2"),
+    ("page14_1.txt","Section 14-1 The Buddha Meets King Seniya Bimbisāra of Magadha.docx", "14.1")
   #  ("TOC.txt","Table of Contents 1.docx", "I."),
   #  ("Gratitude.txt","Gratitude to the Blessed One.docx", "III."),
   #  ("Abbreviations.txt","Abbreviations.docx", "V.")
