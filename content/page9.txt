@@ -50,48 +50,7 @@
 <p></p>
 <img src="page9/image1.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption">After countless eons wandering through the vast cycle of saṃsāra, the Bodhisatta at last fulfilled his supreme aspiration—bringing an end to all rebirths. In this final existence, he descended into the world one last time, not for himself, but to illuminate the path of liberation for the welfare and happiness of all beings.<span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
+<p class="caption">After countless eons wandering through the vast cycle of saṃsāra, the Bodhisatta at last fulfilled his supreme aspiration—bringing an end to all rebirths. In this final existence, he descended into the world one last time, not for himself, but to illuminate the path of liberation for the welfare and happiness of all beings <span id="Endnote13">[<a href="#endnote13">13</a>]</span>.</p>
 <h2>Scriptural Evidence of the Buddha’s Previous Births as a Bodhisattva</h2>
 <p>The <i>Khuddaka Nikāya</i> of Sutta Pitaka contains three key texts that describe the past lives of the Bodhisattva:</p>
 <p><b>1 The Great Chronicle of Buddhas (</b><b><i>Buddhavaṁsa</i></b><b>) </b><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
@@ -138,8 +97,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Bodhisattva as the ascetic Sumedha at the feet of the Buddha Dipankara aspiring to be the future Buddha. </b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
-<p></p>
+<p class="caption"><b>Bodhisattva as the ascetic Sumedha at the feet of the Buddha Dipankara aspiring to be the future Buddha </b><span id="Endnote19">[<a href="#endnote19">19</a>]</span><b>.</b></p>
 <h2>Other Suttas Revealing the Bodhisattva’s Past Lives</h2>
 <p>Beyond the three key texts mentioned earlier, several suttas in the <i>Sutta Piṭaka</i> also recount the previous births of the Bodhisattva. According to the scriptures, the Buddha would reveal his past lives on special occasions—either to clarify a point of Dhamma or in response to a request from his disciples. Below are selected excerpts in which the Blessed One spoke of his former existences:</p>
 <h3>As an Attendant to Brahmā Baka <span id="Endnote20">[<a href="#endnote20">20</a>]</span></h3>
@@ -286,48 +244,9 @@
 <p></p>
 <img src="page9/image3.jpeg" />
 <p></p>
+<p class="caption"><b>The Buddhas: Beacons of Boundless Compassion, </b><b>From time to time, when wisdom fades and the world is shrouded in darkness, a Buddha arises—like the morning sun piercing the night </b><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>The Buddhas: Beacons of Boundless Compassion</b></p>
-<p><b>From time to time, when wisdom fades and the world is shrouded in darkness, a Buddha arises—like the morning sun piercing the night</b><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
 <p></p>
 <p>Former Lives of Sakka, the Lord of the Devas<b> </b><span id="Endnote41">[<a href="#endnote41">41</a>]</span></p>
 <p></p>
@@ -346,19 +265,7 @@
 <p></p>
 <p></p>
 <p></p>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<p><b>Sakka, the Lord of the Devas also called Lord Indra</b><b>: </b><b>Statue</b><b> </b><b>of Indra Śakra in Zhihua Temple in Beijing, China </b><span id="Endnote43">[<a href="#endnote43">43</a>]</span></p>
+<p class="caption"><b>Sakka, the Lord of the Devas also called Lord Indra</b><b>: </b><b>Statue</b><b> </b><b>of Indra Śakra in Zhihua Temple in Beijing, China </b><span id="Endnote43">[<a href="#endnote43">43</a>]</span></p>
 <p></p>
 <h2></h2>
 <h2>The Future Buddha Metteyya: A Beacon of Hope</h2>
