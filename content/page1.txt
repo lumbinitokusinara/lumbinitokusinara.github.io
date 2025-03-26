@@ -12,13 +12,15 @@
 <p></p>
 <p>The birth of a Buddha is not merely a historical event; it is a rare gift to the world, a cause for boundless rejoicing, for such a being arises solely out of infinite compassion to reveal the Dhamma—the way to the highest peace, Nibbāna.</p>
 <p></p>
+<p></p>
+<p></p>
 <img src="page1/image1.jpeg" />
 <p></p>
 <p class="caption"><b>Buddha in Sarnath Museum (Dhammajak Mutra) </b><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
 <img src="page1/image2.jpeg" />
 <p></p>
-<p><b>Map showing the Jambudȋpa during the time of Gotama Buddha </b><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
+<p class="caption"><b>Map showing the Jambudȋpa during the time of Gotama Buddha </b><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -74,9 +76,11 @@
 <h2>The Bodhisatta Descends from the Tuṣita Deva Realm</h2>
 <p>According to Buddhist scriptures, the Buddha was born in a human realm as a Bodhisatta <span id="Endnote7">[<a href="#endnote7">7</a>]</span>,  having spent a period of time in the “deva” realm of Tuṣita’ <span id="Endnote8">[<a href="#endnote8">8</a>]</span>.</p>
 <p></p>
+<p></p>
+<p></p>
 <img src="page1/image3.jpeg" />
 <p></p>
-<p><b>Bodhisatta in Tuṣita Heaven </b><span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
+<p class="caption"><b>Bodhisatta in Tuṣita Heaven </b><span id="Endnote9">[<a href="#endnote9">9</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -95,7 +99,7 @@
 <p></p>
 <img src="page1/image4.jpeg" />
 <p></p>
-<p><b>Dream of Mayadevi </b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
+<p class="caption"><b>Dream of Mayadevi </b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -121,7 +125,9 @@
 <p></p>
 <p>At that very moment, an immeasurable light—surpassing even the radiance of the celestial realms—illuminated the entire world. <span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
 <p></p>
-<img src="page1/image5.jpeg" /><b>Birth of the Buddha </b><span id="Endnote17">[<a href="#endnote17">17</a>]</span>
+<img src="page1/image5.jpeg" />
+<p></p>
+<p class="caption"><b>Birth of the Buddha </b><span id="Endnote17">[<a href="#endnote17">17</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -146,7 +152,7 @@
 <p></p>
 <img src="page1/image6.jpeg" />
 <p></p>
-<p><b>The Bodhisatta taking seven steps</b> <span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
+<p class="caption"><b>The Bodhisatta taking seven steps</b> <span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -234,11 +240,10 @@
 <p></p>
 <p>Thus, Lumbini was not just the geographical birthplace of the Buddha; it was the starting point of a journey that would transform the world—a journey that would lead to the enlightenment of one who would become the Supremely Awakened One, guiding countless beings toward liberation.</p>
 <p></p>
-<img src="page1/image8.gif" />
+<img src="page1/image8.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p>The modern map of India (above) shows that Lumbini is located in Nepal, near the border with India. During the time of the Buddha, the entire Indian subcontinent, which included present-day Nepal, was referred to as Jambudīpa. According to Buddhist scriptures, the Buddha’s birthplace was in Kapilavattu, the royal capital of the Sakyan people. Therefore, Lumbini is traditionally believed to have been situated near this royal city.</p>
+<p class="caption"><b>Modern Map of India</b></p>
+<p>The modern map of India shows that Lumbini is located in Nepal, near the border with India. During the time of the Buddha, the entire Indian subcontinent, which included present-day Nepal, was referred to as Jambudīpa. According to Buddhist scriptures, the Buddha’s birthplace was in Kapilavattu, the royal capital of the Sakyan people. Therefore, Lumbini is traditionally believed to have been situated near this royal city.</p>
 <p>Earlier, we encountered the words of Ascetic Siddhārtha, who, in speaking to King Bimbisāra, described his origins as coming from the Sakyan kingdom, located on the slopes of the Himalayan Mountain range. <span id="Endnote28">[<a href="#endnote28">28</a>]</span>Referring to the map below, we can observe that Kapilavattu lies just south of the Himalayan range.</p>
 <p></p>
 <p></p>
@@ -257,9 +262,7 @@
 <p></p>
 <img src="page1/image9.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Map showing the main provinces of North India during the time of the Buddha</b><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
+<p class="caption"><b>Map showing the main provinces of North India during the time of the Buddha </b><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -278,29 +281,7 @@
 <p></p>
 <img src="page1/image10.png" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Inscriptions on the Asoka Piller</b><span id="Endnote33">[<a href="#endnote33">33</a>]</span></p>
+<p class="caption"><b>Inscriptions on the Asoka Piller </b><span id="Endnote33">[<a href="#endnote33">33</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -308,43 +289,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p>“When King Devanampriya Priyadarsin had been anointed twenty years, he came himself and worshipped (this spot) because the <a href="https://en.wikipedia.org/wiki/Buddha_Shakyamuni"><u>Buddha Shakyamuni</u></a> was born here. (He) both caused to be made a stone bearing a horse and caused a stone pillar to be set up, (in order to show) that the Blessed One was born here. (He) made the village of <a href="https://en.wikipedia.org/wiki/Lumbini"><u>Lummini</u></a> free of taxes, and paying (only) an eighth share (of the produce)”</p>
+<p>“When King Devanampriya Priyadarsin had been anointed twenty years, he came himself and worshipped (this spot) because the <a href="https://en.wikipedia.org/wiki/Buddha_Shakyamuni"><u>Buddha Shakyamuni</u></a> was born here. (He) both caused to be made a stone bearing a horse and caused a stone pillar to be set up, (in order to show) that the Blessed One was born here. (He) made the village of <u>Lummini</u> free of taxes, and paying (only) an eighth share (of the produce)”</p>
 <p></p>
 <p></p>
 <p></p>
 <img src="page1/image11.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Excavation of Asoka’s Piller in Lumbini </b><span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
+<p class="caption"><b>Excavation of Asoka’s Piller in Lumbini </b><span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
 <p></p>
 <img src="page1/image12.jpeg" />
 <p></p>
@@ -504,7 +455,7 @@
 <p></p>
 <img src="page1/image17.jpeg" />
 <p></p>
-<p>T<b>he east gate at the Tilaurakot archaeological site in Nepal </b><span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
+<p class="caption">T<b>he east gate at the Tilaurakot archaeological site in Nepal </b><span id="Endnote46">[<a href="#endnote46">46</a>]</span></p>
 <p></p>
 <h3>Summary</h3>
 <p></p>
