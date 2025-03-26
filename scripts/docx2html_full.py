@@ -12,9 +12,9 @@ output_folder = 'content'
 pages_info = [
     ("Introduction.txt", "Introduction.docx", "II."),
    # ("Acknowledgements.txt", "Acknowledgements.docx", "IV."),
-    ("page1.txt", "Section 1 - Birth.docx", "1."),
-   # ("page2.txt", "Section 2 - Childhood and Family of the Buddha.docx", "2."),
-   # ("page3.txt", "Section 3 - Asetic life.docx", "3."),
+   # ("page1.txt", "Section 1 - Birth.docx", "1."),
+    ("page2.txt", "Section 2 - Childhood and Family of the Buddha.docx", "2."),
+    ("page3.txt", "Section 3 - Asetic life.docx", "3.")
    # ("page4.txt", "Section 4 - Enlightenment.docx", "4."),
    # ("page4_1.txt", "Section 4-1 Four Assembly.docx", "4-1."),
    # ("page5.txt", "Section 5 - Greatness of The Buddha.docx", "5."),
@@ -31,7 +31,7 @@ pages_info = [
   #  ("page13_2.txt","Section 13-2 Second Dhamma Tour.docx", "13.2"),
   #  ("page14_1.txt","Section 14-1 The Buddha Meets King Seniya Bimbisāra of Magadha.docx", "14.1"),
   #  ("page14_2.txt","Section 14-2 Fourth and Fifth Walking Tours.docx", "14.2"),
-    ("page14_3.txt","Section 14-3 Second to Fourth Vassa Spent in Rājagaha (Age 36-39).docx", "14.3")
+  #  ("page14_3.txt","Section 14-3 Second to Fourth Vassa Spent in Rājagaha (Age 36-39).docx", "14.3")
   #  ("TOC.txt","Table of Contents 1.docx", "I."),
   #  ("Gratitude.txt","Gratitude to the Blessed One.docx", "III."),
   #  ("Abbreviations.txt","Abbreviations.docx", "V.")
