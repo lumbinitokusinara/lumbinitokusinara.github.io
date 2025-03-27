@@ -42,7 +42,9 @@ def process_folder(folder_path):
 folders = ['pages/page1', 'pages/page2', 'pages/page3','pages/page4', 'pages/page4_1',
            'pages/page5', 'pages/page6', 'pages/page7', 'pages/page8', 'pages/page9',
            'pages/page10', 'pages/page11', 'pages/page12', 'pages/page13',
-           'pages/page13_1']  # Add your folder names here
+           'pages/page13_1', 'pages/page13_2',
+           'pages/page14_1', 'pages/page14_2', 'pages/page14_3',
+           'pages/page15_1', 'pages/page15_2', 'pages/page15_3', 'pages/page15_4']  # Add your folder names here
 
 # Process each folder
 for folder in folders:

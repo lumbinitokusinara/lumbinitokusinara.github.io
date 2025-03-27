@@ -67,88 +67,15 @@
 <p></p>
 <img src="page15_4/image1.png" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Map 1</b>: Location of Avanti Region in Ancient India<span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
-<p></p>
-<p></p>
+<p class="caption"><b>Map 1</b>: Location of Avanti Region in Ancient India <span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
 <p></p>
 <img src="page15_4/image2.png" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p class="caption"><b>Map 2:</b> Present day Geographical map of India <span id="Endnote15">[<a href="#endnote15">15</a>]</span></p>
 <p></p>
 <img src="page15_4/image3.png" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Map3:</b> <b>The map shows the locations of Rainy-seasons. </b></p>
-<p><b>Nāla is shown as the location of the 11</b><b><sup>th</sup></b><b> vassa, near Rājagaha.</b><span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
+<p class="caption"><b>Map3:</b> <b>The map shows the locations of Rainy-seasons. Nāla is shown as the location of the 11</b><b><sup>th</sup></b><b> vassa, near Rājagaha.</b><span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
 <p></p>
 <h2>Significant Dhamma Teachings During This Period</h2>
 <h3>Teachings to the Brahmin Kasi Bhāradvāja</h3>
@@ -301,7 +228,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Map showing the location of Verañjā in Ancient India</b><span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
+<p class="caption"><b>Map showing the location of Verañjā in Ancient India </b><span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -395,7 +322,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Verañjā is located around Kosambȋ.</b><span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
+<p class="caption"><b>Verañjā is located around Kosambȋ. </b><span id="Endnote34">[<a href="#endnote34">34</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -418,7 +345,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Location of Mathura (Madhura) in UP, India</b><span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
+<p class="caption"><b>Location of Mathura (Madhura) in UP, India </b><span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
 <p></p>
 <p><b>Mathura is</b> a city in the state of Uttar Pradesh in northern India. It's located on the banks of the Yamuna River. Etah is the place where ancient Verañjā  (<a href="https://www.jatland.com/home/Atranji_Khera"><u>Atranji Khera</u></a>)<i> </i>is located. Distance from Mathura to Etah is 115 km</p>
 <p></p>
@@ -556,172 +483,53 @@
 <p></p>
 <h2>The Buddha’s Journey from Verañjā to Vesālī After His Twelfth Vassa</h2>
 <p>Based on the above statement from the <i>Vinaya Pitaka</i>, we have used present-day maps to reconstruct the ancient route from Mathura to Prayag, and from there onward to Vesālī via Varanasi.</p>
-<p><b>To illustrate this journey, we have provided the following maps.</b><span id="Endnote52">[<a href="#endnote52">52</a>]</span></p>
 <p></p>
-<img src="page15_4/image10.png" /><img src="page15_4/image11.png" />
+<p>To illustrate this journey, we have provided the following maps.<span id="Endnote52">[<a href="#endnote52">52</a>]</span></p>
 <p></p>
+<img src="page15_4/image10.png" />
 <p></p>
+<p class="caption"><b>Map A</b>: Atranjki Khera of UP (ancient Verañjā) to Etah, UP distance 18.5 km</p>
 <p></p>
 <p></p>
 <p></p>
+<img src="page15_4/image11.png" />
 <p></p>
+<p class="caption"><b>Map B</b>: Etah, UP to Soron, UP (ancient Soreyya), distance 46.2 km</p>
 <p></p>
 <p></p>
 <p></p>
+<img src="page15_4/image12.png" />
 <p></p>
+<p class="caption"><b>Map C</b>: Soron to Sankisa Basantpur, UP (ancient Sankisa) distance 117.8 km. Sankisa is an ancient place where the Buddha landed from heaven.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Map: A </b>Atranjki Khera of UP (ancient Verañjā) to Etah, UP distance 18.5 km</p>
-<p></p>
-<p></p>
-<p></p>
-<img src="page15_4/image12.png" /><img src="page15_4/image13.png" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Map B: </b>Etah, UP to Soron, UP (ancient Soreyya), distance 46.2 km</p>
-<p></p>
-<p></p>
-<p></p>
-<img src="page15_4/image14.png" /><img src="page15_4/image15.png" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Map C: </b>Soron to Sankisa Basantpur, UP (ancient Sankisa) distance 117.8 km</p>
-<p></p>
-<p>Sankisa is an ancient place where the Buddha landed from heaven.</p>
-<p></p>
-<img src="page15_4/image16.png" /><img src="page15_4/image17.png" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<img src="page15_4/image13.png" />
 <p></p>
 <p class="caption"><b>Map D:</b> Sankisa Basantpur, to Kannauj, (ancient Kaṇṇakujja) distance 84.2 km</p>
 <p></p>
 <p></p>
 <p></p>
+<img src="page15_4/image14.png" />
 <p></p>
-<p></p>
-<img src="page15_4/image18.png" /><img src="page15_4/image19.png" />
-<p></p>
-<p></p>
-<p></p>
+<p class="caption"><b>Map: E:</b> Kannauj to Prayag, (ancient Payāgapatiṭṭhāna) distance 290.8 km. Prayag was the place where the Buddha crossed the Ganges River.</p>
 <p></p>
 <p></p>
 <p></p>
+<img src="page15_4/image15.png" />
 <p></p>
-<p></p>
-<p></p>
+<p class="caption"><b>Map: F:</b> Prayag, to Varanasi, UP, (ancient Benares) distance 122 km</p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Map: E:</b> Kannauj to Prayag, (ancient Payāgapatiṭṭhāna) distance 290.8 km</p>
-<p></p>
-<p>Prayag was the place the Buddha crossed the Ganges River.</p>
-<p></p>
-<img src="page15_4/image20.png" /><img src="page15_4/image21.png" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<img src="page15_4/image22.png" /><img src="page15_4/image23.png" /><b>Map: F:</b> Prayag, to Varanasi, UP, (ancient Benares) distance 122 km
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<img src="page15_4/image16.png" />
 <p></p>
 <p class="caption"><b>Map: G:</b> Varanasi, UP to Vaishali, Bihar (ancients Vesālī) distance 302.9 km</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p>On this long and arduous journey, the Buddha and the Sangha traversed approximately 982.4 km from ancient Verañjā to Vesālī, as estimated using present-day maps. This was not a journey of a single day; rather, in keeping with tradition, they walked about one yojana (13 -15 km) per day, embodying patience, discipline, and unwavering dedication. It is said that the Buddha maintained this steady pace throughout his walking tours, each step taken with mindfulness and great compassion.</p>
 <p>Though historical records do not provide details of the people they encountered or the teachings shared along the way, we can deeply contemplate the profound impact of such a journey. Just the sight of the Buddha and his noble disciples—radiating serenity, wisdom, and virtue—must have uplifted countless beings. Many may have been inspired to turn toward the Dhamma, and who can measure how many took refuge in the Noble Path through these encounters?</p>
 <p></p>
-<img src="page15_4/image24.png" />
+<img src="page15_4/image17.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -755,7 +563,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Buddha and the Sangha travelling from ancient Verañjā to Vesālī a long journey</b><span id="Endnote53">[<a href="#endnote53">53</a>]</span></p>
+<p class="caption"><b>Buddha and the Sangha travelling from ancient Verañjā to Vesālī a long journey </b><span id="Endnote53">[<a href="#endnote53">53</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
