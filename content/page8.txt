@@ -39,33 +39,7 @@
 <p></p>
 <img src="page8/image1.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>The Buddha and his Bhikkhu and Bhikkhuni disciples</b><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
+<p class="caption"><b>The Buddha and his Bhikkhu and Bhikkhuni disciples </b><span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -114,7 +88,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>The Buddha in deep meditation-Six rays coming out from his body</b><span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
+<p class="caption"><b>The Buddha in deep meditation-Six rays coming out from his body </b><span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -219,31 +193,7 @@
 <p></p>
 <img src="page8/image3.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Devas paying homage to the Blessed One </b><span id="Endnote21">[<a href="#endnote21">21</a>]</span></p>
+<p class="caption"><b>Devas paying homage to the Blessed One </b><span id="Endnote21">[<a href="#endnote21">21</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -357,33 +307,7 @@
 <p></p>
 <img src="page8/image4.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>King Pasenadi paying homage to the Buddha</b><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
+<p class="caption"><b>King Pasenadi paying homage to the Buddha </b><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -654,7 +578,7 @@
 <p></p>
 <span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 DN:1 (The Brahmajāla Sutta).
 <p></p>
-<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 Source:  https://present.bhikkhuni.net/
+<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 A 2600 Year Journey Source:  <a href="https://present.bhikkhuni.net/2600-year-journey/">https://present.bhikkhuni.net/2600-year-journey/</a>
 <p></p>
 <span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 He was the first chief disciple of the Buddha, the foremost among those with great wisdom. See: AN1:189. *For more detailed biographical account: see: Great Disciples of The Buddha by Bhikkhu Nyanaponika and Helmut Hecker.
 <p></p>

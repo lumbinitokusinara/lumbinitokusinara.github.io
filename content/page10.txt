@@ -90,50 +90,7 @@
 <p></p>
 <img src="page10/image1.png" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>The Samma Sambuddha </b></p>
-<p><b>The Dhamma is the profound teaching of the Blessed One, the truth discovered by Him upon His awakening as a Samma Sambuddha </b><span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
+<p class="caption"><b>The Samma Sambuddha </b><span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -249,37 +206,7 @@
 <p></p>
 <img src="page10/image2.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Factors of The Noble Eightfold Path</b><span id="Endnote26">[<a href="#endnote26">26</a>]</span></p>
+<p class="caption"><b>Factors of The Noble Eightfold Path </b><span id="Endnote26">[<a href="#endnote26">26</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
