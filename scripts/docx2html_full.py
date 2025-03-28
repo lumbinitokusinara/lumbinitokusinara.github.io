@@ -35,9 +35,9 @@ pages_info = [
    # ("page15_1.txt","Section 15-1 Fifth Vassa Spent in Vesālȋ (Age 39).docx", "15.1"),
    # ("page15_2.txt","Section 15-2 Sixth to Eighth Vassa- Age 40 - 42 Years.docx", "15.2"),
    # ("page15_3.txt","Section 15-3 Ninth to Tenth Vassa (Age 43 - 44).docx", "15.3"),
-    ("page15_4.txt","Section 15-4 Eleventh and Twelfth Vassa (Age 45 to 46).docx", "15.4")
-    # ("page16_1.txt","Section 16-1 Thirteenth, Fourteenth and Fifteenth Vassa (Age 47 to 49).docx", "16.1"), 
-    # ("page16_2.txt","Section 16-2 Sixteenth to Seventeenth Vassa (Age 50-51).docx", "16.2"),
+    ("page15_4.txt","Section 15-4 Eleventh and Twelfth Vassa (Age 45 to 46).docx", "15.4"),
+    ("page16_1.txt","Section 16-1 Thirteenth, Fourteenth and Fifteenth Vassa (Age 47 to 49).docx", "16.1"), 
+    ("page16_2.txt","Section 16-2 Sixteenth to Seventeenth Vassa (Age 50-51).docx", "16.2")
     # ("page16_3.txt","Section 16-3 Eighteenth to Nineteenth Vassa (Age 52-53).docx", "16.3"), 
     # ("page17.txt","Section 17 - Twentieth Vassa (Age 54).docx", "17."),   
     # ("page18.txt","Section 18 - Twenty-first to Forty-fourth Vassa in Savatthi (from Age 55 onwards).docx", "18."),
