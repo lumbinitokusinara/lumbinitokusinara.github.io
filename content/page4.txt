@@ -8,45 +8,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Compassionate Buddha</b><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
+<p class="caption"><b>Compassionate Buddha </b><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -341,7 +303,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>“…being myself subject to birth… ageing… sickness … death…sorrow…and defilements…I attained the supreme security from bondage, Nibbāna. The knowledge and vision arose in me: ‘My deliverance is unshakeable This is my last birth; now there is no renewal of being”.</b><span id="Endnote22">[<a href="#endnote22">22</a>]</span><b> </b></p>
+<p class="caption"><b>“…being myself subject to birth… ageing… sickness … death…sorrow…and defilements…I attained the supreme security from bondage, Nibbāna. The knowledge and vision arose in me: ‘My deliverance is unshakeable This is my last birth; now there is no renewal of being” </b><span id="Endnote22">[<a href="#endnote22">22</a>]</span><b>.</b></p>
 <h1>What is Full Enlightenment? – The Meaning of Sammāsambuddha</h1>
 <p></p>
 <p>Sammāsambuddha—the Fully Enlightened One—is one of the nine noble qualities of the Tathāgata. These nine qualities, as proclaimed in the scriptures, are:</p>
@@ -712,7 +674,7 @@
 <p>As the wind scatters a fallen cotton tuft.” </i><span id="Endnote39">[<a href="#endnote39">39</a>]</span></p>
 <p></p>
 <img src="page4/image3.jpeg" /><i> </i>
-<p class="caption"><b>Māra’s three daughters attempt to seduce the Buddha</b><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
+<p class="caption"><b>Māra’s three daughters attempt to seduce the Buddha </b><span id="Endnote40">[<a href="#endnote40">40</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -781,25 +743,7 @@
 <p></p>
 <img src="page4/image4.png" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption">The Buddhist flag, displayed during religious ceremonies, represents these colors. It is a universal symbol of Buddhism, features six vertical bands representing the six colours of the Buddha's aura upon enlightenment.  <span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
+<p class="caption"><b>The Buddhist flag, displayed during religious ceremonies, represents these colors.</b><b> </b><b>It is </b><b>a universal symbol of Buddhism, features six vertical bands representing the six colours of the Buddha's aura upon enlightenment.</b> <span id="Endnote44">[<a href="#endnote44">44</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -868,41 +812,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>12 Links of the Dependent Origination</b> -<b>Central Concept in Buddhism</b><span id="Endnote49">[<a href="#endnote49">49</a>]</span></p>
+<p class="caption"><b>12 Links of the Dependent Origination</b> -<b>Central Concept in Buddhism </b><span id="Endnote49">[<a href="#endnote49">49</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -1033,7 +943,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Muchalinda Naga giving protection to the Buddha</b><span id="Endnote59">[<a href="#endnote59">59</a>]</span></p>
+<p class="caption"><b>Muchalinda Naga giving protection to the Buddha </b><span id="Endnote59">[<a href="#endnote59">59</a>]</span></p>
 <p></p>
 <h1>Honouring the Dhamma</h1>
 <p>Not long after hi<i>s </i>Supreme Awakening, while dwelling at Uruvelā, on the banks of the Nerañjarā River, beneath the Goatherd’s Banyan Tree, a profound reflection arose in the Blessed One’s mind: <span id="Endnote60">[<a href="#endnote60">60</a>]</span></p>
@@ -1131,7 +1041,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Invitation of Brahma Shampati</b><span id="Endnote66">[<a href="#endnote66">66</a>]</span></p>
+<p class="caption"><b>Invitation of Brahma Shampati </b><span id="Endnote66">[<a href="#endnote66">66</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -1156,13 +1066,15 @@
 <p></p>
 <p></p>
 <p></p>
-<img src="page4/image8.jpeg" /><b>Tapussa and Bhallika</b>, <b>offering food to the Blessed One</b> <span id="Endnote70">[<a href="#endnote70">70</a>]</span>
+<img src="page4/image8.jpeg" />
+<p></p>
+<p class="caption"><b>Tapussa and Bhallika</b>, <b>offering food to the Blessed One</b> <span id="Endnote70">[<a href="#endnote70">70</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <h2>First Instance of Devas and Non-Humans Paying Homage</h2>
 <p></p>
-<p class="caption">Both scriptures and legends recount numerous instances of devas and non-humans, such as Nāga kings, paying homage to the Blessed One. They often approached him to ask questions about the Dhamma or to listen to his discourses. Earlier, we saw how the Nāga King Muchalinda paid homage to the Buddha.<span id="Endnote71">[<a href="#endnote71">71</a>]</span></p>
+<p>Both scriptures and legends recount numerous instances of devas and non-humans, such as Nāga kings, paying homage to the Blessed One. They often approached him to ask questions about the Dhamma or to listen to his discourses. Earlier, we saw how the Nāga King Muchalinda paid homage to the Buddha.<span id="Endnote71">[<a href="#endnote71">71</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -1280,8 +1192,7 @@
 <p></p>
 <span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 Author: <a href="https://www.flickr.com/people/64337707@N07">
-<p><u>Photo Dharma</u></a> from Sadao, Thailand: Source: <a href="https://commons.wikimedia.org/wiki/File:040_Mara%27s_Three_Daughters_try_to_Seduce_the_Buddha_%289270770845%29.jpg">https://commons.wikimedia.org/wiki/File:040_Mara%27s_Three_Daughters_try_to_Seduce_the_Buddha_%289270770845%29.jpg</a></p>
+<span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 Mara's Three Daughters try to Seduce the Buddha, Chedi Traiphop Traimongkhon Temple, Hatyai, Thailand: Source: <a href="https://commons.wikimedia.org/wiki/File:040_Mara%27s_Three_Daughters_try_to_Seduce_the_Buddha_%289270770845%29.jpg">https://commons.wikimedia.org/wiki/File:040_Mara%27s_Three_Daughters_try_to_Seduce_the_Buddha_%289270770845%29.jpg</a>
 <p></p>
 <span id="endnote41">[<a href="#Endnote41">41</a>]</span>		 SN:4:1 <b>Note: </b>Virtue, concentration, and wisdom are the three divisions of the Noble Eightfold Path: virtue (<i>sīla</i>) includes right speech, action, and livelihood; concentration (<i>samādhi</i>), right effort, mindfulness, and concentration; and wisdom (<i>paññā</i>), right view and right intention. Māra is called the End-maker (<i>antaka</i>) because he binds beings to death, see: SN:Note:265.
 <p></p>
@@ -1337,7 +1248,7 @@
 <p></p>
 <span id="endnote65">[<a href="#Endnote65">65</a>]</span>		 Ibid.
 <p></p>
-<span id="endnote66">[<a href="#Endnote66">66</a>]</span>	 Author: <a href="https://www.flickr.com/people/64337707@N07"><u>Photo Dharma</u></a> from Sadao, Thailand: source: https://commons.wikimedia.org/wiki/File:042_Brahma_Sahampati_requests_the_Buddha_to_Teach_despite_his_Reluctance_%289270761017%29.jpg
+<span id="endnote66">[<a href="#Endnote66">66</a>]</span>	 Brahma Sahampati requests the Buddha to teach despite his Reluctance, Chedi Traiphop Traimongkhon Temple, Hatyai, Source: <a href="https://en.wikipedia.org/wiki/Creator_in_Buddhism">https://en.wikipedia.org/wiki/Creator_in_Buddhism</a>
 <p></p>
 <span id="endnote67">[<a href="#Endnote67">67</a>]</span>		 See:<b> </b>MN:26. This event is also mentioned in SN 6:1 .
 <p></p>
@@ -1345,7 +1256,7 @@
 <p></p>
 <span id="endnote69">[<a href="#Endnote69">69</a>]</span>	 These 2 brothers took the refuge of the Buddha and the Dhamma as that time there was no established sangha. See: VP: Mahākandaka :4 The account with the ape-flower tree: Translated by Bhikkhu Brahmali.  In AN1:248 the Buddha declared them as the first lay people to take refuge of Buddha and Dhamma.
 <p></p>
-<span id="endnote70">[<a href="#Endnote70">70</a>]</span>	 Peshawar Museum: Source: Wikipedia.
+<span id="endnote70">[<a href="#Endnote70">70</a>]</span>	 Peshawar Museum: Source:  <a href="https://en.wikipedia.org/wiki/Trapusa_and_Bahalika">https://en.wikipedia.org/wiki/Trapusa_and_Bahalika</a>
 <p></p>
 <span id="endnote71">[<a href="#Endnote71">71</a>]</span>	 See: Smautta Nikaya: Devastāamutta, Devaputtasamyutta, Brahmasamytta, Yakkasamyutta and Sakkasamyutata.
 </article>
