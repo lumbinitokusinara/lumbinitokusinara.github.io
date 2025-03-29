@@ -20,12 +20,12 @@ pages_info = [
    # ("page5.txt", "Section 5 - Greatness of The Buddha.docx", "5."),
   #  ("page6.txt", "Section 6 - Titles.docx", "6.")
   #  ("page7.txt", "Section 7 - As a Teacher.docx", "7."),
-    ("page8.txt", "Section 8 - Praise and blame.docx", "8."),
+   # ("page8.txt", "Section 8 - Praise and blame.docx", "8."),
   #  ("page9.txt", "Section 9 - Past lives.docx", "9."),
   #  ("page10.txt", "Section 10 - Dhamma.docx", "10."),
   #  ("page11_1.txt","Section 11-1 Advice to the Sangha.docx", "11.1"),
   #  ("page11_2.txt","Section 11-2 Advice to Lay Followers.docx", "11.2"),
-    ("page12.txt","Section 12 - Similies.docx", "12."),
+  #  ("page12.txt","Section 12 - Similies.docx", "12."),
   #  ("page13.txt","Section 13 - Introduction- 45 years of life of the Buddhas.docx", "13."),
   #  ("page13_1.txt","Section 13-1 First Dhamma Tour-45.docx", "13.1"),
   #  ("page13_2.txt","Section 13-2 Second Dhamma Tour.docx", "13.2"),
@@ -35,7 +35,7 @@ pages_info = [
    # ("page15_1.txt","Section 15-1 Fifth Vassa Spent in Vesālȋ (Age 39).docx", "15.1"),
    # ("page15_2.txt","Section 15-2 Sixth to Eighth Vassa- Age 40 - 42 Years.docx", "15.2"),
    # ("page15_3.txt","Section 15-3 Ninth to Tenth Vassa (Age 43 - 44).docx", "15.3"),
-    ("page15_4.txt","Section 15-4 Eleventh and Twelfth Vassa (Age 45 to 46).docx", "15.4"),
+   # ("page15_4.txt","Section 15-4 Eleventh and Twelfth Vassa (Age 45 to 46).docx", "15.4"),
     ("page16_1.txt","Section 16-1 Thirteenth, Fourteenth and Fifteenth Vassa (Age 47 to 49).docx", "16.1"), 
     ("page16_2.txt","Section 16-2 Sixteenth to Seventeenth Vassa (Age 50-51).docx", "16.2")
     # ("page16_3.txt","Section 16-3 Eighteenth to Nineteenth Vassa (Age 52-53).docx", "16.3"), 
