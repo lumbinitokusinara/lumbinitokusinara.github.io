@@ -40,8 +40,8 @@ pages_info = [
    # ("page16_2.txt","Section 16-2 Sixteenth to Seventeenth Vassa (Age 50-51).docx", "16.2"),
     # ("page16_3.txt","Section 16-3 Eighteenth to Nineteenth Vassa (Age 52-53).docx", "16.3"),
     # ("page17.txt","Section 17 - Twentieth Vassa (Age 54-55).docx", "17."),   
-     ("page18.txt","Section 18 - Twenty-first to Forty-fourth Vassa in Savatthi (from Age 55 onwards).docx", "18.")
-    
+     ("page18.txt","Section 18 - Twenty-first to Forty-fourth Vassa in Savatthi (from Age 55 onwards).docx", "18."),
+     ("page19_1.txt","Section 19-1 Final Journey of The Buddha Phase 1.docx  ", "19.1")   
     #("page19.txt","Section 19 - The last Vassa and the Final Passing-away.docx", "19.")    
 
 
