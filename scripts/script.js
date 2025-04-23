@@ -119,6 +119,8 @@ const pages = [
   'page17.html',
   'page18.html',
   'page19_1.html',
+  'page19_2.html',
+  'page19_3.html',
   'page19.html',
   // Add more pages as needed
 ];

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>19.2 Final Journey of The Buddha: Phase 3:  </title>
+  <link rel="stylesheet" href="/styles/styles.css">
+  <link rel="stylesheet" href="/styles/page.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon_io_bodhigaya/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_io_bodhigaya//favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_io_bodhigaya//favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+</head>
+<body>
+  <!-- Navigation Menu -->
+  <nav>
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+
+      <li>
+        <select id="section-dropdown">
+          <option value="">Sections</option>
+
+          <option value="/pages/page1.html">1. The Birth of the Buddha Gotama</option>
+          <option value="/pages/page2.html">2. Childhood and Family Life of Prince Siddhartha</option>
+          <option value="/pages/page3.html">3. The Life of Ascetic Siddhartha (Ages 29–35)</option>
+          <option value="/pages/page4.html">4. Enlightenment</option>
+          <option value="/pages/page4_1.html">4.1 The Founding of the Fourfold Assembly</option>
+          <option value="/pages/page5.html">5. The Greatness of the Buddha</option>
+          <option value="/pages/page6.html">6. Titles and Epithets for the Buddha</option>
+          <option value="/pages/page7.html">7. The Buddha—The Supreme Teacher of the World</option>
+          <option value="/pages/page8.html">8. Praise and Criticism – The Buddha’s Unshaken Wisdom</option>
+          <option value="/pages/page9.html">9. Past Lives of the Buddha</option>
+          <option value="/pages/page10.html">10. The Profound Greatness of the Buddha's Teachings</option>
+          <option value="/pages/page11_1.html">11.1 Advice and Guidance to the Sangha</option>
+          <option value="/pages/page11_2.html">11.2 Advice and Guidance to Lay Followers</option>
+          <option value="/pages/page12.html">12. Similes - Metaphors of the Buddha</option>
+          <option value="/pages/page13.html">13. Introduction of 45 years of Buddha's life</option>
+          <option value="/pages/page13_1.html">13.1 First Teaching Tour and the First Rainy Season</option>
+          <option value="/pages/page13_2.html">13.2 Second and the Third Walking/ Teaching Tours</option>
+          <option value="/pages/page14_1.html">14.1 The Buddha Meeting King Seniya Bimbisāra of Magadha</option>
+          <option value="/pages/page14_2.html">14.2 Fourthand Fifth Walking Tours</option>
+          <option value="/pages/page14_3.html">14.3 Second to Fourth Vassa Spent in Rājagaha (Age 36-39)</option>
+          <option value="/pages/page15_1.html">15.1 Fifth Vassa Spent in Vesālȋ (Age 39)</option>
+          <option value="/pages/page15_2.html">15.2 Sixth to Eighth Vassa- Age 40 - 42 Years</option>
+          <option value="/pages/page15_3.html">15.3 Ninth to Tenth Vassa (Age 43–44)</option>
+          <option value="/pages/page15_4.html">15.4 Eleventh and Twelfth Vassa (Age 45 to 46) </option>
+          <option value="/pages/page16_1.html">16.1 Thirteenth, Fourteenth and Fifteenth Vassa (Age 47 to 49) </option>
+          <option value="/pages/page16_2.html">16.2 Sixteenth to Seventeenth Vassa (Age 50-51) </option>
+          <option value="/pages/page16_3.html">16.3 Eighteenth to Nineteenth Vassa (Age 52-53) </option>
+          <option value="/pages/page17.html">17. Twentieth Vassa (Age 54-55)  </option>
+          <option value="/pages/page18.html">18. Twenty-first to Forty-fourth Vassa in Savatthi </option>
+          <option value="/pages/page19_1.html">19.1 Final Journey of The Buddha: Phase 1: Sāvatthi to Rājagaha </option>
+          <option value="/pages/page19_1.html">19.1 Final Journey of The Buddha: Phase 1: Sāvatthi to Rājagaha </option>
+          <option value="/pages/page19_2.html">19.2 Final Journey of The Buddha: Phase 2: Rājagaha to Kusinara </option>
+          <option value="/pages/page19_3.html">19.3 Final Journey of The Buddha: Phase 3 </option>
+          <option value="/pages/page19.html">19. The last Vassa and the Final Passing-away </option>
+          <!-- Add more sections as needed -->
+        </select>
+      </li>
+      <li>
+        <select id="section-dropdown2">
+          <option value="">Introduction</option>
+          <option value="/pages/Introduction.html#intro">Introduction</option>
+          <option value="/pages/Introduction.html#gratitude">Gratitude to the Blessed One</option>
+          <option value="/pages/Introduction.html#acknowledgment">Acknowledgment</option>
+          <option value="/pages/Introduction.html#abv">Abbreviations</option>
+        </select>
+      </li>
+      <!--li><a href="/pages/Introduction.html">Introduction</a></li-->
+      <li><a href="/pages/about.html">About</a></li>
+      <li><a href="/pages/download.html">Download</a></li>
+      <li> Section 19.3</li>
+    </ul>
+  </nav>
+
+  <br>
+  <header>
+   
+  </header>
+
+  
+  <br>
+  <div class="slider-container" style="text-align: center; margin-top: 20px;">
+    <label for="fontSizeSlider">A: </label>
+    <input type="range" id="fontSizeSlider" min="12" max="48" value="16">
+  </div>
+
+  <!-- Content will be loaded here -->
+  <main id="content" style="padding: 20px;"></main>
+
+  <script src="/scripts/script.js"></script>
+
+  <script>
+    const fontSizeSlider = document.getElementById('fontSizeSlider');
+    const textContent = document.getElementById('content');
+  
+    // Update font size based on slider value
+    fontSizeSlider.addEventListener('input', function () {
+      const newFontSize = `${fontSizeSlider.value}px`;
+      textContent.style.fontSize = newFontSize;
+    });
+  </script>
+</body>
+</html>
