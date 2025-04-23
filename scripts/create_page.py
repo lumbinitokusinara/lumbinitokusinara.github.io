@@ -33,7 +33,7 @@ pages_info = [
     ("page18.html","18. Twenty-first to Forty-fourth Vassa in Savatthi (from Age 55 onwards) ", "18."),
     ("page19_1.html","19.1 Final Journey of The Buddha: Phase 1: From Sāvatthi to Rājagaha", "19.1"),
     ("page19_2.html","19.2 Final Journey of The Buddha: Phase 2: From Rājagaha to Kusinara", "19.2"),
-    ("page19_3.html","19.2 Final Journey of The Buddha: Phase 3:  ", "19.3"),
+    ("page19_3.html","19.2 Final Journey of The Buddha: Phase 3: Reaching Pāṭaligāma and Crossing Ganges", "19.3"),
     ("page19.html","19. The last Vassa and the Final Passing-away", "19.")
 ]
 
