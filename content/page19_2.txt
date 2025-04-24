@@ -1,6 +1,8 @@
 <div class="container">
 <article class="pagewidth">
-<p><b>Section 19-2: Final Journey of the Buddha – Phase 2</b></p>
+<h1>Section 19-2: Final Journey of the Buddha – Phase 2</h1>
+<p></p>
+<p></p>
 <p></p>
 <img src="page19_2/image1.png" />
 <p></p>
@@ -11,7 +13,7 @@
 <p></p>
 <img src="page19_2/image2.png" />
 <p></p>
-<p><b>Soft Footsteps into Silence </b><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
+<p class="caption"><b>Soft Footsteps into Silence </b><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -40,7 +42,9 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Section 19-2: Final Journey of the Buddha – Phase 2: Spending Time in Rājagaha</b></p>
+<p></p>
+<p></p>
+<h1>Section 19-2: Final Journey of the Buddha – Phase 2: Spending Time in Rājagaha</h1>
 <p>In the previous section (19-1), we followed the Blessed One and his venerable Sangha as they arrived at the serene Mango Grove of Jīvaka, nestled on the outskirts of the ancient city of Rājagaha. This marked the end of a long and purposeful journey from Sāvatthi, undertaken with steadfast resolve and boundless compassion.</p>
 <p>According to the <i>Sāmaññaphala Sutta</i> (DN 2), the Buddha was residing in the mango grove of Jīvaka Komārabhacca, accompanied by a great assembly of monks—some twelve hundred and fifty in number. This may well have been the faithful retinue who journeyed with him from Sāvatthi, or perhaps their numbers swelled along the way, as others joined the Blessed One, inspired by his presence and drawn by the fragrance of the Dhamma he shared along the path.</p>
 <p>In Phase 1 of this final journey, the Buddha and his disciples are believed to have walked approximately 570 kilometres (about 46 yojanas) to reach Rājagaha. Having completed his 44th vassa in Sāvatthi, it is likely that the Buddha set out on this pilgrimage around mid-November—a time traditionally chosen for long travels following the conclusion of the rains retreat.</p>
@@ -71,11 +75,9 @@
 <p>Vulture Peak—also known as <i>Gridhrakūṭa</i>—lies just beyond the city’s edge, offering a vantage point both physical and spiritual. From this sublime height, far from the clamour of worldly affairs, the Buddha delivered profound discourses, including many treasured teachings on emptiness, perception, and liberation.</p>
 <p>It was in such sacred solitude, embraced by the hills of Rājagaha, that the Blessed One continued to share the Dhamma—a beacon of truth that would shine far beyond his final days.</p>
 <p></p>
-<p></p>
-<p></p>
 <img src="page19_2/image4.jpeg" />
 <p></p>
-<p><b>Vulture Peak, Rajgir, India.</b>(The small structure (small room) designates the place where Buddha used to stay when living on Vulture Peak. This picture was taken from another, nearby mountain. The valley is where the outskirts of the old city of Rajagaha used to be).<span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
+<p><b>Vulture Peak, Rajgir, India. </b>(The small structure (small room) designates the place where Buddha used to stay when living on Vulture Peak. This picture was taken from another, nearby mountain. The valley is where the outskirts of the old city of Rajagaha used to be). <span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -178,12 +180,17 @@
 <p></p>
 <img src="page19_2/image5.jpeg" />
 <p></p>
-<p><b>Phase 2: the Final journey from Rājagaha to Kusninara </b><span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
+<p class="caption"><b>Phase 2: the Final journey from Rājagaha to Kusninara </b><span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
 <p></p>
 <img src="page19_2/image6.png" />
 <p></p>
 <p></p>
 <p></p>
+<p class="caption"><b>Present-day map showing the distance from Rajgir to Kushinagar, about 314 km. In his final journey the Buddha and the Sangha may have walked about 26 yojanas </b><span id="Endnote11">[<a href="#endnote11">11</a>]</span><b> (see the maps below)</b></p>
+<p></p>
+<p></p>
+<p></p>
+<img src="page19_2/image7.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -191,46 +198,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Present day map showing Distance from Rajgir to Kushinagar about 314 km. In his final journey the Buddha and the Sangha may have walked about 26 yojanas </b><span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
-<p></p>
-<p><b>(see the maps below)</b></p>
-<p><b>Pava</b></p>
-<p><b>Beluva</b></p>
-<p><b>Bhandagama</b></p>
-<p><b>Hattigama</b></p>
-<p><b>Ambagama</b></p>
-<p><b>Jambugama</b></p>
-<p><b>Bhoganagara</b></p>
-<p>Pava</p>
-<p><b>Pava</b></p>
-<p><b>Beluva</b></p>
-<p><b>Bhandagama</b></p>
-<p><b>Hattigama</b></p>
-<p><b>Ambagama</b></p>
-<p><b>Jambugama</b></p>
-<p><b>Bhoganagara</b></p>
-<p>Pava</p>
-<p></p>
-<img src="page19_2/image7.png" /><img src="page19_2/image8.png" /><img src="page19_2/image9.png" /><img src="page19_2/image10.png" /><img src="page19_2/image11.png" /><img src="page19_2/image12.png" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<img src="page19_2/image13.png" />
+<img src="page19_2/image8.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -238,59 +206,35 @@
 <p></p>
 <p></p>
 <p></p>
-<p>Important Places in Rājagaha during the Time of the Buddha</p>
+<p></p>
+<p></p>
+<h2>Important Places in Rājagaha during the Time of the Buddha</h2>
 <p></p>
 <p>Before tracing the Blessed One’s journeys beyond the walls of Rājagaha, let us pause to contemplate the sacred sites within this ancient capital—places forever illumined by the presence of the Buddha and sanctified by his boundless compassion. These sites continue to inspire reverence in the hearts of pilgrims from across the world, who walk upon this soil to feel the spiritual legacy left behind not only by the touch of his feet, but by the luminous teachings he shared for generations to come.</p>
 <p></p>
 <p>Above is a sketch of the ancient city of Rājagaha, highlighting key landmarks associated with the life of the Buddha.</p>
 <p></p>
-<img src="page19_2/image14.jpeg" />
 <p></p>
 <p></p>
+<img src="page19_2/image9.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<p><b>Present day picture of ancient Veluvana monastery located beside the lake</b></p>
-<p><b>where the Buddha and the monks bathed.</b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
+<p class="caption"><b>Present day picture of ancient Veluvana monastery located beside the lake where the Buddha and the monks bathed.</b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
 <p></p>
 <h3>Veluvana Monastery (Bamboo Grove)</h3>
 <p></p>
 <p>Nestled not too far, yet not too near, from the palace of King Bimbisāra, Veluvana was the first monastery ever donated to the Blessed One and the Sangha. It became a cherished sanctuary for both monastics and lay followers. A careful reading of the scriptures reveals that many profound discourses were delivered here—gems of wisdom offered for the welfare and liberation of all beings. Even today, modern-day visitors gather here with devotion, paying homage to this ground made sacred by countless footsteps of awakened ones. (See Section 14.1 for further details.)</p>
 <p></p>
-<img src="page19_2/image15.jpeg" />
+<p></p>
+<p></p>
+<img src="page19_2/image10.jpeg" />
+<p></p>
+<p class="caption"><b>A cave in Gijjakuta </b><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
+<p></p>
+<img src="page19_2/image11.jpeg" />
 <p></p>
 <p></p>
 <p></p>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<p><b>A cave in Gijjakuta </b><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
-<p></p>
-<img src="page19_2/image16.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Information of the location  </b><span id="Endnote15">[<a href="#endnote15">15</a>]</span></p>
+<p class="caption"><b>Information of the location  </b><span id="Endnote15">[<a href="#endnote15">15</a>]</span></p>
 <p></p>
 <h3>Gijjhakūṭa (Vulture Peak)</h3>
 <p></p>
@@ -298,30 +242,21 @@
 <p></p>
 <p></p>
 <p></p>
+<img src="page19_2/image12.jpeg" />
+<p></p>
+<p class="caption"><b>Way to Ancinet Maddakucchi Royal Park </b><span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
 <p></p>
 <p></p>
-<h3><img src="page19_2/image17.jpeg" /></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3><b>Way to Ancinet Maddakucchi Royal Park</b><span id="Endnote16">[<a href="#endnote16">16</a>]</span></h3>
+<p></p>
 <h3>Maddakucchi Royal Park</h3>
 <p></p>
 <p>Situated at the foot of Gijjhakūṭa, this deer park was once a peaceful retreat where wild creatures roamed safely. This was one of the pleasure gardens of King Bimbisara. <span id="Endnote17">[<a href="#endnote17">17</a>]</span>It is remembered in the texts as the place to which the Buddha was taken after he suffered an injury caused by a rock dislodged by Venerable Devadatta. Weakened from blood loss, the Buddha was brought here by the monks, before being carried to the Jīvaka-ambavana for treatment. The park today stands as a reminder of the Buddha’s human vulnerability, met with the boundless care of his monks.</p>
 <p></p>
 <p></p>
 <p></p>
-<img src="page19_2/image18.jpeg" />
+<img src="page19_2/image13.jpeg" />
 <p></p>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<p><b>Present day picture of Jivaka’s Mango Grove with the remains of the monastery </b></p>
-<p><b>where the Buddha and the Sangha dwelled when they were in Rājagaha </b><span id="Endnote18">[<a href="#endnote18">18</a>]</span></p>
+<p class="caption"><b>Present day picture of Jivaka’s Mango Grove with the remains of the monastery where the Buddha and the Sangha dwelled when they were in Rājagaha </b><span id="Endnote18">[<a href="#endnote18">18</a>]</span></p>
 <p></p>
 <h3>Jīvaka’s Mango Grove</h3>
 <p></p>
@@ -329,27 +264,9 @@
 <p></p>
 <p></p>
 <p></p>
-<img src="page19_2/image19.jpeg" />
+<img src="page19_2/image14.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Walking along the Bimbisāra road towards Gijjakuta</b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
+<p class="caption"><b>Walking along the Bimbisāra road towards Gijjakuta</b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -359,16 +276,9 @@
 <p></p>
 <p></p>
 <p></p>
-<img src="page19_2/image20.jpeg" />
+<img src="page19_2/image15.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<p><b>Pipphali Cave, which was a favourite abode of Mahākassapa </b><span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
+<p class="caption"><b>Pipphali Cave, which was a favourite abode of Mahākassapa </b><span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
 <p></p>
 <h3>Pipphalī Cave</h3>
 <p></p>
@@ -378,82 +288,25 @@
 <p></p>
 <p>Also located on Vebhāra Hills, this cave holds immense historical and spiritual significance. It is the site where the First Buddhist Council was held following the Parinibbāna of the Buddha. According to the Mahāparinibbāna Sutta (DN 16), the Buddha once stayed here as well. For modern-day pilgrims, it is a place to reflect on the enduring legacy of the Dhamma and to feel, perhaps, the loving presence of the Teacher who foresaw the needs of future generations.</p>
 <p></p>
-<img src="page19_2/image21.jpeg" />
+<img src="page19_2/image16.jpeg" />
 <p></p>
+<p class="caption"><b>Saptparni Cave </b><span id="Endnote21">[<a href="#endnote21">21</a>]</span></p>
 <p></p>
+<img src="page19_2/image17.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Saptparni Cave </b><span id="Endnote21">[<a href="#endnote21">21</a>]</span></p>
-<p></p>
-<img src="page19_2/image22.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<p><b>Entrance to the Saptparni Cave </b><span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
+<p class="caption"><b>Entrance to the Saptparni Cave </b><span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
 <p></p>
 <h3>Tapovana – The Hot Springs of Rājagaha</h3>
 <p></p>
 <p>At the base of Vebhāra Hills lie the hot springs of Tapovana, where the Buddha and the Sangha are said to have bathed—not for ritual purification, but for the comfort of the body. Even today, both devotees and casual travellers pause to bathe in these healing waters. The springs remind us of the gentle humanity of the Buddha, who cared for the body not with attachment, but with wise attention.</p>
 <p></p>
-<img src="page19_2/image23.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<img src="page19_2/image18.jpeg" />
 <p></p>
 <p></p>
 <p></p>
 <p class="caption"><b>Modern day picture of Tapovana, hot springs in Rajgir</b><span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
 <p></p>
-<img src="page19_2/image24.png" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<img src="page19_2/image19.png" />
 <p></p>
 <p></p>
 <p></p>
@@ -480,21 +333,7 @@
 <p></p>
 <p></p>
 <p></p>
-<img src="page19_2/image25.png" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<img src="page19_2/image20.png" />
 <p></p>
 <p class="caption"><b>Silao to Nalanda distance is about 8.7 km</b></p>
 <h2>Nāḷandā: The Ideal Second Stop</h2>
@@ -503,45 +342,17 @@
 <p>Upon arriving in Nāḷandā, the Buddha stayed in the mango grove of the devoted householder Pāvārika. This Pāvārika is distinct from the similarly named benefactor at Kosambī. The texts mention this grove several times as a resting place during the Buddha’s travels to and from Rājagaha (DN 11, DN 28, SN 47, SN 35), suggesting its role as a familiar and supportive sanctuary.</p>
 <p>Although the great Nāḷandā Mahāvihāra—the renowned university—was established in later centuries, Nāḷandā was already a spiritually significant place in the Buddha’s time. Most notably, it was the birthplace and parinirvāṇa site of Venerable Sāriputta, the Blessed One’s chief disciple in wisdom. In later times, Emperor Asoka honoured Sāriputta by building a stupa enshrining his relics, which became a revered place of pilgrimage. <span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
 <p></p>
-<img src="page19_2/image26.jpeg" />
+<img src="page19_2/image21.jpeg" />
+<p></p>
+<p class="caption"><b>Sāriputta stupa in Nālanda, Rajgir, Bihar </b><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Sāriputta stupa in Nālanda, Rajgir, Bihar</b><span id="Endnote28">[<a href="#endnote28">28</a>]</span></p>
 <p></p>
 <p>The Sariputra Stupa, is the most iconic of the surviving monuments at the Nalanda World Heritage Site. Built in the 3rd Century by Mauryan emperor Ashoka in the honour of Venerable Sariputra, the chief disciple of the Buddha who was born and attained Parinibbana in this same region.</p>
 <p></p>
-<img src="page19_2/image27.jpeg" />
+<img src="page19_2/image22.jpeg" />
 <p></p>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<h2></h2>
-<p><b>The historic site of Nalanda with the Great Stupa on the left</b></p>
+<p class="caption"><b>The historic site of Nalanda with the Great Stupa on the left</b></p>
 <h4><i>References to Nāḷandā in the Scriptures</i></h4>
 <p>The existence of Nāḷandā in ancient India is mentioned multiple times in Buddhist texts:</p>
 <p>DN: 11 Kevaddha Sutta,  DN:28 Sampasādanīya Sutta, SN42:9 Asibandhakaputta Sutta, headman, SN47: 12 Nālanda sutta SN35: 126 Nālanda sutta</p>
@@ -586,9 +397,9 @@
 <p><b>Conclusion:</b></p>
 <p>While the <i>Mahāparinibbāna Sutta</i> does not specifically mention Upāli’s conversion, the timing, location, and related traditions strongly suggest that the <i>Upāli Sutta</i> was indeed delivered during the Buddha’s final journey. Therefore, we believe it is both meaningful and appropriate to include this interpretation in our publication—as a reasoned proposal supported by scriptural cross-references and traditional commentary, offered with humility and respect for the Dhamma.</p>
 <p></p>
-<img src="page19_2/image28.png" />
+<img src="page19_2/image23.png" />
 <p></p>
-<p><b>Map showing the Location of Videha</b><span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
+<p class="caption"><b>Map showing the Location of Videha</b><span id="Endnote31">[<a href="#endnote31">31</a>]</span></p>
 <p></p>
 <h3>The Converting Magic of the Buddha</h3>
 <p>In the time of the Buddha, even the most confident opponents found themselves transformed by the power of truth. This is the story of Upāli, a wealthy lay disciple of the Nigaṇṭhas, who set out to defeat the Buddha in debate—but instead found the Dhamma.</p>
