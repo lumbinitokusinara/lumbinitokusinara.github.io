@@ -1,1 +1,2 @@
-Rājagaha to Kusinara
+    ("page19_2.html","19.2 Final Journey of The Buddha: Phase 2: From Rājagaha to Kusinara", "19.2"),
+    ("page19_3.html","19.2 Final Journey of The Buddha: Phase 3: Reaching Pāṭaligāma and Crossing Ganges", "19.3"),

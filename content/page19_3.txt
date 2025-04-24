@@ -33,7 +33,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Patna on the River Ganges (During the time of the British Rule in India)</b><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
+<p class="caption"><b>Patna on the River Ganges (During the time of the British Rule in India)</b><span id="Endnote2">[<a href="#endnote2">2</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -190,20 +190,13 @@
 <p></p>
 <p><i>“Whichever gate the ascetic Gotama departs through today, let it be known as the Gotama Gate (Gotamudvāra). And whichever ford he uses to cross the sacred Ganges, let it be called the Gotama Ford (Gotamatittha).”</i></p>
 <p></p>
+<p></p>
+<p></p>
 <img src="page19_3/image4.jpeg" />
 <p></p>
 <p></p>
 <p></p>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<p><b>Sabhyata Dwar in Patna- Gateway to the Ganges </b><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
+<p class="caption"><b>Sabhyata Dwar in Patna- Gateway to the Ganges </b><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
 <p></p>
 <h3>A Note on Pāṭaligāma’s Legacy</h3>
 <p></p>
@@ -429,29 +422,13 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p><b>Modern day stupa in Vaisali </b><span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
+<p class="caption"><b>Modern day stupa in Vaisali </b><span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
 <p></p>
 <img src="page19_3/image9.jpeg" />
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<p><b>Ruins of Vaisali- the Ashokan Pillar, Stupa and Ramkund Tank</b><span id="Endnote17">[<a href="#endnote17">17</a>]</span><b></p>
+<p class="caption"><b>Ruins of Vaisali- the Ashokan Pillar, Stupa and Ramkund Tank </b><span id="Endnote17">[<a href="#endnote17">17</a>]</span><b></p>
 <p></b></p>
 <h3>The Sacred Sites of Vesālī</h3>
 <p>The Buddha's visits to Vesālī were marked by his stays at various significant places—most notably the <i>Kūṭāgārasālā</i> or "Peak-roofed Hall" in the <i>Mahāvana</i> (Great Wood). Other venerated shrines mentioned in the suttas include the Udena, Gotamaka, Sattambaka, Bahuputta, Sārandada, and Cāpāla shrines—each echoing the footsteps of the Tathāgata and the early Sangha, each sanctified by his presence.<span id="Endnote18">[<a href="#endnote18">18</a>]</span></p>
@@ -507,8 +484,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>The body outside used to be so pretty, but it is nothing else just a bag of bones, realizing the truth uttered by the Blessed One, seen the reality of life beautiful Ambapali </b></p>
-<p><b>became a renowned Arahant Bhikkhuni</b><span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
+<p class="caption"><b>The body outside used to be so pretty, but it is nothing else just a bag of bones, realizing the truth uttered by the Blessed One, seen the reality of life beautiful Ambapali  became a renowned Arahant Bhikkhuni</b><span id="Endnote22">[<a href="#endnote22">22</a>]</span></p>
 <p></p>
 <h3>A Timely Teaching at the Mango Grove</h3>
 <p>While residing in Ambapālī’s grove, the Buddha gave the Sangha a profound and timely admonition—a safeguard for those still walking the path:</p>
@@ -530,47 +506,49 @@
 <p></p>
 <span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 DN:16
 <p></p>
-<span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 Source: https://www.royalacademy.org.uk/art-artists/work-of-art/part-of-the-city-of-patna-on-the-river-ganges
+<span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 Source: <a href="https://www.royalacademy.org.uk/art-artists/work-of-art/part-of-the-city-of-patna-on-the-river-ganges">https://www.royalacademy.org.uk/art-artists/work-of-art/part-of-the-city-of-patna-on-the-river-ganges</a>
 <p></p>
-<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 Source: https://www.holidify.com/places/patna/river-ganga-sightseeing-3224.html
+<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 Source: <a href="https://www.holidify.com/places/patna/river-ganga-sightseeing-3224.html">https://www.holidify.com/places/patna/river-ganga-sightseeing-3224.html</a>
 <p></p>
-<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 Source: https://southeastasianlibrarygroup.wordpress.com/wp-content/uploads/2014/11/or_5757_f023r1.jpg
+<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 Source: <a href="https://southeastasianlibrarygroup.wordpress.com/wp-content/uploads/2014/11/or_5757_f023r1.jpg">https://southeastasianlibrarygroup.wordpress.com/wp-content/uploads/2014/11/or_5757_f023r1.jpg</a>
 <p></p>
 <span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 DN:16
 <p></p>
-<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Source: https://www.justdial.com/Patna/Sabhyata-Dwar-Bankipur-Gandhi-Maidan/0612PX612-X612-220125233757-C1L8_BZDET
+<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Source: <a href="https://www.justdial.com/Patna/Sabhyata-Dwar-Bankipur-Gandhi-Maidan/0612PX612-X612-220125233757-C1L8_BZDET">https://www.justdial.com/Patna/Sabhyata-Dwar-Bankipur-Gandhi-Maidan/0612PX612-X612-220125233757-C1L8_BZDET</a>
 <p></p>
-<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Source: https://en.wikipedia.org/wiki/Sabhyata_Dwar.
+<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/Sabhyata_Dwar">https://en.wikipedia.org/wiki/Sabhyata_Dwar</a>
 <p></p>
 <span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Source: https://en.wikipedia.org/wiki/Bridges_in_Bihar
 <p></p>
-<span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 It says that this incident is recorded in  Lalitavistara Sūtra. * The Lalitavistara Sūtra is a Sanskrit Mahayana Buddhist sutra that tells the story of Gautama Buddha from the time of his descent from Tushita until his first sermon in the Deer Park at Sarnath near Varanasi, source: https://en.wikipedia.org/wiki/Lalitavistara_S%C5%ABtra
+<span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 It says that this incident is recorded in  Lalitavistara Sūtra. * The Lalitavistara Sūtra is a Sanskrit Mahayana Buddhist sutra that tells the story of Gautama Buddha from the time of his descent from Tushita until his first sermon in the Deer Park at Sarnath near Varanasi, source: <a href="https://en.wikipedia.org/wiki/Lalitavistara_S%C5%ABtra">https://en.wikipedia.org/wiki/Lalitavistara_S%C5%ABtra</a>
 <p></p>
-<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 Source: https://www.superstock.com/asset/siddhartha-gautama-known-buddha-enlightened-one-he-crosses-ganges-river/4220-21848595
+<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 Source: <a href="https://www.superstock.com/asset/siddhartha-gautama-known-buddha-enlightened-one-he-crosses-ganges-river/4220-21848595">https://www.superstock.com/asset/siddhartha-gautama-known-buddha-enlightened-one-he-crosses-ganges-river/4220-21848595</a>
 <p></p>
 <span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 The commentaries assign the death of Moggallāna to a fortnight after that of Sāriputta. Sāriputta
 <p>expired on the full-moon day of the month Kattika (October-November), Moggallāna on the following new-moon day. For an account of his death, see Hecker, “Moggallāna: Master of Psychic Power,” in Nyanaponika and Hecker, <i>Great Disciples of the Buddha</i>, pp. 100-5. See: SN47: Note: 162.</p>
 <p></p>
-<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 Source: https://damsara.org/dhamma-talks-in-english/ven-panadure-chandaratana-thero/sutta_teachings_in_english/moggallana-samyutta-28-08-2024/
+<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 Source: <a href="https://damsara.org/dhamma-talks-in-english/ven-panadure-chandaratana-thero/sutta_teachings_in_english/moggallana-samyutta-28-08-2024/">https://damsara.org/dhamma-talks-in-english/ven-panadure-chandaratana-thero/sutta_teachings_in_english/moggallana-samyutta-28-08-2024/</a>
 <p></p>
-<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 Source: https://ancient-buddhist-texts.net/Maps/During-Buddhas-Time/Map-05-Last-Tour.htm
+<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 Source: <a href="https://ancient-buddhist-texts.net/Maps/During-Buddhas-Time/Map-05-Last-Tour.htm">https://ancient-buddhist-texts.net/Maps/During-Buddhas-Time/Map-05-Last-Tour.htm</a>
 <p></p>
 <span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 DN:16
 <p></p>
 <span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 https://commons.wikimedia.org/wiki/File:Vaishali,_Bihar.JPG
+<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 <a href="https://commons.wikimedia.org/wiki/File:Vaishali,_Bihar.JPG">https://commons.wikimedia.org/wiki/File:Vaishali,_Bihar.JPG</a>
 <p></p>
-<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Source<b> – </b><a href="https://tourism.bihar.gov.in/en/destinations/vaishali"><b>https://tourism.bihar.gov.in/en/destinations/vaishali</b></a>
+<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Source<b> – </b><a href="https://tourism.bihar.gov.in/en/destinations/vaishali">https://tourism.bihar.gov.in/en/destinations/vaishali</a>
 <p></p>
 <span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 She is said to have come spontaneously into being at <b>Vesāli</b> in the gardens of the king. The gardener found her at the foot of a mango tree — hence her name — and brought her to the city. She grew up so full of beauty and of grace that many young princes vied with each other for the honour of her hand. Finally, in order to end their strife, they appointed her courtesan. https://www.aimwell.org/DPPN/ambapali.html
+<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 She is said to have come spontaneously into being at <b>Vesāli</b> in the gardens of the king. The gardener found her at the foot of a mango tree — hence her name — and brought her to the city. She grew up so full of beauty and of grace that many young princes vied with each other for the honour of her hand. Finally, in order to end their strife, they appointed her courtesan. <a href="https://www.aimwell.org/DPPN/ambapali.html">https://www.aimwell.org/DPPN/ambapali.html</a>
 <p></p>
-<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 https://suttacentral.net/define/ambap%C4%81l%C4%AB?lang=en
+<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 <a href="https://suttacentral.net/define/ambap%C4%81l%C4%AB?lang=en">https://suttacentral.net/define/ambap%C4%81l%C4%AB?lang=en</a>
 <p></p>
 <span id="endnote21">[<a href="#Endnote21">21</a>]</span>	 Thgi:13: 252
 <p></p>
-<span id="endnote22">[<a href="#Endnote22">22</a>]</span>	 Picture sources: <a href="https://siriyasodaraseya.com/enlightened-nun-arahant-nun-">https://siriyasodaraseya.com/enlightened-nun-arahant-nun-</a> &amp; https://www.tatsbase.com/products/1718574873-tattoo-template-of-a-female-skeleton-with-a-rose-and-long-hair
+<span id="endnote22">[<a href="#Endnote22">22</a>]</span>	 Picture sources: <a href="https://siriyasodaraseya.com/enlightened-nun-arahant-nun-">ht
+<p></p>
+<p>tps://siriyasodaraseya.com/enlightened-nun-arahant-nun-</a> &amp; <a href="https://www.tatsbase.com/products/1718574873-tattoo-template-of-a-female-skeleton-with-a-rose-and-long-hair">https://www.tatsbase.com/products/1718574873-tattoo-template-of-a-female-skeleton-with-a-rose-and-long-hair</a></p>
 </article>
 </div>

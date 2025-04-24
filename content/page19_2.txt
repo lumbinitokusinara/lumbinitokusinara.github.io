@@ -497,7 +497,7 @@
 <p></p>
 <p></p>
 <p></p>
-<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 Map source: https://www.shutterstock.com/image-vector/blank-ancient-map-on-old-parchment-1006789423
+<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 Map source: <a href="https://www.shutterstock.com/image-vector/blank-ancient-map-on-old-parchment-1006789423">https://www.shutterstock.com/image-vector/blank-ancient-map-on-old-parchment-1006789423</a>
 <p></p>
 <span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 Image created by AI.
 <p></p>
@@ -507,7 +507,7 @@
 <p></p>
 <span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 Image created by AI
 <p></p>
-<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 https://en.wikipedia.org/wiki/Vulture_Peak
+<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 <a href="https://en.wikipedia.org/wiki/Vulture_Peak">https://en.wikipedia.org/wiki/Vulture_Peak</a>
 <p></p>
 <span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Ibid.
 <p></p>
@@ -515,49 +515,49 @@
 <p></p>
 <span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 Source: Last Days of the Buddha: Mahāparinibbāna Sutta: Wheel 67/68, BPS.
 <p></p>
-<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 Source: https://ancient-buddhist-texts.net/Maps/During-Buddhas-Time/Map-05-Last-Tour.htm
+<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 Source: <a href="https://ancient-buddhist-texts.net/Maps/During-Buddhas-Time/Map-05-Last-Tour.htm">https://ancient-buddhist-texts.net/Maps/During-Buddhas-Time/Map-05-Last-Tour.htm</a>
 <p></p>
-<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 Google Map * Converting table source: https://www.unitsmash.com/converters/length/kilometer/to/yojana/314
+<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 Google Map * Converting table source: <a href="https://www.unitsmash.com/converters/length/kilometer/to/yojana/314">https://www.unitsmash.com/converters/length/kilometer/to/yojana/314</a>
 <p></p>
 <span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 Map created by AI.
 <p></p>
-<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 Source: https://commons.wikimedia.org/wiki/File:Venuvana.jp
+<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 Source: <a href="https://commons.wikimedia.org/wiki/File:Venuvana.jp">https://commons.wikimedia.org/wiki/File:Venuvana.jp</a>
 <p></p>
-<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 Source: https://www.buddhaviews.com/Buddha_India/buddha_india301.htm
+<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 Source: <a href="https://www.buddhaviews.com/Buddha_India/buddha_india301.htm">https://www.buddhaviews.com/Buddha_India/buddha_india301.htm</a>
 <p></p>
 <span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Ibid.
 <p></p>
 <span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Source: https://www.aimwell.org/DPPN/maddakucchi.html
+<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Source: <a href="https://www.aimwell.org/DPPN/maddakucchi.html">https://www.aimwell.org/DPPN/maddakucchi.html</a>
 <p></p>
-<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 Source: https://www.holidify.com/places/rajgir/jivakas-mango-garden-sightseeing-122417.html
+<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 Source: <a href="https://www.holidify.com/places/rajgir/jivakas-mango-garden-sightseeing-122417.html">https://www.holidify.com/places/rajgir/jivakas-mango-garden-sightseeing-122417.html</a>
 <p></p>
-<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 Source: https://www.buddhaviews.com/Buddha_India/buddha_india301.htm
+<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 Source: <a href="https://www.buddhaviews.com/Buddha_India/buddha_india301.htm">https://www.buddhaviews.com/Buddha_India/buddha_india301.htm</a>
 <p></p>
-<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 Source: https://photodharma.net/India/Rajgir/index.htm
+<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 Source: <a href="https://photodharma.net/India/Rajgir/index.htm">https://photodharma.net/India/Rajgir/index.htm</a>
 <p></p>
 <span id="endnote21">[<a href="#Endnote21">21</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote22">[<a href="#Endnote22">22</a>]</span>	 Source: https://www.reddit.com/r/Buddhism/comments/133friu/saptaparni_cave_the_site_where_the_first_buddhist/?rdt=61227
+<span id="endnote22">[<a href="#Endnote22">22</a>]</span>	 Source: <a href="https://www.reddit.com/r/Buddhism/comments/133friu/saptaparni_cave_the_site_where_the_first_buddhist/?rdt=61227">https://www.reddit.com/r/Buddhism/comments/133friu/saptaparni_cave_the_site_where_the_first_buddhist/?rdt=61227</a>
 <p></p>
-<span id="endnote23">[<a href="#Endnote23">23</a>]</span>	 Source: https://www.avathi.com/place/rajgir-s-sacred-hot-springs/8263
+<span id="endnote23">[<a href="#Endnote23">23</a>]</span>	 Source: <a href="https://www.avathi.com/place/rajgir-s-sacred-hot-springs/8263">https://www.avathi.com/place/rajgir-s-sacred-hot-springs/8263</a>
 <p></p>
 <span id="endnote24">[<a href="#Endnote24">24</a>]</span>	 Google map.
 <p></p>
-<span id="endnote25">[<a href="#Endnote25">25</a>]</span>	 Source: https://www.palikanon.com/english/pali_names/am/ambalatthikaa.htm
+<span id="endnote25">[<a href="#Endnote25">25</a>]</span>	 Source: <a href="https://www.palikanon.com/english/pali_names/am/ambalatthikaa.htm">https://www.palikanon.com/english/pali_names/am/ambalatthikaa.htm</a>
 <p></p>
 <span id="endnote26">[<a href="#Endnote26">26</a>]</span>	 DN:16.
 <p></p>
-<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 Source: Wikipedia https://en.wikipedia.org/wiki/Nalanda_mahavihara#:~:text=Sariputta%2C%20a%20prominent%20disciple%20of,stupas%20at%20Sanchi%20and%20Mathura.
+<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 Source: Wikipedia <a href="https://en.wikipedia.org/wiki/Nalanda_mahavihara#:~:text=Sariputta%2C%20a%20prominent%20disciple%20of,stupas%20at%20Sanchi%20and%20Mathura">https://en.wikipedia.org/wiki/Nalanda_mahavihara#:~:text=Sariputta%2C%20a%20prominent%20disciple%20of,stupas%20at%20Sanchi%20and%20Mathura</a>.
 <p></p>
-<span id="endnote28">[<a href="#Endnote28">28</a>]</span>	 https://www.trawell.in/bihar/nalanda/sariputra-stupa-great-stupa
+<span id="endnote28">[<a href="#Endnote28">28</a>]</span>	 <a href="https://www.trawell.in/bihar/nalanda/sariputra-stupa-great-stupa">https://www.trawell.in/bihar/nalanda/sariputra-stupa-great-stupa</a>
 <p></p>
 <span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 DN:16. * the same statement was made by Venerable Sāriputta in SN47: 12 Nalanda sutta.
 <p></p>
 <span id="endnote30">[<a href="#Endnote30">30</a>]</span>	 See: SN: Note: 156: This conclusion also comes at the end of DN No. 28, at DN III 116, following the much more effusive praise of the Buddha found there.
 <p></p>
-<span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 https://en.wikipedia.org/wiki/Videha#/media/File:Map_of_Vedic_India.png
+<span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 <a href="https://en.wikipedia.org/wiki/Videha#/media/File:Map_of_Vedic_India.png">https://en.wikipedia.org/wiki/Videha#/media/File:Map_of_Vedic_India.png</a>
 <p></p>
 <span id="endnote32">[<a href="#Endnote32">32</a>]</span>	 MN:56
 </article>
