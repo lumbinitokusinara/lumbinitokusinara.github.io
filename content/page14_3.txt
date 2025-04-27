@@ -424,7 +424,7 @@
 <p></p>
 <span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 Chapter 20: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.
 <p></p>
-<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Source: https://en.wikipedia.org/wiki/Jetavana
+<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/Jetavana">https://en.wikipedia.org/wiki/Jetavana</a>
 <p></p>
 <span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 VP: Chulavagga: Kd16:2.7.
 <p></p>
@@ -464,9 +464,9 @@
 <p></p>
 <span id="endnote34">[<a href="#Endnote34">34</a>]</span>	 During that time the City Vesali was affected by a three great disaster: famine, havoc caused by evil spirits and epidemic which cause large number of deaths, for details: see: Chapter 22: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.
 <p></p>
-<span id="endnote35">[<a href="#Endnote35">35</a>]</span>	 Source: BUddhaNet: https://www.buddhanet.net/e-learning/pilgrim/p_map2/
+<span id="endnote35">[<a href="#Endnote35">35</a>]</span>	 Source: BUddhaNet:  <a href="https://www.buddhanet.net/e-learning/pilgrim/p_map2/">https://www.buddhanet.net/e-learning/pilgrim/p_map2/</a>
 <p></p>
-<span id="endnote36">[<a href="#Endnote36">36</a>]</span>	 Google map.
+<span id="endnote36">[<a href="#Endnote36">36</a>]</span>	 Google Maps.
 <p></p>
 <span id="endnote37">[<a href="#Endnote37">37</a>]</span>	 Ibid.
 <p></p>
@@ -479,7 +479,7 @@
 <span id="endnote41">[<a href="#Endnote41">41</a>]</span>	 His story is described in detail in Chapter 22: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw. *  His story also given in Dhammapada atthakatha, see: 24.6 The Story about<b> </b>Uggasena-Uggasenavatthu: A Revised Translation of the Dhammapada Aṭṭhakathā together with a
 <p>New Translation of All the Verse TextsE W Burlingame, Ānandajoti Bhikkhu</p>
 <p></p>
-<span id="endnote42">[<a href="#Endnote42">42</a>]</span>	 Source: https://www.buddha-brothers.com/chapters/2406.html
+<span id="endnote42">[<a href="#Endnote42">42</a>]</span>	 Source: <a href="https://www.buddha-brothers.com/chapters/2406.html">https://www.buddha-brothers.com/chapters/2406.html</a>
 <p></p>
 <span id="endnote43">[<a href="#Endnote43">43</a>]</span>	 Dhp:348 (Craving- translated by Bhikkhu Sujato).
 </article>

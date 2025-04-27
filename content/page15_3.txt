@@ -424,7 +424,7 @@
 <p></p>
 <span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Source: Google.com
 <p></p>
-<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Source: Wikipedia : https://en.wikipedia.org/wiki/Kosambi
+<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Source: Wikipedia : <a href="https://en.wikipedia.org/wiki/Kosambi">https://en.wikipedia.org/wiki/Kosambi</a>
 <p></p>
 <span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Kukkuṭārāma, a  monastery in <a href="https://www.aimwell.org/DPPN/kosambi.html">Kosambī</a>, built by the millionaire Kukkuṭa <i>(q.v.)</i> DA.i.318, <i>etc.</i> Source: Dictionary of Pāli Proper Names by G.P. Malalasekera.
 <p></p>
@@ -472,7 +472,7 @@
 <p></p>
 <span id="endnote30">[<a href="#Endnote30">30</a>]</span>	 AN4: 243.
 <p></p>
-<span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 Source: https://vivekavani.com/d163/
+<span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 Source: <a href="https://vivekavani.com/d163/">https://vivekavani.com/d163/</a>
 <p></p>
 <span id="endnote32">[<a href="#Endnote32">32</a>]</span>	 VP: Kd.10:3. * This incident is also mentioned in MN: 128 (Upakkilesa Sutta).
 <p></p>
@@ -488,7 +488,7 @@
 <p></p>
 <span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 Source: Dictionary of Pāli Proper Names • G.P. Malalasekera: https://aimwell.org/DPPN/pacinavamsamigadaya.html
+<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 Source: Dictionary of Pāli Proper Names • G.P. Malalasekera: <a href="https://aimwell.org/DPPN/pacinavamsamigadaya.html">https://aimwell.org/DPPN/pacinavamsamigadaya.html</a>
 <p></p>
 <span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 Source 1: Madhuratthavilāsinī (Buddhavaṁsatthakathā) of Bhadantâcariya Buddhadatta Mahathera: Translated by I. B. Honer, 1946.
 <p></p>

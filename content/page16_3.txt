@@ -318,13 +318,13 @@
 <p></p>
 <p></p>
 <p></p>
-<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 Source: https://www.wildbihar.org/gautam-buddha-bird-sanctuary
+<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 Source: <a href="https://www.wildbihar.org/gautam-buddha-bird-sanctuary">https://www.wildbihar.org/gautam-buddha-bird-sanctuary</a>
 <p></p>
 <span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 Ibid.
 <p></p>
 <span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 Google map.
 <p></p>
-<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 Source: https://www.facebook.com/GayaFD/videos/watch-a-beautiful-eco-cultural-tourism-site-in-gautam-buddha-wildlife-sanctuary-/4015327725152440/
+<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 Source: <a href="https://www.facebook.com/GayaFD/videos/watch-a-beautiful-eco-cultural-tourism-site-in-gautam-buddha-wildlife-sanctuary-/4015327725152440/">https://www.facebook.com/GayaFD/videos/watch-a-beautiful-eco-cultural-tourism-site-in-gautam-buddha-wildlife-sanctuary-/4015327725152440/</a>
 <p></p>
 <span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 See: AN: Notes: 1830.
 <p></p>
@@ -340,6 +340,6 @@
 <p></p>
 <span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 AN2:30
 <p></p>
-<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 Source: https://sinhalatipitaka.wordpress.com/page/18/
+<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 Source: <a href="https://sinhalatipitaka.wordpress.com/page/18/">https://sinhalatipitaka.wordpress.com/page/18/</a>
 </article>
 </div>

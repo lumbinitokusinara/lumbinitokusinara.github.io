@@ -593,15 +593,15 @@
 <p></p>
 <span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 Source 3: Chapter 32 : The Great Chronicles of the Buddhas by Venerable Mingun Sayadaw.
 <p></p>
-<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 For more details See: Dictionary of Pāli Proper Names by G.P. Malalasekera. https://www.aimwell.org/DPPN/calika.html
+<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 For more details See: Dictionary of Pāli Proper Names by G.P. Malalasekera. <a href="https://www.aimwell.org/DPPN/calika.html">https://www.aimwell.org/DPPN/calika.html</a>
 <p></p>
-<span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 See: “ Tathāgatassa Vassā- The Realised One’s Rains Retreats” by Bhikkhu Ānandajoti, https://ancient-buddhist-texts.net/Maps/During-Buddhas-Time/Map-08-Vassa.htm
+<span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 See: “ Tathāgatassa Vassā- The Realised One’s Rains Retreats” by Bhikkhu Ānandajoti, <a href="https://ancient-buddhist-texts.net/Maps/During-Buddhas-Time/Map-08-Vassa.htm">https://ancient-buddhist-texts.net/Maps/During-Buddhas-Time/Map-08-Vassa.htm</a>
 <p></p>
-<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 According to the Udāna Commentary (UdA.217) * see also: https://www.palikanon.com/english/pali_names/ku/kimikaalaa.htm
+<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 According to the Udāna Commentary (UdA.217)  * see also: <a href="https://www.palikanon.com/english/pali_names/ku/kimikaalaa.htm">https://www.palikanon.com/english/pali_names/ku/kimikaalaa.htm</a>
 <p></p>
 <span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 See: AN: Notes: 1830.
 <p></p>
-<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Source: Dictionary of Pāli Proper Names by G.P. Malalasekera. https://www.aimwell.org/DPPN/calika.html
+<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Source: Dictionary of Pāli Proper Names by G.P. Malalasekera. <a href="https://www.aimwell.org/DPPN/calika.html">https://www.aimwell.org/DPPN/calika.html</a>
 <p></p>
 <span id="endnote9">[<a href="#Endnote9">9</a>]</span>	  Chapter 32: The Great Chronicles of the Buddhas by Venerable Mingun Sayadaw.
 <p></p>
@@ -615,13 +615,13 @@
 <p></p>
 <span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 Source: <a href="https://www.britannica.com/place/Jharkhand">https://www.britannica.com/place/Jharkhand</a>
 <p></p>
-<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Source: https://lotusarise.com/maps/states/jharkhand-map/
+<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Source: <a href="https://lotusarise.com/maps/states/jharkhand-map/">https://lotusarise.com/maps/states/jharkhand-map/</a>
 <p></p>
-<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 Source: https://en.wikipedia.org/wiki/Jharkhand
+<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/Jharkhand">https://en.wikipedia.org/wiki/Jharkhand</a>
 <p></p>
-<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Source: http://www.nomadline.com/gautam-buddha-wildlife-sanctuary/
+<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Source: <a href="http://www.nomadline.com/gautam-buddha-wildlife-sanctuary/">http://www.nomadline.com/gautam-buddha-wildlife-sanctuary/</a>
 <p></p>
-<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 Source: https://forest.jharkhand.gov.in.onlinepanel.in.net/wings_wildlife_protectedarea_gautambudha.html
+<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 Source: <a href="https://forest.jharkhand.gov.in.onlinepanel.in.net/wings_wildlife_protectedarea_gautambudha.html">https://forest.jharkhand.gov.in.onlinepanel.in.net/wings_wildlife_protectedarea_gautambudha.html</a>
 <p></p>
 <span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 AI generated image.
 <p></p>
@@ -646,7 +646,7 @@
 <p></p>
 <span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/Shravasti">https://en.wikipedia.org/wiki/Shravasti</a>
 <p></p>
-<span id="endnote30">[<a href="#Endnote30">30</a>]</span>	 Source: https://en.wikipedia.org/wiki/Shravasti
+<span id="endnote30">[<a href="#Endnote30">30</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/Shravasti">https://en.wikipedia.org/wiki/Shravasti</a>
 <p></p>
 <span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 See: MN: Note: 640. * During this period the Buddha was about 48 years old; calculating that the Buddha went forth at the age 29, the day prince Rāhula was born, this seems to be the right age of Venerable Rāhula.
 <p></p>
@@ -664,7 +664,7 @@
 <p></p>
 <span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 Source: https://en.wikipedia.org/wiki/Kapilavastu
 <p></p>
-<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 Giving no hint of its importance in the  world or of its famous inhabitants says Deepak Anand in his blog.Source: <b>Deepak Anand</b> <a href="https://www.blogger.com/profile/14702525494865105362">https://www.blogger.com/profile/14702525494865105362</a>
+<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 Giving no hint of its importance in the  world or of its famous inhabitants says Deepak Anand in his blog. Source: <b>Deepak Anand</b> <a href="https://www.blogger.com/profile/14702525494865105362">https://www.blogger.com/profile/14702525494865105362</a>
 <p><a href="https://nalanda-insatiableinoffering.blogspot.com/2022/01/kapilavastu-palace-city-witness-to-two.html">https://nalanda-insatiableinoffering.blogspot.com/2022/01/kapilavastu-palace-city-witness-to-two.html</a></p>
 <p></p>
 <span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 SN55:21 &amp; 22 (Mahānāma two suttas).
@@ -678,6 +678,6 @@
 <span id="endnote44">[<a href="#Endnote44">44</a>]</span>	 Source:  Dhammapada Aţţakathā, translated by E.W. Burlingham &amp; Bhikkhu Ãnandajoti.
 <p><a href="https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/09-12.htm">https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/09-12.htm</a> * This story also elaborated in Chapter 33: The Great Chronicles of the Buddhas by Venerable Mingun Sayadaw. * Suppabuddha, a wealthy Sakyan from Devadaha, was the father-in-law to the Buddha, as his daughter Yasodharā married Prince Siddhartha He was also the uncle of the Buddha as his wife Amita Devi was King Suddhona’s sister; his son was Devadatta.</p>
 <p></p>
-<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 Source: https://www.wisdomlib.org/buddhism/book/dhammapada-illustrated/d/doc1084354.html
+<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 Source: <a href="https://www.wisdomlib.org/buddhism/book/dhammapada-illustrated/d/doc1084354.html">https://www.wisdomlib.org/buddhism/book/dhammapada-illustrated/d/doc1084354.html</a>
 </article>
 </div>

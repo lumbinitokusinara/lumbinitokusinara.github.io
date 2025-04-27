@@ -631,7 +631,7 @@
 <p></p>
 <span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 Source: Tathāgatassa Vassā: The Realised One’s Rains Retreats by Bhikkhu Ãnandajoti
 <p></p>
-<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Source: https://proneta.in/ghazipur_assembly_constituency_uttar_pradesh-375
+<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Source: <a href="https://proneta.in/ghazipur_assembly_constituency_uttar_pradesh-375">https://proneta.in/ghazipur_assembly_constituency_uttar_pradesh-375</a>
 <p></p>
 <span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 Source: Google.
 <p></p>
@@ -678,7 +678,7 @@
 <p></p>
 <span id="endnote37">[<a href="#Endnote37">37</a>]</span>	 Source: 13.7 The Story about the Weaver’s Daughter Pesakāradhītāvatthu : A Revised Translation<b>
 <p></b>of the Dhammapada Aṭṭhakathā together with a New Translation of All the Verse Texts</p>
-<p>E W Burlingame, Ānandajoti Bhikkhu: https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/index.htm</p>
+<p>E W Burlingame, Ānandajoti Bhikkhu: <a href="https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/index.htm">https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/index.htm</a></p>
 <p></p>
 <span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 Dhp: 174
 <p></p>
@@ -688,7 +688,7 @@
 <p></p>
 <span id="endnote41">[<a href="#Endnote41">41</a>]</span>	 Source 3: Chapter 24: The Great Chronicles of the Buddhas by Venerable Mingun Sayadaw.
 <p></p>
-<span id="endnote42">[<a href="#Endnote42">42</a>]</span>	 Map source: Google.
+<span id="endnote42">[<a href="#Endnote42">42</a>]</span>	 Map source: Google Maps.
 <p></p>
 <span id="endnote43">[<a href="#Endnote43">43</a>]</span>	 Source: A Revised Translation<b> </b>of the Dhammapada Aṭṭhakathā together with a New Translation of All the Verse Texts E W Burlingame, Ānandajoti Bhikkhu,
 <p></p>
