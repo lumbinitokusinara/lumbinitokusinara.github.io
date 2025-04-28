@@ -741,9 +741,7 @@
 <p>To live by your Way—</p>
 <p>to awaken, as you!</p>
 <p></p>
-<p>----Image alt text----&gt;A pink and yellow flower</p>
-<p></p>
-<p>AI-generated content may be incorrect.&lt;<img src="page19_5/image15.png" /></p>
+<img src="page19_5/image15.png" />
 <p></p>
 <h2>Venerable Anuruddha’s Great Compassion</h2>
 <p>After the Blessed One’s Mahāparinibbāna, the sacred night grew silent. In the stillness, Venerable Anuruddha and Venerable Ānanda, two devoted disciples, sat together, their hearts tender with the immeasurable loss. Out of deep compassion, Venerable Anuruddha, wise and serene, remained by Venerable Ānanda’s side, speaking gently of the Dhamma.</p>
@@ -807,11 +805,9 @@
 <p>and turn to Dhamma as our guide,</p>
 <p>our shelter, refuge, night and day.</p>
 <p></p>
-<p>----Image alt text----&gt;A pink flower with a yellow flower</p>
+<img src="page19_5/image17.png" />
 <p></p>
-<p>AI-generated content may be incorrect.&lt;<img src="page19_5/image17.png" /></p>
-<p></p>
-<p>The next section, 19-6, will honour the Great Funeral of the Buddha and the distribution of his sacred relics among his devoted followers.</p>
+<p class="caption">The next section, 19-6, will honour the Great Funeral of the Buddha and the distribution of his sacred relics among his devoted followers.</p>
 <h3>End Notes: Section19:5</h3>
 <p></p>
 <p></p>

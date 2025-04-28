@@ -520,7 +520,7 @@
 <p></p>
 <span id="endnote31">[<a href="#Endnote31">31</a>]</span>	 Dhp:5
 <p></p>
-<span id="endnote32">[<a href="#Endnote32">32</a>]</span>	 SN45:27 (The pot sutta).
+<span id="endnote32">[<a href="#Endnote32">32</a>]</span>	 <a href="https://suttacentral.net/sn45.27/en/sujato?lang=en&amp;layout=plain&amp;reference=none¬es=none&amp;highlight=false&amp;script=latin">SN45:27</a> (The sutta on Pots).
 <p></p>
 <span id="endnote33">[<a href="#Endnote33">33</a>]</span>	 AN5:193.
 <p></p>
@@ -530,13 +530,13 @@
 <p></p>
 <span id="endnote36">[<a href="#Endnote36">36</a>]</span>	 AN4:36
 <p></p>
-<span id="endnote37">[<a href="#Endnote37">37</a>]</span>	 SN45:91 (slanting to the east sutta)
+<span id="endnote37">[<a href="#Endnote37">37</a>]</span>	 <a href="https://suttacentral.net/sn45.91/en/bodhi?lang=en&amp;reference=none&amp;highlight=false">SN45:91</a> (slanting to the east sutta)
 <p></p>
-<span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 SN45: 152.
+<span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 <a href="https://suttacentral.net/sn45.152/en/sujato?lang=en&amp;layout=plain&amp;reference=none¬es=none&amp;highlight=false&amp;script=latin">SN45: 152</a>.
 <p></p>
-<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 SN45:153.
+<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 <a href="https://suttacentral.net/sn45.153/en/sujato?lang=en&amp;layout=plain&amp;reference=none¬es=none&amp;highlight=false&amp;script=latin">SN45:153</a>.
 <p></p>
-<span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 SN45:158.
+<span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 <a href="https://suttacentral.net/sn45.158/en/sujato?lang=en&amp;layout=plain&amp;reference=none¬es=none&amp;highlight=false&amp;script=latin">SN45:158</a>.
 <p></p>
 <span id="endnote41">[<a href="#Endnote41">41</a>]</span>	 SN22:99,
 <p></p>
@@ -544,9 +544,9 @@
 <p></p>
 <span id="endnote43">[<a href="#Endnote43">43</a>]</span>	 AI created image.
 <p></p>
-<span id="endnote44">[<a href="#Endnote44">44</a>]</span>	 SN45:150.
+<span id="endnote44">[<a href="#Endnote44">44</a>]</span>	 <a href="https://suttacentral.net/sn45.150/en/sujato?lang=en&amp;layout=plain&amp;reference=none¬es=none&amp;highlight=false&amp;script=latin">SN45:150</a>.
 <p></p>
-<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 SN45:151 &amp; SN46:1
+<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 <a href="https://suttacentral.net/sn45.151/en/sujato?lang=en&amp;layout=plain&amp;reference=none¬es=none&amp;highlight=false&amp;script=latin">SN45:151</a> &amp; SN46:1
 <p></p>
 <span id="endnote46">[<a href="#Endnote46">46</a>]</span>	 <i>pāricchattaka </i>is a tree growing in the Nandana Grove in the Tāvatiṃsa heaven. It is a
 <p>hundred leagues in circumference and at its foot is Sakka’s stone seat. The <i>pāricchattaka </i>is said to be one of seven trees that last throughout the eon, see: AN: Note: 1586</p>
