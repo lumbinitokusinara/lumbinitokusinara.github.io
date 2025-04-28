@@ -131,7 +131,7 @@ if allFiles == True:
                     
                     elif capture_next and stripped_line:
                         # Check if the line does not contain HTML header tags
-                        print(stripped_line)
+                        print(stripped_line.encode("utf-8"))
                         if not re.search(r'<(h1|h2|h3|h4|h5|h6)[^>]*>', stripped_line, re.IGNORECASE):
                             # Enclose the line in <p class="caption"> </p>
                             html_file.write(f'<p class="caption">{stripped_line}</p>\n')

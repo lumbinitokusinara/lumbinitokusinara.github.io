@@ -106,42 +106,17 @@
 <p></p>
 <p></p>
 <p class="caption"><b>Map 1: The Sixteen Mahājanapadas  </b><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
+<p></p>
 <p>This map illustrates the major kingdoms of ancient India during the time of the Buddha. The Malla kingdom, with its capital at Kusinārā, is shown alongside other prominent kingdoms</p>
 <p>such as Kosala, Magadha, and Vajjī.</p>
 <p></p>
 <img src="page19_5/image3.png" />
 <p></p>
+<p class="caption"><b>Map 2: The Buddha’s Renunciation and Final Journey </b><span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Map 2: The Buddha’s Renunciation and Final Journey</b><span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
 <p>The route from Kapilavatthu to Anupiya Mango Grove marks the early phase of the Bodhisatta’s quest. Decades later, the path from Rājagaha to Kusinārā marks the final journey of the fully Enlightened One, completing the great circle of the Buddha’s earthly life<i>.</i></p>
-<p><b>1 route</b>: Distance from Kapialavattu visa Anupiya Mango grove near Kusinara to Rājagaha 472 km, Rājagaha to Uruvela located in Varanasi 302 km 2 <b>route2 </b>: Final Journey: Rājagaha to Kusinara via Vesali 472 km.</p>
+<p><b>Route 1</b>: Distance from Kapialavattu visa Anupiya Mango grove near Kusinara to Rājagaha 472 km, Rājagaha to Uruvela located in Varanasi 302 km, <b>Route2</b>: Final Journey: Rājagaha to Kusinara via Vesali 472 km.</p>
 <p></p>
 <p></p>
 <p></p>
@@ -302,8 +277,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>1. Lumbinī – The Blessed Birth</b><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
-<p><i>"Here the Tathāgata was born."</i></p>
+<p class="caption"><b>1. Lumbinī – The Blessed Birth </b><span id="Endnote14">[<a href="#endnote14">14</a>]</span><b>,</b> <i>"Here the Tathāgata was born."</i></p>
 <p></p>
 <p></p>
 <p></p>
@@ -353,19 +327,19 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>2. Bodhgayā – The Supreme Enlightenment</b>-<span id="Endnote15">[<a href="#endnote15">15</a>]</span></p>
-<p></p>
-<p><i>"Here the Tathāgata attained Supreme Enlightenment."</i></p>
+<p class="caption"><b>2. Bodhgayā – The Supreme Enlightenment</b> <span id="Endnote15">[<a href="#endnote15">15</a>]</span>, <i>"Here the Tathāgata attained Supreme Enlightenment."</i></p>
 <p></p>
 <img src="page19_5/image8.jpeg" />
 <p></p>
-<p class="caption"><b>3. Sarnath – The Turning of the Wheel of Dhamma</b><span id="Endnote16">[<a href="#endnote16">16</a>]</span></p>
-<p><i>"Here the Tathāgata set in motion the Wheel of Dhamma."</i></p>
+<p class="caption"><b>3. Sarnath – The Turning of the Wheel of Dhamma </b><span id="Endnote16">[<a href="#endnote16">16</a>]</span><b>, </b><i>"Here the Tathāgata set in motion the Wheel of Dhamma."</i></p>
 <p></p>
 <p></p>
 <p></p>
-<img src="page19_5/image9.jpeg" /><b>4. Kusinārā – The Great Passing Beyond </b><span id="Endnote17">[<a href="#endnote17">17</a>]</span>
-<p class="caption"><i>"Here the Tathāgata attained the Nibbāna-element without remainder."</i></p>
+<img src="page19_5/image9.jpeg" />
+<p></p>
+<p></p>
+<p></p>
+<p class="caption"><b>4. Kusinārā – The Great Passing Beyond </b><span id="Endnote17">[<a href="#endnote17">17</a>]</span><b>, </b><i>"Here the Tathāgata attained the Nibbāna-element without remainder."</i></p>
 <p></p>
 <p></p>
 <p></p>
@@ -423,7 +397,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Offering flowers at the feet of the Buddha</b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
+<p class="caption"><b>Offering flowers at the feet of the Buddha </b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
 <p></p>
 <img src="page19_5/image12.png" />
 <p></p>
@@ -473,7 +447,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Devotees Offerings flowers at a Stupa</b><span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
+<p class="caption"><b>Devotees Offerings flowers at a Stupa </b><span id="Endnote20">[<a href="#endnote20">20</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -550,7 +524,13 @@
 <p></p>
 <p></p>
 <p></p>
-<img src="page19_5/image13.jpeg" /><b>Venerable Ãnanda’s last homage to the Blessed One </b><span id="Endnote23">[<a href="#endnote23">23</a>]</span>
+<p></p>
+<p></p>
+<img src="page19_5/image13.jpeg" />
+<p></p>
+<p></p>
+<p></p>
+<p class="caption"><b>Venerable Ãnanda’s last homage to the Blessed One </b><span id="Endnote23">[<a href="#endnote23">23</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -677,7 +657,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>And from the radiant stillness of the fourth jhāna, the Blessed One finally,  peacefully, utterly — passed into Parinibbāna.</b><span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
+<p class="caption"><b>And from the radiant stillness of the fourth jhāna, the Blessed One finally,  peacefully, utterly — passed into Parinibbāna. </b><span id="Endnote25">[<a href="#endnote25">25</a>]</span></p>
 <p></p>
 <h2>The Blessed One’s Final Passing</h2>
 <p>Shortly after, the Blessed One entered into the meditative absorptions (<i>jhānas</i>) in sequence, gradually deepening his stillness. He entered the first jhāna, then the second, third, and fourth; then transcended into the formless attainments—space, consciousness, nothingness, and neither-perception-nor-non-perception. Then, reversing the order, he returned through each absorption until he reached the fourth jhāna once again.</p>
@@ -800,7 +780,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Sitting under the Great Sala Tree Venerable </b><b>Anuruddha, speaking gently of the Dhamma to Venerable Ānanda</b><span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
+<p class="caption"><b>Sitting under the Great Sala Tree Venerable </b><b>Anuruddha, speaking gently of the Dhamma to Venerable Ānanda </b><span id="Endnote27">[<a href="#endnote27">27</a>]</span></p>
 <p></p>
 <p>Thus, through kindness and wisdom, Anuruddha helped his spiritual brother find strength again in the timeless refuge of the Dhamma. With this profound moment of compassion, we bring to a close the sacred account of the Blessed One’s final passing.</p>
 <p></p>
@@ -852,13 +832,13 @@
 <p></p>
 <span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Source: https://en.wikipedia.org/wiki/Mahajanapadas
+<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/Mahajanapadas">https://en.wikipedia.org/wiki/Mahajanapadas</a>
 <p></p>
-<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Google map.
+<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Google Maps.
 <p></p>
-<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Source: https://softstar.fandom.com/wiki/Deva_Kingdom
+<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Source: <a href="https://softstar.fandom.com/wiki/Deva_Kingdom">https://softstar.fandom.com/wiki/Deva_Kingdom</a>
 <p></p>
-<span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 Source: https://www.facebook.com/photo.php?fbid=4541080992573947&amp;id=144113158937441&amp;set=a.2548268571855209&amp;locale=tl_PH
+<span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 Source: <a href="https://www.facebook.com/photo.php?fbid=4541080992573947&amp;id=144113158937441&amp;set=a.2548268571855209&amp;locale=tl_PH">https://www.facebook.com/photo.php?fbid=4541080992573947&amp;id=144113158937441&amp;set=a.2548268571855209&amp;locale=tl_PH</a>
 <p></p>
 <span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 DN:16
 <p></p>
@@ -868,19 +848,19 @@
 <p></p>
 <span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 https://www.tibettravel.org/india-tibet-nepal-bhutan-tour/spiritual-odyssey-from-india-to-nepal-tibet-and-bhutan.html
+<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 <a href="https://www.tibettravel.org/india-tibet-nepal-bhutan-tour/spiritual-odyssey-from-india-to-nepal-tibet-and-bhutan.html">https://www.tibettravel.org/india-tibet-nepal-bhutan-tour/spiritual-odyssey-from-india-to-nepal-tibet-and-bhutan.html</a>
 <p></p>
 <span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 https://www.academia.edu/12075727/An_account_of_the_rediscovery_of_Bodh_Gaya
 <p></p>
-<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 https://traveltriangle.com/blog/things-to-do-in-sarnath/
+<span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 <a href="https://traveltriangle.com/blog/things-to-do-in-sarnath/">https://traveltriangle.com/blog/things-to-do-in-sarnath/</a>
 <p></p>
-<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 https://www.dreamstime.com/kushinagar-india-december-buddha-gold-statue-mahaparinirvana-temple-kusinara-uttar-pradesh-reclining-parinivarna-ind-image120566266
+<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 <a href="https://www.dreamstime.com/kushinagar-india-december-buddha-gold-statue-mahaparinirvana-temple-kusinara-uttar-pradesh-reclining-parinivarna-ind-image120566266">https://www.dreamstime.com/kushinagar-india-december-buddha-gold-statue-mahaparinirvana-temple-kusinara-uttar-pradesh-reclining-parinivarna-ind-image120566266</a>
 <p></p>
 <span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 DN:16
 <p></p>
-<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 Source: https://www.pressreader.com/sri-lanka/daily-mirror-sri-lanka/20170609/282716226970975
+<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 Source: <a href="https://www.pressreader.com/sri-lanka/daily-mirror-sri-lanka/20170609/282716226970975">https://www.pressreader.com/sri-lanka/daily-mirror-sri-lanka/20170609/282716226970975</a>
 <p></p>
-<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 Source: https://exploresrilanka.lk/an-offering-of-flowers/
+<span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 Source: <a href="https://exploresrilanka.lk/an-offering-of-flowers/">https://exploresrilanka.lk/an-offering-of-flowers/</a>
 <p></p>
 <span id="endnote21">[<a href="#Endnote21">21</a>]</span>	 DN:16
 <p></p>
@@ -890,10 +870,10 @@
 <p></p>
 <span id="endnote24">[<a href="#Endnote24">24</a>]</span>	 DN:16
 <p></p>
-<span id="endnote25">[<a href="#Endnote25">25</a>]</span>	 Source: https://dharmasar.wordpress.com/2015/02/21/what-did-the-buddha-really-teach/
+<span id="endnote25">[<a href="#Endnote25">25</a>]</span>	 Source: <a href="https://dharmasar.wordpress.com/2015/02/21/what-did-the-buddha-really-teach/">https://dharmasar.wordpress.com/2015/02/21/what-did-the-buddha-really-teach/</a>
 <p></p>
 <span id="endnote26">[<a href="#Endnote26">26</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 https://www.istockphoto.com/photos/two-monks
+<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 <a href="https://www.istockphoto.com/photos/two-monks">https://www.istockphoto.com/photos/two-monks</a>
 </article>
 </div>
