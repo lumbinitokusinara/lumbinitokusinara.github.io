@@ -1,31 +1,30 @@
-<h1>Section 19.5: The Final Journey – Phase 5: The Parinibbāna</h1>
-As we saw in Section 19.4, the Blessed One completed the last leg of his final journey by entering the gateway of the beautiful Sāla grove of the Mallas at Kusinārā. Before we describe the profound events that unfolded there, it is helpful to clarify the terms <i>Nibbāna</i> and <i>Parinibbāna</i> for the benefit of readers.
-<h2>What is Nibbāna? What is Parinibbāna?</h2>
-According to the teachings of the Buddha, Nibbāna is the complete liberation from the cycle of <i>saṃsāra</i>—the ongoing process of birth, aging, sickness, and death. It is the extinguishing of the causes that keep this cycle turning: namely, greed (<i>lobha</i>), hatred (<i>dosa</i>), and delusion (<i>moha</i>). Nibbāna is the state of complete freedom from suffering and defilements. This state is often described as Nibbāna as well as Parinibbāna.
-While <i>Nibbāna</i> refers to this liberated state, <i>Parinibbāna</i> specifically refers to the final passing away of an arahant—when the five aggregates cease entirely at the time of death, and there is no further rebirth. In the case of the Buddha, this event is referred to with great reverence as <i>Mahāparinibbāna</i>—"the Great Final Passing Away"—emphasizing that he was not only a fully-liberated arahant but also the perfectly enlightened Tathāgata.
-<h3>The Buddha described this liberation in several suttas:</h3>
-<i>“Therefore, bhikkhus, through the complete destruction, fading away, cessation, giving up, and relinquishing of craving, the Tathāgata has awakened to supreme full enlightenment…”</i>
-<i>(MN 1: Mūlapariyāya Sutta)</i>
-<i>“Bhikkhus, this is the direct path for the purification of beings, for the surmounting of sorrow and lamentation, for the disappearance of pain and grief, for the attainment of the true way, for the realisation of Nibbāna—namely, the four foundations of mindfulness…”
-(MN 10: Satipaṭṭhāna Sutta)</i>
-“<i>Bhikkhus, when ignorance is abandoned and true knowledge has arisen in a bhikkhu, then …he no longer clings to sensual pleasures, no longer clings to views, no longer clings to rules and observances, no longer clings to a doctrine of self. When he does not cling, he is not agitated. When he is not agitated, he personally attains Nibbāna. He understands: ‘Birth is destroyed, the holy life has been lived, what had to be done has been done, there is no more coming to any state of being.’” (MN 11: Cūḷasīhanāda Sutta)</i>
-<i>“Then the bhikkhus of the group of five… seeking the unaging, unailing, deathless, sorrowless, and undefiled supreme security from bondage—Nibbāna—they attained it. The knowledge and vision arose in them: ‘Our deliverance is unshakeable; this is our last birth; there is no renewal of being.’” (MN 26: Ariyapariyesanā Sutta)</i>
-<h3>Renowned Buddhist scholars have further clarified the distinction:</h3>
-<b>Bhikkhu Nyanatiloka writes:</b>
-<i>“Nibbāna (Skt. nirvāṇa, from nir + vā ‘to cease blowing, to become extinguished’)—freedom from desire—is the highest and ultimate goal of all Buddhist aspiration. It is the absolute extinction of the life-affirming will manifested as greed, hatred, and delusion. Parinibbāna (‘Full Nibbāna’) is a synonym for Nibbāna, and though often applied to the extinction of the five aggregates at death, it is not exclusively limited to that event.”</i> ----endnote1----
+<h1>Section 2: Childhood and Family Life of Prince Siddhartha</h1>
+In the previous section of this series, we delved into the remarkable birth of Prince Siddhartha and the extraordinary events surrounding his arrival into this world. Now, we explore his early years, from childhood to the transformative moment at the age of twenty-nine, when he left his royal life behind to embark on the path of an ascetic in search of liberation.
+<h2>The Family of Prince Siddhartha</h2>
+Prince Siddhartha’s name, Siddhartha, means “<b>he who achieves his goal,</b>” <b> </b>----endnote1---- and indeed, his life would unfold to achieve the supreme goal of enlightenment, bringing profound peace and wisdom to countless beings. Born in the city of Kapilavattu, Prince Siddhartha belonged to the Sakya Clan, a noble family of rulers. His father, King Suddhodana, and his mother, Queen Mahamaya, were revered for their wisdom and compassion. ----endnote2---- However, the life of this noble prince was marked by profound sorrow, as his mother, Queen Mahamaya, passed away just seven days after his birth. ----endnote3---- 
+In a gesture of love and compassion, Queen Prajapati, Queen Mahamaya’s sister and King Suddhodana’s second consort, stepped forward as the prince’s foster mother. Queen Prajapati would later become a prominent figure in the Buddha’s teachings, being the first to be ordained as a Bhikkhuni in the community of nuns, embodying the noble qualities of devotion and compassion.
+Prince Siddhartha also had a half-brother, Prince Nanda, and a half-sister, Princess Nandā, children of King Suddhodana and Queen Prajapati, who were also part of the royal family that would witness the unfolding of his extraordinary destiny.
+The scriptures beautifully recount the significance of Prince Siddhartha’s family. In the Mahāpadāna Sutta (DN:14), the Devas express the auspiciousness of the Buddha’s birth and his noble lineage:
+<i>“…In this fortunate aeon now, the Lord Buddha has arisen in the world… His father is King Suddhodana, his mother was Queen Maya, and his royal capital is Kapilavattu…”</i>
+In the Udana, Venerable Ānanda Thera reflects on the profound nature of the Buddha’s mother’s passing: ----endnote4---- 
+<i>“…It’s incredible, sir, it’s amazing! How short-lived was the Blessed One’s mother! For seven days after the Blessed One was born, his mother passed away and was reborn in the host of joyful gods (Tusita heaven)”</i>
+The Buddha, in his compassionate wisdom, explains:
+<i>“That’s so true, Ānanda! For the mothers of being’s intent on awakening are short-lived. Seven days after the being’s intent on awakening are born, their mothers pass away and are reborn in the host of joyful gods…”</i>
+This passage illuminates the deep connection between the Buddha’s life and the unfolding of his path to enlightenment, revealing the divine significance of his birth and the transcendent nature of his family. The early loss of his mother, though heartbreaking, set the stage for Siddhartha’s eventual awakening and the subsequent teachings that would uplift all beings.
+The noble birth of Prince Siddhartha in the Sakyan family was not just a royal event; it was the beginning of a journey that would transcend worldly existence, ultimately bringing forth the wisdom that would guide countless beings to liberation. The compassion and the divine purpose behind his birth and his family’s role in his life serve as a profound reminder of the interconnectedness of all beings and the deep compassion that the Buddha embodied, not only for his family but for the entire world.
+<b>Ven. Kāludāyi Thera</b>, a devoted disciple of the Buddha, expressed the following: ----endnote5----
 
+<i>“… </i><b><i>Suddhodana</i></b><i> is the name of the Great Seer’s father, and </i><b><i>Māyā</i></b><i> is the name of the Buddha’s mother, who, having nurtured the Bodhisatta in her womb, now rejoices in the threefold divine realm after the dissolution of her body. She, </i><b><i>Gotamī</i></b><i>, having passed away, has transcended this world and is now blessed with heavenly sensual pleasures…”</i>
+In the Dakkhiṇāvibhanga Sutta (MN:142), Venerable Ānanda also affirms that Queen Mahāpajāpatī was the Buddha’s foster mother. He states:
+<i>“… Mahāpajāpatī Gotamī has been of great assistance to the Blessed One, venerable sir. As his mother’s sister, she became his nurse and foster mother, the one who gave him milk. She suckled the Blessed One after his own mother passed away…”</i>
+Queen Prajāpati, reflecting on her unique role as the Buddha’s foster mother, said: ----endnote6---- 
+<i>“… </i><b><i>Sublime One</i></b><i>, I am your foster mother, yet you nourished me with the milk of the </i><b><i>True Dhamma</i></b><i>. Therefore, you are my father… </i><b><i>Greatest Hero</i></b><i>, I raised you by nursing you, and you supported me in building this </i><b><i>Dhamma body</i></b><i>. I quenched your thirst with my breast milk, and the </i><b><i>Dhamma milk</i></b><i> you provided extinguished my worldly desires. While titles like ‘King’s mother’ and ‘King’s wife’ hold great significance, the title of ‘Buddha’s mother’ surpasses them all…”</i>----endnote7----<i> </i>
 
+----media/image1.jpeg----
 
-<b>Bhikkhu Bodhi notes:</b>
-<i>“While it is often said that Nibbāna is the experience of release in life and Parinibbāna is its full realization at death, this is a simplification. The prefix pari- transforms a verb from expressing a state to expressing the attainment of that state. Thus, nibbāna refers to the state of release, while parinibbāna denotes its full achievement—either during life or at the moment of physical dissolution.”</i>
-In this way, the Buddha's <i>Mahāparinibbāna</i> was not simply the death of a person, but the final and complete extinguishing of all conditioned existence—<i>anupādisesa-nibbāna-dhātu</i>, the element of Nibbāna without remainder.----endnote2----
 
 
 
-With this understanding of <i>Nibbāna</i> and <i>Parinibbāna</i>, we are better prepared to approach the final moments of the Blessed One’s life with clarity and reverence. What took place in the Sāla grove of the Mallas was not merely the physical passing of a great teacher, but the culmination of an extraordinary life fully lived in Dhamma. As the Buddha lay on his right side between the twin Sāla trees, surrounded by disciples and devas, the serene and majestic scene became the setting for his final teaching and the Great Passing Away—<i>Mahāparinibbāna</i>.
-<h2>Kusinārā – The Sacred Ground of the Final Resting Place</h2>
-At the time of the Blessed One, Kusinārā was the capital city of the Malla kingdom, one of the sixteen <i>Mahājanapadas</i>—the great realms that flourished in ancient India from the sixth to fourth centuries BCE (see Map 1 below). While not among the most prosperous or well-known cities of the time, this humble town held a deep and hidden significance in the arc of the Buddha’s vast journey.
-Earlier in this work (Section 3), we noted that when the young Prince Siddhattha renounced the palace life of Kapilavatthu at the age of twenty-nine, he travelled eastward and reached the Anupiya Mango Grove near Kusinārā. It was there that he removed his princely attire, shaved his head, and entered the homeless life in search of the deathless. Now, as the fully awakened Buddha, he returned to this region—close to that very grove—as he prepared to breathe his last. <b>The arc had come full circle.</b> (see the picture below)
 
 
 
@@ -39,7 +38,6 @@ Earlier in this work (Section 3), we noted that when the young Prince Siddhattha
 
 
 
-----media/image1.png----
 
 
 
@@ -56,58 +54,81 @@ Earlier in this work (Section 3), we noted that when the young Prince Siddhattha
 
 
 
+<b>Baby Prince Siddhartha with Maha Pajapati Gotami</b>----endnote8----
 
+<h2>Prince Siddhartha’s Childhood</h2>
+Prince Siddhartha grew up in the comfort of royalty, sheltered from the outside world. However, even in his early years, two significant and unusual spiritual events occurred, foreshadowing the path he would one day follow, as documented in the scriptures.
+<h3>Prophesy about Buddhahood</h3>
+The first event took place when the renowned ascetic, Asita (also known as Kāladevala), visited King Suddhodana to see the newborn prince. The ascetic, upon observing the child, prophesied that the baby would one day become a great spiritual leader: ----endnote9----
 
 
 
+<i>“…He is supreme, the best of men! This boy shall reach the highest awakening. With perfectly purified vision, compassionate for the welfare of many, he will roll forth the wheel of the teaching. His spiritual path will spread far and wide…” </i>----endnote10----
 
 
 
+This prophecy marked the beginning of the divine significance of Prince Siddhartha’s life, setting the stage for his future as the Buddha.
 
+----Image alt text----&gt;undefined&lt;----media/image2.jpeg----
 
-Though Kusinārā appeared modest and remote at the time, the Buddha’s selection of this place was not arbitrary. As he once revealed, the Bodhisatta had, in previous lives, laid down his body in this very spot seven times. ----endnote3----Now, as the Perfectly Enlightened One, he would lie here for the eighth and final time—with no more rebirth to come. What may have seemed an insignificant village to the eyes of the world was, in truth, a site sanctified by great resolve, deep past-life aspiration, and the fulfillment of a timeless vow.
-Even so, Venerable Ānanda, overwhelmed with concern, voiced his sadness that such a “<b>small, wattle-and-daub town in the jungle</b>” should be the place of the Buddha’s passing. He reminded the Blessed One of the many great cities—Rājagaha, Sāvatthī, Kosambī, Vārāṇasī—where powerful and devoted followers could offer a grand farewell.
-The Buddha, ever composed, gently corrected Ānanda. He reminded him that all things—cities, wealth, fame—rise and fall. He revealed that Kusinārā had once been Kusāvatī, a glorious capital ruled by King Mahāsudassana, a wheel-turning monarch. ----endnote4---- In those days, it rivalled even the celestial city of Ālakamandā, the abode of the deva king Kuvera.----endnote5---- 
-Now it had faded—but this fading too was part of the Dhamma, the law of impermanence. To those who see with the eye of wisdom, no place is insignificant when touched by Dhamma.
-Thus, the Buddha’s final resting place was chosen not by worldly considerations, but by a deep alignment with truth, past vows, and the profound teaching of <i>anicca</i>—impermanence. And so, in this humble grove of Sāla trees, the most sacred event in Buddhist history was about to unfold.
 
 
+<b>The prophecy of the seer Asita</b> ----endnote11----
 
-----media/image2.png----
 
 
+<h3>Meditative Attainment as a Child</h3>
+The second significant event took place during a ploughing festival organized by his father. At just seven years old, Prince Siddhartha was found meditating under a Rose Apple tree. In this serene moment, it is said that he entered the first Jhana, a deep state of meditation. This early experience of profound samadhi and mindfulness would later lay the foundation for his spiritual journey to enlightenment.
+After attaining Buddhahood, the Blessed One recalled this moment from his childhood, describing it in the following way:
+<i>“…I recall that when my father, the Sakyan, was occupied, I sat in the cool shade of a rose-apple tree, completely secluded from sensual pleasures and free from unwholesome states. In this peaceful solitude, I entered and abided in the first jhāna, accompanied by applied and sustained thought, with rapture and pleasure born of seclusion…”</i>----endnote12----
 
 
 
+This early meditation marked the beginning of Prince Siddhartha’s connection with the path of inner peace, which would ultimately lead him to the realization of enlightenment. 
 
+----media/image3.jpeg----
 
 
 
+				
 
 
 
+	
 
+	
 
+	
 
+	
 
+	
 
+	
 
+	
 
+	
 
+	
 
+	
 
+	
 
+	<b>Prince Siddhartha’s first meditation at the age of seven </b>----endnote13----
 
 
 
+<h2>Young Prince Siddhartha </h2>
+According to the scriptures, prince Siddhartha lived in the royal palace in<b> </b>Kapilavattu, the capital of the Sakyan Clan until the age of twenty-nine. The Buddha recalls: 
+<i>“I lived in lay life for twenty-nine years… Bhadda Kacchana  (Yashodhara) was my queen… Rahula was my son’ . </i>----endnote14----
 
 
 
-<b>Map 1: The Sixteen Mahājanapadas  </b>----endnote6----
-This map illustrates the major kingdoms of ancient India during the time of the Buddha. The Malla kingdom, with its capital at Kusinārā, is shown alongside other prominent kingdoms 
-such as Kosala, Magadha, and Vajjī.
+In this sutta the Buddha describes his princely life: 
+<i>“…I was delicately nurtured…at my father’s residence lotus ponds were made just for my enjoyment: in one of them blue lotuses bloomed, in another red lotuses, and in a third white lotuses… I used no sandalwood unless it came from Kāsi and my headdress, jacket, lower garment, and upper garment were made of cloth from Kāsi … I had three mansions: one for the winter, one for the summer, and one for the rainy season… I spent the four months of the rains in the rainy-season mansion, being entertained by musicians, none of whom were male and I did not leave the mansion…”</i><b> </b><b> </b>----endnote15----
 
-----media/image3.png----
 
 
 
@@ -115,31 +136,6 @@ such as Kosala, Magadha, and Vajjī.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<b>Map 2: The Buddha’s Renunciation and Final Journey</b>----endnote7----
-The route from Kapilavatthu to Anupiya Mango Grove marks the early phase of the Bodhisatta’s quest. Decades later, the path from Rājagaha to Kusinārā marks the final journey of the fully Enlightened One, completing the great circle of the Buddha’s earthly life<i>.</i>
-<b>1 route</b>: Distance from Kapialavattu visa Anupiya Mango grove near Kusinara to Rājagaha 472 km, Rājagaha to Uruvela located in Varanasi 302 km 2 <b>route2 </b>: Final Journey: Rājagaha to Kusinara via Vesali 472 km.
 
 
 
@@ -147,124 +143,13 @@ The route from Kapilavatthu to Anupiya Mango Grove marks the early phase of the 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<b>Image: Ancient Kusinārā / Artistic impression of King Mahāsudassana’s Kusāvatī </b>----endnote8----
-<i>The Buddha described Kusinārā as once being the magnificent royal city of Kusāvatī, ruled by King Mahāsudassana. This image helps us envision the grandeur of that ancient past, and the timeless message of impermanence he shared.</i>
-
-
+<b>Royal pleasures of Prince Siddhartha</b> -I spent the four months of the rains in the rainy-season mansion, being entertained by musicians, none of whom were male and I did not leave the mansion ----endnote16----
 
 
 
 ----media/image5.jpeg----
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<b>Modern-day Kushinagr- an aerial view </b>----endnote9----
-
-
-
-<h2>Events at the Sāla Grove Before the Mahāparinibbāna</h2>
-The Blessed One had arrived in Kusinārā and was received with honour by the Mallas, who invited him to rest in the serene <i>Sāla</i> grove of <i>Upavattana</i>, just outside the city. There, between two majestic twin <i>Sāla</i> trees—suddenly blossoming out of season—the Buddha chose his final resting place. A couch was prepared for him with its head to the north, and the Blessed One lay down on his right side in the lion’s posture, composed and mindful.
-The scene was both solemn and sublime. The twin trees shed their blossoms in homage, and celestial flowers rained down from the sky. Heavenly music and fragrances filled the air, as devas from distant realms gathered silently to pay their respects. Around the Enlightened One, disciples—both human and celestial—sat with reverent stillness, aware that the final phase of the Tathāgata’s great journey was about to unfold.
-<h2>How to Truly Honour the Tathāgata</h2>
-Even in these final moments, the ever-compassionate Teacher offered his disciples a profound teaching—not on rituals or grand gestures, but on the true way to honour the Buddha. He said to Venerable Ānanda:
-“Ānanda, these <i>sāla</i>-trees have burst forth into an abundance of untimely blossoms … divine music and song sound from the sky in homage to the Tathāgata. Never before has the Tathāgata been so honoured, revered, esteemed, worshipped, and adored.
-<b>And yet, Ānanda, whatever monk, nun, male or female lay-follower dwells practising the Dhamma properly and perfectly fulfils the Dhamma-way—he or she honours the Tathāgata, reveres and esteems him, and pays him the supreme homage.</b>
-Therefore, Ānanda, <i>‘We will dwell practising the Dhamma properly and perfectly fulfil the Dhamma-way’</i>—this must be your watchword.”----endnote10----
-
-
-
-<h3>The Devas Paying Homage</h3>
-As the Buddha rested peacefully between the twin <i>sāla</i> trees, many of his disciples sat nearby in quiet sorrow. Among them was Venerable Upavāṇa, who stood close by, fanning the Blessed One. Suddenly, the Buddha gently asked Upavāṇa to step aside.
-Venerable Ānanda, surprised by this, respectfully asked the reason for the request. Upavāṇa had been attending to the Buddha with devotion—why should he move?
-The Buddha, always kind and full of wisdom, gave this gentle reply:
-“Ānanda, the devas from ten world-spheres have gathered to see the Tathāgata. For a distance of twelve <i>yojanas</i> around this <i>sāla</i>-grove, there is not a space you could touch with the tip of a hair that is not filled with mighty devas.
-And they are lamenting: ‘We have come a long way to see the Tathāgata. Rare is the arising of a Tathāgata, a fully Enlightened One, in this world—and tonight, in the last watch, the Tathāgata will attain final Nibbāna. Yet this great monk is standing before the Lord, blocking our last glimpse of him!’”
-Venerable Ānanda, though only a stream-enterer at the time, understood the gentle wisdom in the Buddha’s words.
-<h3>The Different Reactions of Devas</h3>
-Then Ānanda asked, “But, Lord, what kind of devas can the Blessed One perceive?”
-The Buddha replied:
-“Ānanda, there are sky-devas whose minds are still bound to the earth. They are weeping, tearing their hair, raising their arms, throwing themselves down, twisting and turning, crying: ‘All too soon the Blessed One is passing away! All too soon the Well-Farer is departing! All too soon the Eye of the World is vanishing!’
-There are also earth-devas with similarly bound minds, doing the same.
-But those devas who are free from attachment—those from higher realms, including non-returners—bear the moment patiently, understanding: <i>‘All compounded things are impermanent. What is the use of sorrow?’</i>”----endnote11----
-
-
-
-<h3>Four Places to Remember the Blessed One</h3>
-Ever kind and always considering the welfare of others, Venerable Ānanda grew concerned for his brothers and sisters of the Saṅgha, scattered across distant lands, many living in seclusion and unaware that their beloved Master was soon to pass away. He also thought with deep compassion of the devoted householders—faithful laymen and laywomen—who had nurtured the growth of the Dispensation and who, too, were far away from Kusinārā, not knowing that the Blessed One’s final passing was only a few hours away.
-Moved by this tender concern, Venerable Ānanda approached the Buddha and said:
-<i>"Lord, in former times, monks who had spent the Rains in various places would come to see the Tathāgata, and we would welcome them, so that such well-trained monks might behold the Blessed One and pay their respects. But after the Lord’s passing, we shall no longer have the chance to do this."</i>----endnote12----
-
-The ever-compassionate Buddha, understanding Ānanda’s heartfelt sorrow, gently consoled him and gave this timeless teaching:
-"Ānanda, there are four places the sight of which should arouse emotion in the faithful. Which are they?
-
---	‘Here the Tathāgata was born’—this is the first.
-
---	‘Here the Tathāgata attained Supreme Enlightenment’—this is the second.
-
---	‘Here the Tathāgata set in motion the Wheel of Dhamma’—this is the third.
-
---	‘Here the Tathāgata attained the Nibbāna-element without remainder’—this is the fourth.
-And, Ānanda, faithful monks, nuns, male lay-followers, and female lay-followers will visit these places with hearts full of devotion. And any who die while making the pilgrimage to these sacred shrines with a devout heart will, at the breaking-up of the body, after death, be reborn in a heavenly world."
-<i>The Four Sacred Places of Pilgrimage
-"The Blessed One, out of compassion, pointed out these four sacred places, saying that the faithful should visit them and recollect the Tathāgata with a devoted heart."</i>----endnote13----
-
-
-
---	Lumbinī (Birthplace)
-
---	Bodhgayā (Enlightenment)
-
---	Sarnath (First Sermon)
-
---	Kusinārā (Mahāparinibbāna)
+<b>Young Prince Siddhartha in the royal palace </b>(may be reflecting of uncertainty of sensual life) ----endnote17----
 
 
 
@@ -300,12 +185,7 @@ And, Ānanda, faithful monks, nuns, male lay-followers, and female lay-followers
 
 
 
-<b>1. Lumbinī – The Blessed Birth</b>----endnote14----
-<i>"Here the Tathāgata was born."</i>
-
-
-
-
+<b>Royal wedding of Prince Siddhartha and princess Yasodhara</b> ----endnote18----
 
 
 
@@ -321,109 +201,130 @@ And, Ānanda, faithful monks, nuns, male lay-followers, and female lay-followers
 
 
 
+<b>Royal Family of Kapilavattu </b>Seated:<b> </b>Prince Siddhartha and princess Yasodhara in the center, left: Amita Devi (Yasodhara’s mother) Princess Nandā, right: Prince Nanda Standing: center King Suddhodana and Queen Prajapathi, left King Suppabuddha and right Prince Devadatta (Yasodhara’s father and brother) ----endnote19----
 
 
 
 
 
+<h2>Additional Information</h2>
+Additionally, this section includes a description of the Buddha’s close family members. It is fitting to highlight how, after attaining enlightenment, the Buddha guided his parents and relatives on the spiritual path. Below, we provide a profile of each family member and their journey into spiritual life.
+<h2>Princess Yasodharā: The Devoted Companion Across Lifetimes</h2>
+According to tradition, Princess Yasodharā (Bhaddā Kaccānā) was not only the beloved wife of Prince Siddhartha in this life but also his devoted companion across countless past existences. Their bond was one of unwavering faithfulness and spiritual dedication. At the age of sixteen, she married Prince Siddhartha, sharing a life of royal splendour until he renounced the world in search of ultimate truth. ----endnote20----
+
+	
+
+	Born into the noble Koliya clan of Devadaha, she was the daughter of King Suppabuddha and Queen Amita Devi, who was the sister of King Suddhodana. Together, Yasodharā and Siddhartha had a son, Rāhula.
+Despite the deep sorrow of his departure, Princess Yasodharā remained steadfast in her devotion, choosing a path of reflection and inner growth. Later, she embraced the monastic life as a bhikkhunī and attained full Enlightenment. Recognizing her extraordinary spiritual accomplishments, the Buddha declared her the foremost among bhikkhunīs in “great direct knowledge.” ----endnote21----
+
+	
+
+	When Yasodharā Theri was seventy-eight years old, before her Parinibbāna —her final passing, she paid her respect to the Blessed One:
+
+	
+
+<i>“…Iam Yasodharā, Hero; in the home I was your chief queen, born in the clan of the Śākyas, established among the women in your household, O Hero, I was the leader, the lord of all of the women there … “I am Yasodharā, Hero; I worship your feet, Eyeful One…”</i> ----endnote22----.
 
 
 
+----media/image8.png----
+
+<b>Yasodharā Their paying her final respect to the Buddha </b>----endnote23----
 
 
 
+----media/image9.jpeg----
 
 
 
+<b>Prince Nanda following the   Blessed One- </b>though he was carrying the bowl of the Buddha his mind was on his wife to be ‘Janapada Kalyani’ who was asking him to come back soon. ----endnote24----
+
+	
+
+<h2>Prince Nanda</h2>
+Prince Nanda, also known as Nanda Gotama, was the Buddha’s half-brother, born to King Suddhodana and Queen Mahāpajāpatī Gotamī.
+On one occasion, the Blessed One, accepting an invitation from his father, visited Kapilavatthu. At that time, Prince Nanda was preparing to marry a beautiful Sakyan maiden known as <i>Janapada Kalyāṇī</i>—meaning “the most beautiful maiden of the province.” After taking his meal at the palace, the Buddha handed his alms bowl to Prince Nanda and silently walked with him to the monastery. Out of deep respect for the Blessed One, Nanda agreed to ordain as a monk when asked, though his mind remained attached to the comforts of royal life and his beloved bride-to-be.
+Longing to return to his former life, Nanda struggled with monastic discipline. Sensing his inner conflict, the Buddha, using his spiritual<b> </b>powers, transported Nanda to the <i>Tāvatiṁsa</i> Deva realm, where celestial maidens of surpassing beauty resided. Pointing to them, the Buddha said: ----endnote25----
+
+	<i>“…Rejoice, Nanda, rejoice! I guarantee you five hundred dove-footed nymphs.”</i>
+Overcome by desire, Nanda responded:
+<i>“If, sir, you guarantee me five hundred dove-footed nymphs, I shall happily lead the spiritual life under the Buddha.”</i>
+When his fellow monks discovered that Nanda was practicing merely for the reward of heavenly pleasures, they ridiculed him. Humiliated and ashamed, Nanda resolved to dedicate himself wholeheartedly to the path. Through diligent practice—living in seclusion, striving with unwavering determination—he soon realized the highest goal. In this very life, he attained Arahantship, becoming one of the <i>perfected ones.</i>
+The Buddha later declared that among the Bhikkhu Saṅgha, Nanda was foremost in guarding the doors of the sense faculties. ----endnote26----
+
+	In the Theragatha, the noble Nanda Thera recorded as having said:
+<i>“…focusing on the wrong things, </i>
+<i>I was addicted to ornamentation.</i>
+<i>I was vain with a desire for pleasures of the senses. </i>
+<i>With the help of the Buddha,</i>
+<i>the kinsman of the Sun, so skilled in means, </i>
+<i>I practiced rationally and extracted attachment </i>
+<i>to continued existence from my mind…”</i> ----endnote27----
 
 
 
+Nanda Thero mentioned that in one of his former births he met the Buddha Padumuttara and this is what that previous Buddha said about his future life:
+<i>“…after spending heavenly and human pleasures, due to good kamma, you will be born as a younger brother of Buddha Gotama… attached to sensual pleasures you will be guided by the Blessed One, …will be peaceful and attain to Arahathood” </i>----endnote28----
 
 
 
-
-
-
-
-
-
-
-
-
-
-<b>2. Bodhgayā – The Supreme Enlightenment</b>-----endnote15----
-
-<i>"Here the Tathāgata attained Supreme Enlightenment."</i>
-
-----media/image8.jpeg----
-
-<b>3. Sarnath – The Turning of the Wheel of Dhamma</b>----endnote16----
-<i>"Here the Tathāgata set in motion the Wheel of Dhamma."</i>
-
-
-
-----media/image9.jpeg----<b>4. Kusinārā – The Great Passing Beyond </b>----endnote17----
-<i>"Here the Tathāgata attained the Nibbāna-element without remainder."</i>
-
-
-
-
+<h2>Princess Nandā Gotamī</h2>
+Like Prince Nanda, Princess Nandā was the child of King Suddhodana and Queen Mahāpajāpatī Gotamī, making her the Buddha’s half-sister. Renowned for her exceptional beauty, she was called <i>Sundarī Nandā</i>—"Beautiful Nandā."
 
 ----media/image10.png----
 
+<b>Beautiful Princess Nanda  </b>----endnote29----
 
 
 
+When her mother, Queen Mahāpajāpatī, renounced lay life to become the first bhikkhunī, Princess Nandā followed her out of respect. However, in the early days of her monastic life, she remained preoccupied with her own beauty, neglecting her Dhamma practice.
+Recognizing her attachment, the Buddha compassionately guided her by revealing the fleeting nature of physical beauty. Upon realizing this profound truth, Nandā Theri awakened to the deeper reality of existence and attained full enlightenment.
+The Blessed One later declared her the foremost among bhikkhunīs in meditation. ----endnote30----
 
-
-
-
-
-
-
-<b>The Fur Holy Places</b>
-These places are not merely markers of history, but living reminders of the Blessed One’s boundless compassion and tireless effort for the welfare of all beings. To walk where he <b>walked, to reflect where he taught, and to bow where he attained release, is to let the Dhamma touch the heart in a most personal way.</b>
-<h3>How to Honour the Tathāgatha’s Remains</h3>
-As the Blessed One lay resting peacefully between the twin Sāla trees, Venerable Ānanda, sensing that the final hour was drawing near, began to ponder with a heavy heart:
-<i>"How should we honour the Tathāgata's remains? What should be done with the body of the Blessed One after his Parinibbāna?"</i>
-Approaching the Buddha with deep reverence, Venerable Ānanda asked:
-<i>"Lord, what shall we do with the Tathāgata’s remains?"</i>----endnote18----
-
-
-
-The Blessed One, ever concerned for the welfare of his disciples even in his final moments, answered with gentle wisdom. He reminded Venerable Ānanda of the true duty of an ascetic — <b>the highest task they should devote themselves to</b>:
-"Ānanda, do not busy yourselves with funeral arrangements for the Tathāgata. Rather, you should strive with diligence for your own highest good — for the attainment of Arahantship. Dwell with your minds devoted, energetic, and steadfast toward liberation. As for the funeral rites, there are wise and devoted Khattiyas, Brahmins, and householders who hold the Tathāgata dear; they will see to those duties."
-Thus, even at the threshold of his Parinibbāna, the Blessed One’s mind remained perfectly clear, focused on guiding his disciples to liberation. His words were a gentle but urgent reminder that the true honouring of the Buddha was not in ceremonies or rituals, but in earnest practice — in striving to realize Nibbāna.
-<h3>Building Stupas to honour the Buddha</h3>
-Yet, for the benefit of the wider community of followers — the devoted laypeople who would come after — the Buddha compassionately gave further instructions. He explained that after the Parinibbāna, a stupa should be erected at a crossroads over the remains of the Tathāgata. He said:
-<b><i>"Whoever lays garlands, or applies sweet perfumes and colours there, with a devout heart, will gain benefit and happiness for a long time."</i></b>
-This teaching shows the profound understanding of human nature held by the Buddha. Recognizing that lay followers, though not yet ready for deep renunciation, could develop faith and spiritual joy through acts of homage, he provided a practice suited for them. Through these offerings at stupas — acts done with a pure and devout heart — they could cultivate merit, strengthen their connection to the Buddha, and deepen their trust in the Dhamma and the Sangha.
-Even today, in Buddhist cultures across the world, this tradition lives on. Devotees offer flowers, incense, and lights at temples, monasteries, Buddha statues, and ancient stupas. Some modern minds, unfamiliar with the roots of these practices, may dismiss them as mere rituals. But when we reflect on the Blessed One’s final teachings, we realize that these acts, when performed with devotion and mindfulness, are powerful expressions of gratitude and reverence — and pathways toward spiritual growth.
-Thus, the practice of homage at stupas was not born of superstition but of profound compassion. It is a legacy of the Buddha himself, foreseeing that in future generations, these sacred acts would sustain the faith of countless beings and keep the light of the Dhamma shining brightly in the world.
-<b>Note:</b>
-The tradition and scriptures conformed that eight stupas contain the remains “relics” of the Blessed One and two others were built: one using the urn which measured the remains and the second one using the embers of the funeral pyre. We will give detail of this account in our next section. 
+In Therigatha of Venerable Nandā stated how the Buddha regularly advised her with these verses:
+<i>“…Nandā, see this bag of bones as diseased, filthy, and rotten. With mind unified and serene, meditate on the ugly aspects of the body.  Meditate on the sign-less, give up the underlying tendency to conceit; and when you comprehend conceit, you will live at peace…”.  </i>----endnote31----
 
 ----media/image11.jpeg----
 
+<b>Ordination of Rahula</b>----endnote32----
 
 
 
+<h2>Prince Rāhula: The Young Renunciant</h2>
+Prince Rāhula, the only son of Prince Siddhartha and Princess Yasodharā, was known as <i>Rāhula Bhadda</i>— “fortunate Rāhula”—for he was blessed to be the son of the Blessed One. Yet, his true fortune lay not in royal privilege, but in the rare opportunity to walk the noble path under the direct guidance of the Buddha himself.
+According to tradition, when Prince Siddhartha renounced the world, Rāhula was still an infant. He was raised in the comforts of the palace by his loving mother and grandparents, unaware that his destiny would soon lead him far beyond the luxuries of royal life.
+The <i>Vinaya Pitaka</i> describes the remarkable event of his ordination at the tender age of seven: ----endnote33----
 
+After spending time in Rājagaha, the Buddha set out on a journey back to Kapilavattu. Upon his arrival, he stayed at the Banyan Tree Monastery. The next morning, he robed up and went to the palace of King Suddhodana, where a seat had been prepared for him.
+Seeing the Buddha, Queen Yasodharā gently encouraged her young son:
+<i>“This is your father, Rāhula. Go and ask for your inheritance.”</i>
+With innocent reverence, Prince Rāhula approached the Buddha, stood before him, and softly said:
+<i>“Ascetic, your shadow is pleasant.”</i>
+As the Buddha rose to leave, the child followed him, joyfully calling out:
+<i>“Give me my inheritance! Give me my inheritance!”</i>
+Then the Buddha turned to Venerable Sāriputta and said:
+<i>“Well then, Sāriputta, give Rāhula the going forth.”</i>
+Thus, at just seven years old, Prince Rāhula renounced his princely life and entered the monastic order as a novice monk. Venerable Sāriputta was entrusted with his training, guiding him with wisdom and compassion.
+<h3>King Suddhodana’s Grief</h3>
+However, the news of Rāhula’s ordination pierced King Suddhodana’s heart with sorrow. Already having endured the departure of both Siddhartha and Nanda, the loss of his beloved grandson was too much to bear. He went to the Buddha and, with a heavy heart, expressed his pain:
+<i>“When the Buddha went forth, it was painful for me. When Nanda went forth, it was painful again. But with Rāhula, it is even worse. A parent’s love cuts deep—it cuts through the outer and inner skin, through the flesh, sinews, and bones, reaching all the way to the marrow. Please, Blessed One, do not grant ordination to a child without the parents’ permission.”</i>
+Respecting his father’s plea, the Buddha established a new rule: henceforth, no child would be ordained without the consent of their parents.----endnote34----
 
 
 
+<h2>Venerable Rahula’s Progress in Dhamma</h2>
+Though Rāhula had once sought an inheritance of wealth and power, under the Buddha’s guidance, he would come to receive the greatest inheritance of all—the wealth of the Dhamma, the path to ultimate liberation.
 
 
 
+----media/image12.jpeg----
 
 
 
 
 
 
-<b>Offering flowers at the feet of the Buddha</b>----endnote19----
 
-----media/image12.png----
 
 
 
@@ -438,231 +339,144 @@ The tradition and scriptures conformed that eight stupas contain the remains “
 
 
 
+<b>Venerable Rahula paying attention to the Buddha’s teachings</b>----endnote35----
 
 
 
+A few years after his higher ordination, at age twenty-one, Rāhula Thera became an Arahant. The special event is described in the scriptures: 
+<i>“ …then, while the Blessed One was alone in meditation, a thought arose in his mind thus: “The states that ripen in deliverance have ripened in Rāhula. Suppose I was to lead him on further to the destruction of the taints… now on that occasion many thousands of deities followed the Blessed One, thinking: “Today the Blessed One will lead the venerable Rāhula further to the destruction of the taints”</i> ----endnote36----
 
+		
 
+	The commentary says: those deities, who came from various celestial realms, had been companions of Rāhula’s during the previous life in which he first made the aspiration to attain arahantship as the son of a Buddha  ----endnote37----
 
+	
 
+	The Buddha declared Bhikkhu Rāhula as the foremost disciple among those desirous of training. ----endnote38----
 
 
 
+<b>In his Theragatha this is what the noble Rāhula Thera said:</b>
+I am known as “Fortunate Rāhula”,
+because I’m accomplished in both ways:
+I am the son of the Buddha,
+whose eye sees clearly in all things.
+Having thrown off those sensual pleasures,
+having cut Māra’s bond,
+and having plucked out craving, root and all:
+I’m cooled, quenched…”  ----endnote39----
 
 
 
+<b>In his Thera Apadana the noble Rāhula Thera</b> mentioned his previous life and
+encounter with the Buddha Padumuttura. The Blessed One foretold his future life that he will
+become the son of Buddha Gotama:
+“…Falling from Tusitā heaven, 
+incited by his wholesome roots,
+he’ll be the legitimate son 
+of Gotama the Blessed One.
+If he should remain in the house 
+then he would be a Wheel-Turner.
+For that reason, an arahant can’t 
+obtain pleasure within the house.
+Being well-trained he will renounce 
+after going forth from the house.
+He will be known as Rāhula 
+and he will become an arahant.”  ----endnote40----
 
+	
 
+<h2>The Buddha’s Reverence for His Parents</h2>
+Throughout his teachings, the Blessed One emphasized the profound duty of homering and respecting one’s parents. He reminded his followers that no worldly wealth or power could ever fully repay the debt owed to those who give life, nurture, and guide their children. Yet, the highest way to honour them is by leading them toward the path of virtue and wisdom. The Buddha himself exemplified this truth, guiding his own parents to the Dhamma with boundless compassion.
+He declared:
+<i>“…Even if one were to establish one’s parents as the supreme lords and rulers over this great earth, abounding in the seven treasures, one still would not have done enough for them, nor would one have repaid them. Why? Because parents are of great help to their children—they bring them up, feed them, and show them the world. Yet, if one leads one’s parents to develop faith, virtuous behaviour, generosity, and wisdom—then, indeed, they have been truly repaid.”  </i>----endnote41----
 
 
 
+<h2>Guiding His Father and Foster Mother to the Dhamma</h2>
+According to tradition, when the Buddha first returned to Kapilavatthu after attaining enlightenment, he went on his daily alms round, walking silently from house to house. Word spread quickly, and when King Suddhodana heard that his son—the prince who once lived in luxury—was now seeking alms like a wandering mendicant, his heart was filled with dismay. Overcome with concern and the pride of a Sakyan ruler, the king hurried to meet the Blessed One. With deep emotion, he implored: ----endnote42----
 
+<i>“My son, why must you beg for food? You are a prince of the Sakyans, not a beggar.”</i>
+Gazing upon his father with great compassion, the Buddha replied:
+<i>“O King, taking alms is not an act of shame but the noble tradition of all past Buddhas and their disciples.”</i>
+In that moment, the king’s mind was stirred. As he listened to the Buddha’s words, he began to perceive a greater truth beyond worldly pride and power. The Buddha then expounded the Dhamma, and by the end of the discourse, King Suddhodana attained the first stage of enlightenment (<i>sotāpatti</i>), setting foot on the path to liberation.
+Similarly, his foster mother, Queen Mahāpajāpatī Gotamī, who had raised him with motherly devotion, later became the first bhikkhunī and reached the highest goal—Arahantship.
+Thus, through wisdom and love, the Blessed One repaid his parents in the highest way—by guiding them beyond the cycle of suffering, leading them toward the path of true liberation.
+According to tradition the King absorbed the dhamma and was subsequently a stream entrant—Sottapanna and subsequently an Anagami—non-returner ----endnote43----.
 
 
 
+----media/image13.jpeg----
 
+<b>King Suddhodana meeting the Buddha in Kapilavattu </b>----endnote44----
 
 
 
 
 
+The Blessed One is said to have visited his father, King Suddhodana at his death-bed. ----endnote45----
 
-
-
-
-
-<b>Devotees Offerings flowers at a Stupa</b>----endnote20----
-
-
-
-<h2>In the Light of Parting: The Teacher’s Heartfelt Gratitude to Ānanda</h2>
-In the twilight of the Blessed One’s life, as the final moments drew near, a deep sorrow stirred in the heart of the Venerable Ānanda. Quietly withdrawing to his lodging, he leaned heavily against the doorpost, overcome with grief. Tears welled in his eyes as he as he whispered in anguish:----endnote21----
-
-
-
-<i>"Alas! Still am I a learner with much left undone…
-And now, the Compassionate Teacher, </i>
-<i>the Light of the World, is slipping away."</i>
-Sensing the quiet absence of his faithful companion, the Blessed One asked the monks,
-"Where is Ānanda?"
-And when they told him, he said gently,
-"Go, monk, and summon Ānanda."
-The monk went swiftly, delivering the message:
-"Friend Ānanda, the Teacher calls for you."
-<b>"</b>Very good, friend," Ānanda replied with devotion, and at once he went to the Blessed One. Having bowed low in reverence, he sat quietly to one side, his heart trembling.
-The Blessed One gazed upon him with deep kindness and said:
-"Enough, Ānanda. Weep not.
-Have I not long taught you that <b>all that is beloved and delightful must, by nature, change and pass away?</b>
-How could it be, Ānanda, that <b>what is born, arisen, compounded, should not also fade</b>?
-For countless years you have been by the Tathāgata’s side, offering loving-kindness in body, speech, and mind — always beneficent, always blessed, always whole-hearted and unstinting. You have gathered abundant merit, Ānanda. Strive earnestly now, and in a little while, freedom from the taints shall be yours."
-Then, turning to the gathering of monks, the Blessed One proclaimed:
-"Monks, all the Arahant, Fully Enlightened Buddhas of the past have been served by such a chief attendant as Ānanda, and so too shall it be for the Buddhas yet to come.
-Ānanda is wise and discerning. He knows the fitting time for monks to approach the Tathāgata, the fitting time for nuns, laymen, laywomen, kings, royal ministers, seekers, and followers alike.
-And there are four wondrous and rare qualities he possesses:
-
---	When a company of monks approaches Ānanda, their hearts lift at the sight of him.
-
---	They rejoice in the hearing of the Dhamma from his lips.
-
---	And when he falls silent, they feel a sweet longing, a gentle sadness, as if a precious music has ended.
-
---	And so it is, too, with nuns, laymen, and laywomen.
-These same qualities, monks, shine also in a righteous Wheel-turning Monarch.
-And so it is with Ānanda."
-Thus, even as the sands of his life ran low, the Blessed One poured forth his deep gratitude and love for the faithful heart that had walked beside him — a shining testament to the beauty of loving service, and the timeless, tender bond between Teacher and disciple.
-<h4><i>A Short Dhamma Reflection of the Teachings</i></h4>
-In a world where all things are subject to change, the beauty of gratitude endures beyond birth and death. The Blessed One’s words to Ānanda remind us: Loving service offered with purity of heart is never lost.
-Even as forms pass away, the goodness born of kindness, devotion, and faith continues to shine — like the morning star that heralds a new dawn.
-“In the garden of the Dhamma, there bloomed a heart so tender and true —
-A heart that wept for the Teacher, yet shone with the fragrance of timeless devotion.
-Thus the name Ānanda — ‘bliss’ — shall forever whisper through the ages,
-A soft, golden echo of love that does not die.”
-<h4><i>Venerable Ānanda’s Sorrow – Like a Lotus at the SunSet</i><b>🌿</b></h4>
-In that sacred hour when the sun of the world was setting, 
-In the hush of the dying day, as the Blessed One’s light began to wane,
-Ānanda stood alone by the doorway, his heart heavy beyond words.
-as if the weight of a thousand lifetimes pressed upon his gentle heart.
-His sorrow was like a pure lotus — that, sensing the setting sun,
- slowly closes its petals —
-not in despair, but in a silent homage —
-to the fading of the day, it loved.
-
-Tears welled like rain from a cloud heavy with longing —
-for how could one bear to part from the One —
-the One who was his refuge, one who was the source of all peace?
-his guiding star, his very breath of hope?
-Yet even in that aching sorrow, 
-a fragrance of deep gratitude arose —
-for to serve the Blessed One, to walk beside him —
-even for a little while,
-was to have lived a life touched by the eternal.
-Beneath the ancient trees, 
-as the winds whispered of impermanence,
-Ānanda’s sorrow became the sorrow of all —
-who love and must one day say farewell.
-Yet within that grief, there stirred also the purest gratitude —
-for to have walked even one step with the Blessed One —
-was a blessing beyond measure! <b>🌸 </b>----endnote22----
-
-
-
-
-
-----media/image13.jpeg----<b>Venerable Ãnanda’s last homage to the Blessed One </b>----endnote23----
-
-
-
-<h4><i>Dedication to Venerable Ānanda:</i></h4>
-Heart of devotion, mirror of compassion,
-whose tender sorrow at the Teacher’s passing
-shines across the ages like a lotus touched by the setting sun.
-Homage to you, faithful friend of the Blessed One! 
-Gentle guardian of the Dhamma,
-whose tears were the rain that nourished the roots of wisdom.
-Through your faithful love, Dear Venerable,
-the Blessed One’s words became the world’s undying light.
-<b>Our Wish</b>
-May we, like Venerable Ānanda, serve the Dhamma with a heart of loving-kindness, humility, and tireless devotion, remembering always that in every moment of gratitude and faith, we draw closer to freedom from all suffering!
-May the faithful love of Venerable Ānanda inspire all beings to walk the Noble Path with devotion and steadfastness, until they too reach the far shore of Nibbāna!
-May these humble offerings of devotion awaken a deeper faith in the hearts of all who read,
-and may the tears of Ānanda remind us that love, service, and the Dhamma endure beyond time.
-<h2>The Announcement of the Blessed One’s Final Nibbāna</h2>
-Even in his final hour, the Blessed One remained ever mindful, urging Venerable Ānanda to fulfill a final duty of compassion: to inform the Mallas of Kusinārā of his impending passing.
-"Ānanda," he said, "go to the Mallas and announce: <i>‘Tonight, in the last watch, the Tathāgata will attain final Nibbāna. Come, Vasetthas, lest later you regret, saying: ‘The Tathāgata passed away among us, and we did not have the chance to see him for the last time.’</i>"----endnote24----
-
-Venerable Ānanda, faithful and devoted, set out immediately with a companion. The Mallas, gathered in their council hall, were struck with deep grief upon hearing the news. With heavy hearts, along with their families and attendants, they rushed to the sala grove where the Blessed One lay.
-Although Venerable Ānanda’s heart ached with sorrow, his kindness and wisdom prevailed. Considering the Blessed One’s remaining time, he arranged for the Mallas to pay their final respects family by family. Thus, all were able to honour the Buddha in the first watch of the night, offering their last homage at his sacred feet.
-<i>Reflection:
-</i>In these final moments, the Blessed One showed us once again the beauty of mindfulness, compassion, and care for others. Even facing death, he thought first of those who loved him, ensuring they would not be left with regret. May we too, in our lives, practice such mindfulness and kindness — never missing the chance to honour what is noble, and to give devotion while we still have time.
-<h2>Subhadda’s Good Fortune — The Last Personal Disciple of the Blessed One</h2>
-As the Blessed One lay in his final hours, a wanderer named Subhadda, hearing that the Great Sage would soon attain final Nibbāna, felt a stirring in his heart.
-<i>"A Tathāgata, a fully awakened Buddha, rarely arises in this world,"</i> he thought. <i>"And tonight the ascetic Gotama will pass beyond. A doubt troubles my mind — surely he can dispel it."</i>
-Subhadda hurried to the sala grove and asked Venerable Ānanda for permission to see the Blessed One. Concerned for the Lord’s rest, Ānanda at first gently refused him. Yet the Blessed One, hearing their conversation, said: 
-<i>"Do not hinder Subhadda, Ānanda. Let him approach. His questions are asked not to trouble me, but in search of the Dhamma."</i>
-Coming before the Buddha, Subhadda asked about the true path among the many teachers of the day. With boundless compassion, the Blessed One answered:
-<b><i>"Wherever the Noble Eightfold Path is not found, true ascetics are not found. But wherever this Path is found, there are true saints, of the first, second, third, and fourth degree. And in this Dhamma and Discipline, Subhadda, the Noble Eightfold Path is fully present. If the monks live this path perfectly, the world will never be without Arahants."</i></b>
-Hearing this clear teaching, Subhadda was filled with faith and joy. He declared himself a follower of the Buddha, the Dhamma, and the Sangha, and humbly sought ordination. The Blessed One, seeing his sincerity, granted it immediately.
-Through diligent practice, Subhadda swiftly attained the goal for which the holy life is lived — Arahantship. He realized the deathless, completed the journey, and was freed. Thus, Subhadda became the Blessed One’s final personal disciple.
-<i>Reflection:
-</i>In his last moments, the Blessed One still opened the door of liberation for those who sincerely sought the truth. Subhadda’s story reminds us: 
-<b>it is never too late to awaken. A single meeting with the Dhamma, taken to heart and practiced with sincerity, can bring about the highest blessing — the end of suffering</b>. 
-May we, too, never delay in seeking what is most precious!
-<h2>The Final Teachings of the Blessed One</h2>
-Even as his last breath approached, the Compassionate Teacher — ever mindful, ever merciful — did not leave his disciples without shelter. Out of boundless love, he gave them a refuge that would never perish:
-<b><i>"Hereafter, the Dhamma and the discipline shall be your teacher."</i></b>
-Turning to Venerable Ānanda, the Blessed One said:
-<i>"It may be, Ānanda, that you will think: ‘The Teacher’s instruction has ceased; now we have no teacher.’ But it should not be seen in this way. That which I have taught and explained as Dhamma and discipline — that will be your guide, your refuge, your protector."</i>
-Then, addressing the assembly of monks for the final time, the Lord spoke:
-<i>"If any among you has any doubt or uncertainty about the Buddha, the Dhamma, the Sangha, or the path and the practice, ask now, do not harbor regret later, thinking: ‘The Teacher was before us and we did not ask.’"</i>
-Three times he invited questions. Three times the monks remained silent — not from hesitation, but from deep clarity and trust. Venerable Ānanda marvelled at their silence and said:
-<i>"It is wonderful, Lord, it is marvellous! I clearly perceive that in this assembly there is not a single monk who harbors doubt or uncertainty."</i>
-The Blessed One confirmed:
-<i>"Ānanda, you speak from faith. But the Tathāgata knows: among these five hundred monks, the least is a Stream-Winner, one assured of final liberation, incapable of falling away."</i>
-(It is understood that these were the devoted disciples who had followed the Blessed One throughout his final journey — from Sāvatthī to Rājagaha, and from there all the way to Kusinārā.)
-As the twilight deepened and silence enveloped the Sāla grove, the Blessed One addressed the assembly with gentle dignity. He offered final words of Dhamma—simple, direct, and luminous with wisdom.  And finally, the Blessed One, the greatest of teachers, declared:
-<b>"Now, monks, I declare to you:
-All conditioned things are subject to decay — Strive on untiringly."</b>
-<i>(Vayadhammā saṅkhārā – appamādena sampādetha)</i>
-These were the last words of the Tathāgata, a timeless reminder of the impermanence of all things and the necessity of unrelenting effort on the path of liberation.
-<h4><i>The Final call -echoes through the ages</i></h4>
-In his final moments, the Buddha’s compassion shone with undiminished brilliance. He did not point to himself, but to the timeless Dhamma as the true refuge. His departure was not a loss but a reminder that what is essential — the path to freedom — is untouched by death.
-The silence of the assembly speaks volumes: they were not left orphaned, for the true Teacher now lived within their hearts, through the Dhamma they had realized.
-The Blessed One’s last words are a call that echoes through the ages:
-Nothing here will last — so live with urgency, with diligence, with unwavering resolve.
-Each breath we have is precious. Each moment can be turned toward the Deathless. Let us not delay. Let us honour the Blessed One’s gift with hearts that strive!
-At the setting of the final sun, 
-The Teacher spoke with boundless grace:
-<i>"Decay is the nature of all things —
-Strive on, with steady pace."</i>
-He left no golden crown or throne,
-But the lamp of Truth to light the way —
-A flame that death could not dethrone,
-A path to dawn beyond decay! 
-<b>Silent Contemplation:</b>
-Close your eyes for a moment, Let the noise of the world fall away.
-Imagine yourself among those gathered by the sala trees,
-feeling the cool night air, the soft murmur of leaves,
-the radiance of the Blessed One’s final presence.
-Feel the weight of his words:
-<i>"All conditioned things are subject to decay — strive on untiringly."</i>
-Let them settle deep into your heart.
-What, in your own life, is truly lasting?
-What remains when all else falls away?
-May we too, like those noble disciples,
-hold fast to the Dhamma, walk with urgency and with faith,
-and strive to cross beyond sorrow.
-Feel the weight of those words in your heart.
-Feel the preciousness of this fleeting life.
-Resolve now — with deep gratitude —
-to walk the path he opened,
-to carry the torch of the Dhamma onward.
-Bow in silence.
-And let the journey continue — in you! 
+The Buddha taught the Dhamma and the king became an Arahant. He enjoyed the bliss of liberation for seven days as a lay person before passing away ----endnote46----.
+<h2>Helping Queen Mahāpajāpatī Gotamī</h2>
+The <i>Dakkhiṇāvibhaṅga Sutta</i> (MN 142) contains a passage in which Venerable Ānanda highlights the immense help the Blessed One provided to his foster mother, Mahāpajāpatī Gotamī, in her journey along the Dhamma path. He states:
+<i>“…The Blessed One has been truly helpful to Mahāpajāpatī Gotamī. It is because of the Blessed One that she has gone for refuge to the Buddha, the Dhamma, and the Saṅgha and possesses unwavering confidence in them.”</i>
+These four qualities—refuge in the Triple Gem and unwavering confidence—are the defining factors of stream-entry (<i>sotāpatti</i>). ----endnote47---- Thus, from this account, it is evident that by this time, Mahāpajāpatī Gotamī had already attained the first stage of enlightenment.
+According to the scriptures, she played a pivotal role in the establishment of the Bhikkhunī Saṅgha, paving the way for countless women to walk the path of renunciation. She later became a great teacher and ultimately attained Arahantship. ----endnote48----
 
 
 
 ----media/image14.jpeg----
 
+<b>Painting of Mahapajapati Gotami, the Buddha's foster mother, and the first Buddhist nun in history</b> ----endnote49----
 
+In the <i>Therīgāthā</i>, she expressed her deep gratitude to the Buddha with these profound verses:
+“Since I have seen the Blessed One,
+this bag of bones is my last.
+Transmigration through births is finished,
+now there’ll be no more future lives.
+I see the disciples in harmony,
+resolute, always staunchly vigorous—
+this is my homage to the Buddhas!
+It was truly for the benefit of many
+that Queen Māyā gave birth to Gotama.
+He swept away the mass of suffering
+for those stricken by sickness and death.” ----endnote50----
 
 
 
+With unwavering faith and diligence, Mahāpajāpatī Gotamī fulfilled her spiritual journey, 
+exemplifying the highest gratitude by realizing the very liberation the Buddha so compassionately taught.
+<h2>Guiding His Mother to the Dhamma in the Deva Realm</h2>
+According to the scriptures and tradition, Queen Mahāmāyā, the mother of the Buddha, was reborn in the <i>Tusita</i> Deva Realm as a radiant celestial being known as <i>Santusita Deva</i>—also referred to as the "Mother Deva." Though she had departed from the human world just seven days after giving birth to Prince Siddhartha, her connection to him remained profound beyond lifetimes.
+The Blessed One, out of boundless compassion, ascended to the deva world to share the Dhamma with his mother and the celestial beings. The texts describe this extraordinary event:
+<i>“…When the Buddha went to the Tāvatimsa deva world, his mother, who had been reborn in the Tusita deva world as Santusita Deva, also descended to Tāvatimsa. There, throughout the three months of the vassa (rain retreat), the Blessed One expounded the Abhidhamma to the devas and brahmas. As a result, Santusita Deva attained the fruit of stream-entry (sotāpatti).” </i>----endnote51----
 
 
 
+Thus, even beyond the human realm, the Buddha fulfilled his sacred duty as a son—not only honouring his mother with gratitude but bestowing upon her the highest gift: the path to liberation.
+Earlier, we saw a passage that speaks of the fate of mothers who give birth to future Buddhas:
+“<i>That is so true, Ānanda! The mothers of being’s intent on awakening are short-lived. Seven days after giving birth to a being destined for enlightenment, they pass away and are reborn among the joyful gods of the Tusita heaven.” </i>----endnote52----
 
 
 
+This profound moment in history stands as a testament to the Buddha’s infinite compassion—a love that transcended the boundaries of life and death, ensuring that even his mother could walk the path toward the end of suffering.
 
 
 
 
 
+----media/image15.jpeg----
 
+<b>The Blessed One coming from the Deva- loka</b> <b>after teaching to his mother who was born as a young deva </b>----endnote53----
 
+<h3>Summary</h3>
 
+	This Section provides an outline of life of Gotama Buddha as child and a young man living a luxurious worldly life.  Brief descriptions are given of the Buddha’s immediate family, most of whom ordained under him.  The information is from scriptures.  To elaborate specific points/events and to fill some gaps, we have taken some information from traditional Buddhist books and other sources which are documented in the notes and references at the end. 
 
+	
 
+In the next section (Section: 3), we will recount the story of Prince Siddhartha’s departure from the palace at the age of twenty-nine to embrace the life of an ascetic, followed by his attainment of Buddhahood at thirty-five.
+<h3>End Notes: Section 2</h3>
 
 
 
@@ -672,224 +486,116 @@ And let the journey continue — in you!
 
 
 
+endnote1)	 Why he was called Siddhartha is described in detail in Chapter 1: Naming Ceremonies: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.
 
+endnote2)	 About his parents’ the Buddha said: “…my native place is Kapilavatthu, King Suddhodana is my father, my birth mother is Queen Maya…”, p, 264. This passage is translated from: Gotama Buddha Vamsa—Lineage of the Buddha Gotama: Buddha-Vamsa-Pali &amp; Chariya Pitaka Pali: vol.38: Buddha Jayanti Publication.
 
+endnote3)	 In MN: Notes: 1291 give information about Queen Mahapajapati becoming the foster mother of the Buddha. 
 
-<b>And from the radiant stillness of the fourth jhāna, the Blessed One finally,  peacefully, utterly — passed into Parinibbāna.</b>----endnote25----
+endnote4)	 Ud.5.2 (Short lived sutta Translated by Bhikkhu Sujato), for details see: MN: 123 (Wonderful and marvellous sutta) &amp; AN:4: 127 (Astounding sutta).
 
-<h2>The Blessed One’s Final Passing</h2>
-Shortly after, the Blessed One entered into the meditative absorptions (<i>jhānas</i>) in sequence, gradually deepening his stillness. He entered the first jhāna, then the second, third, and fourth; then transcended into the formless attainments—space, consciousness, nothingness, and neither-perception-nor-non-perception. Then, reversing the order, he returned through each absorption until he reached the fourth jhāna once again.
-And from there, utterly serene and composed, the Blessed One passed away—attaining <i>Mahāparinibbāna</i>—the complete liberation from all conditioned existence. There was no disturbance, no struggle, no sound—only stillness, like a flame going out when the fuel is gone.
-The earth trembled. The skies wept flowers. Many among the gathered wept, while others, deeply composed, reflected on the impermanence of all things. Even the devas, who had come from vast realms to witness this moment, stood in silent reverence.
-Thus, the one who had crossed beyond all suffering, the one who had shown the way to the Deathless, had now entered the Deathless himself.
-In the sacred silence of the sala grove,
-the Blessed One, ever serene, entered the first jhāna,
-then the second, the third, and the fourth,
-his mind ascending the stillness like a swan rising into the sky.
-Beyond form and feeling, he entered
-the Sphere of Infinite Space,
-then Infinite Consciousness,
-then into Nothingness,
-then Neither-Perception-Nor-Non-Perception.
+endnote5)	 Thag: 10.1 (Kāludāyi).  
 
-Finally, he attained the sublime stillness —
-the Cessation of Feeling and Perception.
-Venerable Ānanda, unable to perceive this depth, whispered:
-<i>"The Lord has passed away."</i>
-But Venerable Anuruddha, his vision vast and clear, replied:
-<i>"No, friend Ānanda — the Lord abides in deep cessation."</i>----endnote26----
+endnote6)	 The Buddha declared Mahāpajāpatī Gotamī as the foremost of bhikkhunī disciples in seniority: see: AN1:235 (Foremost). For more details of Maha Prajapati: see: AN8: 51 (Gothami sutta), Thig: 66  &amp; <a href="https://dahampada.github.io/">https://dahampada.github.io/</a><u> .</u>
 
+endnote7)	 ThiAp: 7: (Maha Pajapati Gothami) 
 
+endnote8)	 AI generated image
 
-Then — as gently as the setting of the sun —
-the Blessed One returned step by step
-through the boundless spheres of meditation,
-descending through the fourth, third, second, and first jhāna.
+endnote9)	 For detailed description of this event, see: Chapter 1: The story of Kaladevala the hermit: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.
 
-Once more ascending to the second, the third, and the fourth jhāna —
-and from the radiant stillness of the fourth jhāna,
-the Blessed One finally, peacefully, utterly —
-<b>passed into Parinibbāna !</b>
-The earth itself could not bear the weight of this moment.
-A great earthquake shook the worlds, thunder rolled across the skies, and those with divine vision uttered verses of awe and sorrow:
-<b>Brahmā Sahampati proclaimed:</b>
-<i>"All beings in the world, all formations must break apart.
-Even the Teacher, peerless among humans, has passed away."</i>
-<b>Sakka, ruler of the devas, declared:
-</b><i>"Impermanent are all conditioned things,
-their arising and falling is their nature.
-Having arisen, they cease;
-their calm cessation is true bliss."</i>
-<b>The Venerable Anuruddha, the seer of celestial eyes, spoke:
-</b><i>"No more breathing in or out —
-with steadfast heart the Sage endures.
-Free from all attachments,
-by Nibbāna the Illumined’s mind is freed."</i>
-<b>And Venerable Ānanda, beloved attendant cried:</b><i>
-"Terrible was the trembling of the earth;
-men's hair stood on end,
-when the all-accomplished Buddha passed away."</i>
-In silence, the world mourned — but in the hearts of the faithful, the light of the Dhamma blazed ever brighter, an eternal refuge beyond all sorrow. 
-<b>Silent Reflection:</b>
-At the Blessed One’s final breath, the earth quaked,
-but his Great Heart was utterly still.
-He showed us, not just by words but by his final breath,
-the path to the Deathless.
-May we remember:
-the greatest gift is the Dhamma.
-The greatest refuge is the Dhamma.
-And the greatest honour we can offer him
-is to walk the Path he revealed,
-with courage, with compassion,
-with an undying resolve.
-Let us bow our heads, not in sorrow,
-but in deep gratitude,
-vowing to carry his light
-into this world still longing for peace.
-<b>Homage to the Buddha, Perfectly Enlighten One !</b>
-The winds grew still, the earth bowed low,
-As into peace the Awakened did go.
-No grasping, no sorrow, no last farewell —
-Just boundless silence where wisdom dwells.
-O Light of the Worlds, though you passed from sight,
-Your Dhamma still shines, a deathless light.
-In footsteps gentle, on paths made clear,
-We follow, with trust, with love, with tears.
-Namo Tassa Bhagavato, we vow anew:
-To live by your Way—
-to awaken, as you!
+endnote10)	 Snp: 3.11 (Nālaka sutta: translated from Pali by Bhikkhu Sujato).
 
-----Image alt text----&gt;A pink and yellow flower
+endnote11)	 Source- Pakistan, Gandhara region, 3rd/4th century; slate Museum Rietberg, Zurich; Inv. No. RVI 11 (public domain). Picture courtesy: https://en.wikipedia.org/wiki/Asita
 
-AI-generated content may be incorrect.&lt;----media/image15.png----
+endnote12)	 MN:36 (Mahāsaccaka Sutta).  <b>Note: </b>The commentary (Majjima Nikaya Attakatha) says this: 
 
-<h2>Venerable Anuruddha’s Great Compassion</h2>
-After the Blessed One’s Mahāparinibbāna, the sacred night grew silent. In the stillness, Venerable Anuruddha and Venerable Ānanda, two devoted disciples, sat together, their hearts tender with the immeasurable loss. Out of deep compassion, Venerable Anuruddha, wise and serene, remained by Venerable Ānanda’s side, speaking gently of the Dhamma.
-He understood the depth of Venerable Ānanda’s sorrow — for though Ānanda had attained the first glimpse of liberation, he had not yet crossed beyond all suffering. Having served the Blessed One with boundless devotion, his heart was heavy with grief. Tenderly, Venerable Anuruddha comforted him, soothing his pain by recalling the Blessed One’s final teaching:
-<b><i>"The Dhamma and Discipline I have taught will now be your Teacher, your refuge, and your guide."</i></b>
+“…during the Bodhisatta’s boyhood as a prince, on one occasion his father led a ceremonial ploughing at a traditional festival of the Sakyans. The prince was brought to the festival and a place was prepared for him under a rose-apple tree. When his attendants left him to watch the ploughing ceremony, the prince, finding himself all alone, spontaneously sat up in the meditation posture and attained the first jhāna through mindfulness of breathing. When the attendants returned and found the boy seated in meditation, they reported this to the king, who came and bowed down in veneration to his son…’ <b>, </b>see:<b> </b>MN: Notes: 389, p.1101. 
 
+endnote13)	 AI generated image.
 
+endnote14)	 This passage is translated from: Gotama Buddha Vamsa—Lineage of the Buddha Gotama: Buddha-Vamsa-Pali &amp; Chariya Pitaka Pali: vol.38: Buddha Jayanti Publication.
 
-----media/image16.png----
+This is mentioned in Buddhavamsa Pali- Chariya Pitaka: Linage of Buddha Gotama. 
 
+endnote15)	 See: AN3:39.
 
+endnote16)	 AI generated image.
 
+endnote17)	 AI generated image.
 
+endnote18)	 AI generated image.
 
+endnote19)	 AI generated image.
 
+endnote20)	 For details see: Chapter 2: The accession to the throne: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.
 
+endnote21)	 AN1: 243. *Yasodharā Theri is also known as -Baddakacchana, Bimba and Rāhula mātha (mother of Rāhula). * Mp identifies her as Rāhulamātā, the mother of Rāhula; hence she was the Buddha’s wife, better known in Buddhist tradition by the name Yasodharā, see: AN: Notes: 126.
 
+endnote22)		  ThiAp:28 (Yasodharā: Translated by Jonathan S. Walters).
 
+endnote23)	 Foremost Among Bhikkhunis with the Higher Knowledge. Phra Nang Bhaddakaccana Yasodhara Theri with the Buddha. Scene from the great tile fresco depicting the lives of the women closest to the Buddha, inner ceiling of Nabhapolbhumisiri Chedi (known as the Queen’s Chedi) at Doi Inthanon, the highest point in Thailand. Image courtesy of Phramathatat. Source: Buddhist Door Global
+https://www.buddhistdoor.net/features/buddhistdoor-view-reawakening
 
+endnote24)	 AI generated image.
 
+endnote25)		 Ud:3.2 (Translated by Bhikkhu Sujato).
 
+endnote26)	  AN1:230* He was the Buddha’s half-brother, son of Suddhodana and Mahāpajāpati Gotamī. The story of how he left his fiancée to become a bhikkhu is told in Ud 3:2, 21–24. He is instructed by the Buddha at SN 21:8 and praised in AN at 8:9. His verses are at Th 157–58, see: AN: Note:111.
 
+endnote27)	 Thag:2.19 (Nanda: translated by Bhikkhu Sujato)
 
+endnote28)	  ThaAp:1.13 ( translated by Bhikkhu Sujato: )*Details regarding Nanda Thera see: <a href="https://dahampada.github.io/">https://dahampada.github.io/</a><u> </u>
 
+endnote29)	 Arahant Bhikkhuni Nanda, Source: https://siriyasodaraseya.com/nanda-the-buddhas-half-sister/
 
+endnote30)	 AN1:240 * Also known as Sundarīnandā because of her beauty, she was the Buddha’s half-sister and the full sister of Nanda. Her story is in Nyanaponika and Hecker 2003: 282–85. She has verses at Thī 82–86, see: AN: Notes: 121.
 
+endnote31)		  Thig:2.19 (Translated by Bhikkhu Sujato).)
 
+endnote32)	 source: Photograph from the <a href="https://en.wikipedia.org/wiki/Indian_Museum"><u>Indian Museum</u></a> in <a href="https://en.wikipedia.org/wiki/West_Bengal"><u>West Bengal</u></a> taken by <a href="https://commons.wikimedia.org/wiki/User:Anandajoti"><u>Anandajoti</u></a>. https://commons.wikimedia.org/wiki/User:Anandajoti
 
+endnote33)		 VP: Mahākhandhaka:41 Rahula’s story: (translated by Bhikkhu Brahmali).
 
+endnote34)	 For details see: VP: Mahākhandhaka:41.
 
+endnote35)	 AI generated image.
 
+endnote36)	 MN :147 (Cūḷarāhulovāda Sutta) 
 
+endnote37)	 MN: Notes: 1325, p. 1184: says that: those many thousands of deities who were present at this discourse became noble ones. For details regarding Rāhula Thera see: <a href="https://dahampada.github.io/">https://dahampada.github.io/</a><u> </u>
 
+endnote38)	 AN1:209 * The Buddha’s son. His first encounter with his father, when he was seven, is related at Vin I 82,8–31. The Buddha addresses the following discourses to him: MN 61, MN 62, MN 147; SN 18:1–22; SN 22:91–92; SN 35:121 (= MN 147); and Sn 2:11, <b>See:</b> AN: Note:92.
 
+endnote39)	 Thag: 4. ( Rāhula Translated by Bhikkhu Sujato).
 
+endnote40)		 ThaAp:16 (Rāhula Translated by Jonathan S. Walters).
 
-<b>Sitting under the Great Sala Tree Venerable </b><b>Anuruddha, speaking gently of the Dhamma to Venerable Ānanda</b>----endnote27----
+endnote41)	 AN2: 33.
 
-Thus, through kindness and wisdom, Anuruddha helped his spiritual brother find strength again in the timeless refuge of the Dhamma. With this profound moment of compassion, we bring to a close the sacred account of the Blessed One’s final passing.
+endnote42)	 For details see: Chapter:17: King Suddhodana attaining the first path &amp; 3<sup>rd</sup> path: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.
 
-<b>Beneath the silent sala trees</b>
-At the Silent Ending
-Beneath the silent sala trees,
-the moon held still her breath;
-the Awakened One, serene and free,
-had gently crossed beyond all death.
-In sorrow’s shade, two hearts remained,
-bound by love and faith so deep;
-one spoke with wisdom, soft and kind,
-to guide the other through his grief.
-<b><i>"The Dhamma now shall be your light,
-your island in the darkened sea;
-the Teacher lives in timeless truth,
-within the heart of purity."</i></b>
-So, through the night they sat and spoke,
-till grief gave way to peace again;
-beneath the stars, the Blessed Path
-rose brighter than the morning rain.
-Now let us bow our heads and hearts,
-to honour He who led the way;
-and turn to Dhamma as our guide,
-our shelter, refuge, night and day.
+endnote43)	 Ibid.
 
-----Image alt text----&gt;A pink flower with a yellow flower
+endnote44)	 Source: <a href="https://commons.wikimedia.org/wiki/User:Nomu420"><u>Author</u>
+<u>:</u>
+ Nomu420</a> <a href="https://commons.wikimedia.org/wiki/User:Nomu420">User:Nomu420 - Wikimedia Commons</a>
 
-AI-generated content may be incorrect.&lt;----media/image17.png----
+endnote45)	 About King Suddhodhana becoming an arahant:  In Thī-a 3, [the commentator] Dhammapāla says, ‘He had the young Nanda and the young Rāhula go forth and then the Teacher returned again to Rājagaha. On a later occasion, when the Teacher was living in the Kūṭāgāra Hall near Vesālī, the great King Suddhodana attained final quenching [nibbāna], having realized arahantship even while he was still [reigning] under the white parasol. The inclination to go forth arose in Mahā-Pajāpatī’ (Pruitt 1998: 6–7). This is also given at Thī-a 141 (Pruitt 1998: 181). King Suddhodana is the only layman I know of who became an arahant and remained a layman, which means he could not have lived more than seven days after becoming an arahant”, see: AN: Notes: 1731.
 
-The next section, 19-6, will honour the Great Funeral of the Buddha and the distribution of his sacred relics among his devoted followers.
-<h3>End Notes: Section19:5</h3>
+endnote46)	  Chapter:17: King Suddhodana attaining the first path &amp; 3<sup>rd</sup> path: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw.
 
+endnote47)	 MN: Note: 1293.
 
+endnote48)	  AN:8: 51. It says that she ordained with 500 Sakyan ladies.
 
+endnote49)	 Source: Tsem Rinpoche: https://en.m.wikipedia.org/wiki/File:Mahapajapati_Gotami_self_portrait_painting.jpg
 
+endnote50)	 Thig:6.6 (Translated by Bhikkhu Sujato).
 
+endnote51)	 Dhp: 14.2 . * The story of the Buddha’s return from the Tāvatimsa Deva world, see: Illustrated Dhammapada: Ven.Weragoda Sarada Maha Thero.
 
+endnote52)	 KN:Ud:5.2 (Short lived sutta).
 
+endnote53)	 Source: Nagarjunakonda Stupa Site 6, Guntur district, Andhra Pradesh. Picture courtesy: https://www.metmuseum.org.
 
-
-endnote1)	 Buddhist Dictionary by Bhikkhu Nyanatiloka
-
-endnote2)	 SN: Introduction, p, 37.
-
-endnote3)	 SN:17
-
-endnote4)	 DN:16: This story also elaborated in DN: 17 too.
-
-endnote5)	 Ibid.
-
-endnote6)	 Source: https://en.wikipedia.org/wiki/Mahajanapadas
-
-endnote7)	 Google map.
-
-endnote8)	 Source: https://softstar.fandom.com/wiki/Deva_Kingdom
-
-endnote9)	 Source: https://www.facebook.com/photo.php?fbid=4541080992573947&amp;id=144113158937441&amp;set=a.2548268571855209&amp;locale=tl_PH
-
-endnote10)	 DN:16
-
-endnote11)	 Ibid.
-
-endnote12)	 DN:16
-
-endnote13)	 Ibid.
-
-endnote14)	 https://www.tibettravel.org/india-tibet-nepal-bhutan-tour/spiritual-odyssey-from-india-to-nepal-tibet-and-bhutan.html
-
-endnote15)	 https://www.academia.edu/12075727/An_account_of_the_rediscovery_of_Bodh_Gaya
-
-endnote16)	 https://traveltriangle.com/blog/things-to-do-in-sarnath/
-
-endnote17)	 https://www.dreamstime.com/kushinagar-india-december-buddha-gold-statue-mahaparinirvana-temple-kusinara-uttar-pradesh-reclining-parinivarna-ind-image120566266
-
-endnote18)	 DN:16
-
-endnote19)	 Source: https://www.pressreader.com/sri-lanka/daily-mirror-sri-lanka/20170609/282716226970975
-
-endnote20)	 Source: https://exploresrilanka.lk/an-offering-of-flowers/
-
-endnote21)	 DN:16
-
-endnote22)	 Poem composed by a dear friend who love and respect Venerable Ãnanda.
-
-endnote23)	 Source: <a href="https://www.flickr.com/photos/asienman/14378017337*">https://www.flickr.com/photos/asienman/14378017337*</a> Myanmar - Bagan - Ananda Temple - Mural 
-
-endnote24)	 DN:16
-
-endnote25)	 Source: https://dharmasar.wordpress.com/2015/02/21/what-did-the-buddha-really-teach/
-
-endnote26)	 Ibid.
-
-endnote27)	 https://www.istockphoto.com/photos/two-monks
