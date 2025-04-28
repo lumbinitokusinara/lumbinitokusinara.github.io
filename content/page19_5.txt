@@ -110,13 +110,16 @@
 <p>This map illustrates the major kingdoms of ancient India during the time of the Buddha. The Malla kingdom, with its capital at Kusinārā, is shown alongside other prominent kingdoms</p>
 <p>such as Kosala, Magadha, and Vajjī.</p>
 <p></p>
+<p></p>
+<p></p>
 <img src="page19_5/image3.png" />
 <p></p>
 <p class="caption"><b>Map 2: The Buddha’s Renunciation and Final Journey </b><span id="Endnote7">[<a href="#endnote7">7</a>]</span></p>
 <p></p>
 <p></p>
 <p>The route from Kapilavatthu to Anupiya Mango Grove marks the early phase of the Bodhisatta’s quest. Decades later, the path from Rājagaha to Kusinārā marks the final journey of the fully Enlightened One, completing the great circle of the Buddha’s earthly life<i>.</i></p>
-<p><b>Route 1</b>: Distance from Kapialavattu visa Anupiya Mango grove near Kusinara to Rājagaha 472 km, Rājagaha to Uruvela located in Varanasi 302 km, <b>Route2</b>: Final Journey: Rājagaha to Kusinara via Vesali 472 km.</p>
+<p><b>Route 1:</b> (red arrow) Kapilavatthu to Anupiya Mango Grove (near Kusinara) to Rājagaha to Uruvela (Bodh Gaya) marks the early phase of Ascetic Siddhartha’s travel  (distance 486 km)</p>
+<p><b>Route 2</b>: (green arrow) Decades later, the path from Rājagaha to Kusinārā marks the final journey of the fully Enlightened One, completing the great circle of the Buddha’s earthly life<i> </i>(distance 314 km).</p>
 <p></p>
 <p></p>
 <p></p>
