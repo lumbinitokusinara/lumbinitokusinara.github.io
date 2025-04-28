@@ -25,8 +25,8 @@ pages_info = [
   #  ("page10.txt", "Section 10 - Dhamma.docx", "10."),
   #  ("page11_1.txt","Section 11-1 Advice to the Sangha.docx", "11.1"),
   #  ("page11_2.txt","Section 11-2 Advice to Lay Followers.docx", "11.2"),
-    ("page12.txt","Section 12 - Similies.docx", "12."),
-    ("page13.txt","Section 13 - Introduction- 45 years of life of the Buddhas.docx", "13."),
+  #  ("page12.txt","Section 12 - Similies.docx", "12."),
+  #  ("page13.txt","Section 13 - Introduction- 45 years of life of the Buddhas.docx", "13."),
   #  ("page13_1.txt","Section 13-1 First Dhamma Tour-45.docx", "13.1"),
   #  ("page13_2.txt","Section 13-2 Second Dhamma Tour.docx", "13.2"),
    # ("page14_1.txt","Section 14-1 The Buddha Meets King Seniya Bimbisāra of Magadha.docx", "14.1"),
@@ -43,9 +43,10 @@ pages_info = [
    # ("page18.txt","Section 18 - Twenty-first to Forty-fourth Vassa in Savatthi (from Age 55 onwards).docx", "18."),
    # ("page19_1.txt","Section 19-1 Final Journey of The Buddha Phase 1.docx  ", "19.1"),   
    # ("page19_2.txt","Section 19-2 Final Journey of The Buddha Phase 2.docx  ", "19.2"),  
-    ("page19_3.txt","Section 19-3 Final Journey of The Buddha Phase 3.docx  ", "19.3"),  
-   # ("page19_4.txt","Section 19-4 Final Journey of The Buddha Phase 4.docx  ", "19.4"),  
-    ("page19_5.txt","Section 19-5 Final Journey of The Buddha Phase 5.docx  ", "19.5")  
+   # ("page19_3.txt","Section 19-3 Final Journey of The Buddha Phase 3.docx  ", "19.3"),  
+    ("page19_4.txt","Section 19-4 Final Journey of The Buddha Phase 4.docx  ", "19.4"),  
+    ("page19_5.txt","Section 19-5 Final Journey of The Buddha Phase 5.docx  ", "19.5"),  
+    ("page19_6.txt","Section 19-6 The Funeral of the Blessed One.docx", "19.6")
     #("page19.txt","Section 19 - The last Vassa and the Final Passing-away.docx", "19.")    
 
 

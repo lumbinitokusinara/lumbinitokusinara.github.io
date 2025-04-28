@@ -34,8 +34,9 @@ pages_info = [
     ("page19_1.html","19.1 Final Journey of The Buddha: Phase 1: From Sāvatthi to Rājagaha", "19.1"),
     ("page19_2.html","19.2 Final Journey of The Buddha: Phase 2: From Rājagaha to Kusinara", "19.2"),
     ("page19_3.html","19.3 Final Journey of The Buddha: Phase 3: Reaching Pāṭaligāma and Crossing Ganges", "19.3"),
-    ("page19_4.html","19.4 Final Journey of The Buddha: Phase 4: ", "19.4"),
-    ("page19_5.html","19.5 Final Journey of The Buddha: The Parinibbāna", "19.5")
+    ("page19_4.html","19.4 Final Journey of The Buddha: Phase 4: Beluwa to Kusinaara", "19.4"),
+    ("page19_5.html","19.5 Final Journey of The Buddha: The Parinibbāna", "19.5"),
+    ("page19_6.html","19.6 The Funeral of the Blessed One", "19.6")
    # ("page19.html","19. The last Vassa and the Final Passing-away", "19.")
 ]
 
