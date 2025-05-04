@@ -44,12 +44,10 @@ pages_info = [
    # ("page19_1.txt","Section 19-1 Final Journey of The Buddha Phase 1.docx  ", "19.1"),   
    # ("page19_2.txt","Section 19-2 Final Journey of The Buddha Phase 2.docx  ", "19.2"),  
    # ("page19_3.txt","Section 19-3 Final Journey of The Buddha Phase 3.docx  ", "19.3"),  
-    ("page19_4.txt","Section 19-4 Final Journey of The Buddha Phase 4.docx  ", "19.4"),  
-    ("page19_5.txt","Section 19-5 Final Journey of The Buddha Phase 5.docx  ", "19.5"),  
-    ("page19_6.txt","Section 19-6 The Funeral of the Blessed One.docx", "19.6")
-    #("page19.txt","Section 19 - The last Vassa and the Final Passing-away.docx", "19.")    
-
-
+   # ("page19_4.txt","Section 19-4 Final Journey of The Buddha Phase 4.docx  ", "19.4"),  
+   #("page19_5.txt","Section 19-5 Final Journey of The Buddha Phase 5.docx  ", "19.5"),  
+    ("page19_6.txt","Section 19-6 The Funeral of the Blessed One.docx", "19.6"),
+    ("Appendix.txt","Appendix.docx", "Appendix to Section 19.6")    
   #  ("Gratitude.txt","Gratitude to the Blessed One.docx", "III."),
   #  ("Abbreviations.txt","Abbreviations.docx", "V.")
     

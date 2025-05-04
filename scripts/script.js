@@ -124,6 +124,7 @@ const pages = [
   'page19_4.html',
   'page19_5.html',
   'page19_6.html',
+  'Appendix.html'
   // Add more pages as needed
 ];
 

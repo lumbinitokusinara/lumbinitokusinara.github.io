@@ -47,7 +47,8 @@ folders = ['pages/page1', 'pages/page2', 'pages/page3','pages/page4', 'pages/pag
            'pages/page15_1', 'pages/page15_2', 'pages/page15_3', 'pages/page15_4',
            'pages/page16_1', 'pages/page16_2', 'pages/page17', 'pages/page18',
            'pages/page19_1', 'pages/page19_2', 'pages/page19_3',
-           'pages/page19_4', 'pages/page19_5', 'pages/page19_6']   # Add your folder names here
+           'pages/page19_4', 'pages/page19_5', 'pages/page19_6',
+           'pages/Appendix']   # Add your folder names here
 
 # Process each folder
 for folder in folders:
