@@ -17,7 +17,7 @@ pages_info = [
    # ("page3.txt", "Section 3 - Asetic life.docx", "3."),
    # ("page4.txt", "Section 4 - Enlightenment.docx", "4."),
    # ("page4_1.txt", "Section 4-1 Four Assembly.docx", "4-1."),
-   # ("page5.txt", "Section 5 - Greatness of The Buddha.docx", "5."),
+    ("page5.txt", "Section 5 - Greatness of The Buddha.docx", "5."),
   #  ("page6.txt", "Section 6 - Titles.docx", "6.")
   #  ("page7.txt", "Section 7 - As a Teacher.docx", "7."),
    # ("page8.txt", "Section 8 - Praise and blame.docx", "8."),

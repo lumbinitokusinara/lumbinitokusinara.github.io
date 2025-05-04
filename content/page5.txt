@@ -192,36 +192,6 @@
 <p></p>
 <img src="page5/image2.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p class="caption"><b>Devas paying homage to the Buddha </b><span id="Endnote37">[<a href="#endnote37">37</a>]</span></p>
 <p></p>
 <h2>Celestial Beings Paying Homage to the Buddha</h2>
@@ -533,89 +503,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p class="caption"><b>Standing Buddha </b><span id="Endnote82">[<a href="#endnote82">82</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <img src="page5/image7.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -631,72 +523,17 @@
 <p></p>
 <img src="page5/image8.jpeg" />
 <p></p>
+<p class="caption"><b>The Buddha’s Head </b><span id="Endnote84">[<a href="#endnote84">84</a>]</span></p>
+<p></p>
+<p></p>
+<p></p>
+<p>In the next Section (6) we will focus on the<b> </b>Titles and Epithets of the Buddha.</p>
+<h3>Endnotes: Section 5</h3>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>The Buddha’s Head</b><span id="Endnote84">[<a href="#endnote84">84</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<p>In the next section (6) we will focus on the<b> </b>Titles and Epithets of the Buddha</p>
-<h3>End Notes: Section 5 </h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>footnote1)</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<span id="endnote1">[<a href="#Endnote1">1</a>]</span>
 <p></p>
 <span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 The Three worlds according to the scriptures are the Brahma world, the Deva world and the Human world. For more information: see: Introduction to DN: Cosmology: The Long Discourses of The Buddha by Maurice Walshe.
 <p></p>
@@ -706,7 +543,7 @@
 <p></p>
 <span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 AN4: 23. *  In AN4: 33, the Buddha compared himself to a lion.
 <p></p>
-<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Iti: 112 (Loka Sutta: Translated by Bhikhu Sujato, www.suttacentral.net)
+<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Iti: 112 (Loka Sutta: Translated by Bhikhu Sujato, <a href="https://www.suttacentral.net">https://www.suttacentral.net</a>)
 <p></p>
 <span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 MN: 12 (Mahāsīhanāda Sutta)* In AN10: 21, The Lion sutta also mentioned similar facts.
 <p></p>
@@ -742,7 +579,7 @@
 <p></p>
 <p>That Blessed One is such since he is accomplished, fully enlightened, endowed with [clear] vision and [virtuous] conduct, sublime, the knower of worlds, the incomparable leader of men to be tamed, the teacher of gods and men, enlightened and blessed.</p>
 <p></p>
-<span id="endnote23">[<a href="#Endnote23">23</a>]</span>	 Araham:<i> </i>rid of all impurities and defilements of the mind. Because of this quality the Buddha is worthy of receiving gifts and alms from any being in the world system.
+<span id="endnote23">[<a href="#Endnote23">23</a>]</span>	 Araham:<i> </i>rid of all impurities and defilements of the mind. Because of this quality, the Buddha is worthy of receiving gifts and alms from any being in the world system.
 <p></p>
 <span id="endnote24">[<a href="#Endnote24">24</a>]</span>	 Sammāsambuddho: the Fully Enlightened One who has discovered the Truth: four noble truths.
 <p></p>
@@ -770,7 +607,7 @@
 <p></p>
 <span id="endnote36">[<a href="#Endnote36">36</a>]</span>	 SN: 6: 2.
 <p></p>
-<span id="endnote37">[<a href="#Endnote37">37</a>]</span>	 Source: <b>:</b> Budusarana News Paper, Sri Lankahttps://www.budusarana.lk/budusarana/
+<span id="endnote37">[<a href="#Endnote37">37</a>]</span>	 Source: <b>:</b> Budusarana News Paper, Sri Lanka <a href="https://www.budusarana.lk/budusarana/">https://www.budusarana.lk/budusarana/</a>
 <p></p>
 <span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 VP:Mahākhandaka: 12 The account of the wonders at Uruvelā: translated from Pali by Bhikkhu Brahmali
 <p></p>
@@ -796,7 +633,7 @@
 <p></p>
 <span id="endnote47">[<a href="#Endnote47">47</a>]</span>	  SN51: 22 .
 <p></p>
-<span id="endnote48">[<a href="#Endnote48">48</a>]</span>	  Source:  “The Life of the Buddha in Pictures”:  Dhammatalks.net
+<span id="endnote48">[<a href="#Endnote48">48</a>]</span>	  Source:  “The Life of the Buddha in Pictures”:  <a href="https://Dhammatalks.net">https://Dhammatalks.net</a>
 <p></p>
 <span id="endnote49">[<a href="#Endnote49">49</a>]</span>	 VP: Mahakhandaka:12: The account of the wonders at Uruvela: translated from Pali by Bhikkhu Brahmali. * It says that the Blessed One performed ‘three and a half thousand wonders.’.
 <p></p>
@@ -808,7 +645,7 @@
 <p></p>
 <span id="endnote53">[<a href="#Endnote53">53</a>]</span>	 Able to read the minds of other beings, their mental states, their thoughts and ponderings:  “That is how your mind is, that is how it inclines, that is in your heart.”
 <p></p>
-<span id="endnote54">[<a href="#Endnote54">54</a>]</span>	 A monk gives instruction as follows: “Consider in this way, don’t consider in that, direct your mind this way, not that way, give up that, gain this and persevere in it.”. Then following the instructions, the disciple is able to be free from suffering.
+<span id="endnote54">[<a href="#Endnote54">54</a>]</span>	 A monk gives instruction as follows: “Consider in this way, don’t consider in that, direct your mind this way, not that way, give up that, gain this and persevere in it.”. Then, following the instructions, the disciple is able to be free from suffering.
 <p></p>
 <span id="endnote55">[<a href="#Endnote55">55</a>]</span>	 Observation of Ven. Bhikkhu Bodhi, see: MN: Notes: 1166, p. 1169.
 <p></p>
@@ -865,9 +702,9 @@
 <p></p>
 <span id="endnote81">[<a href="#Endnote81">81</a>]</span>	 Source: Buddha Net.
 <p></p>
-<span id="endnote82">[<a href="#Endnote82">82</a>]</span>	 Avukana Buddha Statue: Source: https://en.wikipedia.org/wiki/Avukana_Buddha_statue
+<span id="endnote82">[<a href="#Endnote82">82</a>]</span>	 Avukana Buddha Statue: Source: <a href="https://en.wikipedia.org/wiki/Avukana_Buddha_statue">https://en.wikipedia.org/wiki/Avukana_Buddha_statue</a>
 <p></p>
-<span id="endnote83">[<a href="#Endnote83">83</a>]</span>	 Exhibit in the Berkeley Art Museum and Pacific Film Archive, 2625 Durant Avenue #2250, Berkeley, California, USA: Source: Source: https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha
+<span id="endnote83">[<a href="#Endnote83">83</a>]</span>	 Exhibit in the Berkeley Art Museum and Pacific Film Archive, 2625 Durant Avenue #2250, Berkeley, California, USA: Source:  <a href="https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha">https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha</a>
 <p></p>
 <span id="endnote84">[<a href="#Endnote84">84</a>]</span>	 Source: Harvard Art Museums/Arthur M. Sackler Museum, Gift of Alan J. and Suzanne W. Dworsky in honour of Robert D. Mowry: <a href="https://hvrd.art/o/352933">https://hvrd.art/o/352933</a>
 </article>
