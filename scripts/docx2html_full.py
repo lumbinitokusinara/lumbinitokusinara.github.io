@@ -17,6 +17,7 @@ pages_info = [
    # ("page3.txt", "Section 3 - Asetic life.docx", "3."),
    # ("page4.txt", "Section 4 - Enlightenment.docx", "4."),
    # ("page4_1.txt", "Section 4-1 Four Assembly.docx", "4-1."),
+   # ("pg5.txt", "Sec5.docx", "5a."),
     ("page5.txt", "Section 5 - Greatness of The Buddha.docx", "5."),
   #  ("page6.txt", "Section 6 - Titles.docx", "6.")
   #  ("page7.txt", "Section 7 - As a Teacher.docx", "7."),
@@ -46,7 +47,7 @@ pages_info = [
    # ("page19_3.txt","Section 19-3 Final Journey of The Buddha Phase 3.docx  ", "19.3"),  
    # ("page19_4.txt","Section 19-4 Final Journey of The Buddha Phase 4.docx  ", "19.4"),  
    #("page19_5.txt","Section 19-5 Final Journey of The Buddha Phase 5.docx  ", "19.5"),  
-    ("page19_6.txt","Section 19-6 The Funeral of the Blessed One.docx", "19.6"),
+   # ("page19_6.txt","Section 19-6 The Funeral of the Blessed One.docx", "19.6"),
     ("Appendix.txt","Appendix.docx", "Appendix to Section 19.6")    
   #  ("Gratitude.txt","Gratitude to the Blessed One.docx", "III."),
   #  ("Abbreviations.txt","Abbreviations.docx", "V.")
