@@ -56,7 +56,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Baby Prince Siddhartha with Maha Pajapati Gotami</b><span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
+<p class="caption"><b>Baby Prince Siddhartha with Maha Pajapati Gotami </b><span id="Endnote8">[<a href="#endnote8">8</a>]</span></p>
 <p></p>
 <h2>Prince Siddhartha’s Childhood</h2>
 <p>Prince Siddhartha grew up in the comfort of royalty, sheltered from the outside world. However, even in his early years, two significant and unusual spiritual events occurred, foreshadowing the path he would one day follow, as documented in the scriptures.</p>
@@ -71,11 +71,11 @@
 <p></p>
 <p>This prophecy marked the beginning of the divine significance of Prince Siddhartha’s life, setting the stage for his future as the Buddha.</p>
 <p></p>
+<p></p>
+<p></p>
 <img src="page2/image2.jpeg" />
 <p></p>
-<p></p>
-<p></p>
-<p><b>The prophecy of the seer Asita</b> <span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
+<p class="caption"><b>The prophecy of the seer Asita</b> <span id="Endnote11">[<a href="#endnote11">11</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -288,7 +288,7 @@
 <p></p>
 <img src="page2/image11.jpeg" />
 <p></p>
-<p class="caption"><b>Ordination of Rahula</b><span id="Endnote32">[<a href="#endnote32">32</a>]</span></p>
+<p class="caption"><b>Ordination of Rahula </b><span id="Endnote32">[<a href="#endnote32">32</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -341,7 +341,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Venerable Rahula paying attention to the Buddha’s teachings</b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
+<p class="caption"><b>Venerable Rahula paying attention to the Buddha’s teachings </b><span id="Endnote35">[<a href="#endnote35">35</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -508,7 +508,7 @@
 <p></p>
 <span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 Snp: 3.11 (Nālaka sutta: translated from Pali by Bhikkhu Sujato).
 <p></p>
-<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 Source- Pakistan, Gandhara region, 3rd/4th century; slate Museum Rietberg, Zurich; Inv. No. RVI 11 (public domain). Picture courtesy: https://en.wikipedia.org/wiki/Asita
+<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 Source- Pakistan, Gandhara region, 3rd/4th century; slate Museum Rietberg, Zurich; Inv. No. RVI 11 (public domain). Picture courtesy: <a href="https://en.wikipedia.org/wiki/Asita">https://en.wikipedia.org/wiki/Asita</a>
 <p></p>
 <span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 MN:36 (Mahāsaccaka Sutta).  <b>Note: </b>The commentary (Majjima Nikaya Attakatha) says this:
 <p></p>
@@ -537,7 +537,7 @@
 <span id="endnote22">[<a href="#Endnote22">22</a>]</span>		  ThiAp:28 (Yasodharā: Translated by Jonathan S. Walters).
 <p></p>
 <span id="endnote23">[<a href="#Endnote23">23</a>]</span>	 Foremost Among Bhikkhunis with the Higher Knowledge. Phra Nang Bhaddakaccana Yasodhara Theri with the Buddha. Scene from the great tile fresco depicting the lives of the women closest to the Buddha, inner ceiling of Nabhapolbhumisiri Chedi (known as the Queen’s Chedi) at Doi Inthanon, the highest point in Thailand. Image courtesy of Phramathatat. Source: Buddhist Door Global
-<p>https://www.buddhistdoor.net/features/buddhistdoor-view-reawakening</p>
+<p><a href="https://www.buddhistdoor.net/features/buddhistdoor-view-reawakening">https://www.buddhistdoor.net/features/buddhistdoor-view-reawakening</a></p>
 <p></p>
 <span id="endnote24">[<a href="#Endnote24">24</a>]</span>	 AI generated image.
 <p></p>
@@ -549,13 +549,13 @@
 <p></p>
 <span id="endnote28">[<a href="#Endnote28">28</a>]</span>	  ThaAp:1.13 ( translated by Bhikkhu Sujato: )*Details regarding Nanda Thera see: <a href="https://dahampada.github.io/">https://dahampada.github.io/</a><u> </u>
 <p></p>
-<span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 Arahant Bhikkhuni Nanda, Source: https://siriyasodaraseya.com/nanda-the-buddhas-half-sister/
+<span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 Arahant Bhikkhuni Nanda, Source: <a href="https://siriyasodaraseya.com/nanda-the-buddhas-half-sister/">https://siriyasodaraseya.com/nanda-the-buddhas-half-sister/</a>
 <p></p>
 <span id="endnote30">[<a href="#Endnote30">30</a>]</span>	 AN1:240 * Also known as Sundarīnandā because of her beauty, she was the Buddha’s half-sister and the full sister of Nanda. Her story is in Nyanaponika and Hecker 2003: 282–85. She has verses at Thī 82–86, see: AN: Notes: 121.
 <p></p>
 <span id="endnote31">[<a href="#Endnote31">31</a>]</span>		  Thig:2.19 (Translated by Bhikkhu Sujato).)
 <p></p>
-<span id="endnote32">[<a href="#Endnote32">32</a>]</span>	 source: Photograph from the <a href="https://en.wikipedia.org/wiki/Indian_Museum"><u>Indian Museum</u></a> in <a href="https://en.wikipedia.org/wiki/West_Bengal"><u>West Bengal</u></a> taken by <a href="https://commons.wikimedia.org/wiki/User:Anandajoti"><u>Anandajoti</u></a>. https://commons.wikimedia.org/wiki/User:Anandajoti
+<span id="endnote32">[<a href="#Endnote32">32</a>]</span>	 source: Photograph from the <a href="https://en.wikipedia.org/wiki/Indian_Museum"><u>Indian Museum</u></a> in <a href="https://en.wikipedia.org/wiki/West_Bengal"><u>West Bengal</u></a> taken by <a href="https://commons.wikimedia.org/wiki/User:Anandajoti"><u>Anandajoti</u></a>. <a href="https://commons.wikimedia.org/wiki/User:Anandajoti">https://commons.wikimedia.org/wiki/User:Anandajoti</a>
 <p></p>
 <span id="endnote33">[<a href="#Endnote33">33</a>]</span>		 VP: Mahākhandhaka:41 Rahula’s story: (translated by Bhikkhu Brahmali).
 <p></p>
@@ -579,9 +579,7 @@
 <p></p>
 <span id="endnote43">[<a href="#Endnote43">43</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote44">[<a href="#Endnote44">44</a>]</span>	 Source: <a href="https://commons.wikimedia.org/wiki/User:Nomu420"><u>Author</u>
-<p><u>:</u></p>
-<p>Nomu420</a> <a href="https://commons.wikimedia.org/wiki/User:Nomu420">User:Nomu420 - Wikimedia Commons</a></p>
+<span id="endnote44">[<a href="#Endnote44">44</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/Ivory_carved_tusk_depicting_Buddha_life_stories">https://en.wikipedia.org/wiki/Ivory_carved_tusk_depicting_Buddha_life_stories</a>
 <p></p>
 <span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 About King Suddhodhana becoming an arahant:  In Thī-a 3, [the commentator] Dhammapāla says, ‘He had the young Nanda and the young Rāhula go forth and then the Teacher returned again to Rājagaha. On a later occasion, when the Teacher was living in the Kūṭāgāra Hall near Vesālī, the great King Suddhodana attained final quenching [nibbāna], having realized arahantship even while he was still [reigning] under the white parasol. The inclination to go forth arose in Mahā-Pajāpatī’ (Pruitt 1998: 6–7). This is also given at Thī-a 141 (Pruitt 1998: 181). King Suddhodana is the only layman I know of who became an arahant and remained a layman, which means he could not have lived more than seven days after becoming an arahant”, see: AN: Notes: 1731.
 <p></p>
@@ -591,7 +589,7 @@
 <p></p>
 <span id="endnote48">[<a href="#Endnote48">48</a>]</span>	  AN:8: 51. It says that she ordained with 500 Sakyan ladies.
 <p></p>
-<span id="endnote49">[<a href="#Endnote49">49</a>]</span>	 Source: Tsem Rinpoche: https://en.m.wikipedia.org/wiki/File:Mahapajapati_Gotami_self_portrait_painting.jpg
+<span id="endnote49">[<a href="#Endnote49">49</a>]</span>	 Source: <a href="https://en.m.wikipedia.org/wiki/Mah%C4%81praj%C4%81pat%C4%AB_Gautam%C4%AB">https://en.m.wikipedia.org/wiki/Mah%C4%81praj%C4%81pat%C4%AB_Gautam%C4%AB</a>
 <p></p>
 <span id="endnote50">[<a href="#Endnote50">50</a>]</span>	 Thig:6.6 (Translated by Bhikkhu Sujato).
 <p></p>
@@ -599,7 +597,7 @@
 <p></p>
 <span id="endnote52">[<a href="#Endnote52">52</a>]</span>	 KN:Ud:5.2 (Short lived sutta).
 <p></p>
-<span id="endnote53">[<a href="#Endnote53">53</a>]</span>	 Source: Nagarjunakonda Stupa Site 6, Guntur district, Andhra Pradesh. Picture courtesy: https://www.metmuseum.org.
+<span id="endnote53">[<a href="#Endnote53">53</a>]</span>	 Source: Nagarjunakonda Stupa Site 6, Guntur district, Andhra Pradesh. Picture courtesy: <a href="https://www.metmuseum.org">https://www.metmuseum.org</a>.
 <p></p>
 </article>
 </div>

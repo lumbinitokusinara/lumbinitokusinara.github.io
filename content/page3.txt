@@ -22,7 +22,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>Ancient Image of the Buddha</b> <span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
+<p class="caption"><b>Ancient Image of the Buddha</b> <span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -98,7 +98,7 @@
 <p></p>
 <img src="page3/image2.jpeg" />
 <p></p>
-<p><b>The four sights: Old Age, Sickness, Death &amp; a recluse </b><span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
+<p class="caption"><b>The four sights: Old Age, Sickness, Death &amp; a recluse </b><span id="Endnote10">[<a href="#endnote10">10</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -135,7 +135,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>Prince Siddhartha shaves his hair and becomes an ascetic</b><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
+<p class="caption"><b>Prince Siddhartha shaves his hair and becomes an ascetic </b><span id="Endnote14">[<a href="#endnote14">14</a>]</span></p>
 <p></p>
 <img src="page3/image5.jpeg" />
 <p></p>
@@ -347,7 +347,7 @@
 <p></p>
 <img src="page3/image13.jpeg" />
 <p></p>
-<p><b>Extreme ascetic practice of bodhisattva </b><span id="Endnote39">[<a href="#endnote39">39</a>]</span></p>
+<p class="caption"><b>Extreme ascetic practice of bodhisattva </b><span id="Endnote39">[<a href="#endnote39">39</a>]</span></p>
 <p></p>
 <h2>The Buddha’s Reflection on His Extreme Austerities</h2>
 <p></p>
@@ -427,14 +427,13 @@
 <p></p>
 <p></p>
 <p></p>
-<span id="endnote1">[<a href="#Endnote1">1</a>]</span>		 <a href="https://en.wikipedia.org/wiki/Tapa_Shotor"><u>Tapa Shotor</u></a> monastery in <a href="https://en.wikipedia.org/wiki/Hadda,_Afghanistan"><u>Hadda</u></a>, Afghanistan, 2nd century CE
-<p>Author: Marek Gawęck Source: https://commons.wikimedia.org/</p>
+<span id="endnote1">[<a href="#Endnote1">1</a>]</span>		 <a href="https://en.wikipedia.org/wiki/Tapa_Shotor"><u>Tapa Shotor</u></a> monastery in <a href="https://en.wikipedia.org/wiki/Hadda,_Afghanistan"><u>Hadda</u></a>, Afghanistan, 2nd century CE, Source: <a href="https://en.wikipedia.org/wiki/Tapa_Shotor">https://en.wikipedia.org/wiki/Tapa_Shotor</a>
 <p></p>
 <span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 Chapter3: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw
 <p></p>
 <span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 DN: 16(  Mahāparinibbāna Sutta 5.27 section The Great Passing).
 <p></p>
-<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 At the time of the Parinibbāna of the Buddha, out of compassion for Subhadda, the Blessed One taught the Dhamma. Afterwards he sought ordination and the Buddha said to Venerable Ananda: ‘Let Subhadda go forth!’, and he became a monk and an Arahant. See: DN: Note:446, p.195.
+<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 At the time of the Parinibbāna of the Buddha, out of compassion for Subhadda, the Blessed One taught the Dhamma. Afterwards, he sought ordination and the Buddha said to Venerable Ananda: ‘Let Subhadda go forth!’, and he became a monk and an Arahant. See: DN: Note:446, p.195.
 <p></p>
 <span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 MN: 36 Mahāsaccaka sutta.
 <p></p>
@@ -447,7 +446,7 @@
 <span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 Source: Buddha-Vamsa-Pali &amp; Chariya Pitaka Pali: 25 Gotama Buddha Vamsa: Vol.33. by Buddha Jayanti Tripitaka Series.
 <p></p>
 <span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 Four Sights of Buddha – Old Age, Sickness, Death &amp; Monk: Source: The Stone Studio
-<p>https://www.thestonestudio.in/gautam-buddha-story-of-wisdom-enlightenment/</p>
+<p><a href="https://www.thestonestudio.in/gautam-buddha-story-of-wisdom-enlightenment/">https://www.thestonestudio.in/gautam-buddha-story-of-wisdom-enlightenment/</a></p>
 <p></p>
 <span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 MN: 26 (Ariyapariyesena Sutta- The Noble Search)
 <p></p>
@@ -455,7 +454,7 @@
 <p></p>
 <span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 Source: Wikipedia: Pakistan, Gandhara, schist, 2nd-3rd century, San Diego Museum of Art
 <p></p>
-<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 <b> </b><a href="https://en.wikipedia.org/wiki/Borobudur"><u>Borobudur</u></a>, 8th century Author: <a href="https://commons.wikimedia.org/wiki/User:Gunkarta"><u>Gunawan Kartapranata</u></a> : Source: <a href="https://en.wikipedia.org/wiki/The_Buddha#/media/File:Siddharta_Gautama_Borobudur.jpg"><u>https://en.wikipedia.org/wiki/The_Buddha#/media/File:Siddharta_Gautama_Borobudur.jpg</u></a>
+<span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 <b> </b><a href="https://en.wikipedia.org/wiki/Borobudur"><u>Borobudur</u></a>, 8th century Author: <a href="https://commons.wikimedia.org/wiki/User:Gunkarta"><u>Gunawan Kartapranata</u></a> : Source:  <a href="https://en.wikipedia.org/wiki/The_Buddha#/media/File:Siddharta_Gautama_Borobudur.jpg">https://en.wikipedia.org/wiki/The_Buddha#/media/File:Siddharta_Gautama_Borobudur.jpg</a>
 <p></p>
 <p></p>
 <p></p>
@@ -485,7 +484,7 @@
 <p></p>
 <span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 MN:26. (Ariyapariyesana sutta).
 <p></p>
-<span id="endnote28">[<a href="#Endnote28">28</a>]</span>		 Source: http://nobleclass.weebly.com/buddhism-begins-in-india.html
+<span id="endnote28">[<a href="#Endnote28">28</a>]</span>		 Source: <a href="http://nobleclass.weebly.com/buddhism-begins-in-india.html">http://nobleclass.weebly.com/buddhism-begins-in-india.html</a>
 <p></p>
 <span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 Source: nichiren-etudes.net
 <p></p>
@@ -501,7 +500,7 @@
 <p></p>
 <span id="endnote35">[<a href="#Endnote35">35</a>]</span>	 See: MN: Note: 302.
 <p></p>
-<span id="endnote36">[<a href="#Endnote36">36</a>]</span>	 Source: https://elliottelford.com/alara-kalama/
+<span id="endnote36">[<a href="#Endnote36">36</a>]</span>	 Source: <a href="https://elliottelford.com/alara-kalama/">https://elliottelford.com/alara-kalama/</a>
 <p></p>
 <span id="endnote37">[<a href="#Endnote37">37</a>]</span>	 Source: Wikipedia: <a href="https://en.wikipedia.org/wiki/Gautama_Buddha"><u>Gautama Buddha</u></a> ( as an ascetic) meets the Uddaka Rāmaputta (left) in one of the bas-reliefs recounting the stages leading up to <a href="https://en.wikipedia.org/wiki/Bodhi"><u>awakening</u></a>, <a href="https://en.wikipedia.org/wiki/Lalitavistara_S%C5%ABtra#The_Borobudur_reliefs"><u>Lalitavistara</u></a>, <a href="https://en.wikipedia.org/wiki/Borobudur_Temple_Compounds"><u>Borobudur Temple Compounds</u></a> 8th and 9th century, first corridor, main wall.
 <p></p>
@@ -519,6 +518,6 @@
 <p></p>
 <span id="endnote44">[<a href="#Endnote44">44</a>]</span>	 MN:36.
 <p></p>
-<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 Source:Wikimedia Commons
+<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 Source: <a href="https://commons.wikimedia.org/wiki/File:Gautama_Siddhartha_as_an_ascetic.JPG">https://commons.wikimedia.org/wiki/File:Gautama_Siddhartha_as_an_ascetic.JPG</a>
 </article>
 </div>
