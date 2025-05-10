@@ -1114,7 +1114,7 @@
 <p></p>
 <p></p>
 <p></p>
-<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 The exact date of Buddha's enlightenment is not precisely known, as it predates written records.  It is believed to have occurred in the 6th century BCE. The most widely accepted date is around 563 BCE to 483 BCE, although different Buddhist traditions may have slightly different calculations: https://www.quora.com/
+<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 The exact date of Buddha's enlightenment is not precisely known, as it predates written records.  It is believed to have occurred in the 6th century BCE. The most widely accepted date is around 563 BCE to 483 BCE, although different Buddhist traditions may have slightly different calculations: <a href="https://www.quora.com/">https://www.quora.com/</a>
 <p></p>
 <span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 AI generated image.
 <p></p>
@@ -1206,7 +1206,7 @@
 <p></p>
 <p></p>
 <p></p>
-<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 The 7 weeks are described in: Chapter: 8: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw, see also: <a href="https://www.buddhanet.net/">https://www.buddhanet.net/</a> * The popular cahnting of the “seven Weeks” : paṭhamaṁ—bōdhi pallaṁkaṁ, dutayaṁca—animmitaṁ tatiyaṁ—saṁkamaṇaṁ seṭṭhaṁ, catuttaṁ —ratanāgaraṁ paṁcamaṁ—ajapālaṁca, mucaliṁdēna—saṭṭhamaṁ sattamaṁ —rājayatanaṁ, vandētaṁ muṇi sēvitaṁ: source: https://dharmanidhaana.wordpress.com
+<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	 The 7 weeks are described in: Chapter: 8: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw, see also: <a href="https://www.buddhanet.net/">https://www.buddhanet.net/</a> * The popular cahnting of the “seven Weeks” : paṭhamaṁ—bōdhi pallaṁkaṁ, dutayaṁca—animmitaṁ tatiyaṁ—saṁkamaṇaṁ seṭṭhaṁ, catuttaṁ —ratanāgaraṁ paṁcamaṁ—ajapālaṁca, mucaliṁdēna—saṭṭhamaṁ sattamaṁ —rājayatanaṁ, vandētaṁ muṇi sēvitaṁ: Source: <a href="https://dharmanidhaana.wordpress.com">https://dharmanidhaana.wordpress.com</a>
 <p></p>
 <span id="endnote46">[<a href="#Endnote46">46</a>]</span>		 VP:Mahakhandaka: 1 The account with the Bodhi tree: Theravāda Collection on Monastic Law’: A translation by Bhikkhu Brahmali.
 <p></p>
@@ -1232,9 +1232,9 @@
 <p></p>
 <span id="endnote57">[<a href="#Endnote57">57</a>]</span>	  See: VP:Mahakhandaka: 2.
 <p></p>
-<span id="endnote58">[<a href="#Endnote58">58</a>]</span>	 See: VP:Mahakhandaka: 3. This event also mentioned in Ud: 1.4 (Translated by Bhikkhu Sujato: <a href="http://www.suttacentr.net">www.suttacentr.net</a>.)
+<span id="endnote58">[<a href="#Endnote58">58</a>]</span>	 See: VP:Mahakhandaka: 3. This event also mentioned in Ud: 1.4 (Translated by Bhikkhu Sujato <a href="https://suttacentral.net/ud1.4/en/sujato?lang=en">https://suttacentral.net/ud1.4/en/sujato?lang=en</a>)
 <p></p>
-<span id="endnote59">[<a href="#Endnote59">59</a>]</span>	 12th century Naga-enthroned Buddha Cambodia:  <a href="https://en.wikipedia.org/wiki/Cleveland_Museum_of_Art"><u>Cleveland Museum of Art</u></a>: OH, USA.Source: https://en.wikipedia.org/wiki/Mucilinda
+<span id="endnote59">[<a href="#Endnote59">59</a>]</span>	 12th century Naga-enthroned Buddha Cambodia:  <a href="https://en.wikipedia.org/wiki/Cleveland_Museum_of_Art"><u>Cleveland Museum of Art</u></a>: OH, USA.Source: <a href="https://en.wikipedia.org/wiki/Mucilinda">https://en.wikipedia.org/wiki/Mucilinda</a>
 <p></p>
 <span id="endnote60">[<a href="#Endnote60">60</a>]</span>	 See: SN6:2 (Reverence sutta). * The commentary (Spk ) assigns this sutta to the fifth week after the enlightenment. The sutta is also at AN II 20-21 with an additional paragraph, see: SN: Notes: 373.
 <p></p>
