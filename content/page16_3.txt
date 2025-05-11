@@ -1,6 +1,5 @@
 <div class="container">
 <article class="pagewidth">
-<h2></h2>
 <h1>Section: 16-3: The Eighteenth Vassa &amp; Nineteenth Vassa (Age 52 &amp; 53) </h1>
 <p>In Section 16-1, we explored how the Buddha spent his thirteenth rainy season in the tranquil heights of <b>Mount Cāliya</b> (Cāliya Pabbata). According to ancient sources and commentaries, he later chose this very place again for his eighteenth and nineteenth vassas. Perhaps the solitude and serenity of the Cāliya Hills drew him back to this favoured retreat.</p>
 <p>While we previously discussed the possible location of this significant site, we were unable to reach a definitive conclusion due to the lack of scriptural and historical evidence. Based on geographical factors, we speculated that the ancient Cāliya Hills might have been located in present-day Jharkhand, near the Bihar border—an area that was once part of the Magadha Kingdom. Interestingly, <b>the Gautam Buddha Wildlife Sanctuary</b>, in Bihar-Jharkhand with its low hills, abundant rivers and lakes, marshy lands and lush forests, aligns with the descriptions of the region. This led us to consider the possibility that the ancient Cāliya Hills may have been situated within this natural landscape. However, due to the absence of clear references to Cāliya Pabbata in modern maps, this remains an open question. (See Section 16-1 for background information)</p>
@@ -306,9 +305,9 @@
 <p>So too, Upāli, if one who has not yet attained Samadhi seeks to dwell in remote forests and jungle groves, it is to be expected that he will either sink or be swept away.”</p>
 <h4><i>Insight from This Teaching</i></h4>
 <p>The Buddha’s compassionate advice highlights that <b>seclusion is not merely a matter of external solitude but requires inner stability</b>. Just as a mighty elephant can navigate deep waters while a small creature is easily overcome, a bhikkhu with <b>strong Samadhi and wisdom</b> can thrive in the solitude of the forest. However, one who is <b>not yet grounded in meditative discipline</b> may find himself overwhelmed, unable to withstand the mind’s unchecked wanderings.</p>
-<p>Thus, before seeking the deep solitude of the forest, one must first establish a <b>firm footing in Samadhi  and insight</b>, ensuring that solitude becomes a support for the path rather than a source of danger.</p>
+<p>Thus, before seeking the deep solitude of the forest, one must first establish a <b>firm footing in Samadhi and insight</b>, ensuring that solitude becomes a support for the path rather than a source of danger.</p>
 <p>With that profound advice from the Blessed One we will end this section. In the next section (17-1), we will examine where the Buddha spent his twentieth vassa.</p>
-<h3>End Notes: Section 16-3</h3>
+<h3>Endnotes: Section 16-3</h3>
 <p></p>
 <p></p>
 <p></p>
@@ -320,9 +319,9 @@
 <p></p>
 <span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 Source: <a href="https://www.wildbihar.org/gautam-buddha-bird-sanctuary">https://www.wildbihar.org/gautam-buddha-bird-sanctuary</a>
 <p></p>
-<span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 Ibid.
+<span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 Source: <a href="https://www.wildbihar.org/gautam-buddha-bird-sanctuary">https://www.wildbihar.org/gautam-buddha-bird-sanctuary</a>
 <p></p>
-<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 Google map.
+<span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 Google Maps.
 <p></p>
 <span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 Source: <a href="https://www.facebook.com/GayaFD/videos/watch-a-beautiful-eco-cultural-tourism-site-in-gautam-buddha-wildlife-sanctuary-/4015327725152440/">https://www.facebook.com/GayaFD/videos/watch-a-beautiful-eco-cultural-tourism-site-in-gautam-buddha-wildlife-sanctuary-/4015327725152440/</a>
 <p></p>

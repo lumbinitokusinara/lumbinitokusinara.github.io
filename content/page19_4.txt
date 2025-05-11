@@ -313,7 +313,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p class="caption"><b>A stupa built at the place where </b><a href="https://en.wikipedia.org/wiki/Cunda_Kamm%C4%81raputta"><b><u>Cunda's</u></b></a><b> house used to be, in ancient Pāvāv (present-day </b><a href="https://en.wikipedia.org/wiki/Fazilnagar"><b><u>Fazilnagar</u></b></a><b>)</b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
+<p class="caption"><b>A stupa built at the place where </b><a href="https://en.wikipedia.org/wiki/Cunda_Kamm%C4%81raputta"><b><u>Cunda's</u></b></a><b> house used to be, in ancient Pāvāv (present-day </b><b><u>Fazilnagar</u></b><b>)</b><span id="Endnote19">[<a href="#endnote19">19</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -715,7 +715,7 @@
 <p>For us, these rivers and groves—whether their modern names are known or lost—remain as landmarks in the heart. Each step the Blessed One took reminds us of his boundless compassion, his tireless effort to awaken the world, and his gentle, unwavering resolve to guide all beings to peace.</p>
 <p>With this, we bring this section to a close.</p>
 <p>In the next section (19.5), we will reflect on the sacred and solemn moment of the Great Parinibbāna of the Blessed One.</p>
-<h3>End Note: Section 19-4</h3>
+<h3>Endnotes: Section 19-4</h3>
 <p></p>
 <p></p>
 <p></p>
@@ -757,9 +757,9 @@
 <p></p>
 <span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 Source: <a href="https://www.facebook.com/p/Fazilnagar-Uttar-Pradesh-274401-100071531614032/">https://www.facebook.com/p/Fazilnagar-Uttar-Pradesh-274401-100071531614032/</a>
 <p></p>
-<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Source: Wikipedia
+<span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/P%C4%81v%C4%81">https://en.wikipedia.org/wiki/P%C4%81v%C4%81</a>
 <p></p>
-<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 Google map
+<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 Google Maps
 <p></p>
 <span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/P%C4%81v%C4%81">https://en.wikipedia.org/wiki/P%C4%81v%C4%81</a>
 <p></p>
