@@ -275,7 +275,7 @@
 <img src="page15_3/image6.png" />
 <p></p>
 <p class="caption"><b>Map showing the walking tour of the Buddha</b></p>
-<p><b>Note</b>: From Kosambȋ to Bālakaloṇakāra Village, then to Eastern Bamboo Park and from there to Pārileyya forest . Kosambȋ: where the Buddha spent his 9<sup>th</sup> rainy season. During the time of the Buddha, it was the capital of the Vatsa /<u>Vaṃsa</u>. Distance between Kosambȋ to Varanasi is about 200 km. Bālakaloṇakāra village was located beside a forest grove near Kosambȋ. Eastern Bamboo Park-<b> </b>Pācīnavaṃsamigadāya<b> (</b>Pācīnavaṃsadāya): a park in the <u>Cetiya</u> kingdom (one of the 16 mahajanapada during the time of the Buddha).The park lay between <a href="https://www.aimwell.org/DPPN/balakalonakarama.html"><u>Bālakaloṇakāra-gāma</u></a> and the <u>Pārileyyakavana</u> <span id="Endnote39">[<a href="#endnote39">39</a>]</span></p>
+<p><b>Note</b>: From Kosambȋ to Bālakaloṇakāra Village, then to Eastern Bamboo Park and from there to Pārileyya forest . Kosambȋ: where the Buddha spent his 9<sup>th</sup> rainy season. During the time of the Buddha, it was the capital of the Vatsa /<a href="https://www.aimwell.org/DPPN/vamsa.html"><u>Vaṃsa</u></a>. Distance between Kosambȋ to Varanasi is about 200 km. Bālakaloṇakāra village was located beside a forest grove near Kosambȋ. Eastern Bamboo Park-<b> </b>Pācīnavaṃsamigadāya<b> (</b>Pācīnavaṃsadāya): a park in the <a href="https://www.aimwell.org/DPPN/ceti.html"><u>Cetiya</u></a> kingdom (one of the 16 mahajanapada during the time of the Buddha).The park lay between <a href="https://www.aimwell.org/DPPN/balakalonakarama.html"><u>Bālakaloṇakāra-gāma</u></a> and the <a href="https://www.aimwell.org/DPPN/parileyya.html"><u>Pārileyyakavana</u></a> <span id="Endnote39">[<a href="#endnote39">39</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -402,7 +402,7 @@
 <p>After staying at Pārileyyaka for as long as he wished, the Buddha set out on his journey toward Sāvatthī. Upon his arrival, he took residence in Jeta Grove, at Anāthapiṇḍika’s Monastery. <span id="Endnote59">[<a href="#endnote59">59</a>]</span></p>
 <p></p>
 <p>We will conclude this section here. In the next section (15-4), we will explore where the Buddha spent his eleventh and twelfth rainy seasons and the Dhamma teachings given during that period.</p>
-<h3>End Notes: Section 15-3</h3>
+<h3>Endnotes: Section 15-3</h3>
 <p></p>
 <p></p>
 <p></p>
@@ -422,11 +422,11 @@
 <p></p>
 <span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 Source: Suttacentral.
 <p></p>
-<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Source: Google.com
+<span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Source: Google Maps
 <p></p>
-<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Source: Wikipedia : <a href="https://en.wikipedia.org/wiki/Kosambi">https://en.wikipedia.org/wiki/Kosambi</a>
+<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 Source:  <a href="https://en.wikipedia.org/wiki/Kosambi">https://en.wikipedia.org/wiki/Kosambi</a>
 <p></p>
-<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Kukkuṭārāma, a  monastery in <a href="https://www.aimwell.org/DPPN/kosambi.html">Kosambī</a>, built by the millionaire Kukkuṭa <i>(q.v.)</i> DA.i.318, <i>etc.</i> Source: Dictionary of Pāli Proper Names by G.P. Malalasekera.
+<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 Kukkuṭārāma, a monastery in <a href="https://www.aimwell.org/DPPN/kosambi.html">Kosambī</a>, built by the millionaire Kukkuṭa <i>(q.v.)</i> DA.i.318, <i>etc.</i> Source: Dictionary of Pāli Proper Names by G.P. Malalasekera.
 <p></p>
 <span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 VP: Cȋvarakkhandaha:2.4.6.6.
 <p></p>
@@ -494,7 +494,7 @@
 <p></p>
 <span id="endnote41">[<a href="#Endnote41">41</a>]</span>	 Source 2: Jinacaritaṁ, The Life of the Victorious Buddha, translated by Bhikkhu Anandajoti.
 <p></p>
-<span id="endnote42">[<a href="#Endnote42">42</a>]</span>	 He was born in a Sakyan family, renounce lay life with his six clansmen and Upāli the barber. * See section 14:2 for more details.
+<span id="endnote42">[<a href="#Endnote42">42</a>]</span>	 He was born in a Sakyan family, renounced lay life with his six clansmen and Upāli the barber. * See section 14:2 for more details.
 <p></p>
 <span id="endnote43">[<a href="#Endnote43">43</a>]</span>	 Tradition says this was a place near Kosambȋ during the time of the Buddha. * VP:Kd10:3 also mention of the Buddha visiting this place.
 <p></p>

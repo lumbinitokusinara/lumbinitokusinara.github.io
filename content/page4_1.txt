@@ -121,9 +121,11 @@
 <p></p>
 <p>Thus, with the going forth of Venerable Koṇḍañña, Bhaddiya, Vappa, Mahānāma, and Assaji, the Bhikkhu Saṅgha was established, marking the formal beginning of the Buddha Sāsana—the Dispensation of the Blessed One.</p>
 <p></p>
-<img src="page4_1/image2.jpeg" />Later, upon hearing the Anattalakkhaṇa Sutta (The Discourse on the Characteristics of Non-Self), all five attained arahantship, becoming fully liberated beings. With their awakening, there were now six noble ones in the world, and the light of the Dhamma had begun to spread for the welfare of countless beings. <span id="Endnote3">[<a href="#endnote3">3</a>]</span>
+<p>Later, upon hearing the Anattalakkhaṇa Sutta (The Discourse on the Characteristics of Non-Self), all five attained arahantship, becoming fully liberated beings. With their awakening, there were now six noble ones in the world, and the light of the Dhamma had begun to spread for the welfare of countless beings. <span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
 <p></p>
+<p></p>
+<img src="page4_1/image2.jpeg" />
 <p></p>
 <p class="caption"><b>Young Yas meeting the Buddha first time at the Deer Park, Isipatana </b><span id="Endnote4">[<a href="#endnote4">4</a>]</span></p>
 <p></p>
@@ -155,43 +157,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>The Buddha and his disciples meditating together</b><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
+<p class="caption"><b>The Buddha and his disciples meditating together </b><span id="Endnote6">[<a href="#endnote6">6</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -233,39 +199,7 @@
 <p></p>
 <img src="page4_1/image4.png" />
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p class="caption"><b>Venerable Mahāpajāpati Gotamī and her Sakyan Ladies becoming Bhikkhunis</b><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
+<p class="caption"><b>Venerable Mahāpajāpati Gotamī and her Sakyan Ladies becoming Bhikkhunis </b><span id="Endnote12">[<a href="#endnote12">12</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -273,41 +207,11 @@
 <p></p>
 <img src="page4_1/image5.jpeg" />
 <p></p>
+<p class="caption"><b>Tapussa and Bhallika who were very fortunate to offer the first meal to the Buddha </b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><b>Tapussa and Bhallika who were very fortunate to offer the first meal to the Buddha</b><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
-<p></p>
-<p></p>
-<p></p>
-<h1> Lay Followers of the Buddha</h1>
+<h1>Lay Followers of the Buddha</h1>
 <p></p>
 <p>The Blessed One did not establish the Saṅgha alone; he also extended his boundless wisdom and compassion to lay disciples (upāsakas and upāsikās), who became the other two pillars of the Fourfold Assembly.</p>
 <p></p>
@@ -338,7 +242,7 @@
 <p></p>
 <p></p>
 <p>With this, we conclude this section. In the next section (5), we will focus on the greatness of the Blessed One.</p>
-<h3>End Notes: Section 4-1</h3>
+<h3>Endnotes: Section 4-1</h3>
 <p></p>
 <p></p>
 <p></p>
@@ -354,25 +258,25 @@
 <p></p>
 <span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 SN22: 59 (Anatthalakkhana sutta. * This is the 2<sup>nd</sup> discourse of the Buddha, recorded at Vin I 13-14. The five bhikkhus are the first five disciples, who at this point are still trainees (sekha). They attain arahantship by the end of the discourse. Spk: Following the Dhammacakkappavattana Sutta (the first sermon), given on the full-moon day of Āsaḷha (July), the five were gradually established in the fruit of stream-entry. On the fifth of the following fortnight, he addressed them, thinking, “Now I will teach them the Dhamma for the destruction of the taints.”. see SN: Notes: 90 and VP: Mahākhandhaka: 6.
 <p></p>
-<span id="endnote4">[<a href="#Endnote4">4</a>]</span>		 A modern depiction in a Thai temple: Source: https://en.wikipedia.org/wiki/Yasa
+<span id="endnote4">[<a href="#Endnote4">4</a>]</span>		 A modern depiction in a Thai temple: Source: <a href="https://en.wikipedia.org/wiki/Yasa">https://en.wikipedia.org/wiki/Yasa</a>
 <p></p>
 <span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 VP: Mahākhandhaka: 7. * Details of going forth of Venerable Yasa and his friends are given there.
 <p></p>
 <span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 AI generated Image.
 <p></p>
-<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 See: section:13-2.
+<span id="endnote7">[<a href="#Endnote7">7</a>]</span>	 See: Section:13-2.
 <p></p>
-<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 See: section:14-1 for more details
+<span id="endnote8">[<a href="#Endnote8">8</a>]</span>	 See: Section:14-1 for more details
 <p></p>
 <span id="endnote9">[<a href="#Endnote9">9</a>]</span>	 Ibid.
 <p></p>
-<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	  See: section:14-1 and 14:2. In AN:1: xiv: Chapter on Foremost: names of the Buddha’s foremost sangha-Bhikkhu &amp; Bhikkhunis are given<b>. Note</b>: * to see the details of the disciples of the Buddha see also: KN: Thera-Theri Gatha &amp; Thera Their Apadana * <a href="https://dahampada.github.io/"><u>https://dahampada.github.io/</u></a> in this website under the subchapter also gives some details of the disciples of the Buddha. * For more detailed biographical accounts of chief disciples of the Buddha: see: Great Disciples of the Buddha by Ven. Nyanaponika and Helmut Hecker.
+<span id="endnote10">[<a href="#Endnote10">10</a>]</span>	  See: Section:14-1 and 14:2. In AN:1: xiv: Chapter on Foremost: names of the Buddha’s foremost sangha-Bhikkhu &amp; Bhikkhunis are given<b>. Note</b>: * to see the details of the disciples of the Buddha see also: KN: Thera-Theri Gatha &amp; Thera Their Apadana * <a href="https://dahampada.github.io/"><u>https://dahampada.github.io/</u></a> in this website under the subchapter also gives some details of the disciples of the Buddha. * For more detailed biographical accounts of chief disciples of the Buddha: see: Great Disciples of the Buddha by Ven. Nyanaponika and Helmut Hecker.
 <p></p>
 <span id="endnote11">[<a href="#Endnote11">11</a>]</span>	  See: AN1: Foremost Chapter for details of great bhikkhunis of the Buddha’s dispensation.
 <p></p>
-<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 Source: <b>- </b>Photo Dharma from Sadao, Thailand. Courtesy: https://en.wikipedia.org/wiki/Women_in_Buddhism
+<span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 Source: <b>- </b>Photo Dharma from Sadao, Thailand.  <a href="https://en.wikipedia.org/wiki/Women_in_Buddhism">https://en.wikipedia.org/wiki/Women_in_Buddhism</a>
 <p></p>
-<span id="endnote13">[<a href="#Endnote13">13</a>]</span>		 Source:http://www.buddhistelibrary.org/library/
+<span id="endnote13">[<a href="#Endnote13">13</a>]</span>		 Source: <a href="http://www.buddhistelibrary.org/en/displayimage.php?pid=418">http://www.buddhistelibrary.org/en/displayimage.php?pid=418</a>
 <p></p>
 <span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 VP: Mahākhandhaka: 7.
 <p></p>
@@ -382,7 +286,7 @@
 <p></p>
 <span id="endnote17">[<a href="#Endnote17">17</a>]</span>	 VP: Mahākhandhaka:26.
 <p></p>
-<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 This event is described in section:14-2.
+<span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 This event is described in Section:14-2.
 <p></p>
 <span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 For more details see <a href="https://dahampada.github.io/"><u>https://dahampada.github.io/</u></a>
 <p></p>

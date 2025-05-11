@@ -15,7 +15,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p>3) “<i>As has been said before, after staying at </i><a href="https://www.wisdomlib.org/definition/jetavana#theravada"><i><u>Jetavana</u></i></a><i> monastery in </i><a href="https://www.wisdomlib.org/definition/savatthi#theravada"><i><u>Sāvatthi</u></i></a><i> for as long as there were beings to be converted, the </i><a href="https://www.wisdomlib.org/definition/buddha#theravada"><i><u>Buddha</u></i></a><i> journeyed again and eventually reached the </i><a href="https://www.wisdomlib.org/definition/brahmin#theravada"><i><u>brahmin</u></i></a><i> village named </i><a href="https://www.wisdomlib.org/definition/ekanala#theravada"><i><u>Ekanāḷa</u></i></a><i>, in the district of Dakkhiṇāgiri, so named because it lay to the south of the hill that stood near the city of </i><a href="https://www.wisdomlib.org/definition/rajagaha#theravada"><i><u>Rājagaha</u></i></a><i> in </i><a href="https://www.wisdomlib.org/definition/magadha#theravada"><i><u>Magadha</u></i></a><i> country. There He observed the eleventh </i><a href="https://www.wisdomlib.org/definition/vassa#theravada"><i><u>vassa</u></i></a><i> with the brahmin village as a resort for alms</i>.”<span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
+<p>3) “<i>As has been said before, after staying at </i><i><u>Jetavana</u></i><i> monastery in </i><i><u>Sāvatthi</u></i><i> for as long as there were beings to be converted, the </i><a href="https://www.wisdomlib.org/definition/buddha#theravada"><i><u>Buddha</u></i></a><i> journeyed again and eventually reached the </i><a href="https://www.wisdomlib.org/definition/brahmin#theravada"><i><u>brahmin</u></i></a><i> village named </i><i><u>Ekanāḷa</u></i><i>, in the district of Dakkhiṇāgiri, so named because it lay to the south of the hill that stood near the city of </i><i><u>Rājagaha</u></i><i> in </i><a href="https://www.wisdomlib.org/definition/magadha#theravada"><i><u>Magadha</u></i></a><i> country. There He observed the eleventh </i><i><u>vassa</u></i><i> with the brahmin village as a resort for alms</i>.”<span id="Endnote3">[<a href="#endnote3">3</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -53,12 +53,12 @@
 <p></p>
 <p>See Map 1, Assaka/Aṁsaka is situated below the Avanthi region.</p>
 <p>6.  This source says:</p>
-<p>“…<i>the </i><a href="https://www.wisdomlib.org/definition/buddha#theravada"><i><u>Buddha</u></i></a><i> journeyed again and eventually reached the </i><a href="https://www.wisdomlib.org/definition/brahmin#theravada"><i><u>brahmin</u></i></a><i> village named </i><a href="https://www.wisdomlib.org/definition/ekanala#theravada"><i><u>Ekanāḷa</u></i></a><i>, in the district of Dakkhiṇāgiri, so named because it lay to the south of the hill that stood near the city of </i><a href="https://www.wisdomlib.org/definition/rajagaha#theravada"><i><u>Rājagaha</u></i></a><i> in </i><a href="https://www.wisdomlib.org/definition/magadha#theravada"><i><u>Magadha</u></i></a><i> country. There He observed the eleventh </i><a href="https://www.wisdomlib.org/definition/vassa#theravada"><i><u>vassa</u></i></a><i> with the brahmin village as a resort for alms.”</i><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
+<p>“…<i>the </i><a href="https://www.wisdomlib.org/definition/buddha#theravada"><i><u>Buddha</u></i></a><i> journeyed again and eventually reached the </i><a href="https://www.wisdomlib.org/definition/brahmin#theravada"><i><u>brahmin</u></i></a><i> village named </i><i><u>Ekanāḷa</u></i><i>, in the district of Dakkhiṇāgiri, so named because it lay to the south of the hill that stood near the city of </i><i><u>Rājagaha</u></i><i> in </i><a href="https://www.wisdomlib.org/definition/magadha#theravada"><i><u>Magadha</u></i></a><i> country. There He observed the eleventh </i><i><u>vassa</u></i><i> with the brahmin village as a resort for alms.”</i><span id="Endnote13">[<a href="#endnote13">13</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
 <p>7.  From the following quote from the Dictionary of Pāli Proper Names by G.P. Malalasekera:</p>
-<p>“<b><i>Dakkhiṇāgiri</i></b><i> v.l. </i><b><i>Dakkhiṇagiri.–</i></b><i> A district (janapada) in India (Avanti),the capital of which was </i><a href="https://www.aimwell.org/DPPN/ujjeni.html"><i>Ujjeni</i></a><i>, and over which </i><a href="https://www.aimwell.org/DPPN/asoka.html"><i>Asoka</i></a><i> ruled as Viceroy. It also contained the city of </i><a href="https://www.aimwell.org/DPPN/vedisa.html"><i>Vedisā</i></a><i> (Sp.i.70; Mhv.xiii.5). Dakkhiṇāgiri lay to the south of </i><b><i>Rājagaha</i></b><i>, beyond the hills that surrounded the city — hence its name. The road from Sāvatthi to Rājagaha lay through Dakkhiṇāgiri, and the Buddha traversed it in the course of his periodical tours through </i><a href="https://www.aimwell.org/DPPN/magadha.html"><i>Magadha</i></a><i>, residing in the Dakkhiṇāgiri-vihāra in Ekanāḷā (S.i.172; SA.ii.133; Vin.i.80).”</i></p>
+<p>“<b><i>Dakkhiṇāgiri</i></b><i> v.l. </i><b><i>Dakkhiṇagiri.–</i></b><i> A district (janapada) in India (Avanti),the capital of which was </i><i>Ujjeni</i><i>, and over which </i><a href="https://www.aimwell.org/DPPN/asoka.html"><i>Asoka</i></a><i> ruled as Viceroy. It also contained the city of </i><i>Vedisā</i><i> (Sp.i.70; Mhv.xiii.5). Dakkhiṇāgiri lay to the south of </i><b><i>Rājagaha</i></b><i>, beyond the hills that surrounded the city — hence its name. The road from Sāvatthi to Rājagaha lay through Dakkhiṇāgiri, and the Buddha traversed it in the course of his periodical tours through </i><a href="https://www.aimwell.org/DPPN/magadha.html"><i>Magadha</i></a><i>, residing in the Dakkhiṇāgiri-vihāra in Ekanāḷā (S.i.172; SA.ii.133; Vin.i.80).”</i></p>
 <p>Based on the information above, it appears that there were two regions referred to as Dakkhiṇāgiri (or Dakkhiṇāpatha). According to Map 1 below, if Dakkhiṇāgiri was considered a province within the Avanti region, then, as noted in the Dīgha Nikāya (see point 4 above), this location could correspond to the present-day Deccan Plateau (see Map 2).</p>
 <p>The second Dakkhiṇāgiri, as suggested by points 2 and 3 above, may refer to Nāla village or Ekanāla in the Magadha Kingdom (see Map 3).</p>
 <p>To simplify our task, we have concluded—based on information from the Sutta Piṭaka—that <b>Ekanāla village in Magadha</b> was where the Buddha spent his eleventh rainy season.</p>
@@ -196,7 +196,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><i>2) “ The great mound of ruins called </i><a href="https://www.jatland.com/home/Atranji_Khera"><i>Atranji Khera</i></a><i> is situated on the right or west bank of the </i><a href="https://www.jatland.com/home/Kali_Nadi"><i>Kali Nadi</i></a><i> four miles to the south of </i><a href="https://www.jatland.com/home/Karsana_Etah"><i>Karsana </i></a><i>, and eight miles to the north of </i><a href="https://www.jatland.com/home/Etah"><i>Etah</i></a><i> on the Grand Trunk Road.” </i><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
+<p><i>2) “ The great mound of ruins called </i><i>Atranji Khera</i><i> is situated on the right or west bank of the </i><a href="https://www.jatland.com/home/Kali_Nadi"><i>Kali Nadi</i></a><i> four miles to the south of </i><i>Karsana </i><i>, and eight miles to the north of </i><a href="https://www.jatland.com/home/Etah"><i>Etah</i></a><i> on the Grand Trunk Road.” </i><span id="Endnote29">[<a href="#endnote29">29</a>]</span></p>
 <p></p>
 <p></p>
 <p></p>
@@ -347,7 +347,7 @@
 <p></p>
 <p class="caption"><b>Location of Mathura (Madhura) in UP, India </b><span id="Endnote36">[<a href="#endnote36">36</a>]</span></p>
 <p></p>
-<p><b>Mathura is</b> a city in the state of Uttar Pradesh in northern India. It's located on the banks of the Yamuna River. Etah is the place where ancient Verañjā  (<a href="https://www.jatland.com/home/Atranji_Khera"><u>Atranji Khera</u></a>)<i> </i>is located. Distance from Mathura to Etah is 115 km</p>
+<p><b>Mathura is</b> a city in the state of Uttar Pradesh in northern India. It's located on the banks of the Yamuna River. Etah is the place where ancient Verañjā  (<u>Atranji Khera</u>)<i> </i>is located. Distance from Mathura to Etah is 115 km</p>
 <p></p>
 <h2>Significant Events Before the Twelfth Rainy Season</h2>
 <h3>Guidance on the Importance of Harmonious Living</h3>
@@ -569,7 +569,7 @@
 <p></p>
 <p>This pilgrimage was not merely a physical passage across the land but a journey of boundless compassion. The Buddha, out of his immeasurable kindness, walked among the people, imparting the Dhamma for the welfare of all, without distinction of caste, creed, or status. His humility was a beacon of true leadership, and his tireless efforts to bring the light of wisdom to every corner of society remind us that the path to liberation is open to all who earnestly seek it.</p>
 <p>With that inspiring note we conclude the Buddha’s twelfth rainy season at the age of 46. In the next section, (16-1) we will explore the places where he spent his thirteenth <i>vassa</i> and the remarkable events that took place during that time.</p>
-<h3>End Notes: Section 15-4</h3>
+<h3>Endnotes: Section 15-4</h3>
 <p></p>
 <p></p>
 <p></p>
@@ -619,7 +619,7 @@
 <p></p>
 <span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 See: SN: Notes: 461-463.
 <p></p>
-<span id="endnote21">[<a href="#Endnote21">21</a>]</span>	 Source: Way of Bodhi: https://www.wayofbodhi.org/kasibharadvaja-sutta-ploughing-mind/
+<span id="endnote21">[<a href="#Endnote21">21</a>]</span>	 Source: Way of Bodhi: <a href="https://www.wayofbodhi.org/kasibharadvaja-sutta-ploughing-mind/">https://www.wayofbodhi.org/kasibharadvaja-sutta-ploughing-mind/</a>
 <p></p>
 <span id="endnote22">[<a href="#Endnote22">22</a>]</span>	 AI generated image
 <p></p>

@@ -1,31 +1,13 @@
 <div class="container">
 <article class="pagewidth">
 <h1>Section: 14-2: Rājagaha to Kapilavattu the Fourth Walking Tour and  Kapilavattu to Rājagaha: the Fifth Walking Tour</h1>
-<p>In Section 14-1, we discussed how the Buddha, having accepted an invitation from his father, King Suddhodana, journeyed from Rājagaha to Kapilavattu <span id="Endnote2">[<a href="#endnote2">2</a>]</span>  on the Medin full moon day (March). <span id="Endnote3">[<a href="#endnote3">3</a>]</span> He arrived in Kapilavatthu around the Vesak full moon day (May) and took residence at the Banyan Tree Monastery<span id="Endnote4">[<a href="#endnote4">4</a>]</span>  (Nigrodhārāma).</p>
+<p>In Section 14-1, we discussed how the Buddha, having accepted an invitation from his father, King Suddhodana, journeyed from Rājagaha to Kapilavattu<span id="Endnote2">[<a href="#endnote2">2</a>]</span> on the Medin full moon day (March)<span id="Endnote3">[<a href="#endnote3">3</a>]</span>.   He arrived in Kapilavatthu around the Vesak full moon day (May) and took residence at the Banyan Tree Monastery<span id="Endnote4">[<a href="#endnote4">4</a>]</span>  (Nigrodhārāma).</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
 <img src="page14_2/image1.jpeg" />
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p class="caption"><b>Large Stupa at modern day Nigrodhārāma in Nepal</b>. <span id="Endnote5">[<a href="#endnote5">5</a>]</span></p>
 <p></p>
@@ -339,11 +321,11 @@
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
 <p>With this profound and timely teaching from the Blessed One, we now conclude this section and proceed to the next: 14-3, which describes the events from the second to the fourth vassa at Rājagaha.</p>
-<h3></h3>
-<h3>End Notes: Section 14-2</h3>
+<p></p>
+<p></p>
+<p></p>
+<h3>Endnotes: Section 14-2</h3>
 <p></p>
 <p></p>
 <p></p>
@@ -361,7 +343,7 @@
 <p></p>
 <span id="endnote3">[<a href="#Endnote3">3</a>]</span>	 VP: Mahakandhaka: 41: Translated by Bhikkhu Brahamali * Another source: The Buddha left Veluvana monastery in Rājagaha for Kapilavattu accompanied by 20,000 arahants… on the waning moon on Phagguna (103 Greast Era) travelling at the rate of 1 yojana per day hoping to cover the distance of 60 yojanas to Kapilavattu within 2 months. <b>See:</b> Chapter 17: The Great Chronicles of Buddhas by Venerable Mingun Sayadaw * Tradition says it was the Medin Full Moon Poya (February).
 <p></p>
-<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 Nigrodhārāma: a grove near <u>Kapilavattu</u>, where a residence was provided for the Buddha when he visited the city in the first year after his Enlightenment (MA.i.289). It belonged to a Sakyan named Nigrodha, who gave it to the Order. Source: Dictionary of Pāli Proper Names by G.P. Malalasekera
+<span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 Nigrodhārāma: a grove near <u>Kapilavattu</u>, where a residence was provided for the Buddha when he visited the city in the first year after his Enlightenment (MA.i.289). It belonged to a Sakyan named Nigrodha, who gave it to the Order. Source: Dictionary of Pāli Proper Names by G.P. Malalasekera.
 <p></p>
 <span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 <a href="https://en.wikipedia.org/wiki/Nigrodharama">https://en.wikipedia.org/wiki/Nigrodharama</a>
 <p></p>
