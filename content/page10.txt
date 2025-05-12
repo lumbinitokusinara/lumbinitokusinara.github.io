@@ -455,7 +455,7 @@
 <p></p>
 <p></p>
 <p></p>
-<h3>End Notes- Section 10</h3>
+<h3>End Notes: Section 10</h3>
 <p></p>
 <p></p>
 <p></p>
@@ -493,7 +493,7 @@
 <p></p>
 <span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 Iti:38.
 <p></p>
-<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Ibid.
+<span id="endnote15">[<a href="#Endnote15">15</a>]</span>	 Iti:38..
 <p></p>
 <span id="endnote16">[<a href="#Endnote16">16</a>]</span>	 MN:105
 <p></p>
@@ -521,7 +521,7 @@
 <p></p>
 <span id="endnote28">[<a href="#Endnote28">28</a>]</span>	 SN45:4 (The Brahmin sutta)
 <p></p>
-<span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 Ibid.
+<span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 SN45:4 (The Brahmin sutta).
 <p></p>
 <span id="endnote30">[<a href="#Endnote30">30</a>]</span>	 SN1:46 (6 Nymphs sutta)
 <p></p>
@@ -541,9 +541,9 @@
 <p></p>
 <span id="endnote38">[<a href="#Endnote38">38</a>]</span>	 MN: 70 (Kīṭāgiri Sutta, para. 22-23)
 <p></p>
-<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 Ibid.
+<span id="endnote39">[<a href="#Endnote39">39</a>]</span>	 MN: 70 (Kīṭāgiri Sutta, para. 22-23).
 <p></p>
-<span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 Ibid.
+<span id="endnote40">[<a href="#Endnote40">40</a>]</span>	 MN: 70 (Kīṭāgiri Sutta, para. 22-23).
 <p></p>
 <span id="endnote41">[<a href="#Endnote41">41</a>]</span>	  AN6:51 (Ānanda sutta)
 <p></p>
@@ -553,9 +553,9 @@
 <p></p>
 <span id="endnote44">[<a href="#Endnote44">44</a>]</span>	  AN 10:113 ,114 &amp; 115.
 <p></p>
-<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	  Ibid.
+<span id="endnote45">[<a href="#Endnote45">45</a>]</span>	  AN 10:113 ,114 &amp; 115.
 <p></p>
-<span id="endnote46">[<a href="#Endnote46">46</a>]</span>	  Ibid.
+<span id="endnote46">[<a href="#Endnote46">46</a>]</span>	  AN 10:113 ,114 &amp; 115.
 <p></p>
 <p></p>
 <p></p>

@@ -829,7 +829,7 @@
 <p></p>
 <span id="endnote4">[<a href="#Endnote4">4</a>]</span>	 DN:16: This story also elaborated in DN: 17 too.
 <p></p>
-<span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 Ibid.
+<span id="endnote5">[<a href="#Endnote5">5</a>]</span>	 DN:16.
 <p></p>
 <span id="endnote6">[<a href="#Endnote6">6</a>]</span>	 Source: <a href="https://en.wikipedia.org/wiki/Mahajanapadas">https://en.wikipedia.org/wiki/Mahajanapadas</a>
 <p></p>
@@ -841,11 +841,11 @@
 <p></p>
 <span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 DN:16
 <p></p>
-<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 Ibid.
+<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 DN:16.
 <p></p>
 <span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 DN:16
 <p></p>
-<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 Ibid.
+<span id="endnote13">[<a href="#Endnote13">13</a>]</span>	 DN:16.
 <p></p>
 <span id="endnote14">[<a href="#Endnote14">14</a>]</span>	 <a href="https://www.tibettravel.org/india-tibet-nepal-bhutan-tour/spiritual-odyssey-from-india-to-nepal-tibet-and-bhutan.html">https://www.tibettravel.org/india-tibet-nepal-bhutan-tour/spiritual-odyssey-from-india-to-nepal-tibet-and-bhutan.html</a>
 <p></p>
@@ -871,8 +871,8 @@
 <p></p>
 <span id="endnote25">[<a href="#Endnote25">25</a>]</span>	 Source: <a href="https://dharmasar.wordpress.com/2015/02/21/what-did-the-buddha-really-teach/">https://dharmasar.wordpress.com/2015/02/21/what-did-the-buddha-really-teach/</a>
 <p></p>
-<span id="endnote26">[<a href="#Endnote26">26</a>]</span>	 Ibid.
+<span id="endnote26">[<a href="#Endnote26">26</a>]</span>	 Source: <a href="https://dharmasar.wordpress.com/2015/02/21/what-did-the-buddha-really-teach/">https://dharmasar.wordpress.com/2015/02/21/what-did-the-buddha-really-teach/</a>
 <p></p>
-<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 <a href="https://www.istockphoto.com/photos/two-monks">https://www.istockphoto.com/photos/two-monks</a>
+<span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 Source: <a href="https://www.istockphoto.com/photos/two-monks">https://www.istockphoto.com/photos/two-monks</a>
 </article>
 </div>

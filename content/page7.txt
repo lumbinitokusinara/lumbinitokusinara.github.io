@@ -7,8 +7,6 @@
 <p></p>
 <img src="page7/image1.png" />
 <p></p>
-<p></p>
-<p></p>
 <p class="caption"><b>The Buddha, the Supreme Teacher </b><span id="Endnote1">[<a href="#endnote1">1</a>]</span></p>
 <p></p>
 <p></p>
@@ -202,7 +200,7 @@
 <p></p>
 <img src="page7/image3.jpeg" />
 <p></p>
-<p><b>Taming of Āḷavaka Yakkha by the Blessed One</b><span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
+<p class="caption"><b>Taming of Āḷavaka Yakkha by the Blessed One</b><span id="Endnote24">[<a href="#endnote24">24</a>]</span></p>
 <p></p>
 <img src="page7/image4.jpeg" />
 <p></p>
@@ -249,7 +247,7 @@
 <p></p>
 <img src="page7/image5.jpeg" />
 <p></p>
-<p><b>Kisā Gotamī besieging the Buddha to bring her dead son back to life.</b><span id="Endnote33">[<a href="#endnote33">33</a>]</span></p>
+<p class="caption"><b>Kisā Gotamī besieging the Buddha to bring her dead son back to life </b><span id="Endnote33">[<a href="#endnote33">33</a>]</span><b>.</b></p>
 <p></p>
 <p></p>
 <p></p>
@@ -320,9 +318,8 @@
 <p></p>
 <img src="page7/image6.jpeg" />
 <p></p>
+<p class="caption"><b>Angulimala running after the Buddha </b><span id="Endnote38">[<a href="#endnote38">38</a>]</span></p>
 <p></p>
-<p></p>
-<p class="caption"><b>Angulimala running after the Buddha</b><span id="Endnote38">[<a href="#endnote38">38</a>]</span><b> </b></p>
 <h1>The Blessed One’s Mastery of Teaching</h1>
 <p></p>
 <p></p>
@@ -427,7 +424,7 @@
 <p></p>
 <p>The Buddha and the arahants are called great men because they have escaped the seamstress—craving—thus freeing themselves from the cycle of existence.</p>
 <p>In the next section (8) we will focus on praise and criticism bestowed to the Buddha by various beings of this world</p>
-<h3>End Note: Section 7</h3>
+<h3>Endnotes: Section 7</h3>
 <p></p>
 <p></p>
 <p></p>
@@ -459,7 +456,7 @@
 <p></p>
 <span id="endnote10">[<a href="#Endnote10">10</a>]</span>	 The 10 views are: (1) “‘The world is eternal; this alone is true, anything else is wrong’: such is my view, householder.” (2) Another wanderer said: “‘The world is non-eternal; this alone is true, anything else is wrong’: such is my view, householder.” (3)–(4) Still another said: “‘The world is finite’ … ‘The world is infinite’ … (5)–(6) ‘The soul and the body are the same’ … ‘The soul is one thing, the body another’ … (7)–(10) ‘The Tathāgata exists after death’ … ‘The Tathāgata does not exist after death’ … ‘The Tathāgata both exists and does not exist after death’ … ‘The Tathāgata neither exists nor does not exist after death’; this alone is true, anything else is wrong, see: AN10: 93 (View sutta).
 <p></p>
-<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 Pavāraṇā ceremony: at the end of the 3 months rain retreat ( vassāvāsa) which held annually, each bhikkhu/ bhikkhuni  in order of seniority invites the sangha to point out any misconduct on his/her part; accordingly the Buddha too invited his disciples. <b>See</b>: SN: Notes: 513, p.567.
+<span id="endnote11">[<a href="#Endnote11">11</a>]</span>	 Pavāraṇā ceremony: at the end of the 3 months rain retreat (vassāvāsa) which held annually, each bhikkhu/ bhikkhuni  in order of seniority invites the sangha to point out any misconduct on his/her part; accordingly the Buddha too invited his disciples. <b>See</b>: SN: Notes: 513, p.567.
 <p></p>
 <span id="endnote12">[<a href="#Endnote12">12</a>]</span>	 SN8:7 (Pavāraṇā sutta).
 <p></p>

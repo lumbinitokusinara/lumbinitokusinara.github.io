@@ -752,7 +752,7 @@
 <p></p>
 <p></p>
 <p></p>
-<p><b>End Notes: Section 6 </b></p>
+<p><b>Endnotes: Section 6 </b></p>
 <p></p>
 <p></p>
 <p></p>
@@ -762,7 +762,7 @@
 <p></p>
 <p></p>
 <p></p>
-<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 Source: Wikipedia https://en.wikipedia.org/wiki/Gal_Vihara
+<span id="endnote1">[<a href="#Endnote1">1</a>]</span>	 Source: Wikipedia <a href="https://en.wikipedia.org/wiki/Gal_Vihara">https://en.wikipedia.org/wiki/Gal_Vihara</a>
 <p></p>
 <span id="endnote2">[<a href="#Endnote2">2</a>]</span>	 AN4:1 (Understood sutta).
 <p></p>
@@ -798,7 +798,7 @@
 <p></p>
 <span id="endnote18">[<a href="#Endnote18">18</a>]</span>	 Snp:3.4 ( Sundarikabhāradvāja sutta, translated by Bhikkhu Bodhi): This is an encounter of the Buddha with brahmin Sundarikabhāradvāja, who after listening to the Buddha became established in faith, became an arahant disciple.
 <p></p>
-<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 By Jl FilpoC - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index
+<span id="endnote19">[<a href="#Endnote19">19</a>]</span>	 By Jl FilpoC - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index">https://commons.wikimedia.org/w/index</a>
 <p></p>
 <span id="endnote20">[<a href="#Endnote20">20</a>]</span>	 MN:56.
 <p></p>
@@ -816,7 +816,7 @@
 <p></p>
 <span id="endnote27">[<a href="#Endnote27">27</a>]</span>	 * Jina—Oxford Reference: A title used of the Buddhas, meaning ‘victor’.
 <p></p>
-<span id="endnote28">[<a href="#Endnote28">28</a>]</span>	 He is mentioned in section 4, he became a disciple of the Buddha.
+<span id="endnote28">[<a href="#Endnote28">28</a>]</span>	 He is mentioned in Section 4, he became a disciple of the Buddha.
 <p></p>
 <span id="endnote29">[<a href="#Endnote29">29</a>]</span>	 VP:Mahākhandaka: 5 (A translation by Bhikkhu Brahmali) * This event also mentioned in MN: 26 (Ariyapariyesena sutta).
 <p></p>
@@ -828,7 +828,7 @@
 <p></p>
 <span id="endnote33">[<a href="#Endnote33">33</a>]</span>	  Iti:100 ( Brāhmaņa dhammayāga sutta  translated from Pali by John D. Ireland).
 <p></p>
-<span id="endnote34">[<a href="#Endnote34">34</a>]</span>		 <b>* </b> The Buddha uttered the first udana during his first week of enlightenment: Ud:1.3. (ttranslated from Pali by Bhikkhu Sujato . * In in VP: Mahakandha: 1: also mentioned the same utterings. *  The second udana: during the 2<sup>nd</sup> week of enlightenment, a brahmin visited the Buddha and asked ‘who is a brahmin’ and the Buddha replied to him in this verse: <b>see:</b> VP: Mahākhandhaka: 2. (translation by Bhikkhu Brahmali).
+<span id="endnote34">[<a href="#Endnote34">34</a>]</span>		 <b>* </b> The Buddha uttered the first udana during his first week of enlightenment: Ud:1.3. (translated from Pali by Bhikkhu Sujato . * In in VP: Mahakandha: 1: also mentioned the same utterings. *  The second udana: during the 2<sup>nd</sup> week of enlightenment, a brahmin visited the Buddha and asked ‘who is a brahmin’ and the Buddha replied to him in this verse: <b>see:</b> VP: Mahākhandhaka: 2. (translation by Bhikkhu Brahmali).
 <p></p>
 <span id="endnote35">[<a href="#Endnote35">35</a>]</span>	 Ibid.
 <p></p>
@@ -899,11 +899,11 @@
 <p></p>
 <span id="endnote68">[<a href="#Endnote68">68</a>]</span>	 Snp:4.14 (Tuvaţaka sutta, translated by Bhikkhu Sujato).
 <p></p>
-<span id="endnote69">[<a href="#Endnote69">69</a>]</span>	 Thag:16.3 ( Abhaya Thera: Verses of the Senior Monks: Translated by Bhikkhu Sujato)
+<span id="endnote69">[<a href="#Endnote69">69</a>]</span>	 Thag:16.3 (Abhaya Thera: Verses of the Senior Monks: Translated by Bhikkhu Sujato)
 <p></p>
-<span id="endnote70">[<a href="#Endnote70">70</a>]</span>	 Thag:21.1 ( Vaṅgīsa Thera: Verses of the Senior Monks: Translated by Bhikkhu Sujato)
+<span id="endnote70">[<a href="#Endnote70">70</a>]</span>	 Thag:21.1 (Vaṅgīsa Thera: Verses of the Senior Monks: Translated by Bhikkhu Sujato)
 <p></p>
-<span id="endnote71">[<a href="#Endnote71">71</a>]</span>	 <i>Mārisa</i>, as respectful term of address, something like “Sir,” pl “Sirs”, “venerable sir”  (per: suttacentral) * This is the term which the devas generally use to address the Buddha, eminent bhikkhus
+<span id="endnote71">[<a href="#Endnote71">71</a>]</span>	 <i>Mārisa</i>, as respectful term of address, something like “Sir,” pl “Sirs”, “venerable sir” (per: suttacentral) * This is the term which the devas generally use to address the Buddha, eminent bhikkhus
 <p></p>
 <p>(see, e.g., <b>40:10</b>; IV 270,16), and members of their own community (<b>11:3</b>; I 218,34); kings also use it to</p>
 <p></p>
@@ -932,7 +932,7 @@
 <p></p>
 <span id="endnote82">[<a href="#Endnote82">82</a>]</span>	 <b>See:</b> SN: Notes: 517, p. 568.
 <p></p>
-<span id="endnote83">[<a href="#Endnote83">83</a>]</span>	 SN11: 17 .
+<span id="endnote83">[<a href="#Endnote83">83</a>]</span>	 SN11: 17.
 <p></p>
 <span id="endnote84">[<a href="#Endnote84">84</a>]</span>	 Source: From DN: 1 Brahmajāla Sutta, p.64. Picture courtesy: Pang Chinasai, London, 1986.
 <p></p>
@@ -940,11 +940,11 @@
 <p></p>
 <span id="endnote86">[<a href="#Endnote86">86</a>]</span>	 The term angīrasa ‘radiant’ applies to all the Buddha, <b>see</b>: DN: Notes: 995, p. 467
 <p></p>
-<span id="endnote87">[<a href="#Endnote87">87</a>]</span>	 Source: Picture courtesy: https://www.freepik.com/
+<span id="endnote87">[<a href="#Endnote87">87</a>]</span>	 Source: Picture courtesy: <a href="https://www.freepik.com/">https://www.freepik.com/</a>
 <p></p>
-<span id="endnote88">[<a href="#Endnote88">88</a>]</span>	 SN9: 11 (Gaggara sutta),
+<span id="endnote88">[<a href="#Endnote88">88</a>]</span>	 SN9: 11 (Gaggara sutta)
 <p></p>
-<span id="endnote89">[<a href="#Endnote89">89</a>]</span>	 SN9: 11 (Gaggara sutta),
+<span id="endnote89">[<a href="#Endnote89">89</a>]</span>	 SN9: 11 (Gaggara sutta)
 <p></p>
 <span id="endnote90">[<a href="#Endnote90">90</a>]</span>	 SN3:12.
 <p></p>
@@ -952,7 +952,7 @@
 <p></p>
 <span id="endnote92">[<a href="#Endnote92">92</a>]</span>	  * Ancient rishis associated with the Vedic hymns, <b>see:</b> DN: Notes: 163, p. 413. * In AN: the Buddha referred Aṅgīrasa as one of the 10 ancient seers who created Vedic hymns<b>, see</b>: 192 (2) Doṇa sutta, p. 298, see also: MN: Cankī sutta.
 <p></p>
-<span id="endnote93">[<a href="#Endnote93">93</a>]</span>	  Venerable Assaji was one of the five ascetics (see section 3 &amp; 4) who became a disciple of the Buddha. When wanderer Upatiis ( Venerable Saripuuta who became a great disciple of the Buddha) asked  Venerable Assaji about his teacher, he replied thus. see: VP:Mahahandhaka: 14: a translation of the Pali Vinaya piţaka into English by Bhikkhu Brahmali.
+<span id="endnote93">[<a href="#Endnote93">93</a>]</span>	  Venerable Assaji was one of the five ascetics (see section 3 &amp; 4) who became a disciple of the Buddha. When wanderer Upatiis ( Venerable Saripuuta who became a great disciple of the Buddha) asked Venerable Assaji about his teacher, he replied thus. see: VP:Mahahandhaka: 14: a translation of the Pali Vinaya piţaka into English by Bhikkhu Brahmali.
 <p></p>
 <span id="endnote94">[<a href="#Endnote94">94</a>]</span>	 This was the encounter of the Buddha with Uruvelā Kassapa at his hermitage; when the Buddha asked permission to stay for one night at his hermitage, Uruvelā Kassapa said thus. See:
 <p>VP:Mahahandhaka: 12: a translation of the Pali Vinaya piţaka into English by Bhikkhu Brahmali.</p>

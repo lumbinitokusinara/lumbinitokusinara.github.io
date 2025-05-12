@@ -477,7 +477,7 @@
 <p></p>
 <p></p>
 <p></p>
-<h3>End Notes: Section 1</h3>
+<h3>Endnotes: Section 1</h3>
 <p></p>
 <p></p>
 <p></p>
